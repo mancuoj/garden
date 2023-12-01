@@ -6,8 +6,18 @@ draft: false
 
 ## Callouts
 
+> [!tip] Title
+>
+> This is a callout!
+> 
+> > [!info] Nested
+> > 
+> > Yes, they can!
+
+语法如下：
+
 ```
-> [!info] Title
+> [!tip] Title
 >
 > This is a callout!
 > 
@@ -16,7 +26,7 @@ draft: false
 > > Yes, they can!
 ```
 
-图标不同，颜色不同，可以替换：
+tip, info 可以替换，不同图标，不同颜色：
 
 - info
 - examples, example
@@ -32,11 +42,11 @@ draft: false
 - bug
 - quote, cite
 
+## Mermaid diagrams
+
 > [!quote] Quote
 > 
-> [Callouts](https://quartz.jzhao.xyz/features/callouts)
-
-## Mermaid diagrams
+> 具体语法可以参考 [Mermaid diagrams](https://quartz.jzhao.xyz/features/Mermaid-diagrams)
 
 
 ```mermaid
@@ -46,7 +56,3 @@ sequenceDiagram
     John-->>-Alice: Hi Alice, I can hear you!
     John-->>-Alice: I feel great!
 ```
-
-> [!quote] Quote
-> 
-> [Mermaid diagrams](https://quartz.jzhao.xyz/features/Mermaid-diagrams)
