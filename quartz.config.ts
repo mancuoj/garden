@@ -3,12 +3,10 @@ import * as Plugin from "./quartz/plugins"
 
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "😈",
+    pageTitle: "😈 Cybergarden",
     enableSPA: true,
     enablePopovers: true,
-    analytics: {
-      provider: "plausible",
-    },
+    analytics: null,
     baseUrl: "garden.mancuoj.me",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
