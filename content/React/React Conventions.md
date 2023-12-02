@@ -1,7 +1,6 @@
 ---
 tags:
   - react philosophy
-  - convention
 ---
 
 ## v1.0
