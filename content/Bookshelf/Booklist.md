@@ -1,8 +1,3 @@
----
-tags:
-  - book
-draft: false
----
 
 网络小说（最多），技术书籍，经典名著，有啥看啥，不图营养图个乐 🛌
 
@@ -10,11 +5,14 @@ draft: false
 
 - Let's Go Further by Alex Edwards
 - 五行天 by 方想
-- 
 
 ## To Read
 
-
+- Refactoring UI by Adam Wathan & Steve Schoger
+- 你不知道的 JavaScript 上卷 by Kyle Simpson
+- 网络是怎样连接的 by 户勤根
+- JavaScript 设计模式与开发实践 by 曾探
+- 图解 TCP/IP by 竹下隆史 & 村山公保 & 荒井透 & 苅田幸雄
 ## Past
 
 ### 2023
@@ -23,7 +21,7 @@ draft: false
 
 - 龙城 by 方想
 - 师士传说 by 方想
-- [Let's Go](https://letsgo.mancuoj.me/)  by Alex Edwards
+- Let's Go by Alex Edwards
 - 龙族（1-5）by 江南
 - 诸界第一因 by 裴屠狗
 - 这游戏也太真实了 by 晨星LL

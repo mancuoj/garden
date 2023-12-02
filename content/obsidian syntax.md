@@ -6,27 +6,27 @@ draft: false
 
 ## Callouts
 
-> [!tip] Title
+> [!note] Title
 >
 > This is a callout!
 > 
-> > [!info] Nested
+> > [!warning] Nested
 > > 
 > > Yes, they can!
 
 语法如下：
 
 ```
-> [!tip] Title
+> [!note] Title
 >
 > This is a callout!
 > 
-> > [!info] Nested
+> > [!tip] Nested
 > > 
 > > Yes, they can!
 ```
 
-tip, info 可以替换，不同图标，不同颜色：
+note, tip 可以替换，不同图标，不同颜色：
 
 - info
 - examples, example
@@ -41,6 +41,8 @@ tip, info 可以替换，不同图标，不同颜色：
 - danger, error
 - bug
 - quote, cite
+
+但建议只使用 GitHub 通用的 note, tip, important, warning, caution 这五个
 
 ## Mermaid diagrams
 
