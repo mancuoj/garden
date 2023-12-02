@@ -8,7 +8,7 @@ draft: false
 
 ## 阿里云
 
-```shell
+```sh
 ssh root@ip [-p 22]
 
 # 添加 user 用户，赋予 sudo 权限
@@ -46,14 +46,18 @@ chmod 400 xx.pem
 ssh -i "xx.pem" ubuntu@ip
 ```
 
-设置一个 sudo 密码：
-
-```sh
-sudo -i
-sudo passwd root
-```
-
 设置使用密码登录：
 
+```sh
+# 先给默认用户创建一个密码
+sudo passwd ubuntu
+
+sudo vi /etc/ssh/sshd_config
+# 找到该行将 no 修改为 yes
+PasswordAuthentication yes
+
+# 保存退出后重启服务
+sudo service sshd restart
 ```
-```
+
+之后登录直接 `sudo ubuntu@ip` 即可（也可仿照上面阿里云设置免密登录）。
