@@ -6,7 +6,10 @@ const config: QuartzConfig = {
     pageTitle: "🪴 Cybergarden",
     enableSPA: true,
     enablePopovers: true,
-    analytics: null,
+    analytics: {
+      provider: 'umami',
+      websiteId: '181f143f-768b-40f7-a729-aa0494ad3239'
+    },
     baseUrl: "garden.mancuoj.me",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
