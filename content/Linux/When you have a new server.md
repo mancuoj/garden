@@ -5,7 +5,8 @@ tags:
 draft: false
 ---
 
-新买服务器的一些简单配置。
+
+## 阿里云
 
 ```shell
 ssh root@ip [-p 22]
@@ -37,3 +38,22 @@ ssh serverAlias
 ```
 
 之后直接 ssh 别名就可以直接登录了。
+
+## AWS
+
+```sh
+chmod 400 xx.pem
+ssh -i "xx.pem" ubuntu@ip
+```
+
+设置一个 sudo 密码：
+
+```sh
+sudo -i
+sudo passwd root
+```
+
+设置使用密码登录：
+
+```
+```
