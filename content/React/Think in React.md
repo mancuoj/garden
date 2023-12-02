@@ -1,9 +1,7 @@
 ---
 tags:
-  - react
+  - react philosophy
   - docs
-  - philosophy
-draft: false
 ---
 
 

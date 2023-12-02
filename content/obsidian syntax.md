@@ -1,7 +1,6 @@
 ---
 tags:
   - obsidian
-draft: false
 ---
 
 ## Callouts

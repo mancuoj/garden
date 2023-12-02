@@ -2,9 +2,7 @@
 tags:
   - ssh
   - linux
-draft: false
 ---
-
 
 ## 阿里云
 

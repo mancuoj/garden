@@ -1,7 +1,6 @@
 ---
 tags:
   - ideas
-draft: false
 ---
 
 ## 随手记
