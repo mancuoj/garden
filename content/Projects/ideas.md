@@ -1,6 +1,6 @@
 ---
 tags:
-  - b
+  - ideas
 draft: false
 ---
 
@@ -13,10 +13,11 @@ draft: false
 - 格式方便，易导出，易备份（普通的 markdown 应该可以？）
 - 易搜索（时间轴？搜索栏？标签？）
 - 同款 GitHub 小绿格子
+- ...
 
 ### 草图
 
-
+![[draw1.png]]
 
 
 ### 可参考项目
