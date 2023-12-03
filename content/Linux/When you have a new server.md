@@ -6,7 +6,7 @@ tags:
 
 ## 阿里云
 
-```sh showLineNumbers
+```sh hideLineNumbers
 ssh root@ip [-p 22]
 
 # 添加 user 用户，赋予 sudo 权限
