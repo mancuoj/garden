@@ -16,7 +16,6 @@ tags:
 
 - 全小写+短横线连接，比如 `button.tsx`, `theme-toggle.tsx`
 - 中间可以加更多描述，比如 `button.constants.ts`, `button.helpers.ts`
-- 统一使用 `index.ts` 进行重新导出
 
 ### 其他
 
