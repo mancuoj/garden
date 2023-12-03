@@ -1,4 +1,4 @@
-> [!quote] Quote
+> [!quote]
 > Fight for a bright tomorrow!
 ## 随手记
 
