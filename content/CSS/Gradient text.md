@@ -4,8 +4,8 @@
 Tailwind 中的示例如下：
 
 ```html
-<h1 class="bg-clip-text text-transparent bg-gradient-to-r from-pink-500 to-violet-500">
-	Hello world
+<h1 class="bg-clip-text text-transparent bg-gradient-to-r from-pink-500 to-violet-500 ...">
+	Hello Mancuoj
 </h1>
 ```
 
