@@ -1,5 +1,6 @@
 > [!quote]
 > Fight for a bright tomorrow!
+
 ## 随手记
 
 ### 想法
@@ -20,7 +21,6 @@
 ### 草图
 
 ![[draw1.png]]
-
 
 ### 可参考项目
 

@@ -5,7 +5,7 @@ tags:
 
 ## v1.0
 
-参考 joshwcomeau大佬的文章 [Delightful React File/Directory Structure](https://www.joshwcomeau.com/react/file-structure/) 以及 Angular 官方规范总结出一套自用的规范，以后应该还会更改。
+参考 joshwcomeau 大佬的文章 [Delightful React File/Directory Structure](https://www.joshwcomeau.com/react/file-structure/) 以及 Angular 官方规范总结出一套自用的规范，以后应该还会更改。
 
 ### 文件夹名
 
@@ -23,4 +23,3 @@ tags:
 - 常量全大写+下划线连接，如 `LAST_INDEX`
 
 ### 示例
-

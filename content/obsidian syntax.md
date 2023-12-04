@@ -8,9 +8,9 @@ tags:
 > [!note] Title
 >
 > This is a callout!
-> 
+>
 > > [!warning] Nested
-> > 
+> >
 > > Yes, they can!
 
 语法如下：
@@ -19,9 +19,9 @@ tags:
 > [!note] Title
 >
 > This is a callout!
-> 
+>
 > > [!tip] Nested
-> > 
+> >
 > > Yes, they can!
 ```
 
@@ -46,9 +46,8 @@ note, tip 可以替换，不同图标，不同颜色：
 ## Mermaid diagrams
 
 > [!quote] Quote
-> 
+>
 > 具体语法可以参考 [Mermaid diagrams](https://quartz.jzhao.xyz/features/Mermaid-diagrams)
-
 
 ```mermaid
 sequenceDiagram

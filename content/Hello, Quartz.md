@@ -1,4 +1,3 @@
-
 ## Get started
 
 ```sh
@@ -8,13 +7,11 @@ npm i
 npx quartz create
 ```
 
-
 ## Build & Preview
 
 ```sh
 npx quartz build [--serve]
 ```
-
 
 ## Update
 
@@ -25,5 +22,3 @@ npx quartz update
 # 放弃更新
 npx quartz restore
 ```
-
-

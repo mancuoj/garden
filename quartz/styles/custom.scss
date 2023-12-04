@@ -1,3 +1,11 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+
+pre > code > span[data-line]::before {
+  display: none;
+}
+
+pre > code > [data-line] {
+  padding: 0 0.6rem;
+}

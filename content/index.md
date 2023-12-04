@@ -2,9 +2,8 @@
 title: Welcome to my garden
 ---
 
-> [!tip] 
+> [!tip]
 > 功不唐捐，玉汝于成
-
 
 记录我的学习过程，一些碎碎念和莫名其妙的想法。
 
@@ -17,4 +16,3 @@ title: Welcome to my garden
 - [ ] docker compose
 - [ ] nginx
 - [ ] nginx proxy manager
-
