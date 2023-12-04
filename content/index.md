@@ -8,9 +8,13 @@ title: Welcome to my garden
 
 记录我的学习过程，一些碎碎念和莫名其妙的想法。
 
-- [ ] React Router
-- [ ] React Context
-- [ ] React useState closure initial value
-- [ ] Nest.js
-- [ ] Let's go further ?
+- [ ] react router
+- [ ] react context
+- [ ] react useState closure initial value
+- [ ] nest.js
+- [ ] let's go further ?
+- [ ] docker
+- [ ] docker compose
+- [ ] nginx
+- [ ] nginx proxy manager
 
