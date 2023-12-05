@@ -1,3 +1,7 @@
+---
+title: Obsidian Syntax
+---
+
 
 ## Callouts
 

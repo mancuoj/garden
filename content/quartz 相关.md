@@ -1,3 +1,7 @@
+---
+title: Hello, Quartz
+---
+
 ## Get started
 
 ```sh

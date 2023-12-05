@@ -1,5 +1,0 @@
----
-tags:
-  - react philosophy
-  - docs
----

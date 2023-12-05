@@ -1,6 +1,7 @@
 ---
+title: React Conventions
 tags:
-  - react philosophy
+  - react
 ---
 
 ## v1.0
