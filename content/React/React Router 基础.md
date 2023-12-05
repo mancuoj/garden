@@ -14,6 +14,7 @@ tags:
 - loader useLoaderData 路由跳转预先加载数据
 - action useActionData 更简单的表单处理
 - errorElement useRouteError 简单的错误页面
+- lazy load 懒加载组件
 - ...
 
 ```ts
