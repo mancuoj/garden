@@ -16,3 +16,5 @@ title: Welcome to my garden
 - [ ] docker compose
 - [ ] nginx
 - [ ] nginx proxy manager
+- [ ] ky: a js http client on Fetch API
+- [ ] 
