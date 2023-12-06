@@ -7,7 +7,7 @@ title: Welcome to my garden
 
 记录我的学习过程，一些碎碎念和莫名其妙的想法。
 
-- [ ] react router
+- [x] react router
 - [ ] react context
 - [ ] react useState closure initial value
 - [ ] nest.js
@@ -17,4 +17,4 @@ title: Welcome to my garden
 - [ ] nginx
 - [ ] nginx proxy manager
 - [ ] ky: a js http client on Fetch API
-- [ ] 
+- [ ] ...
