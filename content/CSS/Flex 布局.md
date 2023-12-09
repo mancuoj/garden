@@ -4,6 +4,9 @@ tags:
   - css
 ---
 
+
+> Think CSS as a collection of layout modes.
+
 CSS 由不同的布局“算法”组成，用 `display` 可以更改不同布局模式。
 
 默认的是 Flow 布局，也就是正常写作模式的流式布局。
@@ -18,13 +21,9 @@ CSS 由不同的布局“算法”组成，用 `display` 可以更改不同布�
 
 而在 flexbox 中，你设置的 width 会被看作一个 hypothetical size 假设尺寸，在父级没有空间容纳时，子项的尺寸会缩小 fits 它。
 
-> Think CSS as a collection of layout modes.
-
 每个 layout 都是一个可以重新定义 CSS 属性的算法，我们必须了解属性在当前布局模式下的输出。
 
-$$
-output = layout(input)
-$$
+一个想法：$output = layout(input)$
 
 ## Direction
 
@@ -94,7 +93,7 @@ hypothetical 更多指的是建议大小而不是硬性约束，在容器大小�
 
 ### flex-shrink
 
-> only one of these properties can be active at once
+> Only one of these properties can be active at once
 
 如果容器太小怎么办，就要用到 `flex-shrink`。
 
@@ -122,6 +121,26 @@ hypothetical 更多指的是建议大小而不是硬性约束，在容器大小�
 这里就牵涉到 minimal size 和 hypothetical size 了，flexbox 算法会拒绝将子项缩小到最小尺寸以下。
 
 文本输入框 input 默认最小尺寸是 170px-200px，不同浏览器有所不同。
+
+其他情况下，可能是元素的内容，比如带有文本的元素最小宽度就是内容里“最长的字符串”的长度。
+
+好消息是可以设置 `min-width: 0px`，告诉 flexbox 元素可以缩小，一直缩！
+
+同样适用于 `min-height` 的 flex 列。
+
+But 内置的最小尺寸充当的是护栏的角色，它确实有用，修改它有可能会造成更糟糕的情况，所以谨慎使用！
+
+## Gaps
+
+`gap` 用于设置子项之间距离，好用。
+
+另外 `margin` 在 flexbox 中也有妙用。
+
+我们都知道 `mx-auto` 可以设置居中，同样 `mr-auto` 可以在不使用 `flex-grow` 的情况下，吞噬所有子项右侧的剩余空间
+
+
+## Wrapping
+
 
 
 
