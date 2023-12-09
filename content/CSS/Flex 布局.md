@@ -53,7 +53,9 @@ Flexbox 中主轴也就是默认的横轴，可以由一条水平直线穿起来
 
 ## Growing & Shrinking
 
+In a flex row, `flex-basis` do the same thing as `width`.
 
+And in a flex col, 
 
 
 
