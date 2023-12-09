@@ -55,7 +55,15 @@ Flexbox 中主轴也就是默认的横轴，可以由一条水平直线穿起来
 
 In a flex row, `flex-basis` do the same thing as `width`.
 
-And in a flex col, 
+And in flex col, do the same thing as `height`.
+
+是 Flexbox 上通用的 size 属性，设置主轴上的 hypothetical size，但 `width, height` 不遵守此规则。
+
+hypothetical 更多指的是建议大小而不是硬性约束，在容器大小不够时必须妥协。
+
+除了一些 edge case，`width` 与 `flex-basis` 效果类似
+
+
 
 
 
