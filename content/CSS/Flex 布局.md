@@ -4,22 +4,35 @@ tags:
   - css
 ---
 
-CSS 由不同的布局“算法”组成，用 display 可以更改不同算法，默认的是 Flow 布局，也就是正常写作模式的流式布局，inline 元素会从左边一个接一个的显示，block 元素从上边向下显示并移动页面。
+CSS 由不同的布局“算法”组成，用 `display` 可以更改不同布局模式。
 
-`display: flex` 会创建一个 flex formatting context，默认情况下所有子项都会根据 flexbox layout algorithm 进行定位。
+默认的是 Flow 布局，也就是正常写作模式的流式布局。
 
-为什么要将布局看作一种算法？在 flow layout 中，你对子项设置的 width 会是一个硬性约束，而在 flexbox 中，你设置的 width 会被看作一个 hypothetical size 假设尺寸，在父级没有空间容纳时，子项的尺寸会缩小 fits 它。
+这种情况下，inline 元素会从左边一个接一个的显示，block 元素从上边向下显示并移动页面。
 
-CSS is a collection of layout modes.
+`display: flex` 会创建一个 flex formatting context，默认情况下所有子项都会根据 flexbox 的布局算法进行定位。
 
-每个 layout 都是一个可以重新定义 CSS 属性的算法，我们必须了解属性在当前布局模式下的输出，`output = layout(input)`。
+为什么要将布局看作一种算法？
 
+在 flow layout 中，你对子项设置的 width 会是一个硬性约束。
+
+而在 flexbox 中，你设置的 width 会被看作一个 hypothetical size 假设尺寸，在父级没有空间容纳时，子项的尺寸会缩小 fits 它。
+
+> Think CSS as a collection of layout modes.
+
+每个 layout 都是一个可以重新定义 CSS 属性的算法，我们必须了解属性在当前布局模式下的输出。
+
+$$
+output = layout(input)
+$$
 
 ## Direction
 
-`flex-direction` 属性默认为 row，代表主轴方向从左到右，可以换成 col 来改变主轴的方向为从上到下。
+`flex-direction` 属性默认为 row，代表主轴方向从左到右。
 
-Flexbox 的一切都基于主轴 primary axis 和垂直于它的 cross axis 排列。
+可以换成 col 来改变主轴的方向为从上到下。
+
+Flexbox 的一切都基于主轴 primary axis 和垂直于它的交叉轴 cross axis 排列。
 
 默认情况下：
 
@@ -38,9 +51,9 @@ Flexbox 的一切都基于主轴 primary axis 和垂直于它的 cross axis 排�
 
 `align-self` 应用于子元素，而不是整个容器，我们可以使用它来改变特定子元素在交叉轴上的对齐方式，它的 value 与 `align-items` 完全一致。
 
-事实上，`align-items` 就是 `align-self` 的语法糖，方便我们设置所有子元素的对齐方式。
+事实上，`align-items` 就是 `align-self` 的语法糖，方便我们设置**所有**子元素的对齐方式。
 
-## Content & Items
+## Content vs Items
 
 那么有 `justify-items` 和 `align-content` 吗？`justify-self` 呢？
 
@@ -50,26 +63,71 @@ Flexbox 中主轴也就是默认的横轴，可以由一条水平直线穿起来
 
 而在主轴水平排列时，一定会影响到左右子项的排列，这就是为什么没有 `justify-self` 和 `justify-items` 的原因。
 
+至于 `align-content`，下文会提到。
 
-## Growing & Shrinking
 
-In a flex row, `flex-basis` do the same thing as `width`.
+## Growing and Shrinking
 
-And in flex col, do the same thing as `height`.
+### flex-basis
 
-是 Flexbox 上通用的 size 属性，设置主轴上的 hypothetical size，但 `width, height` 不遵守此规则。
+> In a flex row, `flex-basis` do the same thing as `width`.
+> 
+> And in flex col, do the same thing as `height`.
+
+`flex-basis` 是 flexbox 上通用的 size 属性，设置主轴上的 hypothetical size，但 `width, height` 不遵守此规则。
 
 hypothetical 更多指的是建议大小而不是硬性约束，在容器大小不够时必须妥协。
 
-除了一些 edge case，`width` 与 `flex-basis` 效果类似
+除了一些 edge case，`width` 与 `flex-basis` 效果类似。
+
+### flex-grow
+
+`flex-grow` 用于指定如何消耗容器的剩余空间。
+
+默认情况下，`flex-grow` 默认值为 0，元素会沿着主轴缩小到 minimal confortable size，一般会创造出一些剩余空间。
+
+设置其中一个子项的 grow 为 1，该子项会占满整个空间。
+
+设置多个子项，剩余空间将根据设置的值按比例分配。
+
+比如 1 和 2，就分别占 1/3 和 2/3。
+
+### flex-shrink
+
+> only one of these properties can be active at once
+
+如果容器太小怎么办，就要用到 `flex-shrink`。
+
+与 grow 用法类似，不过是成比例缩小了。
+
+容器大小 500px，两个子项分别 250px，刚好占满。
+
+这时将容器减小到 400px，多出来的 100px 怎么塞进去呢？
+
+默认情况下 `flex-shrink: 1`，两人各缩减 50px。
+
+这时将其中一个设置为 3，则它会缩减 3/4，即 75px，另一个缩减 25px。
+
+但是有时候我们并不希望一些子项缩小，可以设置 `flex-shrink: 0` 来禁止收缩。
+
+设置后，flexbox 的算法会将 flex-basis or width 设置的值视为**硬性**最小限制。
+
+当然你可以通过“简单”的 `min-width` 来设置更硬的约束？
+
+
+## The minimal size gotcha
+
+当尺寸收缩到某点时，内容会溢出！为什么？明明 shrink 有一个默认值 1，会根据需要缩小。
+
+这里就牵涉到 minimal size 和 hypothetical size 了，flexbox 算法会拒绝将子项缩小到最小尺寸以下。
+
+文本输入框 input 默认最小尺寸是 170px-200px，不同浏览器有所不同。
 
 
 
 
 
-
-
-## 参考
+## Thanks
 
 - [An Interactive Guide to Flexbox in CSS](https://www.joshwcomeau.com/css/interactive-guide-to-flexbox)
 - [Flexbox - MDN Web 文档术语表](https://developer.mozilla.org/zh-CN/docs/Glossary/Flexbox)
