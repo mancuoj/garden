@@ -16,7 +16,7 @@ const config: QuartzConfig = {
     theme: {
       typography: {
         header: "IBM Plex Serif",
-        body: "Fira Sans Condensed",
+        body: "Fira Sans",
         code: "Fira Code",
       },
       colors: {
