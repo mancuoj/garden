@@ -17,9 +17,9 @@ CSS 由不同的[[布局算法]]组成，用 `display` 可以更改不同布局�
 
 为什么要将布局看作一种算法？
 
-在 flow layout 中，你对子项设置的 width 会是一个硬性约束。
+在 flow layout 中，你对子项设置的 `width` 会是一个硬性约束。
 
-而在 flexbox 中，你设置的 width 会被看作一个 hypothetical size 假设尺寸，在父级没有空间容纳时，子项的尺寸会缩小 fits 它。
+而在 flexbox 中，你设置的 `width` 会被看作一个假设尺寸（hypothetical size），在父级没有空间容纳时，子项的尺寸会缩小 fits 它。
 
 每个 layout 都是一个可以重新定义 CSS 属性的算法，我们必须了解属性在当前布局模式下的输出。
 
