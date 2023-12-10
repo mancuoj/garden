@@ -2,6 +2,7 @@
 title: Think in Grid
 tags:
   - css
+  - grid
 ---
 
 > CSS is comprised of several different [[布局算法 |layout algorithms]] 🤗
@@ -169,8 +170,29 @@ gap 属性同样适用于 grid，事实上它最开始就是为 grid 设置的�
 - `items` 处理 grid structure 内部的 DOM nodes
 
 
+## place-content
 
+最简单的水平垂直居中，两行实现。
 
+```css
+.parent {
+  display: grid;
+  place-content: center;
+}
+```
+
+其实是一个语法糖：
+
+```css
+.parent {
+  justify-content: center;
+  align-content: center;
+}
+```
+
+其实就是得到一个 1x1 的网格，然后控制行列位置。
+
+还有两个值 `start` 会在左上角，`end` 在右下角。
 
 ## Thanks
 
