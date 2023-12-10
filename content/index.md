@@ -19,7 +19,7 @@ title: Welcome to my garden
 - [ ] react context
 - [ ] react useState closure initial value
 - [ ] nest.js
-- [ ] let's go further 要不学习一下怎么写 API，了解一下后端也好？
+- [ ] let's go further
 - [ ] docker
 - [ ] k8s
 - [ ] nginx proxy manager

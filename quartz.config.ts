@@ -16,8 +16,8 @@ const config: QuartzConfig = {
     theme: {
       typography: {
         header: "IBM Plex Serif",
-        body: "IBM Plex Sans",
-        code: "IBM Plex Mono",
+        body: "Fira Sans Condensed",
+        code: "Fira Code",
       },
       colors: {
         lightMode: {

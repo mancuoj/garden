@@ -1,8 +1,6 @@
 ---
 title: Obsidian Syntax
 ---
-
-
 ## Callouts
 
 > [!note] Title
