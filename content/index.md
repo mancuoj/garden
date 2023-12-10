@@ -15,15 +15,17 @@ title: Welcome to my garden
 - [ ] [[Tailwind 文档拾遗]]
 - [x] [[Flex 布局]]
 - [ ] [[Grid 布局]]
-- [ ] Fetch API docs Response URL ...
+- [ ] Fetch API docs Response URL
 - [ ] react context
 - [ ] react useState closure initial value
 - [ ] nest.js
-- [ ] let's go further ?
+- [ ] let's go further 要不学习一下怎么写 API，了解一下后端也好？
 - [ ] docker
-- [ ] docker compose
-- [ ] nginx
+- [ ] k8s
 - [ ] nginx proxy manager
 - [ ] ky: a js http client on Fetch API
 - [ ] next.js
 - [ ] nest.js
+- [ ] game boy 模拟器
+- [ ] nand2tetris
+- [ ] cs61abc
