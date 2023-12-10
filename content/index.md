@@ -14,7 +14,7 @@ title: Welcome to my garden
 - [ ] [[Jotai 基础]]
 - [ ] [[React 文档拾遗]]
 - [ ] [[Tailwind 文档拾遗]]
-- [x] [[CSS/Flexbox/index]]
+- [x] [[Flex 布局]]
 - [ ] [[Grid 布局]]
 - [ ] Fetch API docs Response URL
 - [ ] react context
@@ -24,7 +24,6 @@ title: Welcome to my garden
 - [ ] docker
 - [ ] k8s
 - [ ] nginx proxy manager
-- [ ] ky: a js http client on Fetch API
 - [ ] next.js
 - [ ] nest.js
 - [ ] game boy 模拟器
