@@ -8,12 +8,45 @@ tags:
 
 使用 CSS Grid，单个 DOM 节点会被细分为行和列。
 
-我们可以按照自己的意愿来对容器进行切分。
+我们可以按照自己的意愿来对容器进行切分，我们可以想象一个背后的隐式网格。
+
+![[grid.png]]
 
 ## Grid Flow
 
+> Only the children are arranged using Grid layout.
 
 
+默认情况下，Grid 使用单列，行数基于子项数量动态增加或减少。
+
+Grid parent 的高度由子项决定，它仍然使用 flow layout，block 元素会垂直增长以包含其内容。
+
+如果给定容器高度，则子项均分。
+
+
+![[grid2.png]]
+
+
+## grid-template-columns
+
+
+```css
+.parent {
+  display: grid;
+  grid-template-columns: 25% 75%;
+
+  /* 1/4  3/4 */
+  grid-template-columns: 1fr 3fr;
+}
+```
+
+将元素分为两列，可以使用任意 length value 来定义。
+
+还有一个新的 `fr` 值，代表 fraction 分数，它是一种“软”约束。
+
+它不会使列缩小到最小尺寸以下，即使这样打破了比例。
+
+更准确的来说，它分配的是剩余空间，就像 `flex-grow` 一样。
 
 
 
