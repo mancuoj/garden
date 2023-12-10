@@ -116,9 +116,9 @@ hypothetical 更多指的是建议大小而不是硬性约束，在容器大小�
 
 ## The minimal size gotcha
 
-当尺寸收缩到某点时，内容会溢出！为什么？明明 shrink 有一个默认值 1，会根据需要缩小。
+当尺寸收缩到某点时，内容会溢出！为什么？明明 shrink 有一个默认值 1，会根据需要来进行缩小。
 
-这里就牵涉到 minimal size 和 hypothetical size 了，flexbox 算法会拒绝将子项缩小到最小尺寸以下。
+这里就牵涉到 minimal size 和 hypothetical size 了，flexbox 算法会拒绝将子项缩小到 minimal size 以下。
 
 文本输入框 input 默认最小尺寸是 170px-200px，不同浏览器有所不同。
 
