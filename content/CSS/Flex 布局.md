@@ -158,7 +158,31 @@ But 内置的最小尺寸充当的是护栏的角色，它确实有用，修改�
 
 
 
-## 1 
+## 4 layout in a flexbox
+
+```
+form {
+  display: flex;
+  align-items: flex-end;
+  flex-wrap: wrap;
+  gap: 16px;
+}
+
+.name {
+  flex-grow: 1;
+  flex-basis: 160px;
+}
+
+.email {
+  flex-grow: 3;
+  flex-basis: 200px;
+}
+
+button {
+  flex-grow: 1;
+  flex-basis: 80px;
+}
+```
 
 
 
