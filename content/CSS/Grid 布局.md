@@ -48,6 +48,8 @@ Grid parent 的高度由子项决定，它仍然使用 flow layout，block 元�
 
 更准确的来说，它分配的是剩余空间，就像 `flex-grow` 一样。
 
+`gap` 最初创建时为 `grid-gap` 是为
+
 
 
 ## Thanks
