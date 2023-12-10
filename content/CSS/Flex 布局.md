@@ -7,9 +7,9 @@ tags:
 
 > Think CSS as a collection of layout modes.
 
-CSS 由不同的布局“算法”组成，用 `display` 可以更改不同布局模式。
+CSS 由不同的[[布局算法]]组成，用 `display` 可以更改不同布局模式。
 
-默认的是 Flow 布局，也就是正常写作模式的流式布局。
+默认的是 flow 布局，也就是正常写作模式的流式布局。
 
 这种情况下，inline 元素会从左边一个接一个的显示，block 元素从上边向下显示并移动页面。
 
@@ -155,36 +155,6 @@ But 内置的最小尺寸充当的是护栏的角色，它确实有用，修改�
 因为换行，`align-items` 将会在每行移动，而不是整个 group 一起移动。
 
 这时候我们就可以使用 `align-content` 来移动整个 group，它的值与 `justify-content` 相同。
-
-
-
-## 4 layout in a flexbox
-
-```
-form {
-  display: flex;
-  align-items: flex-end;
-  flex-wrap: wrap;
-  gap: 16px;
-}
-
-.name {
-  flex-grow: 1;
-  flex-basis: 160px;
-}
-
-.email {
-  flex-grow: 3;
-  flex-basis: 200px;
-}
-
-button {
-  flex-grow: 1;
-  flex-basis: 80px;
-}
-```
-
-
 
 ## Thanks
 

@@ -9,11 +9,12 @@ title: Welcome to my garden
 
 尽量只专注于 JS/TS 生态，其他编程语言就不三分钟热度了。
 
-- [x] react router
-- [ ] jotai
-- [ ] react docs
-- [ ] tailwind docs
-- [ ] flexbox and grid
+- [x] [[React Router 基础]]
+- [ ] [[Jotai 基础]]
+- [ ] [[React 文档拾遗]]
+- [ ] [[Tailwind 文档拾遗]]
+- [x] [[Flex 布局]]
+- [ ] [[Grid 布局]]
 - [ ] Fetch API docs Response URL ...
 - [ ] react context
 - [ ] react useState closure initial value
