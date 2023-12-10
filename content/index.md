@@ -15,7 +15,7 @@ title: Welcome to my garden
 - [ ] [[React 文档拾遗]]
 - [ ] [[Tailwind 文档拾遗]]
 - [x] [[Flex 布局]]
-- [ ] [[Grid 布局]]
+- [x] [[Grid 布局]]
 - [ ] Fetch API docs Response URL
 - [ ] react context
 - [ ] react useState closure initial value
