@@ -40,9 +40,6 @@ Flexbox 的一切都基于主轴 primary axis 和垂直于它的交叉轴 cross 
 - 主轴：子项会聚集在容器的开头 `flex-start`
 - 交叉轴：子项会拉伸填满整个容器 `stretch`
 
-我们可以更改为其他的[[排列方式]]。
-
-
 
 ## Alignment
 
@@ -121,7 +118,7 @@ hypothetical 更多指的是建议大小而不是硬性约束，在容器大小�
 
 设置后，flexbox 的算法会将 flex-basis or width 设置的值视为**硬性**最小限制。
 
-当然你可以通过“简单”的 [[min-width gotcha]] 来设置更硬的约束？
+当然你可以通过“简单”的 `min-width` 来设置更硬的约束？
 
 
 ## min-width gotcha
