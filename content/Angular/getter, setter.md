@@ -6,7 +6,7 @@ tags:
 
 Angular 中并没有计算属性的概念，但是可以使用 `get` 方法来实现类似的功能，这个功能还挺好用的，但是官方教程中并没有出现。
 
-例如：
+一个示例：
 
 ```ts
 export class AppComponent {
