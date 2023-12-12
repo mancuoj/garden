@@ -76,12 +76,11 @@ Flexbox 中主轴也就是默认的横轴，可以由一条水平直线穿起来
 > 
 > And in flex col, do the same thing as `height`.
 
-`flex-basis` 是 flexbox 上通用的 size 属性，设置主轴上的 hypothetical size，但 `width, height` 不遵守此规则。
+`flex-basis` 是 flexbox 上通用的 size 属性，设置主轴上的 hypothetical size。
 
 hypothetical 更多指的是建议大小而不是硬性约束，在容器大小不够时必须妥协。
 
-除了一些 edge case，`width` 与 `flex-basis` 效果类似。
-
+除了一些 edge case，`width` 与 `flex-basis` 效果基本一样。
 
 
 ## flex-grow
@@ -116,7 +115,7 @@ hypothetical 更多指的是建议大小而不是硬性约束，在容器大小�
 
 但是有时候我们并不希望一些子项缩小，可以设置 `flex-shrink: 0` 来禁止收缩。
 
-设置后，flexbox 的算法会将 flex-basis or width 设置的值视为**硬性**最小限制。
+设置后，flexbox 的算法会将 flex-basis or width 设置的值视为硬性最小限制。
 
 当然你可以通过“简单”的 `min-width` 来设置更硬的约束？
 
@@ -127,13 +126,13 @@ hypothetical 更多指的是建议大小而不是硬性约束，在容器大小�
 
 为什么？明明 shrink 有一个默认值 1，会根据需要来进行缩小。
 
-这里就牵涉到 minimal size 和 hypothetical size 了，flexbox 算法会拒绝将子项缩小到 minimal size 以下。
+这里就牵涉到 hypothetical size 和 minimal size了，minimal size 是 flexbox 算法的底线。
 
 文本输入框 input 默认最小尺寸是 170px-200px，不同浏览器有所不同。
 
-其他情况下，可能是元素的内容，比如带有文本的元素最小宽度就是内容里“最长的字符串”的长度。
+其他情况下，可能要看元素的内容，比如带有文本的元素最小宽度就是“最长字符串”的长度。
 
-好消息是可以设置 `min-width: 0px`，告诉 flexbox 元素可以缩小，一直缩！
+好消息是底线可以退让，设置 `min-width: 0px`，flexbox 元素就可以缩小到最小尺寸以下，一直缩到看不到！
 
 同样适用于 `min-height` 的 flex 列。
 
@@ -142,14 +141,13 @@ But 内置的最小尺寸充当的是护栏的角色，它肯定有用。
 修改它有可能会造成更糟糕的情况，所以谨慎使用！
 
 
-
 ## gap
 
-`gap` 用于设置子项之间距离，好用。
+`gap` 用于设置子项之间距离，同样可以用于 [[Grid 布局]]。
 
-另外 `margin` 在 flexbox 中也有妙用。
+但 `margin` 在 flexbox 中其实也有妙用。
 
-比如 `mr-auto` 可以在不使用 `flex-grow` 的情况下，吞噬子项右侧的剩余空间。
+比如 `margin-right: auto` 可以在不使用 `flex-grow` 的情况下，占领子项右侧的剩余空间。
 
 如图：
 
