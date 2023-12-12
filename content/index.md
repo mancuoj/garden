@@ -10,13 +10,13 @@ title: Welcome to my garden
 尽量只专注于 JS/TS 生态，其他编程语言就不三分钟热度了。
 
 - [ ] [[书单|最近阅读]]
-- [x] [[React Router 基础]]
-- [ ] [[Jotai 基础]]
+- [x] [[React Router Basis]]
+- [ ] [[Jotai Basis]]
 - [ ] [[React 文档拾遗]]
 - [ ] [[Tailwind 文档拾遗]]
 - [x] [[Flex 布局]]
 - [x] [[Grid 布局]]
-- [ ] [[Learn Next.js]]
+- [ ] [[Next.js 从入门到入土]]
 - [ ] Fetch API docs Response URL
 - [ ] react context
 - [ ] react useState closure initial value
