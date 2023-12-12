@@ -16,6 +16,7 @@ title: Welcome to my garden
 - [ ] [[Tailwind 文档拾遗]]
 - [x] [[Flex 布局]]
 - [x] [[Grid 布局]]
+- [ ] [[Learn Next.js]]
 - [ ] Fetch API docs Response URL
 - [ ] react context
 - [ ] react useState closure initial value
@@ -24,7 +25,6 @@ title: Welcome to my garden
 - [ ] docker
 - [ ] k8s
 - [ ] nginx proxy manager
-- [ ] next.js
 - [ ] nest.js
 - [ ] game boy 模拟器
 - [ ] nand2tetris
