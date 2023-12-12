@@ -31,9 +31,9 @@ CSS 由不同的[[布局算法]]组成，用 `display` 可以更改不同布局�
 
 `flex-direction` 属性默认为 row，代表主轴方向从左到右。
 
-可以换成 col 来改变主轴的方向为从上到下。
+换成 col 会将改变主轴的方向改为从上到下。
 
-Flexbox 的一切都基于主轴 primary axis 和垂直于它的交叉轴 cross axis 排列。
+Flexbox 的一切属性都基于主轴 primary axis 和垂直于它的交叉轴 cross axis。
 
 默认情况下：
 
