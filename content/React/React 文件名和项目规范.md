@@ -16,9 +16,10 @@ tags:
 ### 文件名
 
 - 全小写+短横线连接，比如 `button.tsx`, `theme-toggle.tsx`
-- 中间可以加更多描述，比如 `button.constants.ts`, `button.helpers.ts`
+- 中间可以加更多描述，比如 `button.constant.ts`, `button.helper.ts`, `use-sound.hook.ts`
 
 ### 其他
 
 - 变量名，函数名统一使用小驼峰
 - 常量全大写+下划线连接，如 `LAST_INDEX`
+
