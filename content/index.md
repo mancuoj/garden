@@ -31,3 +31,7 @@ title: Welcome to my garden
 - [ ] game boy 模拟器
 - [ ] nand2tetris
 - [ ] cs61abc
+- [ ] [[Linux From Scratch]]
+- [ ] 编译器
+- [ ] gameboy 模拟器
+- [ ] nes 模拟器

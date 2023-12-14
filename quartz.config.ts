@@ -12,7 +12,7 @@ const config: QuartzConfig = {
     },
     baseUrl: "garden.mancuoj.me",
     ignorePatterns: ["private", "templates", ".obsidian"],
-    defaultDateType: "created",
+    defaultDateType: "modified",
     theme: {
       typography: {
         header: "IBM Plex Serif",

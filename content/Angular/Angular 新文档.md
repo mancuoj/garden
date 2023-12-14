@@ -9,4 +9,4 @@ tags:
 
 ## Thanks
 
-- [angular.dev](https://angular.dev/)
+- [Angular.dev](https://angular.dev/)
