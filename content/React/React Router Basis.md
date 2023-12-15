@@ -7,7 +7,6 @@ tags:
 > [!tip]
 > 官网示例写的极好，就不多记笔记了
 
-
 - [2023最新React Router基础及Data API](https://www.bilibili.com/video/BV1FX4y1q72i)
 - [React Router](https://reactrouter.com/en/main/route/loader)
 - 对于所有 Web 应用都建议 createBrowserRouter
@@ -17,7 +16,8 @@ tags:
 - lazy load 懒加载组件
 - fetcher 非跳转路由的表单处理 
 - 乐观 UI
-- ...
+
+## Route
 
 ```ts
 interface RouteObject {
