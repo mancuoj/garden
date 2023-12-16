@@ -7,25 +7,13 @@ tags:
 
 > Think CSS as a collection of layout modes.
 
-CSS 由不同的[[布局算法]]组成，用 `display` 可以更改不同布局模式。
+CSS 由不同的布局算法组成，用 `display` 可以更改不同的布局算法，至于为什么要将布局看作一种算法，请看[[布局算法|这篇文章]]。
 
 默认的是 flow layout，也就是正常写作模式的流式布局。
 
-这种情况下，inline 元素会从左边一个接一个的显示，block 元素从上边向下显示并移动页面。
+这种情况下，inline 元素会从左向右显示，而 block 元素会从上向下显示并移动页面。
 
-`display: flex` 会创建一个 flex formatting context，默认情况下所有子项都会根据 flexbox 的布局算法进行定位。
-
-为什么要将布局看作一种算法？
-
-在 flow layout 中，你对子项设置的 `width` 会是一个硬性约束。
-
-而在 flexbox 中，你设置的 `width` 会被看作一个假设尺寸（hypothetical size），在父级没有空间容纳时，子项的尺寸会缩小 fits 它。
-
-每个 layout 都是一个可以重新定义 CSS 属性的算法，我们必须了解属性在当前布局模式下的输出。
-
-一个想法：$output = layout(input)$
-
-
+使用 `display: flex` 会创建一个 flex formatting context，默认情况下所有子项都会根据 flexbox 的布局算法进行定位。
 
 ## flex-direction
 
@@ -53,7 +41,7 @@ Flexbox 的一切属性都基于主轴 primary axis 和垂直于它的交叉轴 
 
 `align-self` 应用于子元素，而不是整个容器，我们可以使用它来改变特定子元素在交叉轴上的对齐方式，它的 value 与 `align-items` 完全一致。
 
-事实上，`align-items` 就是 `align-self` 的语法糖，方便我们设置**所有**子元素的对齐方式。
+事实上，`align-items` 就是 `align-self` 的语法糖，便于我们一次设置**所有**子元素的对齐方式。
 
 
 
@@ -63,11 +51,11 @@ Flexbox 的一切属性都基于主轴 primary axis 和垂直于它的交叉轴 
 
 Flexbox 中主轴也就是默认的横轴，可以由一条水平直线穿起来。
 
-而交叉轴一条垂直直线只能穿过一个子项，所以在排列该项时 `align-self` 并不会影响或干扰其他子项的排布。
+交叉轴一条垂直直线只能穿过一个子项，所以在排列该项时 `align-self` 并不会影响或干扰其他子项的排布。
 
-而在主轴水平排列时，一定会影响到左右子项的排列，这就是为什么没有 `justify-self` 和 `justify-items` 的原因。
+所以，水平排列单个子项肯定会影响到左右子项的排列，这就是为什么没有 `justify-self` 和 `justify-items` 的原因。
 
-至于 `align-content`, [[Flex 布局#flex-wrap|下文]]中会提到。
+至于 `align-content`, [[Flex 布局#flex-wrap|下文]]会提到。
 
 
 ## flex-basis
@@ -80,7 +68,7 @@ Flexbox 中主轴也就是默认的横轴，可以由一条水平直线穿起来
 
 hypothetical 更多指的是建议大小而不是硬性约束，在容器大小不够时必须妥协。
 
-除了一些 edge case，`width` 与 `flex-basis` 效果基本一样。
+除了一些 edge-case 外，`width` 与 `flex-basis` 效果基本一样。
 
 
 ## flex-grow
@@ -99,11 +87,9 @@ hypothetical 更多指的是建议大小而不是硬性约束，在容器大小�
 
 ## flex-shrink
 
-> Only one of these properties can be active at once
+> Only one of these properties can be active at once.
 
-如果容器太小怎么办，就要用到 `flex-shrink`。
-
-与 grow 用法类似，不过是成比例缩小了。
+当然相反情况就是容器太小，这时候就要用到 `flex-shrink`。
 
 容器大小 500px，两个子项分别 250px，刚好占满。
 
@@ -111,24 +97,22 @@ hypothetical 更多指的是建议大小而不是硬性约束，在容器大小�
 
 默认情况下 `flex-shrink: 1`，两人各缩减 50px。
 
-这时将其中一个设置为 3，则它会缩减 3/4，即 75px，另一个缩减 25px。
+这时将其中一个设置为 3，则它会缩减 3/4，即 75px，另一个缩减 1/4，即 25px。
 
-但是有时候我们并不希望一些子项缩小，可以设置 `flex-shrink: 0` 来禁止收缩。
+但是有时候我们并不希望一些子项缩小，可以设置 `flex-shrink: 0` 来禁止收缩（不推荐使用 `min-width` 限制）。
 
 设置后，flexbox 的算法会将 flex-basis or width 设置的值视为硬性最小限制。
-
-当然你可以通过“简单”的 `min-width` 来设置更硬的约束？
 
 
 ## min-width gotcha
 
-当尺寸收缩到某点时，容器内容会溢出！
+有时候，你会发现当尺寸缩小到某一点时，容器内容会溢出！
 
-为什么？明明 shrink 有一个默认值 1，会根据需要来进行缩小。
+明明 shrink 有一个默认值 1，会根据需要来进行缩小，为什么会溢出？
 
-这里就牵涉到 hypothetical size 和 minimal size了，minimal size 是 flexbox 算法的底线。
+这就牵涉到 hypothetical size 和最小尺寸（minimal size）了。
 
-文本输入框 input 默认最小尺寸是 170px-200px，不同浏览器有所不同。
+文本输入框 input 默认最小尺寸是 170px（不同浏览器不同），
 
 其他情况下，可能要看元素的内容，比如带有文本的元素最小宽度就是“最长字符串”的长度。
 
