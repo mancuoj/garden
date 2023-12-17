@@ -2,6 +2,8 @@
 title: React Router
 tags:
   - react
+  - router
+  - docs
 ---
 
 > [!tip]
