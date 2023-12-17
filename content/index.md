@@ -20,6 +20,10 @@ title: Welcome to my garden
 - [ ] [[Angular 新文档]]
 - [ ] bun
 - [ ] [Let’s learn how modern JavaScript frameworks work by building one | Read the Tea Leaves (nolanlawson.com)](https://nolanlawson.com/2023/12/02/lets-learn-how-modern-javascript-frameworks-work-by-building-one/)
+- [ ] [Welcome to my digital space — Phuoc Nguyen](https://phuoc.ng/)
+- [ ] [npm: A Free Guide for Beginners | CSS-Tricks - CSS-Tricks](https://css-tricks.com/a-complete-beginners-guide-to-npm/)
+- [ ] 
+- [ ] 
 - [ ] Fetch API docs Response URL
 - [ ] react context
 - [ ] react useState closure initial value
