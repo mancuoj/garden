@@ -19,6 +19,7 @@ title: Welcome to my garden
 - [ ] [[Next.js 从入门到入土]]
 - [ ] [[Angular 新文档]]
 - [ ] bun
+- [ ] [Let’s learn how modern JavaScript frameworks work by building one | Read the Tea Leaves (nolanlawson.com)](https://nolanlawson.com/2023/12/02/lets-learn-how-modern-javascript-frameworks-work-by-building-one/)
 - [ ] Fetch API docs Response URL
 - [ ] react context
 - [ ] react useState closure initial value
