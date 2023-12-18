@@ -11,17 +11,15 @@ title: Awesome Blogs
 - [Let’s learn how modern JavaScript frameworks work by building one](https://nolanlawson.com/2023/12/02/lets-learn-how-modern-javascript-frameworks-work-by-building-one/)
 - [npm: A Free Guide for Beginners](https://css-tricks.com/a-complete-beginners-guide-to-npm/)
 - [Tailwind CSS 文档](https://tailwindcss.com/docs/installation)
-- [快速入门 – React 中文文档](https://zh-hans.react.dev/learn)
 - [Let’s Define Exactly What Atomic CSS is](https://css-tricks.com/lets-define-exactly-atomic-css/)
 - [重新构想原子化 CSS](https://antfu.me/posts/reimagine-atomic-css-zh)
 - [How UnoCSS works internally with Vite?](https://jser.dev/2023-09-17-how-unocss-works-with-vite/)
 - [Understanding Layout Algorithms](https://www.joshwcomeau.com/css/understanding-layout-algorithms/)
-- [How to Use TypeScript with React](https://www.freecodecamp.org/news/use-typescript-with-react/)
-
+- [快速入门 – React 中文文档](https://zh-hans.react.dev/learn)
 
 ## Done
 
-- 
+- [How to Use TypeScript with React](https://www.freecodecamp.org/news/use-typescript-with-react/)
 - [A (more) Modern CSS Reset](https://andy-bell.co.uk/a-more-modern-css-reset/)
 - [Modern CSS Reset / Global Styles](https://www.joshwcomeau.com/css/custom-css-reset/)
 - [Your CSS reset needs text-size-adjust](https://kilianvalkhof.com/2022/css-html/your-css-reset-needs-text-size-adjust-probably/)

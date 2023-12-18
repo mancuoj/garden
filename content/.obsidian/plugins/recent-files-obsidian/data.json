@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Articles",
+      "path": "汇总/Articles.md"
+    },
+    {
       "basename": "React 文件名和项目规范",
       "path": "React/React 文件名和项目规范.md"
     },
@@ -11,10 +15,6 @@
     {
       "basename": "Books",
       "path": "汇总/Books.md"
-    },
-    {
-      "basename": "Articles",
-      "path": "汇总/Articles.md"
     },
     {
       "basename": "渐变文字",
