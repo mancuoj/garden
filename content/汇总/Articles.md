@@ -19,6 +19,7 @@ title: Awesome Blogs
 
 ## Done
 
+
 - [How to Use TypeScript with React](https://www.freecodecamp.org/news/use-typescript-with-react/)
 - [A (more) Modern CSS Reset](https://andy-bell.co.uk/a-more-modern-css-reset/)
 - [Modern CSS Reset / Global Styles](https://www.joshwcomeau.com/css/custom-css-reset/)

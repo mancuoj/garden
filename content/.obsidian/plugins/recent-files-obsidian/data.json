@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "React + TS",
+      "path": "React/React + TS.md"
+    },
+    {
       "basename": "Articles",
       "path": "汇总/Articles.md"
+    },
+    {
+      "basename": "index",
+      "path": "index.md"
     },
     {
       "basename": "React 文件名和项目规范",
@@ -63,10 +71,6 @@
     {
       "basename": "模板引用变量",
       "path": "Angular/模板引用变量.md"
-    },
-    {
-      "basename": "index",
-      "path": "index.md"
     },
     {
       "basename": "obsidian md 扩展语法",
