@@ -1,0 +1,18 @@
+{
+  "propertiesInDocument": "source",
+  "spellcheck": false,
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "current",
+  "readableLineLength": true,
+  "promptDelete": false,
+  "attachmentFolderPath": "assets",
+  "livePreview": true,
+  "foldHeading": false,
+  "foldIndent": false,
+  "useTab": false,
+  "showLineNumber": false,
+  "tabSize": 2,
+  "showInlineTitle": true,
+  "strictLineBreaks": true,
+  "rightToLeft": false
+}

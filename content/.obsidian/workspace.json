@@ -1,0 +1,207 @@
+{
+  "main": {
+    "id": "c3f3de09a41b63bf",
+    "type": "split",
+    "children": [
+      {
+        "id": "84f819f78c61f1cc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7195cd036b612237",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ],
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5d757bb9d3f5cc9c",
+    "type": "split",
+    "children": [
+      {
+        "id": "9c8bcebfba500842",
+        "type": "tabs",
+        "dimension": 59.523809523809526,
+        "children": [
+          {
+            "id": "43b6f11314d32c5c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2c5a19e8d0334eae",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "\" 的博客\"",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "b904ff6d18e068ad",
+        "type": "tabs",
+        "dimension": 40.476190476190474,
+        "children": [
+          {
+            "id": "0b13bbb5c52724e0",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
+            "id": "de4ed91ab97def22",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "index.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0a5930531ea839fc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "index.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c4976b97fa190ff5",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "f7b83c8b8ee79b66",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "72e74db548935c51",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "index.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 273.0110321044922
+  },
+  "right": {
+    "id": "ee7d24da7b485845",
+    "type": "split",
+    "children": [],
+    "direction": "horizontal",
+    "width": 367,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "templates:插入模板": true,
+      "command-palette:打开命令面板": true
+    }
+  },
+  "active": "7195cd036b612237",
+  "lastOpenFiles": [
+    "一些散乱的想法.md",
+    "obsidian md 扩展语法.md",
+    "CSS/原子化 CSS.md",
+    "文章.md",
+    "index.md",
+    "书单.md",
+    "CSS/CSS Reset.md",
+    "CSS/Flex 布局.md",
+    "CSS/Full-Bleed Layout.md",
+    "CSS/Grid 布局.md",
+    "CSS/Tailwind 文档拾遗.md",
+    "CSS/布局算法.md",
+    "CSS/渐变文字.md",
+    "Angular/模板引用变量.md",
+    "Angular/getter, setter.md",
+    "Angular/ngDoCheck 钩子.md",
+    "Angular/Angular 新文档.md",
+    "CSS/渐变色.md",
+    "Linux/新买服务器的一些设置.md",
+    "Linux/Linux From Scratch.md",
+    "posts/Vue2 TodoMVC（上）.md",
+    "posts/Vue2 TodoMVC（下）.md",
+    "React/React 文档拾遗.md",
+    "React/React 文件名和项目规范.md",
+    "React/React Router 文档拾遗.md",
+    "React/Next.js 文档拾遗.md",
+    "未命名.canvas",
+    "未命名 1.canvas",
+    "Angular",
+    "Nest",
+    "posts",
+    "Vue",
+    "Network",
+    "assets/full bleed.png",
+    "assets/grid area.png",
+    "assets/grid assign.png",
+    "assets/grid repeat.png",
+    "assets/grid2.png",
+    "assets/grid.png",
+    "CSS/Grid",
+    "CSS/Flexbox",
+    "assets/nav.png",
+    "assets/nav.png",
+    "Canvas/ideas.canvas",
+    "CSS",
+    "Canvas",
+    "Porjects",
+    "assets/draw1.png"
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "recentFiles": [
+    {
+      "basename": "index",
+      "path": "index.md"
+    },
+    {
+      "basename": "一些散乱的想法",
+      "path": "一些散乱的想法.md"
+    },
+    {
+      "basename": "obsidian md 扩展语法",
+      "path": "obsidian md 扩展语法.md"
+    },
+    {
+      "basename": "原子化 CSS",
+      "path": "CSS/原子化 CSS.md"
+    },
+    {
+      "basename": "文章",
+      "path": "文章.md"
+    },
+    {
+      "basename": "书单",
+      "path": "书单.md"
+    },
+    {
+      "basename": "CSS Reset",
+      "path": "CSS/CSS Reset.md"
+    },
+    {
+      "basename": "Flex 布局",
+      "path": "CSS/Flex 布局.md"
+    },
+    {
+      "basename": "Full-Bleed Layout",
+      "path": "CSS/Full-Bleed Layout.md"
+    },
+    {
+      "basename": "Grid 布局",
+      "path": "CSS/Grid 布局.md"
+    },
+    {
+      "basename": "Tailwind 文档拾遗",
+      "path": "CSS/Tailwind 文档拾遗.md"
+    },
+    {
+      "basename": "布局算法",
+      "path": "CSS/布局算法.md"
+    },
+    {
+      "basename": "渐变文字",
+      "path": "CSS/渐变文字.md"
+    },
+    {
+      "basename": "模板引用变量",
+      "path": "Angular/模板引用变量.md"
+    },
+    {
+      "basename": "getter, setter",
+      "path": "Angular/getter, setter.md"
+    },
+    {
+      "basename": "ngDoCheck 钩子",
+      "path": "Angular/ngDoCheck 钩子.md"
+    },
+    {
+      "basename": "新买服务器的一些设置",
+      "path": "Linux/新买服务器的一些设置.md"
+    },
+    {
+      "basename": "Vue2 TodoMVC（上）",
+      "path": "posts/Vue2 TodoMVC（上）.md"
+    },
+    {
+      "basename": "Vue2 TodoMVC（下）",
+      "path": "posts/Vue2 TodoMVC（下）.md"
+    },
+    {
+      "basename": "React 文档拾遗",
+      "path": "React/React 文档拾遗.md"
+    },
+    {
+      "basename": "React 文件名和项目规范",
+      "path": "React/React 文件名和项目规范.md"
+    },
+    {
+      "basename": "quartz",
+      "path": "quartz.md"
+    },
+    {
+      "basename": "simple frontmatter",
+      "path": "private/templates/simple frontmatter.md"
+    },
+    {
+      "basename": "减肥日记",
+      "path": "private/减肥日记.md"
+    },
+    {
+      "basename": "full bleed",
+      "path": "assets/full bleed.png"
+    },
+    {
+      "basename": "grid area",
+      "path": "assets/grid area.png"
+    },
+    {
+      "basename": "grid assign",
+      "path": "assets/grid assign.png"
+    },
+    {
+      "basename": "grid repeat",
+      "path": "assets/grid repeat.png"
+    },
+    {
+      "basename": "grid2",
+      "path": "assets/grid2.png"
+    },
+    {
+      "basename": "grid",
+      "path": "assets/grid.png"
+    }
+  ],
+  "omittedPaths": [],
+  "maxLength": null,
+  "openType": "tab"
+}
