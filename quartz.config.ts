@@ -3,15 +3,15 @@ import * as Plugin from "./quartz/plugins"
 
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "mancuoj.me",
+    pageTitle: "🪴 Quartz 4.0",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
-      provider: "plausible"
+      provider: "plausible",
     },
-    baseUrl: "garden.mancuoj.me",
+    baseUrl: "mancuoj.me",
     ignorePatterns: ["private", "templates"],
-    defaultDateType: "modified",
+    defaultDateType: "created",
     theme: {
       typography: {
         header: "IBM Plex Serif",
