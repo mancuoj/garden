@@ -1,12 +1,7 @@
 ---
 title: Think in Grid
-tags:
-  - css
-  - grid
 date: 2023-12-11
 ---
-
-> CSS is comprised of several different [[布局算法 |layout algorithms]] 🤗
 
 使用 CSS Grid，单个 DOM 节点会被细分为行和列。
 
@@ -17,7 +12,6 @@ date: 2023-12-11
 ## Grid Flow
 
 > Only the children are arranged using Grid layout.
-
 
 默认情况下，Grid 使用单列，行数基于子项数量动态增加或减少。
 

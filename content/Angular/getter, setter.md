@@ -1,7 +1,5 @@
 ---
 title: Getter & Setter
-tags:
-  - angular
 date: 2023-09-07
 ---
 

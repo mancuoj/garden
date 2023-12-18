@@ -1,7 +1,5 @@
 ---
 title: CSS Reset
-tags:
-  - CSS
 date: 2023-12-18
 ---
 
@@ -106,4 +104,3 @@ a:not([class]) {
 - [Preflight - Tailwind CSS](https://tailwindcss.com/docs/preflight)
 - [Style Reset (unocss.dev)](https://unocss.dev/guide/style-reset)
 - [Your CSS reset needs text-size-adjust (probably) | Kilian Valkhof](https://kilianvalkhof.com/2022/css-html/your-css-reset-needs-text-size-adjust-probably/)
-- 

@@ -1,20 +1,15 @@
 ---
 title: Think in Flexbox
-tags:
-  - css
-  - flexbox
 date: 2023-12-10
 ---
 
 > Think CSS as a collection of layout modes.
 
-CSS 由不同的布局算法组成，用 `display` 可以更改不同的布局算法，至于为什么要将布局看作一种算法，请看[[布局算法|这篇文章]]。
+CSS 默认情况下为 flow layout，也就是正常的流式布局。
 
-默认的是 flow layout，也就是正常写作模式的流式布局。
+这种布局下，inline 元素会从左向右显示，而 block 元素会从上向下显示并移动页面。
 
-这种情况下，inline 元素会从左向右显示，而 block 元素会从上向下显示并移动页面。
-
-使用 `display: flex` 会创建一个 flex formatting context，默认情况下所有子项都会根据 flexbox 的布局算法进行定位。
+使用 `display: flex` 会创建一个 flex formatting context，使所有子项都根据 flexbox 的布局算法进行定位。
 
 ## flex-direction
 

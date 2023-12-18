@@ -1,10 +1,7 @@
 ---
 title: ngDoCheck hook
-tags:
-  - angular
-date: 2023-09-10
+date: 2023-09-12
 ---
-
 
 在 Angular 中，ngDoCheck 是一个生命周期钩子函数，用于在每次变更检测周期中检测和处理组件中的变化。
 

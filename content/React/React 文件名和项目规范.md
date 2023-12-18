@@ -1,7 +1,5 @@
 ---
 title: React Conventions
-tags:
-  - react
 date: 2023-12-02
 ---
 

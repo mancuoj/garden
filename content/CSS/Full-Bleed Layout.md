@@ -1,8 +1,5 @@
 ---
 title: Full-Bleed Layout Using CSS Grid
-tags:
-  - css
-  - grid
 date: 2023-12-12
 ---
 
