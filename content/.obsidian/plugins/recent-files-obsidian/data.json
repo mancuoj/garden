@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "原子化 CSS",
+      "path": "CSS/原子化 CSS.md"
+    },
+    {
       "basename": "index",
       "path": "index.md"
     },
@@ -11,10 +15,6 @@
     {
       "basename": "obsidian md 扩展语法",
       "path": "obsidian md 扩展语法.md"
-    },
-    {
-      "basename": "原子化 CSS",
-      "path": "CSS/原子化 CSS.md"
     },
     {
       "basename": "文章",

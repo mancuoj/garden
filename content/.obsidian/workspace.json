@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "CSS/原子化 CSS.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "CSS/原子化 CSS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "CSS/原子化 CSS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "CSS/原子化 CSS.md"
               }
             }
           }
@@ -155,11 +155,11 @@
   },
   "active": "7195cd036b612237",
   "lastOpenFiles": [
+    "index.md",
     "一些散乱的想法.md",
     "obsidian md 扩展语法.md",
     "CSS/原子化 CSS.md",
     "文章.md",
-    "index.md",
     "书单.md",
     "CSS/CSS Reset.md",
     "CSS/Flex 布局.md",
