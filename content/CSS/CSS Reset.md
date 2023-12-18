@@ -24,3 +24,5 @@ tags:
 - [sindresorhus/modern-normalize](https://github.com/sindresorhus/modern-normalize)
 - [Preflight - Tailwind CSS](https://tailwindcss.com/docs/preflight)
 - [Style Reset (unocss.dev)](https://unocss.dev/guide/style-reset)
+- [Your CSS reset needs text-size-adjust (probably) | Kilian Valkhof](https://kilianvalkhof.com/2022/css-html/your-css-reset-needs-text-size-adjust-probably/)
+- 
