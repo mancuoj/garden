@@ -10,7 +10,7 @@ const config: QuartzConfig = {
       provider: "plausible"
     },
     baseUrl: "garden.mancuoj.me",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    ignorePatterns: ["private", "templates"],
     defaultDateType: "modified",
     theme: {
       typography: {
