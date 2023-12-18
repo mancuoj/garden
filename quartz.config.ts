@@ -3,21 +3,20 @@ import * as Plugin from "./quartz/plugins"
 
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Cybergarden",
+    pageTitle: "mancuoj.me",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
-      provider: "umami",
-      websiteId: "181f143f-768b-40f7-a729-aa0494ad3239",
+      provider: "plausible"
     },
     baseUrl: "garden.mancuoj.me",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
       typography: {
-        header: "IBM Plex Serif",
-        body: "Fira Sans",
-        code: "Fira Code",
+        header: "DM Serif Text",
+        body: "Bricolage Grotesque",
+        code: "JetBrains Mono",
       },
       colors: {
         lightMode: {
