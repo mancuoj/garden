@@ -1,6 +1,8 @@
 ---
 title: Obsidian Syntax
+date: 2023-12-05
 ---
+
 ## Callouts
 
 > [!note] Title

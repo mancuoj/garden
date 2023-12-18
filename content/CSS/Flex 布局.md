@@ -3,6 +3,7 @@ title: Think in Flexbox
 tags:
   - css
   - flexbox
+date: 2023-12-10
 ---
 
 > Think CSS as a collection of layout modes.

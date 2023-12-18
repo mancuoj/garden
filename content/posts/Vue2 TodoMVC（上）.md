@@ -3,6 +3,7 @@ title: Vue2 TodoMVC (1)
 tags:
   - vue
   - todomvc
+date: 2023-08-16
 ---
 
 

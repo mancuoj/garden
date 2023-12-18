@@ -2,6 +2,7 @@
 title: Think in Tailwind CSS
 tags:
   - css
+date: 2023-12-20
 ---
 
 

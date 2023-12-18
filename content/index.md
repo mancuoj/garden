@@ -1,5 +1,6 @@
 ---
 title: Welcome to my garden
+date: 2023-12-01
 ---
 
 > [!tip]
@@ -12,7 +13,7 @@ title: Welcome to my garden
 一些你可能想看的东西，之后就自行探索吧：
 
 - [[书单|我的书单]]
-- [[文章大合集|我收藏的博客]]
+- [[文章|我收藏的博客]]
 - [[Flex 布局|从 Flexbox 开始的 CSS 学习]]
 - [[React 文档拾遗|React 从入门到入土]]
 - ❤️

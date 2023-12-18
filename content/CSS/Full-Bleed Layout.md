@@ -3,6 +3,7 @@ title: Full-Bleed Layout Using CSS Grid
 tags:
   - css
   - grid
+date: 2023-12-12
 ---
 
 在阅读博客，新闻等文字内容时，一般来说我们需要一个固定宽度的列来展示文字。

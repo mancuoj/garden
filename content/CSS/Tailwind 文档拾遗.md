@@ -4,6 +4,7 @@ tags:
   - css
   - tailwind
   - docs
+date: 2023-12-24
 ---
 
 或许我们得先聊聊什么是 [[原子化 CSS]]，原子化到底指什么？
