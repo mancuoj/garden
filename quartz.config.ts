@@ -14,9 +14,9 @@ const config: QuartzConfig = {
     defaultDateType: "modified",
     theme: {
       typography: {
-        header: "DM Serif Text",
-        body: "Bricolage Grotesque",
-        code: "JetBrains Mono",
+        header: "IBM Plex Serif",
+        body: "Fira Sans",
+        code: "Fira Code",
       },
       colors: {
         lightMode: {
