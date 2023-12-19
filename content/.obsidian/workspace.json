@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSS/CSS Reset.md",
+                "file": "汇总/Free APIs.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSS/CSS Reset.md",
+                "file": "汇总/Free APIs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSS/CSS Reset.md",
+                "file": "汇总/Free APIs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSS/CSS Reset.md"
+                "file": "汇总/Free APIs.md"
               }
             }
           }
@@ -168,6 +168,8 @@
   },
   "active": "1a507e6f230c97b0",
   "lastOpenFiles": [
+    "CSS/CSS Reset.md",
+    "汇总/Free APIs.md",
     "React/React + TS.md",
     "汇总/Articles.md",
     "汇总/Thoughts.md",
@@ -176,7 +178,6 @@
     "index.md",
     "汇总",
     "CSS/渐变文字.md",
-    "CSS/CSS Reset.md",
     "CSS/Flex 布局.md",
     "CSS/Full-Bleed Layout.md",
     "CSS/Grid 布局.md",
@@ -194,7 +195,6 @@
     "obsidian md 扩展语法.md",
     "Angular/Angular 新文档.md",
     "CSS/渐变色.md",
-    "Linux/Linux From Scratch.md",
     "未命名.canvas",
     "未命名 1.canvas",
     "Angular",
