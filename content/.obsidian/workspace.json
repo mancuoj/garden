@@ -26,6 +26,19 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "index.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1a6142a362618bf5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "汇总/Articles.md",
                 "mode": "source",
                 "backlinks": false,
@@ -34,6 +47,7 @@
             }
           }
         ],
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -94,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "汇总/Free APIs.md",
+                "file": "汇总/Articles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "汇总/Free APIs.md",
+                "file": "汇总/Articles.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "汇总/Free APIs.md"
+                "file": "汇总/Articles.md"
               }
             }
           }
@@ -166,16 +180,17 @@
       "command-palette:打开命令面板": true
     }
   },
-  "active": "1a507e6f230c97b0",
+  "active": "1a6142a362618bf5",
   "lastOpenFiles": [
-    "CSS/CSS Reset.md",
-    "汇总/Free APIs.md",
-    "React/React + TS.md",
+    "index.md",
     "汇总/Articles.md",
+    "assets/Pasted image 20231219213958.png",
+    "汇总/Free APIs.md",
+    "CSS/CSS Reset.md",
+    "React/React + TS.md",
     "汇总/Thoughts.md",
     "汇总/Books.md",
     "React/React 文件名和项目规范.md",
-    "index.md",
     "汇总",
     "CSS/渐变文字.md",
     "CSS/Flex 布局.md",
@@ -194,7 +209,6 @@
     "Angular/模板引用变量.md",
     "obsidian md 扩展语法.md",
     "Angular/Angular 新文档.md",
-    "CSS/渐变色.md",
     "未命名.canvas",
     "未命名 1.canvas",
     "Angular",

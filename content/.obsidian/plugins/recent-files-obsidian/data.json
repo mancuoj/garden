@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Articles",
+      "path": "汇总/Articles.md"
+    },
+    {
+      "basename": "index",
+      "path": "index.md"
+    },
+    {
       "basename": "Free APIs",
       "path": "汇总/Free APIs.md"
     },
@@ -13,10 +21,6 @@
       "path": "React/React + TS.md"
     },
     {
-      "basename": "Articles",
-      "path": "汇总/Articles.md"
-    },
-    {
       "basename": "Thoughts",
       "path": "汇总/Thoughts.md"
     },
@@ -27,10 +31,6 @@
     {
       "basename": "React 文件名和项目规范",
       "path": "React/React 文件名和项目规范.md"
-    },
-    {
-      "basename": "index",
-      "path": "index.md"
     },
     {
       "basename": "渐变文字",
