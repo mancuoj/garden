@@ -79,12 +79,6 @@ select {
   font: inherit;
 }
 
-/* 在没有 class 时设置链接文本颜色，下划线的样式 */
-a:not([class]) {
-  color: currentColor;
-  text-decoration-skip-ink: auto;
-}
-
 /* root stacking context */
 #root,
 #__next {

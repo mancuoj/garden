@@ -1,20 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "CSS Reset",
+      "path": "CSS/CSS Reset.md"
+    },
+    {
       "basename": "React + TS",
       "path": "React/React + TS.md"
     },
     {
       "basename": "Articles",
       "path": "汇总/Articles.md"
-    },
-    {
-      "basename": "index",
-      "path": "index.md"
-    },
-    {
-      "basename": "React 文件名和项目规范",
-      "path": "React/React 文件名和项目规范.md"
     },
     {
       "basename": "Thoughts",
@@ -25,12 +21,16 @@
       "path": "汇总/Books.md"
     },
     {
-      "basename": "渐变文字",
-      "path": "CSS/渐变文字.md"
+      "basename": "React 文件名和项目规范",
+      "path": "React/React 文件名和项目规范.md"
     },
     {
-      "basename": "CSS Reset",
-      "path": "CSS/CSS Reset.md"
+      "basename": "index",
+      "path": "index.md"
+    },
+    {
+      "basename": "渐变文字",
+      "path": "CSS/渐变文字.md"
     },
     {
       "basename": "Flex 布局",
