@@ -21,7 +21,8 @@ title: Awesome Blogs
 
 ## Done
 
-- 
+- [Super Simple Start to React](https://kentcdodds.com/blog/super-simple-start-to-react)
+- [关于 Yak Shaving](https://antfu.me/posts/about-yak-shaving-zh)
 - [Top 10 Mistakes to Avoid When Using React](https://javascript.plainenglish.io/top-10-mistakes-to-avoid-when-using-react-1796711ad2a0)
 - [How to Use TypeScript with React](https://www.freecodecamp.org/news/use-typescript-with-react/)
 - [A (more) Modern CSS Reset](https://andy-bell.co.uk/a-more-modern-css-reset/)
@@ -42,7 +43,7 @@ title: Awesome Blogs
 - [sinja.io](https://sinja.io/)
 - [Antfu's Blog](https://antfu.me/posts)
 - [Josh Collinsworth's Blog](https://joshcollinsworth.com/)
-- 
+- [The Kent C. Dodds's Blog](https://kentcdodds.com/blog)
 - [Innei's Blog](https://innei.in/posts)
 - [Cali's Blog](https://cali.so/blog)
 - [Jason's Blog](https://www.learnwithjason.dev/blog/)
