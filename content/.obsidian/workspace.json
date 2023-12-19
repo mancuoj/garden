@@ -47,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 2,
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -95,20 +95,12 @@
         "dimension": 38.095238095238095,
         "children": [
           {
-            "id": "0b13bbb5c52724e0",
-            "type": "leaf",
-            "state": {
-              "type": "recent-files",
-              "state": {}
-            }
-          },
-          {
             "id": "de4ed91ab97def22",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "汇总/Articles.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "汇总/Articles.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "汇总/Articles.md"
+                "file": "index.md"
               }
             }
           }
@@ -174,16 +166,14 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "graph:查看关系图谱": false,
-      "canvas:新建白板": false,
       "templates:插入模板": true,
       "command-palette:打开命令面板": true
     }
   },
-  "active": "1a6142a362618bf5",
+  "active": "f632056a7637743c",
   "lastOpenFiles": [
-    "index.md",
     "汇总/Articles.md",
+    "index.md",
     "assets/Pasted image 20231219213958.png",
     "汇总/Free APIs.md",
     "CSS/CSS Reset.md",
