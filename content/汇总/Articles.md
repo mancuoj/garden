@@ -7,6 +7,7 @@ title: Awesome Blogs
 ## To Read
 
 - 
+- [sorrycc/toy-vite](https://github.com/sorrycc/toy-vite)
 - [haixiangyan/make-wheels 一天学习一个 npm 轮子，十天后变成轮子哥](https://github.com/haixiangyan/make-wheels)
 - [Dependency Managers Don’t Manage Your Dependencies 系列四篇](https://cpojer.net/posts/dependency-managers-dont-manage-your-dependencies)
 - [Why React Re-Renders](https://www.joshwcomeau.com/react/why-react-re-renders/)
