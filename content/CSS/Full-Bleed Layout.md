@@ -27,7 +27,7 @@ Full-bleed 是出版界的一个术语，指的就是印刷内容无边框打印
 .wrapper {
   display: grid;
   grid-template-columns: 1fr min(60ch, calc(100% - 64px)) 1fr;
-  grid-column-gap: 32px;
+  column-gap: 32px;
 }
 
 .wrapper > * {
@@ -42,3 +42,4 @@ Full-bleed 是出版界的一个术语，指的就是印刷内容无边框打印
 
 - `min` 选择两者之间更小的值，小屏幕将使用全宽 - gap
 - `ch` 为当前字体中 0 字符的宽度，一般来说理想的行宽度为 65 个字符（45-85）
+- `1 / -1` 无论分多少列都是全宽
