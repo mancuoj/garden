@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React/React + TS.md",
+                "file": "CSS/CSS Typing Animation.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -47,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 1,
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React/React + TS.md",
+                "file": "汇总/Articles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React/React + TS.md",
+                "file": "汇总/Articles.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React/React + TS.md"
+                "file": "汇总/Articles.md"
               }
             }
           }
@@ -170,13 +170,14 @@
       "command-palette:打开命令面板": true
     }
   },
-  "active": "f632056a7637743c",
+  "active": "1a6142a362618bf5",
   "lastOpenFiles": [
-    "汇总/Articles.md",
+    "CSS/CSS Typing Animation.md",
+    "CSS/CSS Reset.md",
     "React/React + TS.md",
+    "汇总/Articles.md",
     "CSS/Grid 布局.md",
     "CSS/Full-Bleed Layout.md",
-    "CSS/CSS Reset.md",
     "CSS/Flex 布局.md",
     "汇总/Free APIs.md",
     "index.md",
