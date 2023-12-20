@@ -19,11 +19,11 @@ title: Awesome Blogs
 - [How UnoCSS works internally with Vite?](https://jser.dev/2023-09-17-how-unocss-works-with-vite/)
 - [Understanding Layout Algorithms](https://www.joshwcomeau.com/css/understanding-layout-algorithms/)
 - [react.dev/learn](https://zh-hans.react.dev/learn) 
-
+- 
 
 ## Done
 
-- 
+- [Tailwind CSS v3.4: Dynamic viewport units, :has() support, balanced headlines, subgrid, and more](https://tailwindcss.com/blog/tailwindcss-v3-4)
 - [Super Simple Start to React](https://kentcdodds.com/blog/super-simple-start-to-react)
 - [关于 Yak Shaving](https://antfu.me/posts/about-yak-shaving-zh)
 - [Top 10 Mistakes to Avoid When Using React](https://javascript.plainenglish.io/top-10-mistakes-to-avoid-when-using-react-1796711ad2a0)
