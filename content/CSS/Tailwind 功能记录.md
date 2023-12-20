@@ -36,7 +36,6 @@ export default {
 ```
 
 
-
 ## Dynamic viewpoint units
 
 |Class|CSS|
