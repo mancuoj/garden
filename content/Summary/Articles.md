@@ -28,6 +28,8 @@ title: Awesome Blogs
 - [04-003 Creating a Table](https://www.bilibili.com/video/BV1cC4y1g7ng?p=30&vd_source=4da426ef9b0e129787ecf66363321458)
 - [Tutorial v6.21.0 | React Router](https://reactrouter.com/en/main/start/tutorial)
 - [Retry, Timeout and Cancel with fetch()](https://www.chrisarmstrong.dev/posts/retry-timeout-and-cancel-with-fetch)
+- [How to Create and Publish a React Component Library](https://dev.to/alexeagleson/how-to-create-and-publish-a-react-component-library-2oe)
+- [React with TypeScript Cheatsheet. An answer to all your React typing](https://blog.bitsrc.io/react-with-typescript-cheatsheet-9dd891dc5bfe)
 - [How to React ⚛️ (kentcdodds.com)](https://kentcdodds.com/blog/how-to-react)
 
 
@@ -52,7 +54,7 @@ title: Awesome Blogs
 
 ## Collection
 
-- [MDH Weekly 前端周刊（10/118）一天看十篇，十天看完](https://mdhweekly.com/weekly)
+- [MDH Weekly 前端周刊（30/118）](https://mdhweekly.com/weekly)
 - [阮一峰的科技爱好者周刊](https://www.ruanyifeng.com/blog/)
 - [前端食堂技术周刊](https://github.com/Geekhyt/weekly)
 - [Josh W Comeau's Blog](https://www.joshwcomeau.com/)
