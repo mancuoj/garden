@@ -7,7 +7,9 @@ title: Awesome Blogs
 ## To Read
 
 - 
-- 
+- [kettanaito/naming-cheatsheet](https://github.com/kettanaito/naming-cheatsheet)
+- [daishi/7guis](https://codesandbox.io/search?query=daishi%207gui&page=1&configure%5BhitsPerPage%5D=12)
+- [7GUIs](https://eugenkiss.github.io/7guis/)
 - [手写系列-实现一个铂金段位的 React](https://mp.weixin.qq.com/s?__biz=MzIxMzExMjYwOQ==&mid=2651896816&idx=1&sn=cd685d3f4ab5b4b9375552f9980ef3ff)
 - [Demystifying styled-components](https://www.joshwcomeau.com/react/demystifying-styled-components/)
 - [sorrycc/toy-vite](https://github.com/sorrycc/toy-vite)
