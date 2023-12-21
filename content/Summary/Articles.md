@@ -64,6 +64,8 @@ title: Awesome Blogs
 - [Andy Bell's Blog](https://andy-bell.co.uk/blog/)
 - [meyerweb.com](https://meyerweb.com/)
 - [Kilian Valkhof’s Blog](https://kilianvalkhof.com/)
-- [Alex Sidorenko](https://alexsidorenko.com/)
+- [Alex Sidorenko's Blog](https://alexsidorenko.com/)
+- [Daishi Kato's Blog](https://blog.axlight.com/)
+- 
 
 
