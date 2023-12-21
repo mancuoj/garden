@@ -7,6 +7,7 @@ title: Awesome Blogs
 ## To Read
 
 - 
+- [手写系列-实现一个铂金段位的 React](https://mp.weixin.qq.com/s?__biz=MzIxMzExMjYwOQ==&mid=2651896816&idx=1&sn=cd685d3f4ab5b4b9375552f9980ef3ff)
 - [Demystifying styled-components](https://www.joshwcomeau.com/react/demystifying-styled-components/)
 - [sorrycc/toy-vite](https://github.com/sorrycc/toy-vite)
 - [haixiangyan/make-wheels 一天学习一个 npm 轮子，十天后变成轮子哥](https://github.com/haixiangyan/make-wheels)

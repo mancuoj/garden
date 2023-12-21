@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSS/Tailwind 文档拾遗.md",
+                "file": "Summary/Articles.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -73,7 +73,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSS/Tailwind 文档拾遗.md",
+                "file": "Summary/Articles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,7 +90,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSS/Tailwind 文档拾遗.md",
+                "file": "Summary/Articles.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSS/Tailwind 文档拾遗.md"
+                "file": "Summary/Articles.md"
               }
             }
           }
@@ -145,23 +145,22 @@
   },
   "active": "1a6142a362618bf5",
   "lastOpenFiles": [
-    "汇总/Articles.md",
+    "Summary/Books.md",
+    "Summary/Articles.md",
     "CSS/Tailwind 文档拾遗.md",
-    "汇总/Free APIs.md",
-    "CSS/CSS Typing Animation.md",
+    "CSS/渐变文字.md",
     "CSS/CSS Reset.md",
+    "CSS/CSS Typing Animation.md",
+    "CSS/Full-Bleed Layout.md",
+    "Summary/Free APIs.md",
     "React/React + TS.md",
     "CSS/Grid 布局.md",
-    "CSS/Full-Bleed Layout.md",
     "CSS/Flex 布局.md",
     "index.md",
     "assets/Pasted image 20231219213958.png",
-    "汇总/Thoughts.md",
-    "汇总/Books.md",
+    "Summary/Thoughts.md",
     "React/React 文件名和项目规范.md",
-    "汇总",
-    "CSS/渐变文字.md",
-    "CSS/Tailwind 文档拾遗.md",
+    "Summary",
     "CSS/布局算法.md",
     "CSS/原子化 CSS.md",
     "private/templates/simple frontmatter.md",
