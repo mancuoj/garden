@@ -26,7 +26,6 @@ title: Awesome Blogs
 
 ## Done
 
-
 - 
 - [How To Learn Stuff Quickly](https://www.joshwcomeau.com/blog/how-to-learn-stuff-quickly/)
 - [Tailwind CSS v3.4: Dynamic viewport units, :has() support, balanced headlines, subgrid, and more](https://tailwindcss.com/blog/tailwindcss-v3-4)
