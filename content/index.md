@@ -18,9 +18,10 @@ date: 2023-12-01
 
 ## Todo
 
-- Jotai
 - React
 - Tailwind
+- React Router
+- Jotai
 - Next.js
 - Angular
 - Framer Motion
@@ -30,4 +31,4 @@ date: 2023-12-01
 - elysia
 - hono
 - express
-- react facts
+- 

@@ -23,9 +23,12 @@ title: Awesome Blogs
 - [重新构想原子化 CSS](https://antfu.me/posts/reimagine-atomic-css-zh)
 - [How UnoCSS works internally with Vite?](https://jser.dev/2023-09-17-how-unocss-works-with-vite/)
 - [Understanding Layout Algorithms](https://www.joshwcomeau.com/css/understanding-layout-algorithms/)
+- [Common React Hooks Mistakes You Should Avoid](https://blog.bitsrc.io/common-react-hooks-mistakes-every-developer-should-avoid-defd47d09d8c)
 - [react.dev/learn](https://zh-hans.react.dev/learn)
 - [04-003 Creating a Table](https://www.bilibili.com/video/BV1cC4y1g7ng?p=30&vd_source=4da426ef9b0e129787ecf66363321458)
 - [Tutorial v6.21.0 | React Router](https://reactrouter.com/en/main/start/tutorial)
+- [Retry, Timeout and Cancel with fetch()](https://www.chrisarmstrong.dev/posts/retry-timeout-and-cancel-with-fetch)
+- [How to React ⚛️ (kentcdodds.com)](https://kentcdodds.com/blog/how-to-react)
 
 
 ## Done
@@ -71,6 +74,6 @@ title: Awesome Blogs
 - [Alex Sidorenko's Blog](https://alexsidorenko.com/)
 - [Daishi Kato's Blog](https://blog.axlight.com/)
 - [OwenGage.com](https://owengage.com/)
+- [Chris Armstrong's Blog](https://www.chrisarmstrong.dev/)
 - 
-
 

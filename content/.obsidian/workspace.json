@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Summary/Shell Scripts.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -47,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 1,
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "Summary/Articles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "Summary/Articles.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "Summary/Articles.md"
               }
             }
           }
@@ -170,10 +170,11 @@
       "command-palette:打开命令面板": true
     }
   },
-  "active": "8f5c862dea54d77d",
+  "active": "39370dfd1e43b953",
   "lastOpenFiles": [
-    "Summary/Articles.md",
+    "Summary/Shell Scripts.md",
     "index.md",
+    "Summary/Articles.md",
     "React/React + TS.md",
     "Summary/Books.md",
     "CSS/Tailwind 文档拾遗.md",
