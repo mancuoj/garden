@@ -47,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 2,
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Summary/Articles.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Summary/Articles.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Summary/Articles.md"
+                "file": "index.md"
               }
             }
           }
@@ -170,10 +170,10 @@
       "command-palette:打开命令面板": true
     }
   },
-  "active": "39370dfd1e43b953",
+  "active": "8f5c862dea54d77d",
   "lastOpenFiles": [
-    "index.md",
     "Summary/Articles.md",
+    "index.md",
     "React/React + TS.md",
     "Summary/Books.md",
     "CSS/Tailwind 文档拾遗.md",

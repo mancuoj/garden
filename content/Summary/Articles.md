@@ -24,6 +24,7 @@ title: Awesome Blogs
 - [How UnoCSS works internally with Vite?](https://jser.dev/2023-09-17-how-unocss-works-with-vite/)
 - [Understanding Layout Algorithms](https://www.joshwcomeau.com/css/understanding-layout-algorithms/)
 - [react.dev/learn](https://zh-hans.react.dev/learn)
+- [04-003 Creating a Table](https://www.bilibili.com/video/BV1cC4y1g7ng?p=30&vd_source=4da426ef9b0e129787ecf66363321458)
 - [Tutorial v6.21.0 | React Router](https://reactrouter.com/en/main/start/tutorial)
 
 
