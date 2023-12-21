@@ -27,11 +27,6 @@ date: 2023-12-01
 - bun
 - Fetch API
 - nest.js
-
-
-## Just do it
-
-- Mixing guided and unguided learning
-- Making intentional mistakes
-- Extending tutorials
-- 
+- elysia
+- hono
+- express
