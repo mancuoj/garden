@@ -68,6 +68,7 @@ title: Awesome Blogs
 - [Kilian Valkhof’s Blog](https://kilianvalkhof.com/)
 - [Alex Sidorenko's Blog](https://alexsidorenko.com/)
 - [Daishi Kato's Blog](https://blog.axlight.com/)
+- [OwenGage.com](https://owengage.com/)
 - 
 
 
