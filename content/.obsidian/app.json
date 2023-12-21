@@ -6,7 +6,7 @@
   "readableLineLength": true,
   "promptDelete": false,
   "attachmentFolderPath": "assets",
-  "livePreview": true,
+  "livePreview": false,
   "foldHeading": false,
   "foldIndent": false,
   "useTab": false,
@@ -14,5 +14,6 @@
   "tabSize": 2,
   "showInlineTitle": true,
   "strictLineBreaks": true,
-  "rightToLeft": false
+  "rightToLeft": false,
+  "defaultViewMode": "source"
 }

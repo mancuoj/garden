@@ -7,6 +7,7 @@ title: Awesome Blogs
 ## To Read
 
 - 
+- [Demystifying styled-components](https://www.joshwcomeau.com/react/demystifying-styled-components/)
 - [sorrycc/toy-vite](https://github.com/sorrycc/toy-vite)
 - [haixiangyan/make-wheels 一天学习一个 npm 轮子，十天后变成轮子哥](https://github.com/haixiangyan/make-wheels)
 - [Dependency Managers Don’t Manage Your Dependencies 系列四篇](https://cpojer.net/posts/dependency-managers-dont-manage-your-dependencies)
@@ -19,7 +20,7 @@ title: Awesome Blogs
 - [How UnoCSS works internally with Vite?](https://jser.dev/2023-09-17-how-unocss-works-with-vite/)
 - [Understanding Layout Algorithms](https://www.joshwcomeau.com/css/understanding-layout-algorithms/)
 - [react.dev/learn](https://zh-hans.react.dev/learn) 
-- 
+
 
 ## Done
 
@@ -40,7 +41,7 @@ title: Awesome Blogs
 
 ## Collection
 
-- [MDH Weekly 前端周刊](https://mdhweekly.com/weekly)
+- [MDH Weekly 前端周刊（10/118）一天看十篇，十天看完](https://mdhweekly.com/weekly)
 - [阮一峰的科技爱好者周刊](https://www.ruanyifeng.com/blog/)
 - [前端食堂技术周刊](https://github.com/Geekhyt/weekly)
 - [Josh W Comeau's Blog](https://www.joshwcomeau.com/)
