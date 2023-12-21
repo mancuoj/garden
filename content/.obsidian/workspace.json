@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Summary/Articles.md",
+                "file": "index.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -73,7 +73,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Summary/Articles.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,7 +90,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Summary/Articles.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Summary/Articles.md"
+                "file": "index.md"
               }
             }
           }
@@ -145,8 +145,8 @@
   },
   "active": "1a6142a362618bf5",
   "lastOpenFiles": [
-    "Summary/Books.md",
     "Summary/Articles.md",
+    "Summary/Books.md",
     "CSS/Tailwind 文档拾遗.md",
     "CSS/渐变文字.md",
     "CSS/CSS Reset.md",

@@ -15,6 +15,7 @@ date: 2023-12-01
 
 ![[Pasted image 20231219213958.png]]
 
+
 ## Todo
 
 - Jotai
@@ -26,3 +27,11 @@ date: 2023-12-01
 - bun
 - Fetch API
 - nest.js
+
+
+## Just do it
+
+- Mixing guided and unguided learning
+- Making intentional mistakes
+- Extending tutorials
+- 

@@ -7,6 +7,7 @@ title: Awesome Blogs
 ## To Read
 
 - 
+- 
 - [手写系列-实现一个铂金段位的 React](https://mp.weixin.qq.com/s?__biz=MzIxMzExMjYwOQ==&mid=2651896816&idx=1&sn=cd685d3f4ab5b4b9375552f9980ef3ff)
 - [Demystifying styled-components](https://www.joshwcomeau.com/react/demystifying-styled-components/)
 - [sorrycc/toy-vite](https://github.com/sorrycc/toy-vite)
@@ -25,6 +26,9 @@ title: Awesome Blogs
 
 ## Done
 
+
+- 
+- [How To Learn Stuff Quickly](https://www.joshwcomeau.com/blog/how-to-learn-stuff-quickly/)
 - [Tailwind CSS v3.4: Dynamic viewport units, :has() support, balanced headlines, subgrid, and more](https://tailwindcss.com/blog/tailwindcss-v3-4)
 - [Super Simple Start to React](https://kentcdodds.com/blog/super-simple-start-to-react)
 - [关于 Yak Shaving](https://antfu.me/posts/about-yak-shaving-zh)
