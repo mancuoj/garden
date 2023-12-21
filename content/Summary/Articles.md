@@ -23,7 +23,8 @@ title: Awesome Blogs
 - [重新构想原子化 CSS](https://antfu.me/posts/reimagine-atomic-css-zh)
 - [How UnoCSS works internally with Vite?](https://jser.dev/2023-09-17-how-unocss-works-with-vite/)
 - [Understanding Layout Algorithms](https://www.joshwcomeau.com/css/understanding-layout-algorithms/)
-- [react.dev/learn](https://zh-hans.react.dev/learn) 
+- [react.dev/learn](https://zh-hans.react.dev/learn)
+- [Tutorial v6.21.0 | React Router](https://reactrouter.com/en/main/start/tutorial)
 
 
 ## Done
