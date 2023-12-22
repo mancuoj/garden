@@ -7,7 +7,6 @@ title: Awesome Blogs
 - DRY - Don't Repeat Yourself
 - WET - Write Evrything Twice
 - AHA - Avoid Hasty Abstractions
-- 
 
 
 ## To Read
