@@ -13,7 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React/React + TS.md",
+                "file": "Summary/Articles.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "7f2ced755007e61b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Summary/Books.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -39,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Summary/Articles.md",
+                "file": "Summary/Books.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -47,7 +60,6 @@
             }
           }
         ],
-        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -170,24 +182,24 @@
       "command-palette:打开命令面板": true
     }
   },
-  "active": "39370dfd1e43b953",
+  "active": "1a6142a362618bf5",
   "lastOpenFiles": [
-    "Summary/Shell Scripts.md",
-    "index.md",
-    "Summary/Articles.md",
-    "React/React + TS.md",
     "Summary/Books.md",
+    "Summary/Articles.md",
+    "React/React 文件名和项目规范.md",
+    "React/React + TS.md",
+    "Summary/Shell Scripts.md",
+    "Summary/Free APIs.md",
+    "index.md",
     "CSS/Tailwind 文档拾遗.md",
     "CSS/渐变文字.md",
     "CSS/CSS Reset.md",
     "CSS/CSS Typing Animation.md",
     "CSS/Full-Bleed Layout.md",
-    "Summary/Free APIs.md",
     "CSS/Grid 布局.md",
     "CSS/Flex 布局.md",
     "assets/Pasted image 20231219213958.png",
     "Summary/Thoughts.md",
-    "React/React 文件名和项目规范.md",
     "Summary",
     "CSS/布局算法.md",
     "CSS/原子化 CSS.md",

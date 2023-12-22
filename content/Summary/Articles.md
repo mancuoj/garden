@@ -77,5 +77,6 @@ title: Awesome Blogs
 - [Daishi Kato's Blog](https://blog.axlight.com/)
 - [OwenGage.com](https://owengage.com/)
 - [Chris Armstrong's Blog](https://www.chrisarmstrong.dev/)
+- [我的抓码人生](https://liruifengv.com/)
 - 
 
