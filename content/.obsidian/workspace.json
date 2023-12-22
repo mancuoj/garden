@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Summary/Articles.md",
+                "file": "JS/可选链.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Summary/Articles.md",
+                "file": "JS/可选链.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Summary/Articles.md",
+                "file": "JS/可选链.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Summary/Articles.md"
+                "file": "JS/可选链.md"
               }
             }
           }
@@ -184,8 +184,11 @@
   },
   "active": "1a6142a362618bf5",
   "lastOpenFiles": [
-    "Summary/Books.md",
+    "JS/空值合并符.md",
+    "JS/可选链.md",
     "Summary/Articles.md",
+    "JS",
+    "Summary/Books.md",
     "React/React 文件名和项目规范.md",
     "React/React + TS.md",
     "Summary/Shell Scripts.md",
@@ -210,8 +213,6 @@
     "Linux/新买服务器的一些设置.md",
     "Angular/ngDoCheck 钩子.md",
     "Angular/getter, setter.md",
-    "Angular/模板引用变量.md",
-    "obsidian md 扩展语法.md",
     "未命名.canvas",
     "未命名 1.canvas",
     "Angular",
@@ -231,7 +232,6 @@
     "assets/nav.png",
     "Canvas/ideas.canvas",
     "CSS",
-    "Canvas",
     "assets/draw1.png"
   ]
 }
