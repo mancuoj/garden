@@ -4,6 +4,12 @@ title: Awesome Blogs
 
 记录读过或想读的好文章，以及好的 Bloger，书单记录在[[Books|这里]]，都用来对抗我日渐衰退的记忆力 🥹
 
+- DRY - Don't Repeat Yourself
+- WET - Write Evrything Twice
+- AHA - Avoid Hasty Abstractions
+- 
+
+
 ## To Read
 
 - 
@@ -30,12 +36,20 @@ title: Awesome Blogs
 - [Retry, Timeout and Cancel with fetch()](https://www.chrisarmstrong.dev/posts/retry-timeout-and-cancel-with-fetch)
 - [How to Create and Publish a React Component Library](https://dev.to/alexeagleson/how-to-create-and-publish-a-react-component-library-2oe)
 - [React with TypeScript Cheatsheet. An answer to all your React typing](https://blog.bitsrc.io/react-with-typescript-cheatsheet-9dd891dc5bfe)
-- [How to React ⚛️ (kentcdodds.com)](https://kentcdodds.com/blog/how-to-react)
+- 
 
 
 ## Done
 
+
+
+
 - 
+- [闭包 - JavaScript](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Closures#%E7%94%A8%E9%97%AD%E5%8C%85%E6%A8%A1%E6%8B%9F%E7%A7%81%E6%9C%89%E6%96%B9%E6%B3%95)
+- [JavaScript to Know for React](https://kentcdodds.com/blog/javascript-to-know-for-react)
+- [How to React ⚛️](https://kentcdodds.com/blog/how-to-react)
+- [The Wrong Abstraction](https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction)
+- [AHA Programming](https://keenwon.com/aha-programming/)
 - [How To Learn Stuff Quickly](https://www.joshwcomeau.com/blog/how-to-learn-stuff-quickly/)
 - [Tailwind CSS v3.4: Dynamic viewport units, :has() support, balanced headlines, subgrid, and more](https://tailwindcss.com/blog/tailwindcss-v3-4)
 - [Super Simple Start to React](https://kentcdodds.com/blog/super-simple-start-to-react)
