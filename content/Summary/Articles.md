@@ -12,6 +12,8 @@ title: Awesome Blogs
 ## To Read
 
 - 
+- [Creating a Schema-Based Form System](https://www.taniarascia.com/schema-based-form-system/)
+- [Monorepo Explained](https://monorepo.tools/#understanding-monorepos)
 - [Defensive CSS](https://ishadeed.com/article/defensive-css/)
 - [Patterns.dev](https://www.patterns.dev/)
 - [12 Days of Web](https://12daysofweb.dev/)
@@ -96,4 +98,6 @@ title: Awesome Blogs
 - [Chris Armstrong's Blog](https://www.chrisarmstrong.dev/)
 - [我的抓码人生](https://liruifengv.com/)
 - [Ahmad Shadeed's Articles](https://ishadeed.com/articles)
+- [EGOIST](https://egoist.dev/)
+- [Tania Rascia's Blog](https://www.taniarascia.com/blog)
 
