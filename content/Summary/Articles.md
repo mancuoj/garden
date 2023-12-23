@@ -11,6 +11,10 @@ title: Awesome Blogs
 
 ## To Read
 
+- 
+- [Tao of React](https://alexkondov.com/tao-of-react/)
+- [Reading Code - React-Query](https://alexkondov.com/reading-source-code-react-query/)
+- [Building a Mini Next.js](https://hire.jonasgalvez.com.br/2022/may/18/building-a-mini-next-js/)
 - [How to Read the ECMAScript Specification](https://timothygu.me/es-howto/)
 - [How To Develop A Text Editor For The Web](https://www.smashingmagazine.com/2022/02/develop-text-editor-web/)
 - [Creating a Schema-Based Form System](https://www.taniarascia.com/schema-based-form-system/)
@@ -108,4 +112,5 @@ title: Awesome Blogs
 - [Developer Way](https://www.developerway.com/posts)
 - [alexkondov's Articles](https://alexkondov.com/articles/)
 - [Chak Shun Yu's Blog](https://www.chakshunyu.com/blog/)
+- [Jonas Galvez's Blog](https://hire.jonasgalvez.com.br/)
 
