@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JS/可选链.md",
+                "file": "JS/空值合并符.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -47,6 +47,7 @@
             }
           }
         ],
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -99,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JS/可选链.md",
+                "file": "Summary/Articles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JS/可选链.md",
+                "file": "Summary/Articles.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JS/可选链.md"
+                "file": "Summary/Articles.md"
               }
             }
           }
@@ -169,12 +170,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1a6142a362618bf5",
+  "active": "112110b234fea1d0",
   "lastOpenFiles": [
-    "Summary/Articles.md",
     "Summary/Books.md",
-    "JS/可选链.md",
     "JS/空值合并符.md",
+    "JS/可选链.md",
+    "Summary/Articles.md",
     "Summary/Shell Scripts.md",
     "index.md",
     "JS",
