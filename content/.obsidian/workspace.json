@@ -47,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 2,
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Summary/Articles.md",
+                "file": "Summary/Books.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Summary/Articles.md",
+                "file": "Summary/Books.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Summary/Articles.md"
+                "file": "Summary/Books.md"
               }
             }
           }
@@ -170,10 +170,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "112110b234fea1d0",
+  "active": "7f2ced755007e61b",
   "lastOpenFiles": [
-    "Summary/Books.md",
     "Summary/Articles.md",
+    "Summary/Books.md",
     "JS/可选链.md",
     "JS/空值合并符.md",
     "Summary/Shell Scripts.md",
