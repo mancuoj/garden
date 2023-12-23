@@ -30,13 +30,24 @@ const config: QuartzConfig = {
           highlight: "rgba(143, 159, 169, 0.15)",
         },
         // darkMode: {
+        //   // ORIGIN
+        //   light: "#161618",         // 背景
+        //   lightgray: "#393639",     // 边框
+        //   gray: "#646464",
+        //   darkgray: "#d4d4d4",      // 正文
+        //   dark: "#ebebec",          // 标题
+        //   secondary: "#7b97aa",     // 链接
+        //   tertiary: "#84a59d",
+        //   highlight: "rgba(143, 159, 169, 0.15)",
+        // },
+        // darkMode: {
         //   // JOSH
-        //   light: "#0E141B", // 背景
-        //   lightgray: "#182635", // 边框
+        //   light: "#0E141B", 
+        //   lightgray: "#182635", 
         //   gray: "#7b97aa",
-        //   darkgray: "#FFFFFF", // 正文
-        //   dark: "#FFE100", // 标题
-        //   secondary: "#617BFF", // 链接
+        //   darkgray: "#FFFFFF", 
+        //   dark: "#FFE100", 
+        //   secondary: "#617BFF", 
         //   tertiary: "#84a59d",
         //   highlight: "rgba(143, 159, 169, 0.15)",
         // },
