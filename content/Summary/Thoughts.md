@@ -26,7 +26,7 @@ title: Thoughts
 
 ![[draw1.png]]
 
-### 可参考项目
+### 参考
 
 - [flomo · 浮墨笔记](https://flomoapp.com/)
 - [usememos/memos](https://github.com/usememos/memos)
@@ -52,7 +52,7 @@ title: Thoughts
   - 钢琴键
   - qq 炫舞
 
-### 可参考项目
+### 参考
 
 - [RealKai42/qwerty-learner](https://github.com/RealKai42/qwerty-learner)
 - [webzhd/code-game](https://github.com/webzhd/code-game)
@@ -66,3 +66,14 @@ title: Thoughts
 - [Samyak2/toipe](https://github.com/Samyak2/toipe)
 - [lemnos/tt](https://github.com/lemnos/tt)
 
+## 小游戏合集
+
+### 想法
+
+- 贪吃蛇
+- Tic Tac Toe
+- 扫雷
+
+### 参考
+
+- [Neave Interactive](https://neave.com/)

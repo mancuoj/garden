@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React/React + TS.md",
+                "file": "Summary/Thoughts.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -60,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 2,
+        "currentTab": 3,
         "stacked": true
       }
     ],
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "Summary/Articles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "Summary/Articles.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "Summary/Articles.md"
               }
             }
           }
@@ -183,12 +183,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "112110b234fea1d0",
+  "active": "c6e84b0292afc620",
   "lastOpenFiles": [
-    "Summary/Articles.md",
     "index.md",
     "Summary/Books.md",
+    "Summary/Thoughts.md",
+    "obsidian md 扩展语法.md",
+    "React/React 文件名和项目规范.md",
     "React/React + TS.md",
+    "Summary/Articles.md",
     "CSS/Tailwind 文档拾遗.md",
     "CSS/渐变文字.md",
     "CSS/同时设置高度和宽度.md",
@@ -196,7 +199,6 @@
     "JS/可选链.md",
     "Summary/Shell Scripts.md",
     "JS",
-    "React/React 文件名和项目规范.md",
     "Summary/Free APIs.md",
     "CSS/CSS Reset.md",
     "CSS/CSS Typing Animation.md",
@@ -204,7 +206,6 @@
     "CSS/Grid 布局.md",
     "CSS/Flex 布局.md",
     "assets/Pasted image 20231219213958.png",
-    "Summary/Thoughts.md",
     "Summary",
     "CSS/布局算法.md",
     "CSS/原子化 CSS.md",
@@ -213,7 +214,6 @@
     "posts/Vue2 TodoMVC（下）.md",
     "posts/Vue2 TodoMVC（上）.md",
     "Linux/新买服务器的一些设置.md",
-    "Angular/ngDoCheck 钩子.md",
     "未命名.canvas",
     "未命名 1.canvas",
     "Angular",

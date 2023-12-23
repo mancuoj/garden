@@ -12,6 +12,7 @@ title: Awesome Blogs
 ## To Read
 
 - 
+- [Rethink Modals Management in React](https://medium.com/ebaytech/rethink-modals-management-in-react-cf3b6804223d)
 - [kettanaito/naming-cheatsheet](https://github.com/kettanaito/naming-cheatsheet)
 - [daishi/7guis](https://codesandbox.io/search?query=daishi%207gui&page=1&configure%5BhitsPerPage%5D=12)
 - [7GUIs](https://eugenkiss.github.io/7guis/)
@@ -35,6 +36,7 @@ title: Awesome Blogs
 - [Retry, Timeout and Cancel with fetch()](https://www.chrisarmstrong.dev/posts/retry-timeout-and-cancel-with-fetch)
 - [How to Create and Publish a React Component Library](https://dev.to/alexeagleson/how-to-create-and-publish-a-react-component-library-2oe)
 - [React with TypeScript Cheatsheet. An answer to all your React typing](https://blog.bitsrc.io/react-with-typescript-cheatsheet-9dd891dc5bfe)
+- 
 - 
 
 
