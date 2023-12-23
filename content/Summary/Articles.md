@@ -45,7 +45,7 @@ title: Awesome Blogs
 - [A Complete Guide to React Router: Everything You Need to Know](https://ui.dev/react-router-tutorial)
 - [10 Must-Know Patterns for Writing Clean Code with React and TypeScript](https://dev.to/alexomeyer/10-must-know-patterns-for-writing-clean-code-with-react-and-typescript-1m0g)
 - [React component as prop: the right way](https://www.developerway.com/posts/react-component-as-prop-the-right-way)
-- 
+- [Extract parameter types from string literal types with TypeScript](https://lihautan.com/extract-parameters-type-from-string-literal-types-with-typescript/)
 
 
 ## Past
@@ -106,5 +106,6 @@ title: Awesome Blogs
 - [Smashing Magazine](https://www.smashingmagazine.com/articles/)
 - [nan.fyi](https://www.nan.fyi/)
 - [Developer Way](https://www.developerway.com/posts)
-- 
+- [alexkondov's Articles](https://alexkondov.com/articles/)
+- [Chak Shun Yu's Blog](https://www.chakshunyu.com/blog/)
 
