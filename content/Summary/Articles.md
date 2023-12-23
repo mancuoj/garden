@@ -11,7 +11,8 @@ title: Awesome Blogs
 
 ## To Read
 
-- 
+- [How to Read the ECMAScript Specification](https://timothygu.me/es-howto/)
+- [How To Develop A Text Editor For The Web](https://www.smashingmagazine.com/2022/02/develop-text-editor-web/)
 - [Creating a Schema-Based Form System](https://www.taniarascia.com/schema-based-form-system/)
 - [Monorepo Explained](https://monorepo.tools/#understanding-monorepos)
 - [Defensive CSS](https://ishadeed.com/article/defensive-css/)
@@ -42,6 +43,8 @@ title: Awesome Blogs
 - [How to Create and Publish a React Component Library](https://dev.to/alexeagleson/how-to-create-and-publish-a-react-component-library-2oe)
 - [React with TypeScript Cheatsheet. An answer to all your React typing](https://blog.bitsrc.io/react-with-typescript-cheatsheet-9dd891dc5bfe)
 - [A Complete Guide to React Router: Everything You Need to Know](https://ui.dev/react-router-tutorial)
+- [10 Must-Know Patterns for Writing Clean Code with React and TypeScript](https://dev.to/alexomeyer/10-must-know-patterns-for-writing-clean-code-with-react-and-typescript-1m0g)
+- [React component as prop: the right way](https://www.developerway.com/posts/react-component-as-prop-the-right-way)
 - 
 
 
@@ -50,7 +53,7 @@ title: Awesome Blogs
 ### Dec 2023
 
 - [使用结构化克隆在 JavaScript 中进行深层复制](https://web.dev/articles/structured-clone?hl=zh-cn)
-- [闭包 - JavaScript](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Closures#%E7%94%A8%E9%97%AD%E5%8C%85%E6%A8%A1%E6%8B%9F%E7%A7%81%E6%9C%89%E6%96%B9%E6%B3%95)
+- [闭包 - MDN](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Closures#%E7%94%A8%E9%97%AD%E5%8C%85%E6%A8%A1%E6%8B%9F%E7%A7%81%E6%9C%89%E6%96%B9%E6%B3%95)
 - [JavaScript to Know for React](https://kentcdodds.com/blog/javascript-to-know-for-react)
 - [How to React ⚛️](https://kentcdodds.com/blog/how-to-react)
 - [The Wrong Abstraction](https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction)
@@ -100,4 +103,8 @@ title: Awesome Blogs
 - [Ahmad Shadeed's Articles](https://ishadeed.com/articles)
 - [EGOIST](https://egoist.dev/)
 - [Tania Rascia's Blog](https://www.taniarascia.com/blog)
+- [Smashing Magazine](https://www.smashingmagazine.com/articles/)
+- [nan.fyi](https://www.nan.fyi/)
+- [Developer Way](https://www.developerway.com/posts)
+- 
 
