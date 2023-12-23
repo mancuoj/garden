@@ -12,6 +12,9 @@ title: Awesome Blogs
 ## To Read
 
 - 
+- [Defensive CSS](https://ishadeed.com/article/defensive-css/)
+- [Patterns.dev](https://www.patterns.dev/)
+- [12 Days of Web](https://12daysofweb.dev/)
 - [Rethink Modals Management in React](https://medium.com/ebaytech/rethink-modals-management-in-react-cf3b6804223d)
 - [kettanaito/naming-cheatsheet](https://github.com/kettanaito/naming-cheatsheet)
 - [daishi/7guis](https://codesandbox.io/search?query=daishi%207gui&page=1&configure%5BhitsPerPage%5D=12)
@@ -36,7 +39,7 @@ title: Awesome Blogs
 - [Retry, Timeout and Cancel with fetch()](https://www.chrisarmstrong.dev/posts/retry-timeout-and-cancel-with-fetch)
 - [How to Create and Publish a React Component Library](https://dev.to/alexeagleson/how-to-create-and-publish-a-react-component-library-2oe)
 - [React with TypeScript Cheatsheet. An answer to all your React typing](https://blog.bitsrc.io/react-with-typescript-cheatsheet-9dd891dc5bfe)
-- 
+- [A Complete Guide to React Router: Everything You Need to Know](https://ui.dev/react-router-tutorial)
 - 
 
 
@@ -44,7 +47,7 @@ title: Awesome Blogs
 
 ### Dec 2023
 
-- 
+- [使用结构化克隆在 JavaScript 中进行深层复制](https://web.dev/articles/structured-clone?hl=zh-cn)
 - [闭包 - JavaScript](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Closures#%E7%94%A8%E9%97%AD%E5%8C%85%E6%A8%A1%E6%8B%9F%E7%A7%81%E6%9C%89%E6%96%B9%E6%B3%95)
 - [JavaScript to Know for React](https://kentcdodds.com/blog/javascript-to-know-for-react)
 - [How to React ⚛️](https://kentcdodds.com/blog/how-to-react)
@@ -92,5 +95,5 @@ title: Awesome Blogs
 - [OwenGage.com](https://owengage.com/)
 - [Chris Armstrong's Blog](https://www.chrisarmstrong.dev/)
 - [我的抓码人生](https://liruifengv.com/)
-- 
+- [Ahmad Shadeed's Articles](https://ishadeed.com/articles)
 
