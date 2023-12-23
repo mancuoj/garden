@@ -33,35 +33,35 @@ const config: QuartzConfig = {
         //   // ORIGIN
         //   light: "#161618",         // 背景
         //   lightgray: "#393639",     // 边框
-        //   gray: "#646464",
+        //   gray: "#646464",          // 信息
         //   darkgray: "#d4d4d4",      // 正文
         //   dark: "#ebebec",          // 标题
         //   secondary: "#7b97aa",     // 链接
         //   tertiary: "#84a59d",
         //   highlight: "rgba(143, 159, 169, 0.15)",
         // },
-        // darkMode: {
-        //   // JOSH
-        //   light: "#0E141B", 
-        //   lightgray: "#182635", 
-        //   gray: "#7b97aa",
-        //   darkgray: "#FFFFFF", 
-        //   dark: "#FFE100", 
-        //   secondary: "#617BFF", 
-        //   tertiary: "#84a59d",
-        //   highlight: "rgba(143, 159, 169, 0.15)",
-        // },
         darkMode: {
-          // TAILWIND
-          light: "#0F172A",
-          lightgray: "#182635",
-          gray: "#1E293B",
-          darkgray: "#8F9DB3",
-          dark: "#E4E9F2",
-          secondary: "#38BDF8",
+          // JOSH
+          light: "#0E141B", 
+          lightgray: "#182635", 
+          gray: "#9CA7B3",
+          darkgray: "#FFFFFF", 
+          dark: "#FFE100",
+          secondary: "#617BFF",
           tertiary: "#84a59d",
           highlight: "rgba(143, 159, 169, 0.15)",
         },
+        // darkMode: {
+        //   // TAILWIND
+        //   light: "#0F172A",
+        //   lightgray: "#182635",
+        //   gray: "#646464",
+        //   darkgray: "#8F9DB3",
+        //   dark: "#E4E9F2",
+        //   secondary: "#38BDF8",
+        //   tertiary: "#84a59d",
+        //   highlight: "rgba(143, 159, 169, 0.15)",
+        // },
       },
     },
   },
