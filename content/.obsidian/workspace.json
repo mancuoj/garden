@@ -16,7 +16,7 @@
                 "file": "JS/可选链.md",
                 "mode": "source",
                 "backlinks": false,
-                "source": false
+                "source": true
               }
             }
           },
@@ -29,7 +29,7 @@
                 "file": "Summary/Books.md",
                 "mode": "source",
                 "backlinks": false,
-                "source": false
+                "source": true
               }
             }
           },
@@ -42,12 +42,11 @@
                 "file": "Summary/Articles.md",
                 "mode": "source",
                 "backlinks": false,
-                "source": false
+                "source": true
               }
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -100,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Summary/Books.md",
+                "file": "JS/可选链.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Summary/Books.md",
+                "file": "JS/可选链.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Summary/Books.md"
+                "file": "JS/可选链.md"
               }
             }
           }
@@ -170,7 +169,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7f2ced755007e61b",
+  "active": "1a6142a362618bf5",
   "lastOpenFiles": [
     "Summary/Articles.md",
     "Summary/Books.md",

@@ -6,7 +6,7 @@
   "readableLineLength": true,
   "promptDelete": false,
   "attachmentFolderPath": "assets",
-  "livePreview": true,
+  "livePreview": false,
   "foldHeading": false,
   "foldIndent": false,
   "useTab": false,

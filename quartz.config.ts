@@ -29,12 +29,24 @@ const config: QuartzConfig = {
           tertiary: "#84a59d",
           highlight: "rgba(143, 159, 169, 0.15)",
         },
+        // darkMode: {
+        //   // JOSH
+        //   light: "#0E141B", // 背景
+        //   lightgray: "#182635", // 边框
+        //   gray: "#617BFF", // 链接
+        //   darkgray: "#FFFFFF", // 正文
+        //   dark: "#FFE100", // 标题
+        //   secondary: "#7b97aa",
+        //   tertiary: "#84a59d",
+        //   highlight: "rgba(143, 159, 169, 0.15)",
+        // },
         darkMode: {
-          light: "#0E141B",
+          // TAILWIND
+          light: "#0F172A",
           lightgray: "#182635",
-          gray: "#617BFF",
-          darkgray: "#FFFFFF",
-          dark: "#FFE100",
+          gray: "#38BDF8",
+          darkgray: "#8F9DB3",
+          dark: "#E4E9F2",
           secondary: "#7b97aa",
           tertiary: "#84a59d",
           highlight: "rgba(143, 159, 169, 0.15)",
