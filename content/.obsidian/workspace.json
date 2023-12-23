@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Summary/Articles.md",
+                "file": "index.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Summary/Articles.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Summary/Articles.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Summary/Articles.md"
+                "file": "index.md"
               }
             }
           }
@@ -172,10 +172,10 @@
   },
   "active": "112110b234fea1d0",
   "lastOpenFiles": [
+    "Summary/Articles.md",
     "Summary/Books.md",
     "React/React + TS.md",
     "CSS/Tailwind 文档拾遗.md",
-    "Summary/Articles.md",
     "CSS/渐变文字.md",
     "CSS/同时设置高度和宽度.md",
     "JS/空值合并符.md",
