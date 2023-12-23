@@ -6,13 +6,12 @@ date: 2023-12-18
 ## FC
 
 ```tsx
-import { FC } from 'react'
-
 interface AppProps {
   title: string
+  children: ReactNode
 }
 
-const App: FC<AppProps> = ({ title }) => {
+const App: FC<AppProps> = ({ title, children }) => {
   return <h1>Hello {title}</h1>
 }
 ```
@@ -21,10 +20,9 @@ const App: FC<AppProps> = ({ title }) => {
 
 ## useState
 
-自动推断类型：
-
 ```tsx
 const [enabled, setEnabled] = useState(false)
+const [title, setTitle] = useState<string | null>(null)
 ```
 
 联合类型：
