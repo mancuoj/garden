@@ -33,10 +33,10 @@ const config: QuartzConfig = {
         //   // JOSH
         //   light: "#0E141B", // 背景
         //   lightgray: "#182635", // 边框
-        //   gray: "#617BFF", // 链接
+        //   gray: "#7b97aa",
         //   darkgray: "#FFFFFF", // 正文
         //   dark: "#FFE100", // 标题
-        //   secondary: "#7b97aa",
+        //   secondary: "#617BFF", // 链接
         //   tertiary: "#84a59d",
         //   highlight: "rgba(143, 159, 169, 0.15)",
         // },
@@ -44,10 +44,10 @@ const config: QuartzConfig = {
           // TAILWIND
           light: "#0F172A",
           lightgray: "#182635",
-          gray: "#38BDF8",
+          gray: "#1E293B",
           darkgray: "#8F9DB3",
           dark: "#E4E9F2",
-          secondary: "#7b97aa",
+          secondary: "#38BDF8",
           tertiary: "#84a59d",
           highlight: "rgba(143, 159, 169, 0.15)",
         },
