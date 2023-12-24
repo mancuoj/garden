@@ -121,4 +121,5 @@ title: Awesome Blogs
 - [Frontend Mastery's Posts](https://frontendmastery.com/posts/)
 - [Fatih's Personal's Blog](https://blog.6nok.org/)
 - [Daily Dev Tips](https://daily-dev-tips.com/archive/)
+- [Exploring JS: JavaScript books for programmers](https://exploringjs.com/)
 - 
