@@ -11,7 +11,9 @@ title: Awesome Blogs
 
 ## To Read
 
-- 
+
+- [Creating a text typing effect with React](https://www.julienthibeaut.xyz/blog/create-text-typing-effect-with-react)
+- [View Transitions API & meta frameworks: a practical guide](https://bejamas.io/blog/what-is-view-transitions-api/)
 - [Building a toast component](https://emilkowal.ski/ui/building-a-toast-component)
 - [Case Study: Rebuilding TechCrunch layout with modern CSS](https://ishadeed.com/article/rebuilding-techcrunch-modern-css)
 - [#07: Current state of state management)](https://newsletter.bytebullet.dev/p/07-current-state-of-state-management)
@@ -135,6 +137,7 @@ title: Awesome Blogs
 - [rauno.me](https://rauno.me/)
 - [leerob.io](https://leerob.io/blog)
 - [Dan Hollick's Blog](https://typefully.com/DanHollick)
+- [julienthibeaut's Blog](https://www.julienthibeaut.xyz/blog)
 - [Thomas Ledoux's Blog](https://www.thomasledoux.be/blog)
 - [jser.dev](https://jser.dev/)
 - [sinja.io](https://sinja.io/)
