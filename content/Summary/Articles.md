@@ -12,7 +12,7 @@ title: Awesome Blogs
 ## To Read
 
 
-- 
+- [#07: Current state of state management)](https://newsletter.bytebullet.dev/p/07-current-state-of-state-management)
 - [Array Types in TypeScript](https://tkdodo.eu/blog/array-types-in-type-script)
 - [Building a Two-Way Data Binding Hook for Form Inputs in React](https://macarthur.me/posts/binding-input-state-in-react)
 - [Sending UI over APIs](https://www.builder.io/blog/ui-over-apis)
@@ -177,4 +177,4 @@ title: Awesome Blogs
 - [scastiel.dev](https://scastiel.dev/articles)
 - [Alex MacArthur's Posts](https://macarthur.me/posts)
 - [webup.org](https://webup.org/blog/)
-- 
+- [Matt Rickard's Blog](https://matt-rickard.com/archive)
