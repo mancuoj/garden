@@ -11,6 +11,9 @@ title: Awesome Blogs
 
 ## To Read
 
+- 
+- [Zod: The Next Biggest thing after Typescript](https://dev.to/jareechang/zod-the-next-biggest-thing-after-typescript-4phh)
+- [3D in CSS](https://garden.bradwoods.io/notes/css/3d)
 - [Inside React Query](https://tkdodo.eu/blog/inside-react-query)
 - [Shell scripting with Node.js](https://exploringjs.com/nodejs-shell-scripting/toc.html)
 - [Command Line Interface Guidelines](https://clig.dev/)
@@ -57,12 +60,15 @@ title: Awesome Blogs
 - [10 Must-Know Patterns for Writing Clean Code with React and TypeScript](https://dev.to/alexomeyer/10-must-know-patterns-for-writing-clean-code-with-react-and-typescript-1m0g)
 - [React component as prop: the right way](https://www.developerway.com/posts/react-component-as-prop-the-right-way)
 - [Extract parameter types from string literal types with TypeScript](https://lihautan.com/extract-parameters-type-from-string-literal-types-with-typescript/)
+- [Data binding in React: how to work with forms in React](https://www.joshwcomeau.com/react/data-binding/)
 
 
 ## Past
 
 ### Dec 2023
 
+
+- 
 - [使用结构化克隆在 JavaScript 中进行深层复制](https://web.dev/articles/structured-clone?hl=zh-cn)
 - [闭包 - MDN](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Closures#%E7%94%A8%E9%97%AD%E5%8C%85%E6%A8%A1%E6%8B%9F%E7%A7%81%E6%9C%89%E6%96%B9%E6%B3%95)
 - [JavaScript to Know for React](https://kentcdodds.com/blog/javascript-to-know-for-react)
@@ -79,11 +85,7 @@ title: Awesome Blogs
 - [Modern CSS Reset / Global Styles](https://www.joshwcomeau.com/css/custom-css-reset/)
 - [Your CSS reset needs text-size-adjust (probably)](https://kilianvalkhof.com/2022/css-html/your-css-reset-needs-text-size-adjust-probably/)
 - [CSS Tools: Reset CSS](https://meyerweb.com/eric/tools/css/reset/index.html)
-- [Preflight - Tailwind CSS](https://tailwindcss.com/docs/preflight)
-- [Style Reset](https://unocss.dev/guide/style-reset)
-- [csstools/normalize.css](https://github.com/csstools/normalize.css)
-- [csstools/sanitize.css](https://github.com/csstools/sanitize.css)
-- [sindresorhus/modern-normalize](https://github.com/sindresorhus/modern-normalize)
+
 
 ## Collection
 
@@ -127,4 +129,4 @@ title: Awesome Blogs
 - [Exploring JS: JavaScript books for programmers](https://exploringjs.com/)
 - [TkDodo's Blog](https://tkdodo.eu/blog/all)
 - [OpenReplay Blog](https://blog.openreplay.com/)
-- 
+- [Brad Woods' Digital Garden](https://garden.bradwoods.io/)
