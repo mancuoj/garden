@@ -12,9 +12,9 @@ title: Awesome Blogs
 ## To Read
 
 
-
-
 - 
+- [Array Types in TypeScript](https://tkdodo.eu/blog/array-types-in-type-script)
+- [Building a Two-Way Data Binding Hook for Form Inputs in React](https://macarthur.me/posts/binding-input-state-in-react)
 - [Sending UI over APIs](https://www.builder.io/blog/ui-over-apis)
 - [React Global State as Local State](https://webup.org/blog/react-global-state-as-local-state/)
 - [Mastering infer in TypeScript](https://javascript.plainenglish.io/mastering-infer-in-typescript-6cf3f93cca86)
