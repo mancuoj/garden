@@ -12,6 +12,11 @@ title: Awesome Blogs
 ## To Read
 
 - 
+- [Modularizing React Applications with Established UI Patterns](https://martinfowler.com/articles/modularizing-react-apps.html)
+- [How to handle errors in React: full guide](https://www.developerway.com/posts/how-to-handle-errors-in-react)
+- [Custom React Hooks and When to Use Them](https://thoughtbot.com/blog/custom-react-hooks)
+- [Improving readability with React Wrap Balancer](https://vercel.com/blog/react-wrap-balancer)
+- [20 Things I've Learned in my 20 Years as a Software Engineer](https://www.simplethread.com/20-things-ive-learned-in-my-20-years-as-a-software-engineer/)
 - [How to debounce and throttle in React without losing your mind](https://www.developerway.com/posts/debouncing-in-react)
 - [Rethinking the Component API](https://blog.excalidraw.com/redesigning-editor-api/)
 - [Zod: The Next Biggest thing after Typescript](https://dev.to/jareechang/zod-the-next-biggest-thing-after-typescript-4phh)
@@ -71,6 +76,7 @@ title: Awesome Blogs
 
 
 - 
+- [开发一个浏览器插件在第三天卖出 1000 元](https://lutaonan.com/blog/my-extension-sold-1k-yuan/)
 - [使用结构化克隆在 JavaScript 中进行深层复制](https://web.dev/articles/structured-clone?hl=zh-cn)
 - [闭包 - MDN](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Closures#%E7%94%A8%E9%97%AD%E5%8C%85%E6%A8%A1%E6%8B%9F%E7%A7%81%E6%9C%89%E6%96%B9%E6%B3%95)
 - [JavaScript to Know for React](https://kentcdodds.com/blog/javascript-to-know-for-react)
@@ -91,21 +97,24 @@ title: Awesome Blogs
 
 ## Collection
 
-- [MDH Weekly 前端周刊（62/118）](https://mdhweekly.com/weekly)
+- [MDH Weekly 前端周刊](https://mdhweekly.com/weekly)
 - [阮一峰的科技爱好者周刊](https://www.ruanyifeng.com/blog/)
 - [前端食堂技术周刊](https://github.com/Geekhyt/weekly)
+- [web.dev](https://web.dev/blog)
+- [Vercel Blog](https://vercel.com/blog/category/engineering)
 - [Josh W Comeau's Blog](https://www.joshwcomeau.com/)
 - [Dan Abramov's Blog](https://overreacted.io/)
-- [Rauno Freiberg](https://rauno.me/)
+- [rauno.me](https://rauno.me/)
+- [leerob.io](https://leerob.io/blog)
 - [Dan Hollick's Blog](https://typefully.com/DanHollick)
 - [Thomas Ledoux's Blog](https://www.thomasledoux.be/blog)
 - [jser.dev](https://jser.dev/)
 - [sinja.io](https://sinja.io/)
-- [Antfu's Blog](https://antfu.me/posts)
+- [antfu.me](https://antfu.me/posts)
 - [Josh Collinsworth's Blog](https://joshcollinsworth.com/)
 - [The Kent C. Dodds's Blog](https://kentcdodds.com/blog)
-- [Innei's Blog](https://innei.in/posts)
-- [Cali's Blog](https://cali.so/blog)
+- [innei.in](https://innei.in/posts)
+- [cali.so](https://cali.so/blog)
 - [Jason's Blog](https://www.learnwithjason.dev/blog/)
 - [phuoc.ng](https://phuoc.ng/)
 - [Andy Bell's Blog](https://andy-bell.co.uk/blog/)
@@ -117,7 +126,7 @@ title: Awesome Blogs
 - [Chris Armstrong's Blog](https://www.chrisarmstrong.dev/)
 - [我的抓码人生](https://liruifengv.com/)
 - [Ahmad Shadeed's Articles](https://ishadeed.com/articles)
-- [EGOIST](https://egoist.dev/)
+- [egoist.dev](https://egoist.dev/)
 - [Tania Rascia's Blog](https://www.taniarascia.com/blog)
 - [Smashing Magazine](https://www.smashingmagazine.com/articles/)
 - [nan.fyi](https://www.nan.fyi/)
