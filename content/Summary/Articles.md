@@ -11,7 +11,7 @@ title: Awesome Blogs
 
 ## To Read
 
-
+- [Case Study: Rebuilding TechCrunch layout with modern CSS](https://ishadeed.com/article/rebuilding-techcrunch-modern-css)
 - [#07: Current state of state management)](https://newsletter.bytebullet.dev/p/07-current-state-of-state-management)
 - [Array Types in TypeScript](https://tkdodo.eu/blog/array-types-in-type-script)
 - [Building a Two-Way Data Binding Hook for Form Inputs in React](https://macarthur.me/posts/binding-input-state-in-react)
