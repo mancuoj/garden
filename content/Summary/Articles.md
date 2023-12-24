@@ -89,6 +89,7 @@ title: Awesome Blogs
 - [Josh W Comeau's Blog](https://www.joshwcomeau.com/)
 - [Dan Abramov's Blog](https://overreacted.io/)
 - [Rauno Freiberg](https://rauno.me/)
+- [Dan Hollick's Blog](https://typefully.com/DanHollick)
 - [Thomas Ledoux's Blog](https://www.thomasledoux.be/blog)
 - [jser.dev](https://jser.dev/)
 - [sinja.io](https://sinja.io/)
