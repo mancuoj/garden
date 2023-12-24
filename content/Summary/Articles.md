@@ -13,6 +13,15 @@ title: Awesome Blogs
 
 
 - 
+- [The fastest way to deploy your Javascript app to Kubernetes](https://dev.to/odigos/the-fastest-way-to-deploy-your-javascript-app-to-kubernetes-2j33)
+- [React Router v6: A Beginner's Guide](https://www.sitepoint.com/react-router-complete-guide/)
+- [Ultimate Guide to SVG Animations with Framer Motion in React](https://voskan.host/2023/11/08/svg-animations-in-react-with-framer-motion/)
+- [Simplifying React state management](https://causal.app/blog/re-re-reselect)
+- [Creating a resume builder with NextJS, Trigger.dev and GPT4](https://dev.to/triggerdotdev/creating-a-resume-builder-with-nextjs-triggerdev-and-gpt4-4gmf)
+- [React Design Patterns](https://dev.to/refine/react-design-patterns-230o)
+- [Why You Want React Query](https://tkdodo.eu/blog/why-you-want-react-query)
+- [Why You Should Write Your Own Static Site Generator](https://arne.me/articles/write-your-own-ssg)
+- [Organizing multiple Git identities](https://garrit.xyz/posts/2023-10-13-organizing-multiple-git-identities)
 - [Docker Best Practices](https://dev.to/hazarnenni/docker-best-practices-55j0)
 - [What is in that .git directory?](https://blog.meain.io/2023/what-is-in-dot-git/)
 - [How I Deployed my Website as a Docker Container](https://dev.to/paschalogu/how-i-deployed-my-website-as-a-container-3fje)
@@ -189,3 +198,4 @@ title: Awesome Blogs
 - [webup.org](https://webup.org/blog/)
 - [Matt Rickard's Blog](https://matt-rickard.com/archive)
 - [emilkowal.ski](https://emilkowal.ski/)
+- [arne.me](https://arne.me/)
