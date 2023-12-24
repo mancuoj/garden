@@ -12,6 +12,8 @@ title: Awesome Blogs
 ## To Read
 
 - 
+- [How to debounce and throttle in React without losing your mind](https://www.developerway.com/posts/debouncing-in-react)
+- [Rethinking the Component API](https://blog.excalidraw.com/redesigning-editor-api/)
 - [Zod: The Next Biggest thing after Typescript](https://dev.to/jareechang/zod-the-next-biggest-thing-after-typescript-4phh)
 - [3D in CSS](https://garden.bradwoods.io/notes/css/3d)
 - [Inside React Query](https://tkdodo.eu/blog/inside-react-query)
@@ -130,3 +132,5 @@ title: Awesome Blogs
 - [TkDodo's Blog](https://tkdodo.eu/blog/all)
 - [OpenReplay Blog](https://blog.openreplay.com/)
 - [Brad Woods' Digital Garden](https://garden.bradwoods.io/)
+- [Randy's Blog](https://lutaonan.com/)
+- 
