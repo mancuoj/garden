@@ -11,7 +11,8 @@ title: Awesome Blogs
 
 ## To Read
 
-- 
+- [Defensive CSS](https://defensivecss.dev/)
+- [Oh Shit, Git!?!](https://ohshitgit.com/)
 - [Tao of React](https://alexkondov.com/tao-of-react/)
 - [Reading Code - React-Query](https://alexkondov.com/reading-source-code-react-query/)
 - [Building a Mini Next.js](https://hire.jonasgalvez.com.br/2022/may/18/building-a-mini-next-js/)
@@ -19,7 +20,6 @@ title: Awesome Blogs
 - [How To Develop A Text Editor For The Web](https://www.smashingmagazine.com/2022/02/develop-text-editor-web/)
 - [Creating a Schema-Based Form System](https://www.taniarascia.com/schema-based-form-system/)
 - [Monorepo Explained](https://monorepo.tools/#understanding-monorepos)
-- [Defensive CSS](https://ishadeed.com/article/defensive-css/)
 - [Patterns.dev](https://www.patterns.dev/)
 - [12 Days of Web](https://12daysofweb.dev/)
 - [Rethink Modals Management in React](https://medium.com/ebaytech/rethink-modals-management-in-react-cf3b6804223d)
@@ -80,7 +80,7 @@ title: Awesome Blogs
 
 ## Collection
 
-- [MDH Weekly 前端周刊（30/118）](https://mdhweekly.com/weekly)
+- [MDH Weekly 前端周刊（62/118）](https://mdhweekly.com/weekly)
 - [阮一峰的科技爱好者周刊](https://www.ruanyifeng.com/blog/)
 - [前端食堂技术周刊](https://github.com/Geekhyt/weekly)
 - [Josh W Comeau's Blog](https://www.joshwcomeau.com/)
@@ -113,4 +113,5 @@ title: Awesome Blogs
 - [alexkondov's Articles](https://alexkondov.com/articles/)
 - [Chak Shun Yu's Blog](https://www.chakshunyu.com/blog/)
 - [Jonas Galvez's Blog](https://hire.jonasgalvez.com.br/)
+- [Frontend Mastery's Posts](https://frontendmastery.com/posts/)
 
