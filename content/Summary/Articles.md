@@ -12,6 +12,8 @@ title: Awesome Blogs
 ## To Read
 
 - 
+- [React I Love You, But You're Bringing Me Down](https://marmelab.com/blog/2022/09/20/react-i-love-you.html)
+- [Little React Things: Cleaning up dependencies](https://www.zekehernandez.com/posts/cleaning-up-dependencies)
 - [Modularizing React Applications with Established UI Patterns](https://martinfowler.com/articles/modularizing-react-apps.html)
 - [How to handle errors in React: full guide](https://www.developerway.com/posts/how-to-handle-errors-in-react)
 - [Custom React Hooks and When to Use Them](https://thoughtbot.com/blog/custom-react-hooks)
