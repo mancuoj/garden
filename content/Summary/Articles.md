@@ -11,6 +11,8 @@ title: Awesome Blogs
 
 ## To Read
 
+- 
+- [Building a toast component](https://emilkowal.ski/ui/building-a-toast-component)
 - [Case Study: Rebuilding TechCrunch layout with modern CSS](https://ishadeed.com/article/rebuilding-techcrunch-modern-css)
 - [#07: Current state of state management)](https://newsletter.bytebullet.dev/p/07-current-state-of-state-management)
 - [Array Types in TypeScript](https://tkdodo.eu/blog/array-types-in-type-script)
@@ -178,3 +180,4 @@ title: Awesome Blogs
 - [Alex MacArthur's Posts](https://macarthur.me/posts)
 - [webup.org](https://webup.org/blog/)
 - [Matt Rickard's Blog](https://matt-rickard.com/archive)
+- [emilkowal.ski](https://emilkowal.ski/)
