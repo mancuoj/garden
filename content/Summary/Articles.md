@@ -11,6 +11,8 @@ title: Awesome Blogs
 
 ## To Read
 
+- 
+- [React re-renders guide: everything, all at once](https://www.developerway.com/posts/react-re-renders-guide)
 - [Defensive CSS](https://defensivecss.dev/)
 - [Oh Shit, Git!?!](https://ohshitgit.com/)
 - [Tao of React](https://alexkondov.com/tao-of-react/)
@@ -114,4 +116,6 @@ title: Awesome Blogs
 - [Chak Shun Yu's Blog](https://www.chakshunyu.com/blog/)
 - [Jonas Galvez's Blog](https://hire.jonasgalvez.com.br/)
 - [Frontend Mastery's Posts](https://frontendmastery.com/posts/)
-
+- [Fatih's Personal's Blog](https://blog.6nok.org/)
+- [Daily Dev Tips](https://daily-dev-tips.com/archive/)
+- 
