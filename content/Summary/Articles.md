@@ -12,6 +12,7 @@ title: Awesome Blogs
 ## To Read
 
 - 
+- [Migrate to Vite from Create React App](https://www.robinwieruch.de/vite-create-react-app/)
 - [A deep dive into mutations in TanStack Query](https://blog.logrocket.com/deep-dive-mutations-tanstack-query/)
 - [How to Drag and Drop in React](https://www.robinwieruch.de/react-drag-and-drop/)
 - [Debouncing requests with React Query](https://rafaelcamargo.com/blog/deboucing-requests-with-react-query/)
