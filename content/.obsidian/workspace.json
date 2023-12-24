@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSS/Tailwind 渐变文字.md",
+                "file": "CSS/Tailwind/同时设置高度和宽度.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -185,10 +185,11 @@
   },
   "active": "c6e84b0292afc620",
   "lastOpenFiles": [
-    "CSS/Tailwind 渐变文字.md",
+    "CSS/Tailwind/同时设置高度和宽度.md",
+    "CSS/Tailwind/渐变文字.md",
+    "CSS/Tailwind/文档拾遗.md",
+    "CSS/Tailwind",
     "Summary/Articles.md",
-    "CSS/Tailwind 同时设置高度和宽度.md",
-    "CSS/Tailwind 文档拾遗.md",
     "CSS/CSS Typing Animation.md",
     "CSS/Flex 布局.md",
     "CSS/Full-Bleed Layout.md",
@@ -213,7 +214,6 @@
     "private/templates/simple frontmatter.md",
     "React/React 文档拾遗.md",
     "posts/Vue2 TodoMVC（下）.md",
-    "posts/Vue2 TodoMVC（上）.md",
     "未命名.canvas",
     "未命名 1.canvas",
     "Angular",
@@ -232,7 +232,6 @@
     "assets/nav.png",
     "assets/nav.png",
     "Canvas/ideas.canvas",
-    "CSS",
     "assets/draw1.png"
   ]
 }
