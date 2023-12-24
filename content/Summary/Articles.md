@@ -12,6 +12,15 @@ title: Awesome Blogs
 ## To Read
 
 - 
+- [A deep dive into mutations in TanStack Query](https://blog.logrocket.com/deep-dive-mutations-tanstack-query/)
+- [How to Drag and Drop in React](https://www.robinwieruch.de/react-drag-and-drop/)
+- [Debouncing requests with React Query](https://rafaelcamargo.com/blog/deboucing-requests-with-react-query/)
+- [Full-Stack TypeScript with tRPC and React](https://www.robinwieruch.de/react-trpc/)
+- [Creating Animations in React with React-Spring: A Comprehensive Guide](https://voskan.host/2023/02/08/creating-animations-in-react-with-react-spring/)
+- [Common Beginner Mistakes with React](https://www.joshwcomeau.com/react/common-beginner-mistakes/)
+- [Use Maps More and Objects Less](https://www.builder.io/blog/maps)
+- [Effective Higher-Order Components](https://www.bbss.dev/posts/effective-hocs/)
+- [React Hooks: Compound Components](https://kentcdodds.com/blog/compound-components-with-react-hooks)
 - [React I Love You, But You're Bringing Me Down](https://marmelab.com/blog/2022/09/20/react-i-love-you.html)
 - [Little React Things: Cleaning up dependencies](https://www.zekehernandez.com/posts/cleaning-up-dependencies)
 - [Modularizing React Applications with Established UI Patterns](https://martinfowler.com/articles/modularizing-react-apps.html)
@@ -144,4 +153,9 @@ title: Awesome Blogs
 - [OpenReplay Blog](https://blog.openreplay.com/)
 - [Brad Woods' Digital Garden](https://garden.bradwoods.io/)
 - [Randy's Blog](https://lutaonan.com/)
+- [JulesBlom's Blog](https://julesblom.com/)
+- [bbss.dev](https://www.bbss.dev/)
+- [Rafael Camargo's Blog](https://rafaelcamargo.com/blog/)
+- [RWieruch's Blog](https://www.robinwieruch.de/blog/)
+- [LogRocket Blog](https://blog.logrocket.com/)
 - 
