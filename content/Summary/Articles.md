@@ -11,6 +11,7 @@ title: Awesome Blogs
 
 ## To Read
 
+- [Inside React Query](https://tkdodo.eu/blog/inside-react-query)
 - [Shell scripting with Node.js](https://exploringjs.com/nodejs-shell-scripting/toc.html)
 - [Command Line Interface Guidelines](https://clig.dev/)
 - [modern-guide-to-packaging-js-library](https://github.com/frehner/modern-guide-to-packaging-js-library/blob/main/README-zh_CN.md)
@@ -50,7 +51,9 @@ title: Awesome Blogs
 - [Retry, Timeout and Cancel with fetch()](https://www.chrisarmstrong.dev/posts/retry-timeout-and-cancel-with-fetch)
 - [How to Create and Publish a React Component Library](https://dev.to/alexeagleson/how-to-create-and-publish-a-react-component-library-2oe)
 - [React with TypeScript Cheatsheet. An answer to all your React typing](https://blog.bitsrc.io/react-with-typescript-cheatsheet-9dd891dc5bfe)
+- [State Management in React with Jōtai](https://blog.openreplay.com/state-management-in-react-with-jotai/)
 - [A Complete Guide to React Router: Everything You Need to Know](https://ui.dev/react-router-tutorial)
+- [Avoid These Common Pitfalls Of React useState](https://profy.dev/article/react-usestate-pitfalls)
 - [10 Must-Know Patterns for Writing Clean Code with React and TypeScript](https://dev.to/alexomeyer/10-must-know-patterns-for-writing-clean-code-with-react-and-typescript-1m0g)
 - [React component as prop: the right way](https://www.developerway.com/posts/react-component-as-prop-the-right-way)
 - [Extract parameter types from string literal types with TypeScript](https://lihautan.com/extract-parameters-type-from-string-literal-types-with-typescript/)
@@ -122,4 +125,6 @@ title: Awesome Blogs
 - [Fatih's Personal's Blog](https://blog.6nok.org/)
 - [Daily Dev Tips](https://daily-dev-tips.com/archive/)
 - [Exploring JS: JavaScript books for programmers](https://exploringjs.com/)
+- [TkDodo's Blog](https://tkdodo.eu/blog/all)
+- [OpenReplay Blog](https://blog.openreplay.com/)
 - 
