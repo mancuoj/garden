@@ -12,7 +12,10 @@ title: Awesome Blogs
 ## To Read
 
 
-- 
+- [How to Use Two GitHub Accounts on a Macbook the Right Way](https://fayazahmed.com/articles/how-to-use-two-github-accounts-on-a-macbook-the-right-way)
+- [A minimal dependency-free translation system for Next.js](https://www.thomasledoux.be/blog/minimal-dependency-free-translation-system-nextjs)
+- [Add user management to a Next.js site with React server components, server actions, and AuthKit](https://www.learnwithjason.dev/blog/authkit-next/)
+- [React Development Made Easy: Working with the useRef Hook](https://blog.openreplay.com/working-with-the-useref-hook-in-react/)
 - [The fastest way to deploy your Javascript app to Kubernetes](https://dev.to/odigos/the-fastest-way-to-deploy-your-javascript-app-to-kubernetes-2j33)
 - [React Router v6: A Beginner's Guide](https://www.sitepoint.com/react-router-complete-guide/)
 - [Ultimate Guide to SVG Animations with Framer Motion in React](https://voskan.host/2023/11/08/svg-animations-in-react-with-framer-motion/)
