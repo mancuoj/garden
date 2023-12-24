@@ -12,6 +12,12 @@ title: Awesome Blogs
 ## To Read
 
 - 
+- [It's Time to Learn oklch Color](https://keithjgrant.com/posts/2023/04/its-time-to-learn-oklch-color/)
+- [TypeScript Decorators: A complete guide](https://deadsimplechat.com/blog/typescript-decorators-a-complete-guide/)
+- [The Interactive Guide to Rendering in React](https://ui.dev/why-react-renders)
+- [Why I Like Using Maps (and WeakMaps) for Handling DOM Nodes](https://macarthur.me/posts/maps-for-dom-nodes)
+- [Display a view counter on your blog with React Server Components](https://scastiel.dev/view-counter-react-server-components)
+- [Building a blog with Next.js 14 and React Server Components](https://maxleiter.com/blog/build-a-blog-with-nextjs-13)
 - [Migrate to Vite from Create React App](https://www.robinwieruch.de/vite-create-react-app/)
 - [A deep dive into mutations in TanStack Query](https://blog.logrocket.com/deep-dive-mutations-tanstack-query/)
 - [How to Drag and Drop in React](https://www.robinwieruch.de/react-drag-and-drop/)
@@ -140,7 +146,7 @@ title: Awesome Blogs
 - [Ahmad Shadeed's Articles](https://ishadeed.com/articles)
 - [egoist.dev](https://egoist.dev/)
 - [Tania Rascia's Blog](https://www.taniarascia.com/blog)
-- [Smashing Magazine](https://www.smashingmagazine.com/articles/)
+- [Smashing Magazine's Articles](https://www.smashingmagazine.com/articles/)
 - [nan.fyi](https://www.nan.fyi/)
 - [Developer Way](https://www.developerway.com/posts)
 - [alexkondov's Articles](https://alexkondov.com/articles/)
@@ -159,4 +165,6 @@ title: Awesome Blogs
 - [Rafael Camargo's Blog](https://rafaelcamargo.com/blog/)
 - [RWieruch's Blog](https://www.robinwieruch.de/blog/)
 - [LogRocket Blog](https://blog.logrocket.com/)
-- 
+- [Max Leiter](https://maxleiter.com/)
+- [scastiel.dev](https://scastiel.dev/articles)
+- [Alex MacArthur's Posts](https://macarthur.me/posts)
