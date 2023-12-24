@@ -12,6 +12,11 @@ title: Awesome Blogs
 ## To Read
 
 
+- 
+- [Docker Best Practices](https://dev.to/hazarnenni/docker-best-practices-55j0)
+- [What is in that .git directory?](https://blog.meain.io/2023/what-is-in-dot-git/)
+- [How I Deployed my Website as a Docker Container](https://dev.to/paschalogu/how-i-deployed-my-website-as-a-container-3fje)
+- [Draggable objects](https://www.redblobgames.com/making-of/draggable/)
 - [Creating a text typing effect with React](https://www.julienthibeaut.xyz/blog/create-text-typing-effect-with-react)
 - [View Transitions API & meta frameworks: a practical guide](https://bejamas.io/blog/what-is-view-transitions-api/)
 - [Building a toast component](https://emilkowal.ski/ui/building-a-toast-component)
