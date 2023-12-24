@@ -11,7 +11,8 @@ title: Awesome Blogs
 
 ## To Read
 
-- 
+- [Shell scripting with Node.js](https://exploringjs.com/nodejs-shell-scripting/toc.html)
+- [Command Line Interface Guidelines](https://clig.dev/)
 - [modern-guide-to-packaging-js-library](https://github.com/frehner/modern-guide-to-packaging-js-library/blob/main/README-zh_CN.md)
 - [React re-renders guide: everything, all at once](https://www.developerway.com/posts/react-re-renders-guide)
 - [Defensive CSS](https://defensivecss.dev/)
