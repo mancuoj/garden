@@ -11,7 +11,15 @@ title: Awesome Blogs
 
 ## To Read
 
+
+
+
 - 
+- [Sending UI over APIs](https://www.builder.io/blog/ui-over-apis)
+- [React Global State as Local State](https://webup.org/blog/react-global-state-as-local-state/)
+- [Mastering infer in TypeScript](https://javascript.plainenglish.io/mastering-infer-in-typescript-6cf3f93cca86)
+- [Understanding useRef and useState for Tracking Component Render Count in React](https://peterkellner.net//2023/05/05/Understanding-useRef-and-useState-for-Tracking-Component-Render-Count-in-React/)
+- [You Might Not Need React Query](https://tkdodo.eu/blog/you-might-not-need-react-query)
 - [It's Time to Learn oklch Color](https://keithjgrant.com/posts/2023/04/its-time-to-learn-oklch-color/)
 - [TypeScript Decorators: A complete guide](https://deadsimplechat.com/blog/typescript-decorators-a-complete-guide/)
 - [The Interactive Guide to Rendering in React](https://ui.dev/why-react-renders)
@@ -168,3 +176,5 @@ title: Awesome Blogs
 - [Max Leiter](https://maxleiter.com/)
 - [scastiel.dev](https://scastiel.dev/articles)
 - [Alex MacArthur's Posts](https://macarthur.me/posts)
+- [webup.org](https://webup.org/blog/)
+- 
