@@ -157,7 +157,6 @@ title: Awesome Blogs
 - [SitePoint](https://www.sitepoint.com/)
 - [CSS { In Real Life }](https://css-irl.info/)
 - [CSS Weekly](https://css-weekly.com/archives/)
-- 
 - [web.dev](https://web.dev/blog)
 - [Vercel Blog](https://vercel.com/blog/category/engineering)
 - [Josh W Comeau's Blog](https://www.joshwcomeau.com/)
