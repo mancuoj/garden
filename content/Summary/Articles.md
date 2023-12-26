@@ -123,6 +123,7 @@ title: Awesome Blogs
 
 
 - 
+- [State of CSS 2023](https://2023.stateofcss.com/en-US)
 - [开发一个浏览器插件在第三天卖出 1000 元](https://lutaonan.com/blog/my-extension-sold-1k-yuan/)
 - [使用结构化克隆在 JavaScript 中进行深层复制](https://web.dev/articles/structured-clone?hl=zh-cn)
 - [闭包 - MDN](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Closures#%E7%94%A8%E9%97%AD%E5%8C%85%E6%A8%A1%E6%8B%9F%E7%A7%81%E6%9C%89%E6%96%B9%E6%B3%95)
@@ -147,6 +148,16 @@ title: Awesome Blogs
 - [MDH Weekly 前端周刊](https://mdhweekly.com/weekly)
 - [阮一峰的科技爱好者周刊](https://www.ruanyifeng.com/blog/)
 - [前端食堂技术周刊](https://github.com/Geekhyt/weekly)
+- [Articles – A List Apart](https://alistapart.com/articles/)
+- [Smashing Magazine](https://www.smashingmagazine.com/)
+- [HeyDesigner](https://heydesigner.com/)
+- [Sidebar](https://sidebar.io/)
+- [Frontend Horse](https://frontend.horse/articles/)
+- [Modern CSS Solutions](https://moderncss.dev/)
+- [SitePoint](https://www.sitepoint.com/)
+- [CSS { In Real Life }](https://css-irl.info/)
+- [CSS Weekly](https://css-weekly.com/archives/)
+- 
 - [web.dev](https://web.dev/blog)
 - [Vercel Blog](https://vercel.com/blog/category/engineering)
 - [Josh W Comeau's Blog](https://www.joshwcomeau.com/)
@@ -176,7 +187,6 @@ title: Awesome Blogs
 - [Ahmad Shadeed's Articles](https://ishadeed.com/articles)
 - [egoist.dev](https://egoist.dev/)
 - [Tania Rascia's Blog](https://www.taniarascia.com/blog)
-- [Smashing Magazine's Articles](https://www.smashingmagazine.com/articles/)
 - [nan.fyi](https://www.nan.fyi/)
 - [Developer Way](https://www.developerway.com/posts)
 - [alexkondov's Articles](https://alexkondov.com/articles/)
