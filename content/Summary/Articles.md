@@ -17,7 +17,6 @@ title: Awesome Blogs
 - [Add user management to a Next.js site with React server components, server actions, and AuthKit](https://www.learnwithjason.dev/blog/authkit-next/)
 - [React Development Made Easy: Working with the useRef Hook](https://blog.openreplay.com/working-with-the-useref-hook-in-react/)
 - [The fastest way to deploy your Javascript app to Kubernetes](https://dev.to/odigos/the-fastest-way-to-deploy-your-javascript-app-to-kubernetes-2j33)
-- [React Router v6: A Beginner's Guide](https://www.sitepoint.com/react-router-complete-guide/)
 - [Ultimate Guide to SVG Animations with Framer Motion in React](https://voskan.host/2023/11/08/svg-animations-in-react-with-framer-motion/)
 - [Simplifying React state management](https://causal.app/blog/re-re-reselect)
 - [Creating a resume builder with NextJS, Trigger.dev and GPT4](https://dev.to/triggerdotdev/creating-a-resume-builder-with-nextjs-triggerdev-and-gpt4-4gmf)
@@ -104,17 +103,20 @@ title: Awesome Blogs
 - [Common React Hooks Mistakes You Should Avoid](https://blog.bitsrc.io/common-react-hooks-mistakes-every-developer-should-avoid-defd47d09d8c)
 - [react.dev/learn](https://zh-hans.react.dev/learn)
 - [04-003 Creating a Table](https://www.bilibili.com/video/BV1cC4y1g7ng?p=30&vd_source=4da426ef9b0e129787ecf66363321458)
-- [Tutorial v6.21.0 | React Router](https://reactrouter.com/en/main/start/tutorial)
 - [Retry, Timeout and Cancel with fetch()](https://www.chrisarmstrong.dev/posts/retry-timeout-and-cancel-with-fetch)
 - [How to Create and Publish a React Component Library](https://dev.to/alexeagleson/how-to-create-and-publish-a-react-component-library-2oe)
 - [React with TypeScript Cheatsheet. An answer to all your React typing](https://blog.bitsrc.io/react-with-typescript-cheatsheet-9dd891dc5bfe)
 - [State Management in React with Jōtai](https://blog.openreplay.com/state-management-in-react-with-jotai/)
-- [A Complete Guide to React Router: Everything You Need to Know](https://ui.dev/react-router-tutorial)
 - [Avoid These Common Pitfalls Of React useState](https://profy.dev/article/react-usestate-pitfalls)
 - [10 Must-Know Patterns for Writing Clean Code with React and TypeScript](https://dev.to/alexomeyer/10-must-know-patterns-for-writing-clean-code-with-react-and-typescript-1m0g)
 - [React component as prop: the right way](https://www.developerway.com/posts/react-component-as-prop-the-right-way)
 - [Extract parameter types from string literal types with TypeScript](https://lihautan.com/extract-parameters-type-from-string-literal-types-with-typescript/)
 - [Data binding in React: how to work with forms in React](https://www.joshwcomeau.com/react/data-binding/)
+
+
+- [React Router v6: A Beginner's Guide](https://www.sitepoint.com/react-router-complete-guide/)
+- [A Complete Guide to React Router: Everything You Need to Know](https://ui.dev/react-router-tutorial)
+- [Tutorial v6.21.0 | React Router](https://reactrouter.com/en/main/start/tutorial)
 
 
 ## Past
