@@ -130,7 +130,7 @@ title: Awesome Blogs
 - [使用结构化克隆在 JavaScript 中进行深层复制](https://web.dev/articles/structured-clone?hl=zh-cn)
 - [闭包 - MDN](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Closures#%E7%94%A8%E9%97%AD%E5%8C%85%E6%A8%A1%E6%8B%9F%E7%A7%81%E6%9C%89%E6%96%B9%E6%B3%95)
 - [JavaScript to Know for React](https://kentcdodds.com/blog/javascript-to-know-for-react)
-- [How to React ⚛️](https://kentcdodds.com/blog/how-to-react)
+- [How to React](https://kentcdodds.com/blog/how-to-react)
 - [The Wrong Abstraction](https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction)
 - [AHA Programming](https://keenwon.com/aha-programming/)
 - [How To Learn Stuff Quickly](https://www.joshwcomeau.com/blog/how-to-learn-stuff-quickly/)
