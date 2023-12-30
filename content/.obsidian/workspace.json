@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "React/React 文件名和项目规范.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -26,20 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React/React Router.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "ddf6a10154beae99",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Summary/Articles.md",
+                "file": "index.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -47,7 +34,6 @@
             }
           }
         ],
-        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -100,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Summary/Articles.md",
+                "file": "React/React 文件名和项目规范.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Summary/Articles.md",
+                "file": "React/React 文件名和项目规范.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Summary/Articles.md"
+                "file": "React/React 文件名和项目规范.md"
               }
             }
           }
@@ -170,14 +156,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ddf6a10154beae99",
+  "active": "43b6f11314d32c5c",
   "lastOpenFiles": [
     "React/React Router.md",
+    "React/React 文件名和项目规范.md",
+    "React/React + TS.md",
     "Summary/Articles.md",
     "index.md",
-    "React/React 文件名和项目规范.md",
-    "Summary/Free APIs.md",
     "Summary/Books.md",
+    "Summary/Free APIs.md",
+    "Summary/Shell Scripts.md",
+    "Summary/Snippets.md",
+    "Summary/Thoughts.md",
     "CSS/Tailwind/同时设置高度和宽度.md",
     "CSS/Tailwind/渐变文字.md",
     "CSS/Tailwind/文档拾遗.md",
@@ -186,12 +176,9 @@
     "CSS/Flex 布局.md",
     "CSS/Full-Bleed Layout.md",
     "JS/Untitled.md",
-    "Summary/Thoughts.md",
     "obsidian md 扩展语法.md",
-    "React/React + TS.md",
     "JS/空值合并符.md",
     "JS/可选链.md",
-    "Summary/Shell Scripts.md",
     "JS",
     "CSS/CSS Reset.md",
     "CSS/Grid 布局.md",
@@ -201,7 +188,6 @@
     "CSS/原子化 CSS.md",
     "private/templates/simple frontmatter.md",
     "React/React 文档拾遗.md",
-    "posts/Vue2 TodoMVC（下）.md",
     "未命名.canvas",
     "未命名 1.canvas",
     "Angular",

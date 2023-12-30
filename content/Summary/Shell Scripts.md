@@ -1,8 +1,7 @@
 ---
-title: Shell Scripts 
+title: Awesome Scripts 
 date: 2023-12-22
 ---
-
 
 ## 删除所有 node_modules 文件夹
 

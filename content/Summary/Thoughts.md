@@ -1,5 +1,6 @@
 ---
 title: Thoughts
+date: 2023-12-01
 ---
 
 > [!quote]
@@ -77,3 +78,4 @@ title: Thoughts
 ### 参考
 
 - [Neave Interactive](https://neave.com/)
+

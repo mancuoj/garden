@@ -13,25 +13,11 @@ date: 2023-12-01
 
 尽量只专注于前端生态，其他计算机相关内容就不三分钟热度了。
 
+- [[Books]]
+- [[Articles]]
+- [[Thoughts]]
+
 ![[Pasted image 20231219213958.png]]
 
 
-## Todo
 
-- React
-- Tailwind
-- React Router
-- Jotai
-- Next.js
-- Angular
-- Framer Motion
-- bun
-- Fetch API
-- nest.js
-- elysia
-- hono
-- express
-- clsx
-- tailwind-merge
-- cva
-- twc

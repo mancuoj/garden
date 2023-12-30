@@ -11,11 +11,18 @@ date: 2023-12-02
 
 - 组件用全大写+单数，比如 `Button`, `Header`
 - 其他用全小写+复数，比如 `components`, `libs`, `utils`
+- 具体文件夹示例
+  - routes/pages
+  - components
+  - types
+  - utils
+  - ...
 
 ### 文件名
 
 - 全小写+短横线连接，比如 `button.tsx`, `theme-toggle.tsx`
-- 中间可以加更多描述，比如 `button.constant.ts`, `button.helper.ts`, `use-sound.hook.ts`
+- ~~中间可以加更多描述，比如 `button.constant.ts`, `button.helper.ts`, `use-sound.hook.ts`~~（有待商榷）
+- 尽量见名知意
 
 ### 其他
 
