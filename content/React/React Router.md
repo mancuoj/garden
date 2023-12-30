@@ -82,3 +82,9 @@ const [searchParams, setSearchParams] = useSearchParams()
 const q = searchParams.get('q')
 ```
 
+
+## Thanks
+
+- [A Complete Guide to React Router: Everything You Need to Know](https://ui.dev/react-router-tutorial)
+- [Home | React Router](https://reactrouter.com/en/main)
+- 

@@ -122,6 +122,7 @@ title: Awesome Blogs
 ### Dec 2023
 
 
+- [The Complete Guide to URL parameters with React Router](https://ui.dev/react-router-url-parameters)
 - [A Complete Guide to React Router: Everything You Need to Know](https://ui.dev/react-router-tutorial)
 - [Tutorial v6.21.0 | React Router](https://reactrouter.com/en/main/start/tutorial)
 - [State of CSS 2023](https://2023.stateofcss.com/en-US)
