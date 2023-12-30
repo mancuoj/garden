@@ -115,8 +115,6 @@ title: Awesome Blogs
 
 
 - [React Router v6: A Beginner's Guide](https://www.sitepoint.com/react-router-complete-guide/)
-- [A Complete Guide to React Router: Everything You Need to Know](https://ui.dev/react-router-tutorial)
-- [Tutorial v6.21.0 | React Router](https://reactrouter.com/en/main/start/tutorial)
 
 
 ## Past
@@ -124,7 +122,8 @@ title: Awesome Blogs
 ### Dec 2023
 
 
-- 
+- [A Complete Guide to React Router: Everything You Need to Know](https://ui.dev/react-router-tutorial)
+- [Tutorial v6.21.0 | React Router](https://reactrouter.com/en/main/start/tutorial)
 - [State of CSS 2023](https://2023.stateofcss.com/en-US)
 - [开发一个浏览器插件在第三天卖出 1000 元](https://lutaonan.com/blog/my-extension-sold-1k-yuan/)
 - [使用结构化克隆在 JavaScript 中进行深层复制](https://web.dev/articles/structured-clone?hl=zh-cn)

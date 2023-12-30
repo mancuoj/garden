@@ -2,10 +2,10 @@
   "accentColor": "#e37bea",
   "interfaceFontFamily": "",
   "textFontFamily": "苹方-简",
-  "baseFontSize": 18,
+  "baseFontSize": 16,
   "monospaceFontFamily": "Monaspace Krypton,Monaspace Neon,苹方-简",
   "translucency": false,
   "cssTheme": "Serenity",
-  "theme": "obsidian",
+  "theme": "moonstone",
   "showViewHeader": false
 }
