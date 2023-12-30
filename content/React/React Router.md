@@ -69,6 +69,8 @@ export function loader({ params }) {
 const navigate = useNavigate()
 
 <Form afterSubmit={() => navigate('/dashboard')} />
+
+redirect(`contacts/${params.contactId}`)
 ```
 
 
