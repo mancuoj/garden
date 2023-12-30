@@ -114,7 +114,7 @@ title: Awesome Blogs
 - [Data binding in React: how to work with forms in React](https://www.joshwcomeau.com/react/data-binding/)
 
 
-- [React Router v6: A Beginner's Guide](https://www.sitepoint.com/react-router-complete-guide/)
+- 
 
 
 ## Past
@@ -122,6 +122,7 @@ title: Awesome Blogs
 ### Dec 2023
 
 
+- [React Router v6: A Beginner's Guide](https://www.sitepoint.com/react-router-complete-guide/)
 - [The Complete Guide to URL parameters with React Router](https://ui.dev/react-router-url-parameters)
 - [A Complete Guide to React Router: Everything You Need to Know](https://ui.dev/react-router-tutorial)
 - [Tutorial v6.21.0 | React Router](https://reactrouter.com/en/main/start/tutorial)
