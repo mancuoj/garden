@@ -115,8 +115,6 @@ date: 2023-12-01
 - [Data binding in React: how to work with forms in React](https://www.joshwcomeau.com/react/data-binding/)
 
 
-- 
-
 
 ## Past
 

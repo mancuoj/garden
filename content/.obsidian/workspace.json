@@ -47,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 1,
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Summary/Snippets.md",
+                "file": "Summary/Articles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Summary/Snippets.md",
+                "file": "Summary/Articles.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Summary/Snippets.md"
+                "file": "Summary/Articles.md"
               }
             }
           }
@@ -170,8 +170,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8e9d69afb0411b22",
+  "active": "81d37b50ada5fa2b",
   "lastOpenFiles": [
+    "Summary/Snippets.md",
     "React/React 文件名和项目规范.md",
     "Summary/Articles.md",
     "index.md",
@@ -180,7 +181,6 @@
     "Summary/Books.md",
     "Summary/Free APIs.md",
     "Summary/Shell Scripts.md",
-    "Summary/Snippets.md",
     "Summary/Thoughts.md",
     "CSS/Tailwind/同时设置高度和宽度.md",
     "CSS/Tailwind/渐变文字.md",
