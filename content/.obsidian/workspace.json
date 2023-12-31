@@ -21,12 +21,25 @@
             }
           },
           {
+            "id": "8e9d69afb0411b22",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Summary/Snippets.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
             "id": "81d37b50ada5fa2b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Summary/Articles.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -34,6 +47,7 @@
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -86,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React/React 文件名和项目规范.md",
+                "file": "Summary/Snippets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React/React 文件名和项目规范.md",
+                "file": "Summary/Snippets.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React/React 文件名和项目规范.md"
+                "file": "Summary/Snippets.md"
               }
             }
           }
@@ -156,13 +170,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "43b6f11314d32c5c",
+  "active": "8e9d69afb0411b22",
   "lastOpenFiles": [
-    "React/React Router.md",
     "React/React 文件名和项目规范.md",
-    "React/React + TS.md",
     "Summary/Articles.md",
     "index.md",
+    "React/React Router.md",
+    "React/React + TS.md",
     "Summary/Books.md",
     "Summary/Free APIs.md",
     "Summary/Shell Scripts.md",
