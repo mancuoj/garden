@@ -8,32 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c6e84b0292afc620",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "React/React 文件名和项目规范.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "8e9d69afb0411b22",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Summary/Snippets.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
             "id": "81d37b50ada5fa2b",
             "type": "leaf",
             "state": {
@@ -42,12 +16,11 @@
                 "file": "Summary/Articles.md",
                 "mode": "source",
                 "backlinks": false,
-                "source": true
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -172,13 +145,15 @@
   },
   "active": "81d37b50ada5fa2b",
   "lastOpenFiles": [
+    "Summary/Books.md",
+    "Summary/Articles.md",
+    "quartz.md",
+    "obsidian md 扩展语法.md",
+    "index.md",
     "Summary/Snippets.md",
     "React/React 文件名和项目规范.md",
-    "Summary/Articles.md",
-    "index.md",
     "React/React Router.md",
     "React/React + TS.md",
-    "Summary/Books.md",
     "Summary/Free APIs.md",
     "Summary/Shell Scripts.md",
     "Summary/Thoughts.md",
@@ -190,7 +165,6 @@
     "CSS/Flex 布局.md",
     "CSS/Full-Bleed Layout.md",
     "JS/Untitled.md",
-    "obsidian md 扩展语法.md",
     "JS/空值合并符.md",
     "JS/可选链.md",
     "JS",
@@ -201,7 +175,6 @@
     "CSS/布局算法.md",
     "CSS/原子化 CSS.md",
     "private/templates/simple frontmatter.md",
-    "React/React 文档拾遗.md",
     "未命名.canvas",
     "未命名 1.canvas",
     "Angular",

@@ -118,29 +118,28 @@ date: 2023-12-01
 
 ## Past
 
+### Jan 2024
+
+
+
 ### Dec 2023
-
-
-- 
-- [A Complete Guide to React Router: Everything You Need to Know](https://ui.dev/react-router-tutorial) ⭐
-- [Tutorial v6.21.0 | React Router](https://reactrouter.com/en/main/start/tutorial) ⭐⭐
-- [State of CSS 2023](https://2023.stateofcss.com/en-US) ⭐
-- [开发一个浏览器插件在第三天卖出 1000 元](https://lutaonan.com/blog/my-extension-sold-1k-yuan/) ⭐
-- [使用结构化克隆在 JavaScript 中进行深层复制](https://web.dev/articles/structured-clone?hl=zh-cn) ⭐
-- [闭包 - MDN](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Closures#%E7%94%A8%E9%97%AD%E5%8C%85%E6%A8%A1%E6%8B%9F%E7%A7%81%E6%9C%89%E6%96%B9%E6%B3%95) ⭐
-- [JavaScript to Know for React](https://kentcdodds.com/blog/javascript-to-know-for-react) ⭐
-- [How to React](https://kentcdodds.com/blog/how-to-react) ⭐
-- [AHA Programming](https://keenwon.com/aha-programming/) ⭐
-- [How To Learn Stuff Quickly](https://www.joshwcomeau.com/blog/how-to-learn-stuff-quickly/) ⭐⭐⭐
-- [Tailwind CSS v3.4: Dynamic viewport units, :has() support, balanced headlines, subgrid, and more](https://tailwindcss.com/blog/tailwindcss-v3-4) ⭐
-- [Super Simple Start to React](https://kentcdodds.com/blog/super-simple-start-to-react) ⭐⭐
-- [关于 Yak Shaving](https://antfu.me/posts/about-yak-shaving-zh) ⭐⭐⭐
-- [Top 10 Mistakes to Avoid When Using React](https://javascript.plainenglish.io/top-10-mistakes-to-avoid-when-using-react-1796711ad2a0) ⭐
-- [How to Use TypeScript with React](https://www.freecodecamp.org/news/use-typescript-with-react/) ⭐
-- [A (more) Modern CSS Reset](https://andy-bell.co.uk/a-more-modern-css-reset/) ⭐⭐
-- [Modern CSS Reset / Global Styles](https://www.joshwcomeau.com/css/custom-css-reset/) ⭐⭐
-- [Your CSS reset needs text-size-adjust (probably)](https://kilianvalkhof.com/2022/css-html/your-css-reset-needs-text-size-adjust-probably/) ⭐
-
+| 文章名称 | 类型 | 评论 |
+| ---- | ---- | ---- |
+| [A Complete Guide to React Router: Everything You Need to Know](https://ui.dev/react-router-tutorial) | 教程 | 一般般 |
+| [Tutorial v6.21.0 \| React Router](https://reactrouter.com/en/main/start/tutorial) | 教程 | 挺好，但是 TS 支持太垃圾了 |
+| [State of CSS 2023](https://2023.stateofcss.com/en-US) |  | 收获的只有几个 CSS 博客网站 |
+| [开发一个浏览器插件在第三天卖出 1000 元](https://lutaonan.com/blog/my-extension-sold-1k-yuan/) | 经验 | 怎么才能成为赚到独立开发的第一桶金 |
+| [JavaScript to Know for React](https://kentcdodds.com/blog/javascript-to-know-for-react) |  |  |
+| [How to React](https://kentcdodds.com/blog/how-to-react) |  | 看了就忘 |
+| [AHA Programming](https://keenwon.com/aha-programming/) |  | 避免过早抽象 |
+| [How To Learn Stuff Quickly](https://www.joshwcomeau.com/blog/how-to-learn-stuff-quickly/) | 神中神 | 如何学习 |
+| [关于 Yak Shaving](https://antfu.me/posts/about-yak-shaving-zh) | 偶像 | 如何学习 |
+| [Super Simple Start to React](https://kentcdodds.com/blog/super-simple-start-to-react) |  | 没有框架该怎么开始使用 React |
+| [Top 10 Mistakes to Avoid When Using React](https://javascript.plainenglish.io/top-10-mistakes-to-avoid-when-using-react-1796711ad2a0) |  | 有点过时 |
+| [How to Use TypeScript with React](https://www.freecodecamp.org/news/use-typescript-with-react/) |  | 就学到了用 FC |
+| [A (more) Modern CSS Reset](https://andy-bell.co.uk/a-more-modern-css-reset/) |  |  |
+| [Modern CSS Reset / Global Styles](https://www.joshwcomeau.com/css/custom-css-reset/) |  | 最实用的 CSS Reset |
+| [Your CSS reset needs text-size-adjust (probably)](https://kilianvalkhof.com/2022/css-html/your-css-reset-needs-text-size-adjust-probably/) |  |  |
 
 ## Collection
 
