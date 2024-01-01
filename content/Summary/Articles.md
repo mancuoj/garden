@@ -146,24 +146,31 @@ date: 2023-12-01
 
 | 博客名称 | 备注 |
 | ---- | ---- |
-| [MDH Weekly 前端周刊](https://mdhweekly.com/weekly) |  |
+| [MDH Weekly 前端周刊](https://mdhweekly.com/weekly) | 一路追更过来，前端大杂烩，推荐文章基本都是 React 相关 |
+| [阮一峰的科技爱好者周刊](https://www.ruanyifeng.com/blog/) | 科技爱好者，什么都有的大杂烩 |
+| [前端食堂技术周刊](https://github.com/Geekhyt/weekly) | 前端大杂烩 |
+| [Josh W Comeau's Blog](https://www.joshwcomeau.com/) | 神中神，最有交互式的一集 |
+| [Dan Abramov's Blog](https://overreacted.io/) | Dan！ |
+| [rauno.me](https://rauno.me/) | 天才！最有设计感的一集 |
 |  |  |
-- [阮一峰的科技爱好者周刊](https://www.ruanyifeng.com/blog/)
-- [前端食堂技术周刊](https://github.com/Geekhyt/weekly)
-- [Articles – A List Apart](https://alistapart.com/articles/)
-- [Smashing Magazine](https://www.smashingmagazine.com/)
-- [HeyDesigner](https://heydesigner.com/)
-- [Sidebar](https://sidebar.io/)
-- [Frontend Horse](https://frontend.horse/articles/)
-- [Modern CSS Solutions](https://moderncss.dev/)
-- [SitePoint](https://www.sitepoint.com/)
-- [CSS { In Real Life }](https://css-irl.info/)
-- [CSS Weekly](https://css-weekly.com/archives/)
-- [web.dev](https://web.dev/blog)
-- [Vercel Blog](https://vercel.com/blog/category/engineering)
-- [Josh W Comeau's Blog](https://www.joshwcomeau.com/)
-- [Dan Abramov's Blog](https://overreacted.io/)
-- [rauno.me](https://rauno.me/)
+|  |  |
+|  |  |
+| [Articles – A List Apart](https://alistapart.com/articles/) |  |
+| [Smashing Magazine](https://www.smashingmagazine.com/) |  |
+| [HeyDesigner](https://heydesigner.com/) |  |
+| [Sidebar](https://sidebar.io/) |  |
+| [Frontend Horse](https://frontend.horse/articles/) |  |
+| [CSS Weekly](https://css-weekly.com/archives/) |  |
+| [web.dev](https://web.dev/blog) |  |
+| [CSS { In Real Life }](https://css-irl.info/) |  |
+| [Modern CSS Solutions](https://moderncss.dev/) |  |
+| [SitePoint](https://www.sitepoint.com/) |  |
+| [Vercel Blog](https://vercel.com/blog/category/engineering) |  |
+|  |  |
+
+
+-
+- 
 - [leerob.io](https://leerob.io/blog)
 - [Dan Hollick's Blog](https://typefully.com/DanHollick)
 - [julienthibeaut's Blog](https://www.julienthibeaut.xyz/blog)
