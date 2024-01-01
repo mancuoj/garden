@@ -9,10 +9,133 @@ date: 2023-12-01
 - WET - Write Evrything Twice
 - AHA - Avoid Hasty Abstractions
 
+## Past
+
+### Jan 2024
+| 文章名称 | 评论 |
+| ---- | ---- |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+
+### Dec 2023
+| 文章名称 | 评论 |
+| ---- | ---- |
+| [A Complete Guide to React Router: Everything You Need to Know](https://ui.dev/react-router-tutorial) | 一般般 |
+| [Tutorial v6.21.0 \| React Router](https://reactrouter.com/en/main/start/tutorial) | 教程挺好，但是全是 JS， TS 支持太垃圾了 |
+| [State of CSS 2023](https://2023.stateofcss.com/en-US) | 收获的只有几个 CSS 博客网站 |
+| [开发一个浏览器插件在第三天卖出 1000 元](https://lutaonan.com/blog/my-extension-sold-1k-yuan/) | 怎么才能成为赚到独立开发的第一桶金 |
+| [JavaScript to Know for React](https://kentcdodds.com/blog/javascript-to-know-for-react) | 看了就忘+1 |
+| [How to React](https://kentcdodds.com/blog/how-to-react) | 看了就忘 |
+| [AHA Programming](https://keenwon.com/aha-programming/) | 避免过早抽象 |
+| [How To Learn Stuff Quickly](https://www.joshwcomeau.com/blog/how-to-learn-stuff-quickly/) | 如何学习+1，最有收获的一集 |
+| [关于 Yak Shaving](https://antfu.me/posts/about-yak-shaving-zh) | 如何学习 |
+| [Super Simple Start to React](https://kentcdodds.com/blog/super-simple-start-to-react) | 没有框架该怎么开始使用 React |
+| [Top 10 Mistakes to Avoid When Using React](https://javascript.plainenglish.io/top-10-mistakes-to-avoid-when-using-react-1796711ad2a0) | 有点过时 |
+| [How to Use TypeScript with React](https://www.freecodecamp.org/news/use-typescript-with-react/) | 就学到了用 FC |
+| [A (more) Modern CSS Reset](https://andy-bell.co.uk/a-more-modern-css-reset/) | 三个结合起来看 |
+| [Modern CSS Reset / Global Styles](https://www.joshwcomeau.com/css/custom-css-reset/) | 最实用的 CSS Reset |
+| [Your CSS reset needs text-size-adjust (probably)](https://kilianvalkhof.com/2022/css-html/your-css-reset-needs-text-size-adjust-probably/) | CSS 的一些 text 设置 |
+
+## Collection
+
+| 博客名称 | 备注 |
+| ---- | ---- |
+| [MDH Weekly 前端周刊](https://mdhweekly.com/weekly) | 一路追更过来，前端大杂烩，推荐文章基本都是 React 相关 |
+| [阮一峰的科技爱好者周刊](https://www.ruanyifeng.com/blog/) | 科技爱好者，什么都有的大杂烩 |
+| [前端食堂技术周刊](https://github.com/Geekhyt/weekly) | 前端大杂烩 |
+| [Josh W Comeau's Blog](https://www.joshwcomeau.com/) | 神中神，最有交互式的一集 |
+| [Dan Abramov's Blog](https://overreacted.io/) | Dan！ |
+| [rauno.me](https://rauno.me/) | 天才！最有设计感的一集，动效的神 |
+| [antfu.me](https://antfu.me/posts) | 偶像！ |
+| [innei.in](https://innei.in/posts) | 写 Next 写的 |
+| [cali.so](https://cali.so/blog) | 最想去的公司 |
+| [jser.dev](https://jser.dev/) | jser 怎么光写 React 相关的 |
+|  |  |
+
+| 有时间归个类 |
+| ---- |
+| [Smashing Magazine](https://www.smashingmagazine.com/) |
+| [HeyDesigner](https://heydesigner.com/) |
+| [Sidebar](https://sidebar.io/) |
+| [Frontend Horse](https://frontend.horse/articles/) |
+| [CSS Weekly](https://css-weekly.com/archives/) |
+| [web.dev](https://web.dev/blog) |
+| [CSS { In Real Life }](https://css-irl.info/) |
+| [Modern CSS Solutions](https://moderncss.dev/) |
+| [SitePoint](https://www.sitepoint.com/) |
+| [Vercel Blog](https://vercel.com/blog/category/engineering) |
+| [Articles – A List Apart](https://alistapart.com/articles/) |
+| [leerob.io](https://leerob.io/blog) |
+| [Dan Hollick's Blog](https://typefully.com/DanHollick) |
+| [julienthibeaut's Blog](https://www.julienthibeaut.xyz/blog) |
+| [Thomas Ledoux's Blog](https://www.thomasledoux.be/blog) |
+| [The Kent C. Dodds's Blog](https://kentcdodds.com/blog) |
+| [Josh Collinsworth's Blog](https://joshcollinsworth.com/) |
+| [sinja.io](https://sinja.io/) |
+| [Jason's Blog](https://www.learnwithjason.dev/blog/) |
+| [Andy Bell's Blog](https://andy-bell.co.uk/blog/) |
+| [phuoc.ng](https://phuoc.ng/) |
+| [meyerweb.com](https://meyerweb.com/) |
+| [Kilian Valkhof’s Blog](https://kilianvalkhof.com/) |
+
+- [Alex Sidorenko's Blog](https://alexsidorenko.com/)
+- [Daishi Kato's Blog](https://blog.axlight.com/)
+- [OwenGage.com](https://owengage.com/)
+- [Chris Armstrong's Blog](https://www.chrisarmstrong.dev/)
+- [Ahmad Shadeed's Articles](https://ishadeed.com/articles)
+- [egoist.dev](https://egoist.dev/)
+- [Tania Rascia's Blog](https://www.taniarascia.com/blog)
+- [nan.fyi](https://www.nan.fyi/)
+- [Developer Way](https://www.developerway.com/posts)
+- [alexkondov's Articles](https://alexkondov.com/articles/)
+- [Chak Shun Yu's Blog](https://www.chakshunyu.com/blog/)
+- [Jonas Galvez's Blog](https://hire.jonasgalvez.com.br/)
+- [Frontend Mastery's Posts](https://frontendmastery.com/posts/)
+- [Fatih's Personal's Blog](https://blog.6nok.org/)
+- [Daily Dev Tips](https://daily-dev-tips.com/archive/)
+- [Exploring JS: JavaScript books for programmers](https://exploringjs.com/)
+- [TkDodo's Blog](https://tkdodo.eu/blog/all)
+- [OpenReplay Blog](https://blog.openreplay.com/)
+- [Brad Woods' Digital Garden](https://garden.bradwoods.io/)
+- [lutaonan.com](https://lutaonan.com/)
+- [JulesBlom's Blog](https://julesblom.com/)
+- [bbss.dev](https://www.bbss.dev/)
+- [Rafael Camargo's Blog](https://rafaelcamargo.com/blog/)
+- [RWieruch's Blog](https://www.robinwieruch.de/blog/)
+- [LogRocket Blog](https://blog.logrocket.com/)
+- [Max Leiter](https://maxleiter.com/)
+- [scastiel.dev](https://scastiel.dev/articles)
+- [Alex MacArthur's Posts](https://macarthur.me/posts)
+- [webup.org](https://webup.org/blog/)
+- [Matt Rickard's Blog](https://matt-rickard.com/archive)
+- [emilkowal.ski](https://emilkowal.ski/)
+- [arne.me](https://arne.me/)
+
 
 ## To Read
 
-- 
+- [Why React Re-Renders](https://www.joshwcomeau.com/react/why-react-re-renders/)
+- [Let’s learn how modern JavaScript frameworks work by building one](https://nolanlawson.com/2023/12/02/lets-learn-how-modern-javascript-frameworks-work-by-building-one/)
+- [npm: A Free Guide for Beginners](https://css-tricks.com/a-complete-beginners-guide-to-npm/)
+- [Tailwind CSS 文档](https://tailwindcss.com/docs/installation)
+- [Let’s Define Exactly What Atomic CSS is](https://css-tricks.com/lets-define-exactly-atomic-css/)
+- [重新构想原子化 CSS](https://antfu.me/posts/reimagine-atomic-css-zh)
+- [How UnoCSS works internally with Vite?](https://jser.dev/2023-09-17-how-unocss-works-with-vite/)
+- [Understanding Layout Algorithms](https://www.joshwcomeau.com/css/understanding-layout-algorithms/)
+- [Common React Hooks Mistakes You Should Avoid](https://blog.bitsrc.io/common-react-hooks-mistakes-every-developer-should-avoid-defd47d09d8c)
+- [react.dev/learn](https://zh-hans.react.dev/learn)
+- [04-003 Creating a Table](https://www.bilibili.com/video/BV1cC4y1g7ng?p=30&vd_source=4da426ef9b0e129787ecf66363321458)
+- [Retry, Timeout and Cancel with fetch()](https://www.chrisarmstrong.dev/posts/retry-timeout-and-cancel-with-fetch)
+- [How to Create and Publish a React Component Library](https://dev.to/alexeagleson/how-to-create-and-publish-a-react-component-library-2oe)
+- [React with TypeScript Cheatsheet. An answer to all your React typing](https://blog.bitsrc.io/react-with-typescript-cheatsheet-9dd891dc5bfe)
+- [State Management in React with Jōtai](https://blog.openreplay.com/state-management-in-react-with-jotai/)
+- [Avoid These Common Pitfalls Of React useState](https://profy.dev/article/react-usestate-pitfalls)
+- [10 Must-Know Patterns for Writing Clean Code with React and TypeScript](https://dev.to/alexomeyer/10-must-know-patterns-for-writing-clean-code-with-react-and-typescript-1m0g)
+- [React component as prop: the right way](https://www.developerway.com/posts/react-component-as-prop-the-right-way)
+- [Extract parameter types from string literal types with TypeScript](https://lihautan.com/extract-parameters-type-from-string-literal-types-with-typescript/)
+- [Data binding in React: how to work with forms in React](https://www.joshwcomeau.com/react/data-binding/)
 - [How to Use Two GitHub Accounts on a Macbook the Right Way](https://fayazahmed.com/articles/how-to-use-two-github-accounts-on-a-macbook-the-right-way)
 - [A minimal dependency-free translation system for Next.js](https://www.thomasledoux.be/blog/minimal-dependency-free-translation-system-nextjs)
 - [Add user management to a Next.js site with React server components, server actions, and AuthKit](https://www.learnwithjason.dev/blog/authkit-next/)
@@ -93,130 +216,3 @@ date: 2023-12-01
 - [sorrycc/toy-vite](https://github.com/sorrycc/toy-vite)
 - [haixiangyan/make-wheels 一天学习一个 npm 轮子，十天后变成轮子哥](https://github.com/haixiangyan/make-wheels)
 - [Dependency Managers Don’t Manage Your Dependencies 系列四篇](https://cpojer.net/posts/dependency-managers-dont-manage-your-dependencies)
-- [Why React Re-Renders](https://www.joshwcomeau.com/react/why-react-re-renders/)
-- [Let’s learn how modern JavaScript frameworks work by building one](https://nolanlawson.com/2023/12/02/lets-learn-how-modern-javascript-frameworks-work-by-building-one/)
-- [npm: A Free Guide for Beginners](https://css-tricks.com/a-complete-beginners-guide-to-npm/)
-- [Tailwind CSS 文档](https://tailwindcss.com/docs/installation)
-- [Let’s Define Exactly What Atomic CSS is](https://css-tricks.com/lets-define-exactly-atomic-css/)
-- [重新构想原子化 CSS](https://antfu.me/posts/reimagine-atomic-css-zh)
-- [How UnoCSS works internally with Vite?](https://jser.dev/2023-09-17-how-unocss-works-with-vite/)
-- [Understanding Layout Algorithms](https://www.joshwcomeau.com/css/understanding-layout-algorithms/)
-- [Common React Hooks Mistakes You Should Avoid](https://blog.bitsrc.io/common-react-hooks-mistakes-every-developer-should-avoid-defd47d09d8c)
-- [react.dev/learn](https://zh-hans.react.dev/learn)
-- [04-003 Creating a Table](https://www.bilibili.com/video/BV1cC4y1g7ng?p=30&vd_source=4da426ef9b0e129787ecf66363321458)
-- [Retry, Timeout and Cancel with fetch()](https://www.chrisarmstrong.dev/posts/retry-timeout-and-cancel-with-fetch)
-- [How to Create and Publish a React Component Library](https://dev.to/alexeagleson/how-to-create-and-publish-a-react-component-library-2oe)
-- [React with TypeScript Cheatsheet. An answer to all your React typing](https://blog.bitsrc.io/react-with-typescript-cheatsheet-9dd891dc5bfe)
-- [State Management in React with Jōtai](https://blog.openreplay.com/state-management-in-react-with-jotai/)
-- [Avoid These Common Pitfalls Of React useState](https://profy.dev/article/react-usestate-pitfalls)
-- [10 Must-Know Patterns for Writing Clean Code with React and TypeScript](https://dev.to/alexomeyer/10-must-know-patterns-for-writing-clean-code-with-react-and-typescript-1m0g)
-- [React component as prop: the right way](https://www.developerway.com/posts/react-component-as-prop-the-right-way)
-- [Extract parameter types from string literal types with TypeScript](https://lihautan.com/extract-parameters-type-from-string-literal-types-with-typescript/)
-- [Data binding in React: how to work with forms in React](https://www.joshwcomeau.com/react/data-binding/)
-
-
-
-## Past
-
-### Jan 2024
-| 文章名称 | 类型 | 评论 |
-| ---- | ---- | ---- |
-|  |  |  |
-
-### Dec 2023
-| 文章名称 | 类型 | 评论 |
-| ---- | ---- | ---- |
-| [A Complete Guide to React Router: Everything You Need to Know](https://ui.dev/react-router-tutorial) | 教程 | 一般般 |
-| [Tutorial v6.21.0 \| React Router](https://reactrouter.com/en/main/start/tutorial) | 教程 | 挺好，但是 TS 支持太垃圾了 |
-| [State of CSS 2023](https://2023.stateofcss.com/en-US) |  | 收获的只有几个 CSS 博客网站 |
-| [开发一个浏览器插件在第三天卖出 1000 元](https://lutaonan.com/blog/my-extension-sold-1k-yuan/) | 经验 | 怎么才能成为赚到独立开发的第一桶金 |
-| [JavaScript to Know for React](https://kentcdodds.com/blog/javascript-to-know-for-react) |  |  |
-| [How to React](https://kentcdodds.com/blog/how-to-react) |  | 看了就忘 |
-| [AHA Programming](https://keenwon.com/aha-programming/) |  | 避免过早抽象 |
-| [How To Learn Stuff Quickly](https://www.joshwcomeau.com/blog/how-to-learn-stuff-quickly/) | 神中神 | 如何学习 |
-| [关于 Yak Shaving](https://antfu.me/posts/about-yak-shaving-zh) | 偶像 | 如何学习 |
-| [Super Simple Start to React](https://kentcdodds.com/blog/super-simple-start-to-react) |  | 没有框架该怎么开始使用 React |
-| [Top 10 Mistakes to Avoid When Using React](https://javascript.plainenglish.io/top-10-mistakes-to-avoid-when-using-react-1796711ad2a0) |  | 有点过时 |
-| [How to Use TypeScript with React](https://www.freecodecamp.org/news/use-typescript-with-react/) |  | 就学到了用 FC |
-| [A (more) Modern CSS Reset](https://andy-bell.co.uk/a-more-modern-css-reset/) |  |  |
-| [Modern CSS Reset / Global Styles](https://www.joshwcomeau.com/css/custom-css-reset/) |  | 最实用的 CSS Reset |
-| [Your CSS reset needs text-size-adjust (probably)](https://kilianvalkhof.com/2022/css-html/your-css-reset-needs-text-size-adjust-probably/) |  |  |
-
-## Collection
-
-| 博客名称 | 备注 |
-| ---- | ---- |
-| [MDH Weekly 前端周刊](https://mdhweekly.com/weekly) | 一路追更过来，前端大杂烩，推荐文章基本都是 React 相关 |
-| [阮一峰的科技爱好者周刊](https://www.ruanyifeng.com/blog/) | 科技爱好者，什么都有的大杂烩 |
-| [前端食堂技术周刊](https://github.com/Geekhyt/weekly) | 前端大杂烩 |
-| [Josh W Comeau's Blog](https://www.joshwcomeau.com/) | 神中神，最有交互式的一集 |
-| [Dan Abramov's Blog](https://overreacted.io/) | Dan！ |
-| [rauno.me](https://rauno.me/) | 天才！最有设计感的一集 |
-|  |  |
-|  |  |
-|  |  |
-| [Articles – A List Apart](https://alistapart.com/articles/) |  |
-| [Smashing Magazine](https://www.smashingmagazine.com/) |  |
-| [HeyDesigner](https://heydesigner.com/) |  |
-| [Sidebar](https://sidebar.io/) |  |
-| [Frontend Horse](https://frontend.horse/articles/) |  |
-| [CSS Weekly](https://css-weekly.com/archives/) |  |
-| [web.dev](https://web.dev/blog) |  |
-| [CSS { In Real Life }](https://css-irl.info/) |  |
-| [Modern CSS Solutions](https://moderncss.dev/) |  |
-| [SitePoint](https://www.sitepoint.com/) |  |
-| [Vercel Blog](https://vercel.com/blog/category/engineering) |  |
-|  |  |
-
-
--
-- 
-- [leerob.io](https://leerob.io/blog)
-- [Dan Hollick's Blog](https://typefully.com/DanHollick)
-- [julienthibeaut's Blog](https://www.julienthibeaut.xyz/blog)
-- [Thomas Ledoux's Blog](https://www.thomasledoux.be/blog)
-- [jser.dev](https://jser.dev/)
-- [antfu.me](https://antfu.me/posts)
-- [Josh Collinsworth's Blog](https://joshcollinsworth.com/)
-- [The Kent C. Dodds's Blog](https://kentcdodds.com/blog)
-- [sinja.io](https://sinja.io/)
-- [innei.in](https://innei.in/posts)
-- [cali.so](https://cali.so/blog)
-- [Jason's Blog](https://www.learnwithjason.dev/blog/)
-- [phuoc.ng](https://phuoc.ng/)
-- [Andy Bell's Blog](https://andy-bell.co.uk/blog/)
-- [meyerweb.com](https://meyerweb.com/)
-- [Kilian Valkhof’s Blog](https://kilianvalkhof.com/)
-- [Alex Sidorenko's Blog](https://alexsidorenko.com/)
-- [Daishi Kato's Blog](https://blog.axlight.com/)
-- [OwenGage.com](https://owengage.com/)
-- [Chris Armstrong's Blog](https://www.chrisarmstrong.dev/)
-- [我的抓码人生](https://liruifengv.com/)
-- [Ahmad Shadeed's Articles](https://ishadeed.com/articles)
-- [egoist.dev](https://egoist.dev/)
-- [Tania Rascia's Blog](https://www.taniarascia.com/blog)
-- [nan.fyi](https://www.nan.fyi/)
-- [Developer Way](https://www.developerway.com/posts)
-- [alexkondov's Articles](https://alexkondov.com/articles/)
-- [Chak Shun Yu's Blog](https://www.chakshunyu.com/blog/)
-- [Jonas Galvez's Blog](https://hire.jonasgalvez.com.br/)
-- [Frontend Mastery's Posts](https://frontendmastery.com/posts/)
-- [Fatih's Personal's Blog](https://blog.6nok.org/)
-- [Daily Dev Tips](https://daily-dev-tips.com/archive/)
-- [Exploring JS: JavaScript books for programmers](https://exploringjs.com/)
-- [TkDodo's Blog](https://tkdodo.eu/blog/all)
-- [OpenReplay Blog](https://blog.openreplay.com/)
-- [Brad Woods' Digital Garden](https://garden.bradwoods.io/)
-- [lutaonan.com](https://lutaonan.com/)
-- [JulesBlom's Blog](https://julesblom.com/)
-- [bbss.dev](https://www.bbss.dev/)
-- [Rafael Camargo's Blog](https://rafaelcamargo.com/blog/)
-- [RWieruch's Blog](https://www.robinwieruch.de/blog/)
-- [LogRocket Blog](https://blog.logrocket.com/)
-- [Max Leiter](https://maxleiter.com/)
-- [scastiel.dev](https://scastiel.dev/articles)
-- [Alex MacArthur's Posts](https://macarthur.me/posts)
-- [webup.org](https://webup.org/blog/)
-- [Matt Rickard's Blog](https://matt-rickard.com/archive)
-- [emilkowal.ski](https://emilkowal.ski/)
-- [arne.me](https://arne.me/)
