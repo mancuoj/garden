@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Summary/Books.md",
+                "file": "Summary/Articles.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -73,7 +73,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Summary/Books.md",
+                "file": "Summary/Articles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,7 +90,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Summary/Books.md",
+                "file": "Summary/Articles.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Summary/Books.md"
+                "file": "Summary/Articles.md"
               }
             }
           }
@@ -145,18 +145,18 @@
   },
   "active": "81d37b50ada5fa2b",
   "lastOpenFiles": [
-    "Summary/Articles.md",
     "Summary/Books.md",
+    "Summary/Free APIs.md",
+    "Summary/Thoughts.md",
+    "Summary/Snippets.md",
+    "Summary/Articles.md",
     "quartz.md",
     "obsidian md 扩展语法.md",
     "index.md",
-    "Summary/Snippets.md",
     "React/React 文件名和项目规范.md",
     "React/React Router.md",
     "React/React + TS.md",
-    "Summary/Free APIs.md",
     "Summary/Shell Scripts.md",
-    "Summary/Thoughts.md",
     "CSS/Tailwind/同时设置高度和宽度.md",
     "CSS/Tailwind/渐变文字.md",
     "CSS/Tailwind/文档拾遗.md",

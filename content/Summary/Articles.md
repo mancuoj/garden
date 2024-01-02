@@ -5,9 +5,13 @@ date: 2023-12-01
 
 记录读过或想读的好文章，以及好的 Bloger，书单记录在[[Books|这里]]，都用来对抗我日渐衰退的记忆力 🥹
 
-- DRY - Don't Repeat Yourself
-- WET - Write Evrything Twice
-- AHA - Avoid Hasty Abstractions
+- bun
+- jotai
+- hono
+- elysia
+- htmx
+- drizzle
+- turso
 
 ## Past
 
@@ -22,19 +26,19 @@ date: 2023-12-01
 ### Dec 2023
 | 文章名称 | 评论 |
 | ---- | ---- |
-| [A Complete Guide to React Router: Everything You Need to Know](https://ui.dev/react-router-tutorial) | 一般般 |
+| [A Complete Guide to React Router: Everything You Need to Know](https://ui.dev/react-router-tutorial) | 烂 |
 | [Tutorial v6.21.0 \| React Router](https://reactrouter.com/en/main/start/tutorial) | 教程挺好，但是全是 JS， TS 支持太垃圾了 |
 | [State of CSS 2023](https://2023.stateofcss.com/en-US) | 收获的只有几个 CSS 博客网站 |
-| [开发一个浏览器插件在第三天卖出 1000 元](https://lutaonan.com/blog/my-extension-sold-1k-yuan/) | 怎么才能成为赚到独立开发的第一桶金 |
+| [开发一个浏览器插件在第三天卖出 1000 元](https://lutaonan.com/blog/my-extension-sold-1k-yuan/) | 第一桶金 |
 | [JavaScript to Know for React](https://kentcdodds.com/blog/javascript-to-know-for-react) | 看了就忘+1 |
 | [How to React](https://kentcdodds.com/blog/how-to-react) | 看了就忘 |
 | [AHA Programming](https://keenwon.com/aha-programming/) | 避免过早抽象 |
 | [How To Learn Stuff Quickly](https://www.joshwcomeau.com/blog/how-to-learn-stuff-quickly/) | 如何学习+1，最有收获的一集 |
 | [关于 Yak Shaving](https://antfu.me/posts/about-yak-shaving-zh) | 如何学习 |
-| [Super Simple Start to React](https://kentcdodds.com/blog/super-simple-start-to-react) | 没有框架该怎么开始使用 React |
+| [Super Simple Start to React](https://kentcdodds.com/blog/super-simple-start-to-react) | 没有框架怎么用 React |
 | [Top 10 Mistakes to Avoid When Using React](https://javascript.plainenglish.io/top-10-mistakes-to-avoid-when-using-react-1796711ad2a0) | 有点过时 |
-| [How to Use TypeScript with React](https://www.freecodecamp.org/news/use-typescript-with-react/) | 就学到了用 FC |
-| [A (more) Modern CSS Reset](https://andy-bell.co.uk/a-more-modern-css-reset/) | 三个结合起来看 |
+| [How to Use TypeScript with React](https://www.freecodecamp.org/news/use-typescript-with-react/) | 怎么用 FC |
+| [A (more) Modern CSS Reset](https://andy-bell.co.uk/a-more-modern-css-reset/) | 这三个 Reset 结合起来看 |
 | [Modern CSS Reset / Global Styles](https://www.joshwcomeau.com/css/custom-css-reset/) | 最实用的 CSS Reset |
 | [Your CSS reset needs text-size-adjust (probably)](https://kilianvalkhof.com/2022/css-html/your-css-reset-needs-text-size-adjust-probably/) | CSS 的一些 text 设置 |
 
