@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TIL/Turso.md",
+                "file": "TIL/Turso CLI Tutorial.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -73,7 +73,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TIL/Turso.md",
+                "file": "TIL/Turso CLI Tutorial.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,7 +90,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TIL/Turso.md",
+                "file": "TIL/Turso CLI Tutorial.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TIL/Turso.md"
+                "file": "TIL/Turso CLI Tutorial.md"
               }
             }
           }
@@ -127,7 +127,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 273.0110321044922
+    "width": 379.5086555480957
   },
   "right": {
     "id": "ee7d24da7b485845",
@@ -145,9 +145,9 @@
   },
   "active": "2921e74aad938586",
   "lastOpenFiles": [
-    "TIL/CSS 动画.md",
-    "TIL/中文技术文档排版指南.md",
-    "TIL/Turso.md",
+    "TIL/Learn CSS Animation From 50 Projects.md",
+    "TIL/Chinese Document Style Guide.md",
+    "TIL/Turso CLI Tutorial.md",
     "Summary/Articles.md",
     "TIL",
     "Summary/Books.md",
