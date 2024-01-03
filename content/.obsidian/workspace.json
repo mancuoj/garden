@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TIL/中文文档排版指南.md",
+                "file": "TIL/中文技术文档排版指南.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -73,7 +73,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TIL/中文文档排版指南.md",
+                "file": "TIL/中文技术文档排版指南.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,7 +90,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TIL/中文文档排版指南.md",
+                "file": "TIL/中文技术文档排版指南.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TIL/中文文档排版指南.md"
+                "file": "TIL/中文技术文档排版指南.md"
               }
             }
           }
@@ -145,7 +145,7 @@
   },
   "active": "2921e74aad938586",
   "lastOpenFiles": [
-    "TIL/中文文档排版指南.md",
+    "TIL/中文技术文档排版指南.md",
     "Summary/Articles.md",
     "TIL",
     "Summary/Books.md",
