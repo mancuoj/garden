@@ -1,7 +1,7 @@
 ---
-title: Thoughts
 date: 2023-12-01
 ---
+
 
 > [!quote]
 > Fight for a bright tomorrow!

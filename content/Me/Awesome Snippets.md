@@ -1,5 +1,4 @@
 ---
-title: Awesome Snippets 
 date: 2023-12-31
 ---
 

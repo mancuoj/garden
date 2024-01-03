@@ -13,8 +13,8 @@ date: 2023-12-01
 
 尽量只专注于前端生态，其他计算机相关内容就不三分钟热度了。
 
-- [[Books]]
-- [[Articles]]
+- [[Booklist]]
+- [[Awesome Articles]]
 - [[Thoughts]]
 
 ![[Pasted image 20231219213958.png]]
