@@ -5,14 +5,6 @@ date: 2023-12-01
 
 记录读过或想读的好文章，以及好的 Bloger，书单记录在[[Books|这里]]，都用来对抗我日渐衰退的记忆力 🥹
 
-- bun
-- jotai
-- hono
-- elysia
-- htmx
-- drizzle
-- turso
-
 ## Past
 
 ### Jan 2024
