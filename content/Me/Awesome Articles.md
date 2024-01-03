@@ -12,7 +12,8 @@ date: 2023-12-01
 | ---- | ---- |
 | [Tailwind CSS v3.4](https://tailwindcss.com/blog/tailwindcss-v3-4) | 3.4 更新文档，支持了许多好东西 |
 | [Tailwind CSS v3.3](https://tailwindcss.com/blog/tailwindcss-v3-3) | 3.3 更新文档 |
-|  |  |
+| [Tailwind CSS v3.2](https://tailwindcss.com/blog/tailwindcss-v3-2) | 3.2 更新文档 |
+| [Tailwind CSS v3.1](https://tailwindcss.com/blog/tailwindcss-v3-1) | 3.1更新文档，时间跨度超过一年 |
 |  |  |
 
 ### Dec 2023
