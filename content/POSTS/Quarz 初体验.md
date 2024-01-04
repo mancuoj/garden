@@ -2,7 +2,7 @@
 date: 2023-12-03
 ---
 
-## Get started
+## 开始
 
 ```sh
 git clone https://github.com/jackyzha0/quartz.git
@@ -11,13 +11,13 @@ npm i
 npx quartz create
 ```
 
-## Build & Preview
+## 构建
 
 ```sh
 npx quartz build [--serve]
 ```
 
-## Update
+## 更新
 
 ```sh
 # 执行后手动解决冲突

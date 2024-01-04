@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COLLECTIONS/Snippets.md",
+                "file": "TIL/001.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -73,7 +73,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COLLECTIONS/Snippets.md",
+                "file": "TIL/001.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,7 +90,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COLLECTIONS/Snippets.md",
+                "file": "TIL/001.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COLLECTIONS/Snippets.md"
+                "file": "TIL/001.md"
               }
             }
           }
@@ -145,11 +145,23 @@
   },
   "active": "2921e74aad938586",
   "lastOpenFiles": [
-    "COLLECTIONS/Books.md",
-    "COLLECTIONS/Articles.md",
-    "COLLECTIONS/Ideas.md",
     "index.md",
-    "COLLECTIONS/Free API.md",
+    "POSTS/中文技术文档排版指南.md",
+    "POSTS/Angular `ngDoCheck`.md",
+    "POSTS/Angular 井号语法.md",
+    "POSTS/Angular Getter & Setter.md",
+    "POSTS/ChatGPT 中英翻译 Prompt.md",
+    "POSTS/Obsidian 扩展 Markdown 语法.md",
+    "POSTS/Quarz 初体验.md",
+    "POSTS/React + TypeScript 小抄.md",
+    "POSTS/React 命名及项目结构规范.md",
+    "POSTS/Vue2 TodoMVC.md",
+    "private/templates/simple frontmatter.md",
+    "COLLECTION/Snippets.md",
+    "COLLECTION/Books.md",
+    "COLLECTION/Articles.md",
+    "COLLECTION/Ideas.md",
+    "COLLECTION/Free API.md",
     "TIL/005.md",
     "TIL/003.md",
     "TIL/004.md",
@@ -157,26 +169,14 @@
     "TIL/006.md",
     "TIL/008.md",
     "TIL/002.md",
-    "COLLECTIONS/Snippets.md",
     "COLLECTIONS/脚本片段.md",
-    "POSTS/Vue2 TodoMVC.md",
-    "POSTS/React 命名及项目结构规范.md",
-    "POSTS/React + TypeScript 小抄.md",
-    "POSTS/Quarz 初体验.md",
-    "POSTS/Angular Getter & Setter.md",
-    "POSTS/Angular 井号语法.md",
-    "POSTS/Angular `ngDoCheck`.md",
-    "POSTS/中文技术文档排版指南.md",
     "TIL/001.md",
-    "POSTS/Obsidian Syntax.md",
-    "POSTS/Vue2 TodoMVC（下）.md",
-    "TIL/空值合并符.md",
     "Untitled",
     "TIL",
     "CSS/Tailwind",
     "JS",
     "assets/Pasted image 20231219213958.png",
-    "COLLECTIONS",
+    "COLLECTION",
     "未命名.canvas",
     "未命名 1.canvas",
     "POSTS/Angular",
