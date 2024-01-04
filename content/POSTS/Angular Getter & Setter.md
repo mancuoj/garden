@@ -1,5 +1,4 @@
 ---
-title: Getter & Setter
 date: 2023-09-07
 ---
 

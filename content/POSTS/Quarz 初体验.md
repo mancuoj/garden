@@ -1,5 +1,4 @@
 ---
-title: Hello Quartz
 date: 2023-12-03
 ---
 

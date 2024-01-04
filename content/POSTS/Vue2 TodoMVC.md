@@ -3,7 +3,6 @@ title: Vue2 TodoMVC
 date: 2023-08-16
 ---
 
-
 > 本教程需要你有一定的 HTML、CSS 和 JavaScript 基础，如果你是初学者，建议先去学习三件套
 
 虽说 Vue 已全面转向 Vue3，但对于个人应用来说，Vue3 并不是必需的选择。

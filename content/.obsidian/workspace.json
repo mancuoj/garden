@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "COLLECTIONS/Snippets.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -73,7 +73,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "COLLECTIONS/Snippets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,7 +90,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "COLLECTIONS/Snippets.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "COLLECTIONS/Snippets.md"
               }
             }
           }
@@ -145,32 +145,32 @@
   },
   "active": "2921e74aad938586",
   "lastOpenFiles": [
-    "TIL/001.md",
-    "TIL/002.md",
+    "COLLECTIONS/Books.md",
+    "COLLECTIONS/Articles.md",
+    "COLLECTIONS/Ideas.md",
+    "index.md",
+    "COLLECTIONS/Free API.md",
+    "TIL/005.md",
     "TIL/003.md",
-    "COLLECTIONS/Awesome Articles.md",
+    "TIL/004.md",
     "TIL/007.md",
     "TIL/006.md",
-    "TIL/004.md",
-    "TIL/005.md",
     "TIL/008.md",
-    "COLLECTIONS/Awesome Scripts.md",
-    "COLLECTIONS/Awesome Snippets.md",
-    "COLLECTIONS/Booklist.md",
-    "COLLECTIONS/Free APIs.md",
-    "COLLECTIONS/Thoughts.md",
-    "POSTS/Hello Quarz.md",
+    "TIL/002.md",
+    "COLLECTIONS/Snippets.md",
+    "COLLECTIONS/脚本片段.md",
     "POSTS/Vue2 TodoMVC.md",
-    "POSTS/Vue2 TodoMVC（下）.md",
+    "POSTS/React 命名及项目结构规范.md",
+    "POSTS/React + TypeScript 小抄.md",
+    "POSTS/Quarz 初体验.md",
+    "POSTS/Angular Getter & Setter.md",
+    "POSTS/Angular 井号语法.md",
+    "POSTS/Angular `ngDoCheck`.md",
+    "POSTS/中文技术文档排版指南.md",
+    "TIL/001.md",
     "POSTS/Obsidian Syntax.md",
+    "POSTS/Vue2 TodoMVC（下）.md",
     "TIL/空值合并符.md",
-    "TIL/可选链.md",
-    "CSS/CSS Typing Animation.md",
-    "CSS/CSS Reset.md",
-    "CSS/同时设置高度和宽度.md",
-    "CSS/渐变文字.md",
-    "CSS/Tailwind/文档拾遗.md",
-    "index.md",
     "Untitled",
     "TIL",
     "CSS/Tailwind",

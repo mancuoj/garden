@@ -1,5 +1,4 @@
 ---
-title: TypeScript in React
 date: 2023-12-18
 ---
 

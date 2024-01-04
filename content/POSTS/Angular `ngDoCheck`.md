@@ -1,5 +1,4 @@
 ---
-title: ngDoCheck hook
 date: 2023-09-12
 ---
 
