@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "POSTS/Angular 井号语法.md",
+                "file": "TIL/001.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -73,7 +73,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "POSTS/Angular 井号语法.md",
+                "file": "TIL/001.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,7 +90,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "POSTS/Angular 井号语法.md",
+                "file": "TIL/001.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "POSTS/Angular 井号语法.md"
+                "file": "TIL/001.md"
               }
             }
           }
@@ -145,6 +145,7 @@
   },
   "active": "2921e74aad938586",
   "lastOpenFiles": [
+    "POSTS/Angular 井号语法.md",
     "POSTS/Angular Getter & Setter.md",
     "POSTS/Angular ngDoCheck.md",
     "POSTS/Obsidian 扩展 Markdown 语法.md",
@@ -162,7 +163,6 @@
     "TIL/007.md",
     "TIL/008.md",
     "index.md",
-    "POSTS/Angular 井号语法.md",
     "POSTS/React + TypeScript 小抄.md",
     "POSTS/React 命名及项目结构规范.md",
     "POSTS/Vue2 TodoMVC.md",
