@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TIL/002.md",
+                "file": "COLLECTION/Books.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -73,7 +73,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TIL/002.md",
+                "file": "COLLECTION/Books.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,7 +90,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TIL/002.md",
+                "file": "COLLECTION/Books.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TIL/002.md"
+                "file": "COLLECTION/Books.md"
               }
             }
           }
@@ -145,8 +145,8 @@
   },
   "active": "2921e74aad938586",
   "lastOpenFiles": [
-    "TIL/001.md",
     "TIL/002.md",
+    "TIL/001.md",
     "TIL/003.md",
     "TIL/004.md",
     "TIL/005.md",

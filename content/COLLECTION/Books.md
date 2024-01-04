@@ -6,6 +6,9 @@ date: 2023-12-01
 
 ## Current
 
+- 玩家凶猛 by 黑灯夏火
+- 我们生活在南京 by 天瑞说符
+- 死在火星上 by 天瑞说符
 - 图解 HTTP by 上野宣
 - 图解 TCP/IP by 竹下隆史 & 村山公保 & 荒井透 & 苅田幸雄
 - 网络是怎样连接的 by 户勤根
@@ -14,7 +17,7 @@ date: 2023-12-01
 
 ## To Read
 
-- Let's Go Further by Alex Edwards
+
 - Refactoring UI by Adam Wathan & Steve Schoger
 - 你不知道的 JavaScript 上卷 by Kyle Simpson
 - JavaScript 设计模式与开发实践 by 曾探
