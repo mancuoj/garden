@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TIL/001.md",
+                "file": "index.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -73,7 +73,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TIL/001.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,7 +90,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TIL/001.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TIL/001.md"
+                "file": "index.md"
               }
             }
           }
@@ -145,21 +145,21 @@
   },
   "active": "2921e74aad938586",
   "lastOpenFiles": [
-    "Me/Awesome Articles.md",
+    "TIL/001.md",
+    "TIL/002.md",
+    "TIL/003.md",
+    "COLLECTIONS/Awesome Articles.md",
     "TIL/007.md",
     "TIL/006.md",
     "TIL/004.md",
     "TIL/005.md",
     "TIL/008.md",
-    "Me/Awesome Scripts.md",
-    "Me/Awesome Snippets.md",
-    "Me/Booklist.md",
-    "Me/Free APIs.md",
-    "Me/Thoughts.md",
+    "COLLECTIONS/Awesome Scripts.md",
+    "COLLECTIONS/Awesome Snippets.md",
+    "COLLECTIONS/Booklist.md",
+    "COLLECTIONS/Free APIs.md",
+    "COLLECTIONS/Thoughts.md",
     "POSTS/Hello Quarz.md",
-    "TIL/002.md",
-    "TIL/001.md",
-    "TIL/003.md",
     "POSTS/Vue2 TodoMVC.md",
     "POSTS/Vue2 TodoMVC（下）.md",
     "POSTS/Obsidian Syntax.md",
@@ -176,7 +176,7 @@
     "CSS/Tailwind",
     "JS",
     "assets/Pasted image 20231219213958.png",
-    "Me",
+    "COLLECTIONS",
     "未命名.canvas",
     "未命名 1.canvas",
     "POSTS/Angular",

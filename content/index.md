@@ -9,6 +9,12 @@ date: 2023-12-01
 
 ![wakatime](https://wakatime.com/badge/user/1f8863c0-b6d5-42bf-9121-9a13c0895e48.svg)
 
+Hi, I'm mancuoj. A 
+
+Documenting my learning journey, a collection of musings and whimsical thoughts.
+
+Striving to immerse myself solely in the realm of frontend ecosystems, with a fleeting interest in other computer-related domains.
+
 记录我的学习过程，一些碎碎念和莫名其妙的想法。
 
 尽量只专注于前端生态，其他计算机相关内容就不三分钟热度了。
