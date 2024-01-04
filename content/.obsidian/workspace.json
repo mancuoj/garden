@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COLLECTION/Books.md",
+                "file": "COLLECTION/Articles.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -73,7 +73,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COLLECTION/Books.md",
+                "file": "COLLECTION/Articles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,7 +90,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COLLECTION/Books.md",
+                "file": "COLLECTION/Articles.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COLLECTION/Books.md"
+                "file": "COLLECTION/Articles.md"
               }
             }
           }
@@ -145,6 +145,7 @@
   },
   "active": "2921e74aad938586",
   "lastOpenFiles": [
+    "COLLECTION/Books.md",
     "TIL/002.md",
     "TIL/001.md",
     "TIL/003.md",
@@ -166,7 +167,6 @@
     "POSTS/Vue2 TodoMVC.md",
     "private/templates/simple frontmatter.md",
     "COLLECTION/Snippets.md",
-    "COLLECTION/Books.md",
     "COLLECTION/Articles.md",
     "COLLECTION/Ideas.md",
     "COLLECTION/Free API.md",
