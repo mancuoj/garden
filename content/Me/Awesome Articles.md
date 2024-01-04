@@ -16,6 +16,8 @@ date: 2023-12-01
 | [Tailwind CSS v3.1](https://tailwindcss.com/blog/tailwindcss-v3-1) | 3.1 更新文档，时间跨度超过一年 |
 | [Describing the UI – React](https://react.dev/learn/describing-the-ui) | 第一部分，大致扫了一遍 |
 | [Adding Interactivity – React](https://react.dev/learn/adding-interactivity) |  |
+| [2023 JavaScript Rising Stars](https://risingstars.js.org/2023/en) | This is JavaScript! |
+|  |  |
 
 ### Dec 2023
 | 文章名称 | 评论 |
