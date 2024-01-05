@@ -11,9 +11,9 @@ I strived to maintain a singular focus on the frontend ecosystem, channeling my 
 
 Here are some places you may want to visit:
 
-- [Folder: COLLECTION](https://garden.mancuoj.me/collection/) - Books, articles and so on
-- [Folder: TIL](https://garden.mancuoj.me/TIL/) - Today I Learned written in English
-- [Folder: POSTS](https://garden.mancuoj.me/posts/) - Posts written in Chinese
+- [Collection](https://garden.mancuoj.me/collection/) - Books, articles and so on
+- [TIL: Today I Learned](https://garden.mancuoj.me/TIL/) - Written in English
+- [Blog](https://garden.mancuoj.me/posts/) - Written in Chinese
 
 ![[Pasted image 20231219213958.png]]
 

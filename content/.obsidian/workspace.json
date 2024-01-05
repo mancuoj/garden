@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TIL/001.md",
+                "file": "Collection/Articles.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -73,7 +73,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TIL/001.md",
+                "file": "Collection/Articles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,7 +90,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TIL/001.md",
+                "file": "Collection/Articles.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TIL/001.md"
+                "file": "Collection/Articles.md"
               }
             }
           }
@@ -145,43 +145,43 @@
   },
   "active": "2921e74aad938586",
   "lastOpenFiles": [
-    "POSTS/Angular 井号语法.md",
-    "POSTS/Angular Getter & Setter.md",
-    "POSTS/Angular ngDoCheck.md",
-    "POSTS/Obsidian 扩展 Markdown 语法.md",
-    "POSTS/ChatGPT 中英翻译 Prompt.md",
-    "POSTS/Quarz 初体验.md",
-    "POSTS/中文技术文档排版指南.md",
+    "index.md",
+    "TIL/001.md",
+    "Blog/Angular 井号语法.md",
+    "Blog/Angular Getter & Setter.md",
+    "Blog/Angular ngDoCheck.md",
+    "Blog/Obsidian 扩展 Markdown 语法.md",
+    "Blog/ChatGPT 中英翻译 Prompt.md",
+    "Blog/Quarz 初体验.md",
+    "Blog/中文技术文档排版指南.md",
     "TIL/004.md",
     "TIL/003.md",
     "TIL/002.md",
-    "TIL/001.md",
-    "COLLECTION/Articles.md",
-    "COLLECTION/Books.md",
+    "Collection/Articles.md",
+    "Collection/Books.md",
     "TIL/005.md",
     "TIL/006.md",
     "TIL/007.md",
     "TIL/008.md",
-    "index.md",
-    "POSTS/React + TypeScript 小抄.md",
-    "POSTS/React 命名及项目结构规范.md",
-    "POSTS/Vue2 TodoMVC.md",
+    "Blog/React + TypeScript 小抄.md",
+    "Blog/React 命名及项目结构规范.md",
+    "Blog/Vue2 TodoMVC.md",
     "private/templates/simple frontmatter.md",
-    "COLLECTION/Snippets.md",
-    "COLLECTION/Ideas.md",
-    "COLLECTION/Free API.md",
+    "Collection/Snippets.md",
+    "Collection/Ideas.md",
+    "Collection/Free API.md",
     "COLLECTIONS/脚本片段.md",
     "Untitled",
     "TIL",
     "CSS/Tailwind",
     "JS",
     "assets/Pasted image 20231219213958.png",
-    "COLLECTION",
+    "Collection",
     "未命名.canvas",
     "未命名 1.canvas",
     "POSTS/Angular",
     "Nest",
-    "POSTS",
+    "Blog",
     "Vue",
     "Network",
     "assets/full bleed.png",

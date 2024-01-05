@@ -1,10 +1,8 @@
 ---
-title: Awesome Articles
 date: 2023-12-01
 ---
 
 记录读过或想读的好文章，以及好的 Bloger，书单记录在[[Books|这里]]，都用来对抗我日渐衰退的记忆力 🥹
-
 
 ## To Read
 
@@ -110,6 +108,27 @@ date: 2023-12-01
 - [haixiangyan/make-wheels 一天学习一个 npm 轮子，十天后变成轮子哥](https://github.com/haixiangyan/make-wheels)
 - [Dependency Managers Don’t Manage Your Dependencies 系列四篇](https://cpojer.net/posts/dependency-managers-dont-manage-your-dependencies)
 
+## Collection
+| 博客名称 | 备注 |
+| ---- | ---- |
+| [This Week In React](https://thisweekinreact.com/newsletter) | React 大杂烩，总结趋势，每周必看 |
+| [MDH Weekly 前端周刊](https://mdhweekly.com/weekly) | 一路追更过来，前端大杂烩，推荐文章基本都是 React 相关 |
+| [阮一峰的科技爱好者周刊](https://www.ruanyifeng.com/blog/) | 科技爱好者，什么都有的大杂烩 |
+| [前端食堂技术周刊](https://github.com/Geekhyt/weekly) | 前端大杂烩 |
+| [Josh W Comeau's Blog](https://www.joshwcomeau.com/) | 神中神，最有交互式的一集 |
+| [Dan Abramov's Blog](https://overreacted.io/) | Dan！ |
+| [rauno.me](https://rauno.me/) | 天才！最有设计感的一集，动效的神 |
+| [antfu.me](https://antfu.me/posts) | 偶像！写 Vue 的 |
+| [innei.in](https://innei.in/posts) | 写 Next 写的 |
+| [cali.so](https://cali.so/blog) | 最想去的公司 |
+| [jser.dev](https://jser.dev/) | jser 怎么光写 React 相关的 |
+| [ManupaDev Blog](https://manupa.dev/blog) | 就三篇，React 相关 ⭐ |
+|  |  |
+|  |  |
+|  |  |
+
+
+
 ## Past
 
 ### Jan 2024
@@ -146,21 +165,6 @@ date: 2023-12-01
 | [Modern CSS Reset / Global Styles](https://www.joshwcomeau.com/css/custom-css-reset/) | 最实用的 CSS Reset |
 | [Your CSS reset needs text-size-adjust (probably)](https://kilianvalkhof.com/2022/css-html/your-css-reset-needs-text-size-adjust-probably/) | CSS 的一些 text 设置 |
 
-## Collection
-| 博客名称 | 备注 |
-| ---- | ---- |
-| [This Week In React](https://thisweekinreact.com/newsletter) | React 大杂烩，总结趋势，每周必看 |
-| [MDH Weekly 前端周刊](https://mdhweekly.com/weekly) | 一路追更过来，前端大杂烩，推荐文章基本都是 React 相关 |
-| [阮一峰的科技爱好者周刊](https://www.ruanyifeng.com/blog/) | 科技爱好者，什么都有的大杂烩 |
-| [前端食堂技术周刊](https://github.com/Geekhyt/weekly) | 前端大杂烩 |
-| [Josh W Comeau's Blog](https://www.joshwcomeau.com/) | 神中神，最有交互式的一集 |
-| [Dan Abramov's Blog](https://overreacted.io/) | Dan！ |
-| [rauno.me](https://rauno.me/) | 天才！最有设计感的一集，动效的神 |
-| [antfu.me](https://antfu.me/posts) | 偶像！写 Vue 的 |
-| [innei.in](https://innei.in/posts) | 写 Next 写的 |
-| [cali.so](https://cali.so/blog) | 最想去的公司 |
-| [jser.dev](https://jser.dev/) | jser 怎么光写 React 相关的 |
-| [ManupaDev Blog](https://manupa.dev/blog) | 就三篇，React 相关 ⭐ |
 
 | 有时间归个类 |
 | ---- |
