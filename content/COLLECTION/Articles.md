@@ -6,8 +6,12 @@ date: 2024-01-01
 
 ## Current
 
+- [CSS transitions and hover animations, an interactive guide](https://www.joshwcomeau.com/animation/css-transitions/)
+- [How to use prefers-reduced-motion in React](https://www.joshwcomeau.com/react/prefers-reduced-motion/)
+
 - [Spring Physics animation in JavaScript](https://www.joshwcomeau.com/animation/a-friendly-introduction-to-spring-physics/)
 - [React hover animation effect with React Spring (joshwcomeau.com)](https://www.joshwcomeau.com/react/boop/)
+
 - [Common Beginner Mistakes with React](https://www.joshwcomeau.com/react/common-beginner-mistakes/)
 - [Adding Interactivity – React](https://react.dev/learn/adding-interactivity) 
 - [Understanding Layout Algorithms](https://www.joshwcomeau.com/css/understanding-layout-algorithms/)
