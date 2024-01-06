@@ -15,7 +15,6 @@ date: 2024-01-01
 - [Data binding in React: how to work with forms in React](https://www.joshwcomeau.com/react/data-binding/)
 
 
-
 ## To Read
 
 - [The anatomy of shadcn/ui](https://manupa.dev/blog/anatomy-of-shadcn-ui)
