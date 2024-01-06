@@ -17,7 +17,6 @@ date: 2024-01-01
 
 ## To Read
 
-
 - Refactoring UI by Adam Wathan & Steve Schoger
 - 你不知道的 JavaScript 上卷 by Kyle Simpson
 - JavaScript 设计模式与开发实践 by 曾探

@@ -4,17 +4,27 @@ date: 2024-01-01
 
 记录读过或想读的好文章，以及好的 Bloger，书单记录在[[Books|这里]]，都用来对抗我日渐衰退的记忆力 🥹
 
+## Current
+
+- [Common Beginner Mistakes with React](https://www.joshwcomeau.com/react/common-beginner-mistakes/)
+- [Adding Interactivity – React](https://react.dev/learn/adding-interactivity) 
+- [Understanding Layout Algorithms](https://www.joshwcomeau.com/css/understanding-layout-algorithms/)
+- [Why React Re-Renders](https://www.joshwcomeau.com/react/why-react-re-renders/)
+- [Data binding in React: how to work with forms in React](https://www.joshwcomeau.com/react/data-binding/)
+
+
+
 ## To Read
 
 - [The anatomy of shadcn/ui](https://manupa.dev/blog/anatomy-of-shadcn-ui)
-- [Why React Re-Renders](https://www.joshwcomeau.com/react/why-react-re-renders/)
+
 - [Let’s learn how modern JavaScript frameworks work by building one](https://nolanlawson.com/2023/12/02/lets-learn-how-modern-javascript-frameworks-work-by-building-one/)
 - [npm: A Free Guide for Beginners](https://css-tricks.com/a-complete-beginners-guide-to-npm/)
 - [Tailwind CSS 文档](https://tailwindcss.com/docs/installation)
 - [Let’s Define Exactly What Atomic CSS is](https://css-tricks.com/lets-define-exactly-atomic-css/)
 - [重新构想原子化 CSS](https://antfu.me/posts/reimagine-atomic-css-zh)
 - [How UnoCSS works internally with Vite?](https://jser.dev/2023-09-17-how-unocss-works-with-vite/)
-- [Understanding Layout Algorithms](https://www.joshwcomeau.com/css/understanding-layout-algorithms/)
+
 - [Common React Hooks Mistakes You Should Avoid](https://blog.bitsrc.io/common-react-hooks-mistakes-every-developer-should-avoid-defd47d09d8c)
 - [react.dev/learn](https://zh-hans.react.dev/learn)
 - [04-003 Creating a Table](https://www.bilibili.com/video/BV1cC4y1g7ng?p=30&vd_source=4da426ef9b0e129787ecf66363321458)
@@ -26,7 +36,7 @@ date: 2024-01-01
 - [10 Must-Know Patterns for Writing Clean Code with React and TypeScript](https://dev.to/alexomeyer/10-must-know-patterns-for-writing-clean-code-with-react-and-typescript-1m0g)
 - [React component as prop: the right way](https://www.developerway.com/posts/react-component-as-prop-the-right-way)
 - [Extract parameter types from string literal types with TypeScript](https://lihautan.com/extract-parameters-type-from-string-literal-types-with-typescript/)
-- [Data binding in React: how to work with forms in React](https://www.joshwcomeau.com/react/data-binding/)
+
 - [How to Use Two GitHub Accounts on a Macbook the Right Way](https://fayazahmed.com/articles/how-to-use-two-github-accounts-on-a-macbook-the-right-way)
 - [A minimal dependency-free translation system for Next.js](https://www.thomasledoux.be/blog/minimal-dependency-free-translation-system-nextjs)
 - [Add user management to a Next.js site with React server components, server actions, and AuthKit](https://www.learnwithjason.dev/blog/authkit-next/)
@@ -67,7 +77,7 @@ date: 2024-01-01
 - [Debouncing requests with React Query](https://rafaelcamargo.com/blog/deboucing-requests-with-react-query/)
 - [Full-Stack TypeScript with tRPC and React](https://www.robinwieruch.de/react-trpc/)
 - [Creating Animations in React with React-Spring: A Comprehensive Guide](https://voskan.host/2023/02/08/creating-animations-in-react-with-react-spring/)
-- [Common Beginner Mistakes with React](https://www.joshwcomeau.com/react/common-beginner-mistakes/)
+
 - [Use Maps More and Objects Less](https://www.builder.io/blog/maps)
 - [Effective Higher-Order Components](https://www.bbss.dev/posts/effective-hocs/)
 - [React Hooks: Compound Components](https://kentcdodds.com/blog/compound-components-with-react-hooks)
@@ -103,7 +113,7 @@ date: 2024-01-01
 - [daishi/7guis](https://codesandbox.io/search?query=daishi%207gui&page=1&configure%5BhitsPerPage%5D=12)
 - [7GUIs](https://eugenkiss.github.io/7guis/)
 - [手写系列-实现一个铂金段位的 React](https://mp.weixin.qq.com/s?__biz=MzIxMzExMjYwOQ==&mid=2651896816&idx=1&sn=cd685d3f4ab5b4b9375552f9980ef3ff)
-- [Demystifying styled-components](https://www.joshwcomeau.com/react/demystifying-styled-components/)
+
 - [sorrycc/toy-vite](https://github.com/sorrycc/toy-vite)
 - [haixiangyan/make-wheels 一天学习一个 npm 轮子，十天后变成轮子哥](https://github.com/haixiangyan/make-wheels)
 - [Dependency Managers Don’t Manage Your Dependencies 系列四篇](https://cpojer.net/posts/dependency-managers-dont-manage-your-dependencies)
@@ -123,15 +133,13 @@ date: 2024-01-01
 | [cali.so](https://cali.so/blog) | 最想去的公司 |
 | [jser.dev](https://jser.dev/) | jser 怎么光写 React 相关的 |
 | [ManupaDev Blog](https://manupa.dev/blog) | 就三篇，React 相关 ⭐ |
-|  |  |
-|  |  |
-|  |  |
 
 
 
 ## Past
 
 ### Jan 2024
+
 | 文章名称 | 评论 |
 | ---- | ---- |
 | [Tailwind CSS v3.4](https://tailwindcss.com/blog/tailwindcss-v3-4) | 3.4 更新文档，支持了许多好东西 |
@@ -139,12 +147,9 @@ date: 2024-01-01
 | [Tailwind CSS v3.2](https://tailwindcss.com/blog/tailwindcss-v3-2) | 3.2 更新文档 |
 | [Tailwind CSS v3.1](https://tailwindcss.com/blog/tailwindcss-v3-1) | 3.1 更新文档，时间跨度超过一年 |
 | [Describing the UI – React](https://react.dev/learn/describing-the-ui) | 第一部分，大致扫了一遍 |
-| [Adding Interactivity – React](https://react.dev/learn/adding-interactivity) |  |
 | [2023 JavaScript Rising Stars](https://risingstars.js.org/2023/en) | This is JavaScript! |
 | [The Epic Stack](https://www.epicweb.dev/epic-stack) | fly.io 你让我哭 |
-|  |  |
-|  |  |
-|  |  |
+
 
 ### Dec 2023
 | 文章名称 | 评论 |
