@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Collection/Articles.md",
+                "file": "Collection/Midea.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -73,7 +73,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Collection/Articles.md",
+                "file": "Collection/Midea.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,7 +90,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Collection/Articles.md",
+                "file": "Collection/Midea.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Collection/Articles.md"
+                "file": "Collection/Midea.md"
               }
             }
           }
@@ -145,11 +145,12 @@
   },
   "active": "2921e74aad938586",
   "lastOpenFiles": [
+    "Collection/Snippets.md",
     "Collection/Books.md",
     "Collection/Ideas.md",
-    "Collection/Mideas.md",
-    "Collection/Articles.md",
     "Collection/Free APIs.md",
+    "Collection/Midea.md",
+    "Collection/Articles.md",
     "TIL/002.md",
     "TIL/003.md",
     "TIL/004.md",
@@ -157,7 +158,6 @@
     "index.md",
     "TIL/001.md",
     "TIL/008.md",
-    "Collection/Snippets.md",
     "Blog/Angular 井号语法.md",
     "Blog/Angular Getter & Setter.md",
     "Blog/Angular ngDoCheck.md",

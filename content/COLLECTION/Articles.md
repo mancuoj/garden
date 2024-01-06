@@ -6,6 +6,8 @@ date: 2024-01-01
 
 ## Current
 
+- [Spring Physics animation in JavaScript](https://www.joshwcomeau.com/animation/a-friendly-introduction-to-spring-physics/)
+- [React hover animation effect with React Spring (joshwcomeau.com)](https://www.joshwcomeau.com/react/boop/)
 - [Common Beginner Mistakes with React](https://www.joshwcomeau.com/react/common-beginner-mistakes/)
 - [Adding Interactivity – React](https://react.dev/learn/adding-interactivity) 
 - [Understanding Layout Algorithms](https://www.joshwcomeau.com/css/understanding-layout-algorithms/)
@@ -17,14 +19,12 @@ date: 2024-01-01
 ## To Read
 
 - [The anatomy of shadcn/ui](https://manupa.dev/blog/anatomy-of-shadcn-ui)
-
 - [Let’s learn how modern JavaScript frameworks work by building one](https://nolanlawson.com/2023/12/02/lets-learn-how-modern-javascript-frameworks-work-by-building-one/)
 - [npm: A Free Guide for Beginners](https://css-tricks.com/a-complete-beginners-guide-to-npm/)
 - [Tailwind CSS 文档](https://tailwindcss.com/docs/installation)
 - [Let’s Define Exactly What Atomic CSS is](https://css-tricks.com/lets-define-exactly-atomic-css/)
 - [重新构想原子化 CSS](https://antfu.me/posts/reimagine-atomic-css-zh)
 - [How UnoCSS works internally with Vite?](https://jser.dev/2023-09-17-how-unocss-works-with-vite/)
-
 - [Common React Hooks Mistakes You Should Avoid](https://blog.bitsrc.io/common-react-hooks-mistakes-every-developer-should-avoid-defd47d09d8c)
 - [react.dev/learn](https://zh-hans.react.dev/learn)
 - [04-003 Creating a Table](https://www.bilibili.com/video/BV1cC4y1g7ng?p=30&vd_source=4da426ef9b0e129787ecf66363321458)
