@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Collection/Articles.md",
+                "file": "Blog/ChatGPT 中英翻译 Prompt.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -73,7 +73,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Collection/Articles.md",
+                "file": "Blog/ChatGPT 中英翻译 Prompt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,7 +90,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Collection/Articles.md",
+                "file": "Blog/ChatGPT 中英翻译 Prompt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Collection/Articles.md"
+                "file": "Blog/ChatGPT 中英翻译 Prompt.md"
               }
             }
           }
@@ -145,12 +145,12 @@
   },
   "active": "2921e74aad938586",
   "lastOpenFiles": [
+    "Collection/Articles.md",
     "TIL/005.md",
     "TIL/004.md",
     "TIL/001.md",
     "TIL/002.md",
     "TIL/003.md",
-    "Collection/Articles.md",
     "Collection/Books.md",
     "Collection/Free APIs.md",
     "Collection/Midea.md",
