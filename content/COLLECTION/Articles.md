@@ -11,9 +11,8 @@ date: 2024-01-01
 - [How to animate gradients in CSS and React](https://www.joshwcomeau.com/react/rainbow-button/)
 - [CSS transitions and hover animations, an interactive guide](https://www.joshwcomeau.com/animation/css-transitions/)
 - [How to fold a DOM node | CSS effects](https://www.joshwcomeau.com/react/folding-the-dom/)
-- [Let's Learn About Waveforms](https://pudding.cool/2018/02/waveforms/)
 
-- [How to use prefers-reduced-motion in React](https://www.joshwcomeau.com/react/prefers-reduced-motion/)
+- 
 - [React hover animation effect with React Spring](https://www.joshwcomeau.com/react/boop/)
 - [Spring Physics animation in JavaScript](https://www.joshwcomeau.com/animation/a-friendly-introduction-to-spring-physics/)
 - [Getting started | React Spring (react-spring.dev)](https://www.react-spring.dev/docs/getting-started)
@@ -159,6 +158,8 @@ date: 2024-01-01
 | [Describing the UI – React](https://react.dev/learn/describing-the-ui) | 第一部分，大致扫了一遍 |
 | [2023 JavaScript Rising Stars](https://risingstars.js.org/2023/en) | This is JavaScript! |
 | [The Epic Stack](https://www.epicweb.dev/epic-stack) | fly.io 你让我哭 |
+| [Let's Learn About Waveforms](https://pudding.cool/2018/02/waveforms/) | 讲的声音的波形？我到底为啥要看这个 |
+| [How to use prefers-reduced-motion in React](https://www.joshwcomeau.com/react/prefers-reduced-motion/) | 在用户禁用动画时 |
 
 
 ### Dec 2023

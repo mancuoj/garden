@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Collection/Snippets.md",
+                "file": "Collection/Articles.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -73,7 +73,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Collection/Snippets.md",
+                "file": "Collection/Articles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,7 +90,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Collection/Snippets.md",
+                "file": "Collection/Articles.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Collection/Snippets.md"
+                "file": "Collection/Articles.md"
               }
             }
           }
@@ -145,13 +145,13 @@
   },
   "active": "2921e74aad938586",
   "lastOpenFiles": [
+    "Collection/Free APIs.md",
+    "Collection/Ideas.md",
+    "Collection/Snippets.md",
     "Blog/2024 年度 Flag.md",
     "Collection/Books.md",
     "Collection/Articles.md",
-    "Collection/Snippets.md",
-    "Collection/Ideas.md",
     "Collection/Media.md",
-    "Collection/Free APIs.md",
     "index.md",
     "TIL/002.md",
     "TIL/001.md",
