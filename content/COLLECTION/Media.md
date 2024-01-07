@@ -10,7 +10,8 @@ date: 2024-01-01
 
 ## Current
 
-- Friends Season 1
+- Friends Season 1 [豆瓣](https://movie.douban.com/subject/1393859/)
+- 
 
 ## To Do
 
