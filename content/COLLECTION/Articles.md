@@ -6,18 +6,16 @@ date: 2024-01-01
 
 ## Current
 
-- [The FLIP technique for list animations](https://www.joshwcomeau.com/react/animating-the-unanimatable/)
+
 - [How to update SVG bezier curves on scroll](https://www.joshwcomeau.com/animation/dynamic-bezier-curves/)
 - [How to animate gradients in CSS and React](https://www.joshwcomeau.com/react/rainbow-button/)
 - [CSS transitions and hover animations, an interactive guide](https://www.joshwcomeau.com/animation/css-transitions/)
-- [How to use prefers-reduced-motion in React](https://www.joshwcomeau.com/react/prefers-reduced-motion/)
 - [How to fold a DOM node | CSS effects](https://www.joshwcomeau.com/react/folding-the-dom/)
-- [React hover animation effect with React Spring](https://www.joshwcomeau.com/react/boop/)
 - [Let's Learn About Waveforms](https://pudding.cool/2018/02/waveforms/)
 
-
+- [How to use prefers-reduced-motion in React](https://www.joshwcomeau.com/react/prefers-reduced-motion/)
+- [React hover animation effect with React Spring](https://www.joshwcomeau.com/react/boop/)
 - [Spring Physics animation in JavaScript](https://www.joshwcomeau.com/animation/a-friendly-introduction-to-spring-physics/)
-
 - [Getting started | React Spring (react-spring.dev)](https://www.react-spring.dev/docs/getting-started)
 
 - [Common Beginner Mistakes with React](https://www.joshwcomeau.com/react/common-beginner-mistakes/)
