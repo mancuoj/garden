@@ -16,7 +16,7 @@
                 "file": "Blog/2024 年度 Flag.md",
                 "mode": "source",
                 "backlinks": false,
-                "source": true
+                "source": false
               }
             }
           }
@@ -148,10 +148,10 @@
     "Collection/Books.md",
     "Blog/2024 年度 Flag.md",
     "Collection/Articles.md",
-    "Collection/Free APIs.md",
-    "Collection/Ideas.md",
-    "Collection/Midea.md",
     "Collection/Snippets.md",
+    "Collection/Ideas.md",
+    "Collection/Media.md",
+    "Collection/Free APIs.md",
     "index.md",
     "TIL/002.md",
     "TIL/001.md",
