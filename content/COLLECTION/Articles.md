@@ -8,7 +8,8 @@ date: 2024-01-01
 
 - [Let’s Define Exactly What Atomic CSS is](https://css-tricks.com/lets-define-exactly-atomic-css/)
 - [重新构想原子化 CSS](https://antfu.me/posts/reimagine-atomic-css-zh)
-- 
+- [daishi/7guis](https://codesandbox.io/search?query=daishi%207gui&page=1&configure%5BhitsPerPage%5D=12)
+- [7GUIs](https://eugenkiss.github.io/7guis/)
 
 ## To Read
 
@@ -95,9 +96,6 @@ date: 2024-01-01
 - [Patterns.dev](https://www.patterns.dev/)
 - [12 Days of Web](https://12daysofweb.dev/)
 - [Rethink Modals Management in React](https://medium.com/ebaytech/rethink-modals-management-in-react-cf3b6804223d)
-- [kettanaito/naming-cheatsheet](https://github.com/kettanaito/naming-cheatsheet)
-- [daishi/7guis](https://codesandbox.io/search?query=daishi%207gui&page=1&configure%5BhitsPerPage%5D=12)
-- [7GUIs](https://eugenkiss.github.io/7guis/)
 - [手写系列-实现一个铂金段位的 React](https://mp.weixin.qq.com/s?__biz=MzIxMzExMjYwOQ==&mid=2651896816&idx=1&sn=cd685d3f4ab5b4b9375552f9980ef3ff)
 - [sorrycc/toy-vite](https://github.com/sorrycc/toy-vite)
 - [haixiangyan/make-wheels 一天学习一个 npm 轮子，十天后变成轮子哥](https://github.com/haixiangyan/make-wheels)
@@ -107,7 +105,7 @@ date: 2024-01-01
 | 博客名称 | 备注 |
 | ---- | ---- |
 | [This Week In React](https://thisweekinreact.com/newsletter) | React 大杂烩，总结趋势，每周必看 |
-| [MDH Weekly 前端周刊](https://mdhweekly.com/weekly) | 一路追更过来，前端大杂烩，推荐文章基本都是 React 相关 |
+| [MDH Weekly 前端周刊](https://mdhweekly.com/weekly) | 一路追更过来，前端大杂烩，React 偏多 |
 | [阮一峰的科技爱好者周刊](https://www.ruanyifeng.com/blog/) | 科技爱好者，什么都有的大杂烩 |
 | [前端食堂技术周刊](https://github.com/Geekhyt/weekly) | 前端大杂烩 |
 | [Josh W Comeau's Blog](https://www.joshwcomeau.com/) | 神中神，最有交互式的一集 |
@@ -119,10 +117,10 @@ date: 2024-01-01
 | [JSer.dev](https://jser.dev/) | jser 怎么光写 React 相关的 |
 | [ManupaDev Blog](https://manupa.dev/blog) | 就三篇，React 相关 ⭐ |
 | [The Pudding](https://pudding.cool/) | Interactive Guides |
-| [Daishi Kato's blog](https://blog.axlight.com/posts/) | Daishi 老师一个人写三个 React 状态库，太离谱了 |
+| [Daishi Kato's blog](https://blog.axlight.com/posts/) | 一人写三个 React 状态库 |
 | [EGOIST](https://egoist.dev/) | Indie Hacker，咱不离口 |
 | [Not a Number](https://www.nan.fyi/) | 网页太好看了，文章还没看过 |
-| [Exploring JS: JavaScript books for programmers](https://exploringjs.com/) | 写 JS 书的，免费在线阅读 |
+| [Exploring JS](https://exploringjs.com/) | 写 JS 书的，免费在线阅读 |
 | [Blog – Vercel](https://vercel.com/blog/category/engineering) | Vercel 官方的技术博客 |
 
 | 有时间归个类 |  |  |
@@ -154,7 +152,7 @@ date: 2024-01-01
 ## Past
 
 ### Jan 2024
-| 文章名称 | 评论 |
+| 文章名称 | 记录 |
 | ---- | ---- |
 | [Tailwind CSS v3.4](https://tailwindcss.com/blog/tailwindcss-v3-4) | 3.4 更新文档，支持了许多好东西 |
 | [Tailwind CSS v3.3](https://tailwindcss.com/blog/tailwindcss-v3-3) | 3.3 更新文档 |
@@ -166,7 +164,7 @@ date: 2024-01-01
 | [Let's Learn About Waveforms](https://pudding.cool/2018/02/waveforms/) | 讲的声音的波形？我到底为啥要看这个 |
 | [How to use prefers-reduced-motion in React](https://www.joshwcomeau.com/react/prefers-reduced-motion/) | 在用户系统设置禁用动画时，禁用组件的动画 |
 | [Spring Physics animation in JavaScript](https://www.joshwcomeau.com/animation/a-friendly-introduction-to-spring-physics/#thinking-in-springs-2) | 影响弹簧动画的三个要素：Mass 质量，Tension 张力（可以看作弹簧的圈数），Friction 摩擦力 |
-| [Common Beginner Mistakes with React (joshwcomeau.com)](https://www.joshwcomeau.com/react/common-beginner-mistakes/) | 常看常新。注意不要使用数字 0 做条件；state 不可突变；用 `crypto.randomUUID()` 生成 id 作为 key 值，数组 map 等方法都要给上 key 值；用 `{' '}` 代替空格；`setState()` 是异步的，注意用 `nextXx` 来当作更新输出；`useEffect` 异步方法在内部定义，别忘了返回一个清理函数； |
+| [Common Beginner Mistakes with React](https://www.joshwcomeau.com/react/common-beginner-mistakes/) | 常看常新。注意不要使用数字 0 做条件；state 不可突变；用 `crypto.randomUUID()` 生成 id 作为 key 值，数组 map 等方法都要给上 key 值；用 `{' '}` 代替空格；`setState()` 是异步的，注意用 `nextXx` 来当作更新输出；`useEffect` 异步方法在内部定义，别忘了返回一个清理函数； |
 | [Common React Hooks Mistakes You Should Avoid](https://blog.bitsrc.io/common-react-hooks-mistakes-every-developer-should-avoid-defd47d09d8c) | 在函数最开始使用 Hook；状态值只会在下一次 render 更新，避免使用过时状态，就这样做 `setCount(count => count + 1)` ；保留状态不触发 re-render 用 `useRef` hook；注意 `useEffect` 的依赖项数组 |
 | [Data binding in React: how to work with forms in React](https://www.joshwcomeau.com/react/data-binding/) | 表单的各种双向数据绑定 |
 |  |  |
@@ -174,7 +172,7 @@ date: 2024-01-01
 
 
 ### Dec 2023
-| 文章名称 | 评论 |
+| 文章名称 | 记录 |
 | ---- | ---- |
 | [A Complete Guide to React Router: Everything You Need to Know](https://ui.dev/react-router-tutorial) | 烂 |
 | [Tutorial v6.21.0 \| React Router](https://reactrouter.com/en/main/start/tutorial) | 教程挺好，但是全是 JS， TS 支持太垃圾了 |
