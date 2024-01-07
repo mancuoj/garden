@@ -9,17 +9,17 @@ date: 2024-01-01
 - 玩家凶猛 by 黑灯夏火
 - 我们生活在南京 by 天瑞说符
 - 死在火星上 by 天瑞说符
-- 图解 HTTP by 上野宣
-- 图解 TCP/IP by 竹下隆史 & 村山公保 & 荒井透 & 苅田幸雄
-- 网络是怎样连接的 by 户勤根
-- Wireshark 网络分析就这么简单 by 林沛满
-- Wireshark 网络分析的艺术 by 林沛满
 
 ## To Read
 
 - Refactoring UI by Adam Wathan & Steve Schoger
 - 你不知道的 JavaScript 上卷 by Kyle Simpson
 - JavaScript 设计模式与开发实践 by 曾探
+- 图解 HTTP by 上野宣
+- 图解 TCP/IP by 竹下隆史 & 村山公保 & 荒井透 & 苅田幸雄
+- 网络是怎样连接的 by 户勤根
+- Wireshark 网络分析就这么简单 by 林沛满
+- Wireshark 网络分析的艺术 by 林沛满
 
 ## Past
 
@@ -27,7 +27,7 @@ date: 2024-01-01
 
 > 新的一年，看点好的
 
-
+- 
 
 
 ### Dec 2023

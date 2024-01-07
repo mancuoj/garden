@@ -14,3 +14,4 @@ date: 2023-12-20
 - [ExchangeRate-API](https://www.exchangerate-api.com/)
 - [Bored API](https://www.boredapi.com/)
 - [httpbin.org](https://httpbin.org/#/)
+

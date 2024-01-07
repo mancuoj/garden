@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Collection/Media.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -73,7 +73,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "Collection/Media.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,7 +90,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "Collection/Media.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "Collection/Media.md"
               }
             }
           }
@@ -145,11 +145,15 @@
   },
   "active": "2921e74aad938586",
   "lastOpenFiles": [
-    "Collection/Articles.md",
-    "Collection/Books.md",
     "Collection/Ideas.md",
-    "Collection/Media.md",
     "index.md",
+    "Notes.md",
+    "Collection/Media.md",
+    "Collection/Books.md",
+    "Collection/Bloggers.md",
+    "Collection/Articles.md",
+    "Collection/Free APIs.md",
+    "Collection/Snippets.md",
     "TIL/004.md",
     "TIL/003.md",
     "TIL/002.md",
@@ -159,9 +163,6 @@
     "Blog/React + TypeScript 小抄.md",
     "Blog/2024 年度 Flag.md",
     "Blog/中文技术文档排版指南.md",
-    "Notes.md",
-    "Collection/Free APIs.md",
-    "Collection/Snippets.md",
     "TIL/005.md",
     "TIL/001.md",
     "Blog/Angular ngDoCheck.md",
@@ -170,7 +171,6 @@
     "Blog/Angular Getter & Setter.md",
     "Blog/Obsidian 扩展 Markdown 语法.md",
     "Blog/Quarz 初体验.md",
-    "private/templates/simple frontmatter.md",
     "Untitled",
     "TIL",
     "CSS/Tailwind",
