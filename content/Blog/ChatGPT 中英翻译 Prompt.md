@@ -11,7 +11,7 @@ date: 2024-01-04
 
 - [如何写 Prompt](https://twitter.com/dotey/status/1681188469995888642)
 - [使用 ChatGPT 进行书籍翻译](https://twitter.com/dotey/status/1705441050133713202)
-- 结构
+- Prompt 结构
   - 角色、技能、个性
   - 目标、任务
   - 生成规则

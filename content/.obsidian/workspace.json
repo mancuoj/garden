@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blog/ChatGPT 中英翻译 Prompt.md",
+                "file": "TIL/002.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -73,7 +73,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Blog/ChatGPT 中英翻译 Prompt.md",
+                "file": "TIL/002.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,7 +90,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Blog/ChatGPT 中英翻译 Prompt.md",
+                "file": "TIL/002.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Blog/ChatGPT 中英翻译 Prompt.md"
+                "file": "TIL/002.md"
               }
             }
           }
@@ -145,10 +145,12 @@
   },
   "active": "2921e74aad938586",
   "lastOpenFiles": [
+    "TIL/001.md",
     "Collection/Articles.md",
+    "Blog/Angular ngDoCheck.md",
+    "Blog/ChatGPT 中英翻译 Prompt.md",
     "TIL/005.md",
     "TIL/004.md",
-    "TIL/001.md",
     "TIL/002.md",
     "TIL/003.md",
     "Collection/Books.md",
@@ -160,9 +162,7 @@
     "TIL/008.md",
     "Blog/Angular 井号语法.md",
     "Blog/Angular Getter & Setter.md",
-    "Blog/Angular ngDoCheck.md",
     "Blog/Obsidian 扩展 Markdown 语法.md",
-    "Blog/ChatGPT 中英翻译 Prompt.md",
     "Blog/Quarz 初体验.md",
     "Blog/中文技术文档排版指南.md",
     "Blog/React + TypeScript 小抄.md",
