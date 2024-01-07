@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TIL/004.md",
+                "file": "TIL/006.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -73,7 +73,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TIL/004.md",
+                "file": "TIL/006.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,7 +90,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TIL/004.md",
+                "file": "TIL/006.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TIL/004.md"
+                "file": "TIL/006.md"
               }
             }
           }
@@ -145,7 +145,10 @@
   },
   "active": "2921e74aad938586",
   "lastOpenFiles": [
+    "TIL/002.md",
+    "TIL/006.md",
     "TIL/003.md",
+    "TIL/004.md",
     "notes.md",
     "Collection/Media.md",
     "Collection/Articles.md",
@@ -164,13 +167,10 @@
     "Collection/Books.md",
     "Collection/Free APIs.md",
     "Collection/Snippets.md",
-    "TIL/004.md",
-    "TIL/002.md",
     "Blog/2024 年度 Flag.md",
     "TIL/005.md",
     "TIL/001.md",
     "TIL/008.md",
-    "Blog/Quarz 初体验.md",
     "Untitled",
     "TIL",
     "CSS/Tailwind",
