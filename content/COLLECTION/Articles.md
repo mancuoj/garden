@@ -138,15 +138,16 @@ date: 2024-01-01
 | [Tailwind CSS v3.3](https://tailwindcss.com/blog/tailwindcss-v3-3) | 3.3 更新文档 |
 | [Tailwind CSS v3.2](https://tailwindcss.com/blog/tailwindcss-v3-2) | 3.2 更新文档 |
 | [Tailwind CSS v3.1](https://tailwindcss.com/blog/tailwindcss-v3-1) | 3.1 更新文档，时间跨度超过一年 |
-| [Describing the UI – React](https://react.dev/learn/describing-the-ui) | 第一部分，大致扫了一遍 |
-| [2023 JavaScript Rising Stars](https://risingstars.js.org/2023/en) | This is JavaScript! |
-| [The Epic Stack](https://www.epicweb.dev/epic-stack) | fly.io 你让我哭 |
+| [Describing the UI – React](https://react.dev/learn/describing-the-ui) | React 新文档第一部分，大致扫了一遍 |
+| [2023 JavaScript Rising Stars](https://risingstars.js.org/2023/en) | 2023 前端又出了什么新东西 |
+| [The Epic Stack](https://www.epicweb.dev/epic-stack) | fly.io 你让我哭，SQLite 就是最好用的数据库 |
 | [Let's Learn About Waveforms](https://pudding.cool/2018/02/waveforms/) | 讲的声音的波形？我到底为啥要看这个 |
 | [How to use prefers-reduced-motion in React](https://www.joshwcomeau.com/react/prefers-reduced-motion/) | 在用户系统设置禁用动画时，禁用组件的动画 |
 | [Spring Physics animation in JavaScript](https://www.joshwcomeau.com/animation/a-friendly-introduction-to-spring-physics/#thinking-in-springs-2) | 影响弹簧动画的三个要素：Mass 质量，Tension 张力（可以看作弹簧的圈数），Friction 摩擦力 |
 | [Common Beginner Mistakes with React (joshwcomeau.com)](https://www.joshwcomeau.com/react/common-beginner-mistakes/) | 常看常新。注意不要使用数字 0 做条件；state 不可突变；用 `crypto.randomUUID()` 生成 id 作为 key 值，数组 map 等方法都要给上 key 值；用 `{' '}` 代替空格；`setState()` 是异步的，注意用 `nextXx` 来当作更新输出；异步方法看下面的代码块 |
 | [Common React Hooks Mistakes You Should Avoid](https://blog.bitsrc.io/common-react-hooks-mistakes-every-developer-should-avoid-defd47d09d8c) | 在函数最开始使用 Hook；状态值只会在下一次 render 更新，避免使用过时状态，就这样做 `setCount(count => count + 1)` ；保留状态不触发 re-render 用 `useRef` hook；注意 `useEffect` 的依赖项数组 |
-| [Data binding in React: how to work with forms in React](https://www.joshwcomeau.com/react/data-binding/) | 双向数据绑定 |
+| [Data binding in React: how to work with forms in React](https://www.joshwcomeau.com/react/data-binding/) | 表单的各种双向数据绑定 |
+|  |  |
 
 ```ts
 useEffect(() => {
