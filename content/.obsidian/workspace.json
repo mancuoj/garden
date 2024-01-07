@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blog/2024 年度 Flag.md",
+                "file": "Collection/Snippets.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -73,7 +73,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Blog/2024 年度 Flag.md",
+                "file": "Collection/Snippets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,7 +90,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Blog/2024 年度 Flag.md",
+                "file": "Collection/Snippets.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Blog/2024 年度 Flag.md"
+                "file": "Collection/Snippets.md"
               }
             }
           }
@@ -145,8 +145,8 @@
   },
   "active": "2921e74aad938586",
   "lastOpenFiles": [
-    "Collection/Books.md",
     "Blog/2024 年度 Flag.md",
+    "Collection/Books.md",
     "Collection/Articles.md",
     "Collection/Snippets.md",
     "Collection/Ideas.md",

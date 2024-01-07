@@ -31,8 +31,47 @@ const scale = (num, in_min, in_max, out_min, out_max) => {
 ```
 
 
+## 随机数字
+
+```js
+const random = (min, max) => Math.floor(Math.random() * (max - min)) + min
+```
+
+
 ## 删除所有 node_modules 文件夹
 
 ```sh
 find . -name "node_modules" -type d -prune -print -exec rm -rf "{}" \;
 ```
+
+
+## 鼠标位置 hook
+
+
+```ts
+import { useEffect, useState } from 'react'
+
+interface Position {
+  x: number | null
+  y: number | null
+}
+
+export const useMousePosition = () => {
+  const [mousePosition, setMousePosition] = useState<Position>({ x: null, y: null })
+
+  useEffect(() => {
+    const updateMousePosition = (e: MouseEvent) => {
+      setMousePosition({ x: e.clientX, y: e.clientY })
+    }
+
+    window.addEventListener('mousemove', updateMousePosition)
+
+    return () => {
+      window.removeEventListener('mousemove', updateMousePosition)
+    }
+  }, [])
+
+  return mousePosition
+}
+```
+
