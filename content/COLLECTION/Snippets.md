@@ -2,7 +2,10 @@
 date: 2023-12-31
 ---
 
-## Full-Bleed 布局
+## [Full-Bleed 布局](https://www.joshwcomeau.com/css/full-bleed/)
+
+- 60ch，即字体中 0 的长度的 60 倍，一个合适的阅读宽度
+- 1 / -1，从开始到最后
 
 ```css
 .wrapper {
@@ -38,15 +41,9 @@ const random = (min, max) => Math.floor(Math.random() * (max - min)) + min
 ```
 
 
-## 删除所有 node_modules 文件夹
+## [鼠标位置 Hook](https://www.joshwcomeau.com/snippets/react-hooks/use-mouse-position/)
 
-```sh
-find . -name "node_modules" -type d -prune -print -exec rm -rf "{}" \;
-```
-
-
-## 鼠标位置 hook
-
+移动端增加条件需要判断 TouchEvent 和 touchmove。
 
 ```ts
 import { useEffect, useState } from 'react'
@@ -73,5 +70,13 @@ export const useMousePosition = () => {
 
   return mousePosition
 }
+```
+
+## UUID
+
+浏览器内置函数，用就完事了。
+
+```js
+const id = crypto.randomUUID()
 ```
 

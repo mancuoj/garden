@@ -6,32 +6,15 @@ date: 2024-01-01
 
 ## Current
 
-
-- [How to update SVG bezier curves on scroll](https://www.joshwcomeau.com/animation/dynamic-bezier-curves/)
-- [How to animate gradients in CSS and React](https://www.joshwcomeau.com/react/rainbow-button/)
-- [CSS transitions and hover animations, an interactive guide](https://www.joshwcomeau.com/animation/css-transitions/)
-- [How to fold a DOM node | CSS effects](https://www.joshwcomeau.com/react/folding-the-dom/)
-
+- [Let’s Define Exactly What Atomic CSS is](https://css-tricks.com/lets-define-exactly-atomic-css/)
+- [重新构想原子化 CSS](https://antfu.me/posts/reimagine-atomic-css-zh)
 - 
-- [React hover animation effect with React Spring](https://www.joshwcomeau.com/react/boop/)
-- [Spring Physics animation in JavaScript](https://www.joshwcomeau.com/animation/a-friendly-introduction-to-spring-physics/)
-- [Getting started | React Spring (react-spring.dev)](https://www.react-spring.dev/docs/getting-started)
-
-- [Common Beginner Mistakes with React](https://www.joshwcomeau.com/react/common-beginner-mistakes/)
-- [Adding Interactivity – React](https://react.dev/learn/adding-interactivity) 
-- [Understanding Layout Algorithms](https://www.joshwcomeau.com/css/understanding-layout-algorithms/)
-- [Why React Re-Renders](https://www.joshwcomeau.com/react/why-react-re-renders/)
-- [Data binding in React: how to work with forms in React](https://www.joshwcomeau.com/react/data-binding/)
-
 
 ## To Read
 
 - [The anatomy of shadcn/ui](https://manupa.dev/blog/anatomy-of-shadcn-ui)
 - [Let’s learn how modern JavaScript frameworks work by building one](https://nolanlawson.com/2023/12/02/lets-learn-how-modern-javascript-frameworks-work-by-building-one/)
 - [npm: A Free Guide for Beginners](https://css-tricks.com/a-complete-beginners-guide-to-npm/)
-- [Tailwind CSS 文档](https://tailwindcss.com/docs/installation)
-- [Let’s Define Exactly What Atomic CSS is](https://css-tricks.com/lets-define-exactly-atomic-css/)
-- [重新构想原子化 CSS](https://antfu.me/posts/reimagine-atomic-css-zh)
 - [How UnoCSS works internally with Vite?](https://jser.dev/2023-09-17-how-unocss-works-with-vite/)
 - [Common React Hooks Mistakes You Should Avoid](https://blog.bitsrc.io/common-react-hooks-mistakes-every-developer-should-avoid-defd47d09d8c)
 - [react.dev/learn](https://zh-hans.react.dev/learn)
@@ -159,7 +142,10 @@ date: 2024-01-01
 | [2023 JavaScript Rising Stars](https://risingstars.js.org/2023/en) | This is JavaScript! |
 | [The Epic Stack](https://www.epicweb.dev/epic-stack) | fly.io 你让我哭 |
 | [Let's Learn About Waveforms](https://pudding.cool/2018/02/waveforms/) | 讲的声音的波形？我到底为啥要看这个 |
-| [How to use prefers-reduced-motion in React](https://www.joshwcomeau.com/react/prefers-reduced-motion/) | 在用户禁用动画时 |
+| [How to use prefers-reduced-motion in React](https://www.joshwcomeau.com/react/prefers-reduced-motion/) | 在用户系统设置禁用动画时，禁用组件的动画 |
+| [Spring Physics animation in JavaScript](https://www.joshwcomeau.com/animation/a-friendly-introduction-to-spring-physics/#thinking-in-springs-2) | 影响弹簧动画的三个要素：Mass 质量，Tension 张力（可以看作弹簧的圈数），Friction 摩擦力 |
+| [Common Beginner Mistakes with React (joshwcomeau.com)](https://www.joshwcomeau.com/react/common-beginner-mistakes/) | 常看常新 |
+|  |  |
 
 
 ### Dec 2023
