@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Collection/Media.md",
+                "file": "TIL/004.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -73,7 +73,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Collection/Media.md",
+                "file": "TIL/004.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,7 +90,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Collection/Media.md",
+                "file": "TIL/004.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Collection/Media.md"
+                "file": "TIL/004.md"
               }
             }
           }
@@ -145,10 +145,12 @@
   },
   "active": "2921e74aad938586",
   "lastOpenFiles": [
+    "TIL/003.md",
+    "notes.md",
+    "Collection/Media.md",
     "Collection/Articles.md",
     "Collection/Bloggers.md",
     "index.md",
-    "Notes.md",
     "Blog/Vue2 TodoMVC.md",
     "Blog/React 命名及项目结构规范.md",
     "Blog/React + TypeScript 小抄.md",
@@ -158,13 +160,11 @@
     "Blog/Angular Getter & Setter.md",
     "Blog/中文技术文档排版指南.md",
     "Blog/Angular 井号语法.md",
-    "Collection/Media.md",
     "Collection/Ideas.md",
     "Collection/Books.md",
     "Collection/Free APIs.md",
     "Collection/Snippets.md",
     "TIL/004.md",
-    "TIL/003.md",
     "TIL/002.md",
     "Blog/2024 年度 Flag.md",
     "TIL/005.md",
