@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TIL/004.md",
+                "file": "index.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -73,7 +73,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TIL/004.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,7 +90,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TIL/004.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TIL/004.md"
+                "file": "index.md"
               }
             }
           }
@@ -145,9 +145,14 @@
   },
   "active": "2921e74aad938586",
   "lastOpenFiles": [
+    "Collection/Articles.md",
+    "Collection/Books.md",
+    "Collection/Ideas.md",
+    "Collection/Media.md",
+    "index.md",
+    "TIL/004.md",
     "TIL/003.md",
     "TIL/002.md",
-    "Collection/Articles.md",
     "Blog/ChatGPT 中英翻译 Prompt.md",
     "Blog/React 命名及项目结构规范.md",
     "Blog/Vue2 TodoMVC.md",
@@ -155,15 +160,10 @@
     "Blog/2024 年度 Flag.md",
     "Blog/中文技术文档排版指南.md",
     "Notes.md",
-    "Collection/Books.md",
     "Collection/Free APIs.md",
-    "Collection/Media.md",
     "Collection/Snippets.md",
-    "Collection/Ideas.md",
-    "TIL/004.md",
     "TIL/005.md",
     "TIL/001.md",
-    "index.md",
     "Blog/Angular ngDoCheck.md",
     "TIL/008.md",
     "Blog/Angular 井号语法.md",

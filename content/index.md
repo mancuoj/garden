@@ -13,7 +13,7 @@ Here are some places you may want to visit:
 
 - [Collection](https://garden.mancuoj.me/collection/) - Books, articles and so on
 - [TIL: Today I Learned](https://garden.mancuoj.me/TIL/) - Written in English
-- [Blog](https://garden.mancuoj.me/posts/) - Written in Chinese
+- [Blog](https://garden.mancuoj.me/blog/) - Written in Chinese
 
 ![[Pasted image 20231219213958.png]]
 
