@@ -19,15 +19,12 @@ const App: FC<AppProps> = ({ title, children }) => {
 ## useState
 
 ```tsx
+// 自动推导类型
 const [enabled, setEnabled] = useState(false)
+
 const [title, setTitle] = useState<string | null>(null)
-```
 
-联合类型：
-
-```tsx
 type Status = "idle" | "loading" | "success" | "error"
-
 const [status, setStatus] = useState<Status>("idle")
 ```
 

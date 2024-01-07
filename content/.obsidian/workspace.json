@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Collection/Media.md",
+                "file": "Collection/Articles.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -73,7 +73,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Collection/Media.md",
+                "file": "Collection/Articles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,7 +90,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Collection/Media.md",
+                "file": "Collection/Articles.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Collection/Media.md"
+                "file": "Collection/Articles.md"
               }
             }
           }
@@ -145,31 +145,31 @@
   },
   "active": "2921e74aad938586",
   "lastOpenFiles": [
-    "Collection/Ideas.md",
-    "index.md",
-    "Notes.md",
-    "Collection/Media.md",
-    "Collection/Books.md",
     "Collection/Bloggers.md",
     "Collection/Articles.md",
+    "index.md",
+    "Notes.md",
+    "Blog/Vue2 TodoMVC.md",
+    "Blog/React 命名及项目结构规范.md",
+    "Blog/React + TypeScript 小抄.md",
+    "Blog/Obsidian 扩展 Markdown 语法.md",
+    "Blog/Angular ngDoCheck.md",
+    "Blog/ChatGPT 中英翻译 Prompt.md",
+    "Blog/Angular Getter & Setter.md",
+    "Blog/中文技术文档排版指南.md",
+    "Blog/Angular 井号语法.md",
+    "Collection/Media.md",
+    "Collection/Ideas.md",
+    "Collection/Books.md",
     "Collection/Free APIs.md",
     "Collection/Snippets.md",
     "TIL/004.md",
     "TIL/003.md",
     "TIL/002.md",
-    "Blog/ChatGPT 中英翻译 Prompt.md",
-    "Blog/React 命名及项目结构规范.md",
-    "Blog/Vue2 TodoMVC.md",
-    "Blog/React + TypeScript 小抄.md",
     "Blog/2024 年度 Flag.md",
-    "Blog/中文技术文档排版指南.md",
     "TIL/005.md",
     "TIL/001.md",
-    "Blog/Angular ngDoCheck.md",
     "TIL/008.md",
-    "Blog/Angular 井号语法.md",
-    "Blog/Angular Getter & Setter.md",
-    "Blog/Obsidian 扩展 Markdown 语法.md",
     "Blog/Quarz 初体验.md",
     "Untitled",
     "TIL",
