@@ -51,7 +51,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\" 的博客\"",
+                "query": "\"(err) => console.error(err)\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -60,7 +60,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "b904ff6d18e068ad",
@@ -143,7 +144,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2921e74aad938586",
+  "active": "2c5a19e8d0334eae",
   "lastOpenFiles": [
     "TIL/008.md",
     "TIL/009.md",

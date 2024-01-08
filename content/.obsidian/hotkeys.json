@@ -14,5 +14,14 @@
   "editor:open-link-in-new-split": [],
   "editor:open-link-in-new-window": [],
   "editor:open-link-in-new-leaf": [],
-  "workspace:new-tab": []
+  "workspace:new-tab": [],
+  "editor:open-search": [],
+  "editor:open-search-replace": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "F"
+    }
+  ]
 }
