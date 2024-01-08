@@ -14,6 +14,7 @@ Here are some places you may want to visit:
 - [Collection](https://garden.mancuoj.me/collection/) - Books, articles and so on
 - [TIL: Today I Learned](https://garden.mancuoj.me/TIL/) - Written in English
 - [Blog](https://garden.mancuoj.me/blog/) - Written in Chinese
+- [[2024 Flags]] - Hope I can succeed
 
 ![[Pasted image 20231219213958.png]]
 

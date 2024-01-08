@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TIL/006.md",
+                "file": "notes.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TIL/006.md",
+                "file": "notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TIL/006.md",
+                "file": "notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TIL/006.md"
+                "file": "notes.md"
               }
             }
           }
@@ -192,8 +192,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "ee7d24da7b485845",
@@ -211,32 +210,32 @@
   },
   "active": "9f24bcfa152ece7e",
   "lastOpenFiles": [
-    "TIL/002.md",
-    "TIL/003.md",
-    "TIL/004.md",
-    "TIL/005.md",
+    "Blog/2024 Flags.md",
+    "index.md",
+    "notes.md",
+    "Blog/Angular ngDoCheck.md",
+    "TIL/009.md",
+    "TIL/008.md",
     "TIL/007.md",
     "TIL/006.md",
-    "TIL/008.md",
-    "Blog/React + TypeScript 小抄.md",
+    "TIL/005.md",
+    "TIL/004.md",
+    "TIL/003.md",
+    "TIL/002.md",
     "TIL/001.md",
-    "TIL/009.md",
+    "Blog/Angular Getter & Setter.md",
+    "Blog/React + TypeScript 小抄.md",
     "Blog/React 文档拾遗.md",
-    "notes.md",
     "Collection/Media.md",
     "Collection/Articles.md",
     "Collection/Bloggers.md",
-    "index.md",
     "Blog/Vue2 TodoMVC.md",
     "Blog/React 命名及项目结构规范.md",
     "Blog/Obsidian 扩展 Markdown 语法.md",
-    "Blog/Angular ngDoCheck.md",
     "Blog/ChatGPT 中英翻译 Prompt.md",
-    "Blog/Angular Getter & Setter.md",
     "Blog/中文技术文档排版指南.md",
     "Blog/Angular 井号语法.md",
     "Collection/Ideas.md",
-    "Collection/Books.md",
     "Untitled",
     "TIL",
     "CSS/Tailwind",
