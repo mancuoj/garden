@@ -8,12 +8,77 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2921e74aad938586",
+            "id": "9f24bcfa152ece7e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TIL/009.md",
+                "file": "TIL/006.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fba0993ec2646ee2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TIL/007.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d8d096abe628651b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TIL/005.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9e13087cacf4df3a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TIL/004.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d55e38716ff6c660",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TIL/003.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "00951e763646421d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TIL/002.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -51,7 +116,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"(err) => console.error(err)\"",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -60,8 +125,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "b904ff6d18e068ad",
@@ -74,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TIL/009.md",
+                "file": "TIL/006.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -91,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TIL/009.md",
+                "file": "TIL/006.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TIL/009.md"
+                "file": "TIL/006.md"
               }
             }
           }
@@ -128,7 +192,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 379.5086555480957
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "ee7d24da7b485845",
@@ -144,17 +209,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2c5a19e8d0334eae",
+  "active": "9f24bcfa152ece7e",
   "lastOpenFiles": [
-    "TIL/008.md",
-    "TIL/009.md",
+    "TIL/002.md",
+    "TIL/003.md",
+    "TIL/004.md",
+    "TIL/005.md",
     "TIL/007.md",
     "TIL/006.md",
-    "TIL/005.md",
-    "TIL/004.md",
-    "TIL/003.md",
+    "TIL/008.md",
+    "Blog/React + TypeScript 小抄.md",
+    "TIL/001.md",
+    "TIL/009.md",
     "Blog/React 文档拾遗.md",
-    "TIL/002.md",
     "notes.md",
     "Collection/Media.md",
     "Collection/Articles.md",
@@ -162,7 +229,6 @@
     "index.md",
     "Blog/Vue2 TodoMVC.md",
     "Blog/React 命名及项目结构规范.md",
-    "Blog/React + TypeScript 小抄.md",
     "Blog/Obsidian 扩展 Markdown 语法.md",
     "Blog/Angular ngDoCheck.md",
     "Blog/ChatGPT 中英翻译 Prompt.md",
@@ -171,7 +237,6 @@
     "Blog/Angular 井号语法.md",
     "Collection/Ideas.md",
     "Collection/Books.md",
-    "Collection/Free APIs.md",
     "Untitled",
     "TIL",
     "CSS/Tailwind",

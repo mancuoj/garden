@@ -1,6 +1,6 @@
 {
   "propertiesInDocument": "source",
-  "spellcheck": false,
+  "spellcheck": true,
   "alwaysUpdateLinks": true,
   "newFileLocation": "current",
   "readableLineLength": false,
