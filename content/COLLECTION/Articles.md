@@ -6,6 +6,9 @@ date: 2024-01-01
 
 ## Current
 
+- [Get started with Docker containers on WSL](https://learn.microsoft.com/en-us/windows/wsl/tutorials/wsl-containers)
+- [Docker Docs](https://docs.docker.com/guides/get-started/)
+- [Docker 从入门到实践](https://yeasy.gitbook.io/docker_practice/)
 - [Let’s Define Exactly What Atomic CSS is](https://css-tricks.com/lets-define-exactly-atomic-css/)
 - [重新构想原子化 CSS](https://antfu.me/posts/reimagine-atomic-css-zh)
 - [daishi/7guis](https://codesandbox.io/search?query=daishi%207gui&page=1&configure%5BhitsPerPage%5D=12)
@@ -114,13 +117,16 @@ date: 2024-01-01
 | [Describing the UI – React](https://react.dev/learn/describing-the-ui) | React 新文档第一部分，大致扫了一遍 |
 | [2023 JavaScript Rising Stars](https://risingstars.js.org/2023/en) | 可以看出 2023 前端趋势 |
 | [The Epic Stack](https://www.epicweb.dev/epic-stack) | fly.io 你让我哭，SQLite 就是最好用的数据库 |
-| [Let's Learn About Waveforms](https://pudding.cool/2018/02/waveforms/) | 讲的声音的波形？我到底为啥要看这个 |
+| [Let's Learn About Waveforms](https://pudding.cool/2018/02/waveforms/) | 我到底为啥要看这个？ |
 | [How to use prefers-reduced-motion in React](https://www.joshwcomeau.com/react/prefers-reduced-motion/) | 在用户系统设置禁用动画时，禁用组件的动画 |
-| [Spring Physics animation in JavaScript](https://www.joshwcomeau.com/animation/a-friendly-introduction-to-spring-physics/#thinking-in-springs-2) | 影响弹簧动画的三个要素：Mass 质量，Tension 张力（可以看作弹簧的圈数），Friction 摩擦力 |
-| [Common Beginner Mistakes with React](https://www.joshwcomeau.com/react/common-beginner-mistakes/) | 常看常新。注意不要使用数字 0 做条件；state 不可突变；用 `crypto.randomUUID()` 生成 id 作为 key 值，数组 map 等方法都要给上 key 值；用 `{' '}` 代替空格；`setState()` 是异步的，注意用 `nextXx` 来当作更新输出；`useEffect` 异步方法在内部定义，别忘了返回一个清理函数； |
-| [Common React Hooks Mistakes You Should Avoid](https://blog.bitsrc.io/common-react-hooks-mistakes-every-developer-should-avoid-defd47d09d8c) | 在函数最开始使用 Hook；状态值只会在下一次 render 更新，避免使用过时状态，就这样做 `setCount(count => count + 1)` ；保留状态不触发 re-render 用 `useRef` hook；注意 `useEffect` 的依赖项数组 |
-| [Data binding in React: how to work with forms in React](https://www.joshwcomeau.com/react/data-binding/) | 表单的各种双向数据绑定 |
+| [Spring Physics animation in JavaScript](https://www.joshwcomeau.com/animation/a-friendly-introduction-to-spring-physics/#thinking-in-springs-2) | Mass 质量，Tension 张力（可以看作弹簧的圈数），Friction 摩擦力 |
+| [Common Beginner Mistakes with React](https://www.joshwcomeau.com/react/common-beginner-mistakes/) | 常看常新 |
+| [Common React Hooks Mistakes You Should Avoid](https://blog.bitsrc.io/common-react-hooks-mistakes-every-developer-should-avoid-defd47d09d8c) | 状态值只会在下一次 render 更新，避免使用过时状态，就这样做 `setCount(count => count + 1)` |
+| [Data binding in React: how to work with forms in React](https://www.joshwcomeau.com/react/data-binding/) | 基本是 value, onChange |
 | [kettanaito/naming-cheatsheet](https://github.com/kettanaito/naming-cheatsheet) | set, get, reset, add, remove, create, delete, compose, handle, is, has, should, min, max, prev, next |
+| [Using the Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch) | [[009]] |
+| [You may not need Axios](https://danlevy.net/you-may-not-need-axios/) | [[009]] |
+|  |  |
 |  |  |
 
 

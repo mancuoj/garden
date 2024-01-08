@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TIL/009.md",
+                "file": "index.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -78,7 +78,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TIL/002.md",
+                "file": "TIL/004.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "75a790ddd2600e64",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TIL/009.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -139,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TIL/002.md",
+                "file": "TIL/004.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TIL/002.md",
+                "file": "TIL/004.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +197,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TIL/002.md"
+                "file": "TIL/004.md"
               }
             }
           }
@@ -193,7 +206,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 265.5086555480957
   },
   "right": {
     "id": "ee7d24da7b485845",
@@ -211,16 +224,18 @@
   },
   "active": "00951e763646421d",
   "lastOpenFiles": [
+    "TIL/003.md",
     "TIL/004.md",
     "TIL/005.md",
-    "TIL/007.md",
-    "TIL/009.md",
-    "TIL/008.md",
-    "TIL/006.md",
-    "TIL/003.md",
     "TIL/002.md",
-    "TIL/001.md",
+    "Collection/Articles.md",
+    "TIL/007.md",
+    "TIL/006.md",
+    "TIL/008.md",
+    "TIL/009.md",
     "Blog/中文技术文档排版指南.md",
+    "index.md",
+    "TIL/001.md",
     "Blog/Vue2 TodoMVC.md",
     "Blog/React 文档拾遗.md",
     "Blog/React 命名及项目结构规范.md",
@@ -235,8 +250,6 @@
     "Collection/Ideas.md",
     "Collection/Free APIs.md",
     "Collection/Books.md",
-    "Collection/Bloggers.md",
-    "Collection/Articles.md",
     "Untitled",
     "TIL",
     "CSS/Tailwind",
