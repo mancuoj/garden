@@ -1,5 +1,8 @@
 ---
 date: 2023-08-16
+tags:
+  - vue
+  - todo
 ---
 
 > 本教程需要你有一定的 HTML、CSS 和 JavaScript 基础，如果你是初学者，建议先去学习三件套

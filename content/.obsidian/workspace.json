@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blog/ChatGPT 中英翻译 Prompt.md",
+                "file": "TIL/009.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,6 +86,7 @@
             }
           }
         ],
+        "currentTab": 5,
         "stacked": true
       }
     ],
@@ -138,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Blog/ChatGPT 中英翻译 Prompt.md",
+                "file": "TIL/002.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Blog/ChatGPT 中英翻译 Prompt.md",
+                "file": "TIL/002.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Blog/ChatGPT 中英翻译 Prompt.md"
+                "file": "TIL/002.md"
               }
             }
           }
@@ -208,34 +209,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9f24bcfa152ece7e",
+  "active": "00951e763646421d",
   "lastOpenFiles": [
-    "TIL/007.md",
-    "Blog/ChatGPT 中英翻译 Prompt.md",
-    "TIL/006.md",
+    "TIL/004.md",
     "TIL/005.md",
-    "TIL/002.md",
-    "TIL/003.md",
-    "notes.md",
-    "Blog/2024 Flags.md",
-    "index.md",
-    "Blog/Angular ngDoCheck.md",
+    "TIL/007.md",
     "TIL/009.md",
     "TIL/008.md",
-    "TIL/004.md",
+    "TIL/006.md",
+    "TIL/003.md",
+    "TIL/002.md",
     "TIL/001.md",
-    "Blog/Angular Getter & Setter.md",
-    "Blog/React + TypeScript 小抄.md",
-    "Blog/React 文档拾遗.md",
-    "Collection/Media.md",
-    "Collection/Articles.md",
-    "Collection/Bloggers.md",
-    "Blog/Vue2 TodoMVC.md",
-    "Blog/React 命名及项目结构规范.md",
-    "Blog/Obsidian 扩展 Markdown 语法.md",
     "Blog/中文技术文档排版指南.md",
+    "Blog/Vue2 TodoMVC.md",
+    "Blog/React 文档拾遗.md",
+    "Blog/React 命名及项目结构规范.md",
+    "Blog/React + TypeScript 小抄.md",
+    "Blog/Angular ngDoCheck.md",
+    "Blog/ChatGPT 中英翻译 Prompt.md",
+    "Blog/Angular Getter & Setter.md",
     "Blog/Angular 井号语法.md",
+    "Blog/2024 Flags.md",
+    "Collection/Snippets.md",
+    "Collection/Media.md",
     "Collection/Ideas.md",
+    "Collection/Free APIs.md",
+    "Collection/Books.md",
+    "Collection/Bloggers.md",
+    "Collection/Articles.md",
     "Untitled",
     "TIL",
     "CSS/Tailwind",
