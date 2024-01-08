@@ -9,7 +9,7 @@ date: 2024-01-01
 - [Get started with Docker containers on WSL](https://learn.microsoft.com/en-us/windows/wsl/tutorials/wsl-containers)
 - [Docker Docs](https://docs.docker.com/guides/get-started/)
 - [Docker 从入门到实践](https://yeasy.gitbook.io/docker_practice/)
-- [Let’s Define Exactly What Atomic CSS is](https://css-tricks.com/lets-define-exactly-atomic-css/)
+- [Let's Define Exactly What Atomic CSS is](https://css-tricks.com/lets-define-exactly-atomic-css/)
 - [重新构想原子化 CSS](https://antfu.me/posts/reimagine-atomic-css-zh)
 - [daishi/7guis](https://codesandbox.io/search?query=daishi%207gui&page=1&configure%5BhitsPerPage%5D=12)
 - [7GUIs](https://eugenkiss.github.io/7guis/)
@@ -114,14 +114,14 @@ date: 2024-01-01
 | [Tailwind CSS v3.3](https://tailwindcss.com/blog/tailwindcss-v3-3) | 3.3 更新文档 |
 | [Tailwind CSS v3.2](https://tailwindcss.com/blog/tailwindcss-v3-2) | 3.2 更新文档 |
 | [Tailwind CSS v3.1](https://tailwindcss.com/blog/tailwindcss-v3-1) | 3.1 更新文档，时间跨度超过一年 |
-| [Describing the UI – React](https://react.dev/learn/describing-the-ui) | React 新文档第一部分，大致扫了一遍 |
+| [Describing the UI – React](https://react.dev/learn/describing-the-ui) | [[React 文档拾遗]] |
 | [2023 JavaScript Rising Stars](https://risingstars.js.org/2023/en) | 可以看出 2023 前端趋势 |
 | [The Epic Stack](https://www.epicweb.dev/epic-stack) | fly.io 你让我哭，SQLite 就是最好用的数据库 |
 | [Let's Learn About Waveforms](https://pudding.cool/2018/02/waveforms/) | 我到底为啥要看这个？ |
 | [How to use prefers-reduced-motion in React](https://www.joshwcomeau.com/react/prefers-reduced-motion/) | 在用户系统设置禁用动画时，禁用组件的动画 |
 | [Spring Physics animation in JavaScript](https://www.joshwcomeau.com/animation/a-friendly-introduction-to-spring-physics/#thinking-in-springs-2) | Mass 质量，Tension 张力（可以看作弹簧的圈数），Friction 摩擦力 |
 | [Common Beginner Mistakes with React](https://www.joshwcomeau.com/react/common-beginner-mistakes/) | 常看常新 |
-| [Common React Hooks Mistakes You Should Avoid](https://blog.bitsrc.io/common-react-hooks-mistakes-every-developer-should-avoid-defd47d09d8c) | 状态值只会在下一次 render 更新，避免使用过时状态，就这样做 `setCount(count => count + 1)` |
+| [Common React Hooks Mistakes You Should Avoid](https://blog.bitsrc.io/common-react-hooks-mistakes-every-developer-should-avoid-defd47d09d8c) | 状态值只会在下一次 render 更新，`setCount(count => count + 1)` 避免使用过时状态 |
 | [Data binding in React: how to work with forms in React](https://www.joshwcomeau.com/react/data-binding/) | 基本是 value, onChange |
 | [kettanaito/naming-cheatsheet](https://github.com/kettanaito/naming-cheatsheet) | set, get, reset, add, remove, create, delete, compose, handle, is, has, should, min, max, prev, next |
 | [Using the Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch) | [[009]] |
@@ -144,7 +144,7 @@ date: 2024-01-01
 | [关于 Yak Shaving](https://antfu.me/posts/about-yak-shaving-zh) | 如何学习 |
 | [Super Simple Start to React](https://kentcdodds.com/blog/super-simple-start-to-react) | 没有框架怎么用 React |
 | [Top 10 Mistakes to Avoid When Using React](https://javascript.plainenglish.io/top-10-mistakes-to-avoid-when-using-react-1796711ad2a0) | 有点过时 |
-| [How to Use TypeScript with React](https://www.freecodecamp.org/news/use-typescript-with-react/) | 怎么用 FC |
+| [How to Use TypeScript with React](https://www.freecodecamp.org/news/use-typescript-with-react/) | [[React + TypeScript 小抄]] |
 | [A (more) Modern CSS Reset](https://andy-bell.co.uk/a-more-modern-css-reset/) | 这三个 Reset 结合起来看 |
 | [Modern CSS Reset / Global Styles](https://www.joshwcomeau.com/css/custom-css-reset/) | 最实用的 CSS Reset |
 | [Your CSS reset needs text-size-adjust (probably)](https://kilianvalkhof.com/2022/css-html/your-css-reset-needs-text-size-adjust-probably/) | CSS 的一些 text 设置 |

@@ -78,7 +78,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TIL/004.md",
+                "file": "Blog/2024 Flags.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -99,6 +99,7 @@
             }
           }
         ],
+        "currentTab": 5,
         "stacked": true
       }
     ],
@@ -151,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "Blog/2024 Flags.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "Blog/2024 Flags.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +197,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "Blog/2024 Flags.md"
               }
             }
           }
@@ -221,19 +222,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9f24bcfa152ece7e",
+  "active": "00951e763646421d",
   "lastOpenFiles": [
-    "TIL/004.md",
-    "TIL/003.md",
-    "TIL/005.md",
-    "TIL/002.md",
     "Collection/Articles.md",
+    "Collection/Bloggers.md",
+    "Collection/Books.md",
+    "notes.md",
+    "index.md",
+    "TIL/004.md",
+    "TIL/005.md",
     "TIL/007.md",
+    "TIL/003.md",
+    "TIL/002.md",
     "TIL/006.md",
     "TIL/008.md",
     "TIL/009.md",
     "Blog/中文技术文档排版指南.md",
-    "index.md",
     "TIL/001.md",
     "Blog/Vue2 TodoMVC.md",
     "Blog/React 文档拾遗.md",
@@ -246,9 +250,6 @@
     "Blog/2024 Flags.md",
     "Collection/Snippets.md",
     "Collection/Media.md",
-    "Collection/Ideas.md",
-    "Collection/Free APIs.md",
-    "Collection/Books.md",
     "Untitled",
     "TIL",
     "CSS/Tailwind",
