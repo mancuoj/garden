@@ -78,7 +78,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blog/2024 Flags.md",
+                "file": "notes.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -152,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Blog/2024 Flags.md",
+                "file": "notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Blog/2024 Flags.md",
+                "file": "notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,7 +197,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Blog/2024 Flags.md"
+                "file": "notes.md"
               }
             }
           }
@@ -224,6 +224,7 @@
   },
   "active": "00951e763646421d",
   "lastOpenFiles": [
+    "Blog/2024 Flags.md",
     "Collection/Articles.md",
     "Collection/Bloggers.md",
     "Collection/Books.md",
@@ -247,7 +248,6 @@
     "Blog/ChatGPT 中英翻译 Prompt.md",
     "Blog/Angular Getter & Setter.md",
     "Blog/Angular 井号语法.md",
-    "Blog/2024 Flags.md",
     "Collection/Snippets.md",
     "Collection/Media.md",
     "Untitled",
