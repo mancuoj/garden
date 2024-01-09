@@ -91,7 +91,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TIL/010.md",
+                "file": "TIL/011.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -152,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TIL/010.md",
+                "file": "TIL/011.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TIL/010.md",
+                "file": "TIL/011.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,7 +197,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TIL/010.md"
+                "file": "TIL/011.md"
               }
             }
           }
@@ -224,8 +224,9 @@
   },
   "active": "75a790ddd2600e64",
   "lastOpenFiles": [
-    "TIL/009.md",
     "TIL/010.md",
+    "TIL/011.md",
+    "TIL/009.md",
     "TIL/004.md",
     "TIL/007.md",
     "TIL/003.md",
@@ -249,7 +250,6 @@
     "Blog/ChatGPT 中英翻译 Prompt.md",
     "Blog/Angular Getter & Setter.md",
     "Blog/Angular 井号语法.md",
-    "Collection/Snippets.md",
     "Untitled",
     "TIL",
     "CSS/Tailwind",
