@@ -91,7 +91,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TIL/009.md",
+                "file": "TIL/010.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -99,7 +99,7 @@
             }
           }
         ],
-        "currentTab": 5,
+        "currentTab": 6,
         "stacked": true
       }
     ],
@@ -152,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TIL/009.md",
+                "file": "TIL/010.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TIL/009.md",
+                "file": "TIL/010.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,7 +197,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TIL/009.md"
+                "file": "TIL/010.md"
               }
             }
           }
@@ -222,14 +222,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "00951e763646421d",
+  "active": "75a790ddd2600e64",
   "lastOpenFiles": [
-    "TIL/008.md",
-    "TIL/007.md",
-    "TIL/006.md",
-    "TIL/005.md",
     "TIL/004.md",
+    "TIL/007.md",
     "TIL/003.md",
+    "TIL/010.md",
+    "TIL/006.md",
+    "TIL/008.md",
+    "TIL/009.md",
+    "TIL/005.md",
     "TIL/002.md",
     "TIL/001.md",
     "notes.md",
@@ -238,7 +240,6 @@
     "Collection/Bloggers.md",
     "Collection/Books.md",
     "index.md",
-    "TIL/009.md",
     "Blog/中文技术文档排版指南.md",
     "Blog/Vue2 TodoMVC.md",
     "Blog/React 文档拾遗.md",
@@ -249,7 +250,6 @@
     "Blog/Angular Getter & Setter.md",
     "Blog/Angular 井号语法.md",
     "Collection/Snippets.md",
-    "Collection/Media.md",
     "Untitled",
     "TIL",
     "CSS/Tailwind",
