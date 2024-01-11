@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c216acfab9bbe49f",
+        "id": "8e9530a3fb2a27b3",
         "type": "tabs",
         "children": [
           {
-            "id": "9f24bcfa152ece7e",
+            "id": "8b1e5f39f9e59f79",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "TIL/013.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "fba0993ec2646ee2",
+            "id": "5a6e966ccfd13a2b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TIL/007.md",
+                "file": "Collection/Articles.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -34,86 +34,19 @@
             }
           },
           {
-            "id": "d8d096abe628651b",
+            "id": "e5cec9052ac45067",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TIL/005.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9e13087cacf4df3a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TIL/004.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d55e38716ff6c660",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TIL/003.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "00951e763646421d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TIL/009.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "75a790ddd2600e64",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Blog/React + TypeScript 小抄.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f170bdf4c60797dd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Blog/Vue2 TodoMVC.md",
+                "file": "Collection/Books.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 6,
-        "stacked": true
+        ]
       }
     ],
     "direction": "vertical"
@@ -165,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Blog/React + TypeScript 小抄.md",
+                "file": "TIL/013.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Blog/React + TypeScript 小抄.md",
+                "file": "TIL/013.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Blog/React + TypeScript 小抄.md"
+                "file": "TIL/013.md"
               }
             }
           }
@@ -235,34 +168,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "75a790ddd2600e64",
+  "active": "8b1e5f39f9e59f79",
   "lastOpenFiles": [
-    "Blog/Vue2 TodoMVC.md",
-    "TIL/003.md",
-    "TIL/004.md",
-    "TIL/005.md",
-    "TIL/006.md",
-    "TIL/008.md",
-    "TIL/010.md",
-    "TIL/011.md",
     "TIL/012.md",
-    "TIL/009.md",
-    "TIL/007.md",
-    "TIL/002.md",
-    "Blog/React + TypeScript 小抄.md",
-    "Blog/React 命名及项目结构规范.md",
-    "notes.md",
-    "TIL/001.md",
-    "Blog/2024 Flags.md",
+    "TIL/013.md",
+    "TIL/014.md",
+    "TIL/011.md",
+    "Collection/Books.md",
     "Collection/Articles.md",
     "Collection/Bloggers.md",
-    "Collection/Books.md",
+    "Collection/Snippets.md",
+    "Collection/Ideas.md",
+    "Collection/Media.md",
+    "TIL/010.md",
+    "notes.md",
+    "Blog/React + TypeScript 小抄.md",
+    "Blog/Vue2 TodoMVC.md",
+    "TIL/009.md",
+    "TIL/005.md",
+    "TIL/007.md",
     "index.md",
-    "Blog/中文技术文档排版指南.md",
-    "Blog/React 文档拾遗.md",
-    "Blog/Angular ngDoCheck.md",
-    "Blog/ChatGPT 中英翻译 Prompt.md",
-    "Blog/Angular Getter & Setter.md",
+    "TIL/003.md",
+    "TIL/004.md",
+    "TIL/006.md",
+    "TIL/008.md",
+    "TIL/002.md",
+    "Blog/React 命名及项目结构规范.md",
+    "TIL/001.md",
+    "Blog/2024 Flags.md",
     "Untitled",
     "TIL",
     "CSS/Tailwind",

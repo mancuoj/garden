@@ -11,8 +11,7 @@ date: 2024-01-01
 - [Docker 从入门到实践](https://yeasy.gitbook.io/docker_practice/)
 - [Let's Define Exactly What Atomic CSS is](https://css-tricks.com/lets-define-exactly-atomic-css/)
 - [重新构想原子化 CSS](https://antfu.me/posts/reimagine-atomic-css-zh)
-- [daishi/7guis](https://codesandbox.io/search?query=daishi%207gui&page=1&configure%5BhitsPerPage%5D=12)
-- [7GUIs](https://eugenkiss.github.io/7guis/)
+
 
 ## To Read
 
@@ -126,7 +125,9 @@ date: 2024-01-01
 | [kettanaito/naming-cheatsheet](https://github.com/kettanaito/naming-cheatsheet) | set, get, reset, add, remove, create, delete, compose, handle, is, has, should, min, max, prev, next |
 | [Using the Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch) | [[009]] |
 | [You may not need Axios](https://danlevy.net/you-may-not-need-axios/) | [[009]] |
-|  |  |
+| [Adding Interactivity – React](https://react.dev/learn/adding-interactivity) | [[React 文档拾遗]] |
+| [Managing State – React](https://react.dev/learn/managing-state) | [[React 文档拾遗]] |
+| [TypeScript for React Developers](https://www.freecodecamp.org/news/typescript-for-react-developers/) | [[React + TypeScript 小抄]] |
 |  |  |
 
 

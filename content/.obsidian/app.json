@@ -3,7 +3,7 @@
   "spellcheck": true,
   "alwaysUpdateLinks": true,
   "newFileLocation": "current",
-  "readableLineLength": false,
+  "readableLineLength": true,
   "promptDelete": false,
   "attachmentFolderPath": "assets",
   "livePreview": true,

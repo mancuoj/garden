@@ -6,13 +6,11 @@ date: 2024-01-01
 
 ## Current
 
-- 玩家凶猛 by 黑灯夏火
-- 我们生活在南京 by 天瑞说符
 - 死在火星上 by 天瑞说符
+- Refactoring UI by Adam Wathan & Steve Schoger
 
 ## To Read
 
-- Refactoring UI by Adam Wathan & Steve Schoger
 - 你不知道的 JavaScript 上卷 by Kyle Simpson
 - JavaScript 设计模式与开发实践 by 曾探
 - 图解 HTTP by 上野宣
@@ -27,8 +25,8 @@ date: 2024-01-01
 
 > 新的一年，看点好的
 
-- 
-
+- 玩家凶猛 by 黑灯夏火
+- 我们生活在南京 by 天瑞说符
 
 ### Dec 2023
 

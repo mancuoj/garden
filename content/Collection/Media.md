@@ -10,16 +10,17 @@ date: 2024-01-01
 
 ## Current
 
-- Friends Season 1 [豆瓣](https://movie.douban.com/subject/1393859/)
+- Friends Season 1
 - 
 
 ## To Do
 
-- 
+- Friends Season 2
+- 飞驰人生
 
 ## Past
 
 ### Jan 2024
 
-- 
+
 
