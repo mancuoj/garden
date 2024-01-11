@@ -5,7 +5,7 @@ tags:
   - ts
 ---
 
-## FC
+## Function Components
 
 ```tsx
 interface AppProps {
@@ -13,9 +13,14 @@ interface AppProps {
   children: ReactNode
 }
 
-const App: FC<AppProps> = ({ title, children }) => {
-  return <h1>Hello {title}</h1>
-}
+// easiest way
+const App = ({ title, children }: AppProps) => { ... }
+
+// not recommended
+const App: FC<AppProps> = ({ title, children }) => { ... }
+
+// when there are a few props
+const App = ({ message }: { message: string }) => { ... }
 ```
 
 
@@ -47,3 +52,4 @@ const [status, setStatus] = useState<Status>("idle")
 - [How to Use TypeScript with React](https://www.freecodecamp.org/news/use-typescript-with-react/)
 - [React TypeScript Cheatsheets](https://react-typescript-cheatsheet.netlify.app/)
 - [使用 TypeScript – React 中文文档](https://zh-hans.react.dev/learn/typescript)
+- [TypeScript for React Developers](https://www.freecodecamp.org/news/typescript-for-react-developers/)

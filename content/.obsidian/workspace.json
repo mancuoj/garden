@@ -91,7 +91,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes.md",
+                "file": "Blog/React TypeScript.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -104,7 +104,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TIL/009.md",
+                "file": "TIL/008.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -165,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes.md",
+                "file": "Blog/React TypeScript.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes.md",
+                "file": "Blog/React TypeScript.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes.md"
+                "file": "Blog/React TypeScript.md"
               }
             }
           }
@@ -237,18 +237,19 @@
   },
   "active": "75a790ddd2600e64",
   "lastOpenFiles": [
-    "TIL/011.md",
+    "Blog/React 命名及项目结构规范.md",
+    "notes.md",
+    "TIL/008.md",
     "TIL/009.md",
     "TIL/010.md",
+    "TIL/011.md",
     "TIL/004.md",
     "TIL/007.md",
     "TIL/003.md",
     "TIL/006.md",
-    "TIL/008.md",
     "TIL/005.md",
     "TIL/002.md",
     "TIL/001.md",
-    "notes.md",
     "Blog/2024 Flags.md",
     "Collection/Articles.md",
     "Collection/Bloggers.md",
@@ -257,8 +258,7 @@
     "Blog/中文技术文档排版指南.md",
     "Blog/Vue2 TodoMVC.md",
     "Blog/React 文档拾遗.md",
-    "Blog/React 命名及项目结构规范.md",
-    "Blog/React + TypeScript 小抄.md",
+    "Blog/React TypeScript.md",
     "Blog/Angular ngDoCheck.md",
     "Blog/ChatGPT 中英翻译 Prompt.md",
     "Blog/Angular Getter & Setter.md",

@@ -144,7 +144,7 @@ date: 2024-01-01
 | [关于 Yak Shaving](https://antfu.me/posts/about-yak-shaving-zh) | 如何学习 |
 | [Super Simple Start to React](https://kentcdodds.com/blog/super-simple-start-to-react) | 没有框架怎么用 React |
 | [Top 10 Mistakes to Avoid When Using React](https://javascript.plainenglish.io/top-10-mistakes-to-avoid-when-using-react-1796711ad2a0) | 有点过时 |
-| [How to Use TypeScript with React](https://www.freecodecamp.org/news/use-typescript-with-react/) | [[React + TypeScript 小抄]] |
+| [How to Use TypeScript with React](https://www.freecodecamp.org/news/use-typescript-with-react/) | [[React TypeScript]] |
 | [A (more) Modern CSS Reset](https://andy-bell.co.uk/a-more-modern-css-reset/) | 这三个 Reset 结合起来看 |
 | [Modern CSS Reset / Global Styles](https://www.joshwcomeau.com/css/custom-css-reset/) | 最实用的 CSS Reset |
 | [Your CSS reset needs text-size-adjust (probably)](https://kilianvalkhof.com/2022/css-html/your-css-reset-needs-text-size-adjust-probably/) | CSS 的一些 text 设置 |
