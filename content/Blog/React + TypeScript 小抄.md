@@ -26,7 +26,7 @@ const App = ({ message }: { message: string }) => { ... }
 
 ## Custom HTML Components
 
-```ts
+```tsx
 type InputProps = ComponentProps<'input'>
 
 const Input = forwardRef(
@@ -38,7 +38,7 @@ const Input = forwardRef(
 
 Use text value instead of children:
 
-```ts
+```tsx
 type TagProps = {
   variant?: 'solid' | 'outlined'
   text: string
@@ -57,48 +57,74 @@ type Status = "idle" | "loading" | "success" | "error"
 const [status, setStatus] = useState<Status>("idle")
 ```
 
-
 ## useReducer
 
-```ts
-import { useReducer } from "react";
+```tsx
+const initialTasks: TaskItem[] = []
 
-const initialState = { count: 0 };
+enum ACTIONS {
+  ADD = 'added',
+  CHANGE = 'changed',
+  DELETE = 'deleted',
+}
 
-type ACTIONTYPE =
-  | { type: "increment"; payload: number }
-  | { type: "decrement"; payload: string };
+type ActionType =
+  | { type: ACTIONS.ADD; id: string; text: string }
+  | { type: ACTIONS.CHANGE; task: TaskItem }
+  | { type: ACTIONS.DELETE; id: string }
 
-function reducer(state: typeof initialState, action: ACTIONTYPE) {
+function tasksReducer(tasks: typeof initialTasks, action: ActionType) {
   switch (action.type) {
-    case "increment":
-      return { count: state.count + action.payload };
-    case "decrement":
-      return { count: state.count - Number(action.payload) };
-    default:
-      throw new Error();
+    case ACTIONS.ADD: {
+      return [...tasks, { id: action.id, text: action.text, done: false }]
+    }
+    case ACTIONS.CHANGE: {
+      return tasks.map((t) => {
+        if (t.id === action.task.id) {
+          return action.task
+        } else {
+          return t
+        }
+      })
+    }
+    case ACTIONS.DELETE: {
+      return tasks.filter((t) => t.id !== action.id)
+    }
+    default: {
+      throw Error('Unknown Type')
+    }
   }
 }
 
-function Counter() {
-  const [state, dispatch] = useReducer(reducer, initialState);
-  return (
-    <>
-      Count: {state.count}
-      <button onClick={() => dispatch({ type: "decrement", payload: "5" })}>
-        -
-      </button>
-      <button onClick={() => dispatch({ type: "increment", payload: 5 })}>
-        +
-      </button>
-    </>
-  );
-}
+const [tasks, dispatch] = useReducer(tasksReducer, initialTasks)
 ```
 
 ## useContext
 
+```tsx
+const TasksContext = createContext<TaskItem[]>([])
+const TasksDispatchContext = createContext<Dispatch<ActionType>>(() => {})
 
+export function useTasks() {
+  return useContext(TasksContext)
+}
+
+export function useTasksDispatch() {
+  return useContext(TasksDispatchContext)
+}
+
+export function TaskProvider({ children }: { children: ReactNode }) {
+  const [tasks, dispatch] = useReducer(tasksReducer, initialTasks)
+
+  return (
+    <TasksContext.Provider value={tasks}>
+      <TasksDispatchContext.Provider value={dispatch}>
+        {children}
+      </TasksDispatchContext.Provider>
+    </TasksContext.Provider>
+  )
+}
+```
 
 
 
