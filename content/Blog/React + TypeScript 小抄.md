@@ -24,10 +24,31 @@ const App = ({ message }: { message: string }) => { ... }
 ```
 
 
+## Custom HTML Components
+
+```ts
+type InputProps = ComponentProps<'input'>
+
+const Input = forwardRef(
+  (props: InputProps, ref: Ref<HTMLInputElement>) => {
+    return <input {...props} ref={ref} className={...} />
+  }
+)
+```
+
+Use text value instead of children:
+
+```ts
+type TagProps = {
+  variant?: 'solid' | 'outlined'
+  text: string
+} & Omit<React.ComponentProps<'span'>, 'children'>
+```
+
 ## useState
 
 ```tsx
-// 自动推导类型
+// infer types
 const [enabled, setEnabled] = useState(false)
 
 const [title, setTitle] = useState<string | null>(null)
@@ -39,7 +60,41 @@ const [status, setStatus] = useState<Status>("idle")
 
 ## useReducer
 
+```ts
+import { useReducer } from "react";
 
+const initialState = { count: 0 };
+
+type ACTIONS =
+  | { type: "increment"; payload: number }
+  | { type: "decrement"; payload: string };
+
+function reducer(state: typeof initialState, action: ACTIONS) {
+  switch (action.type) {
+    case "increment":
+      return { count: state.count + action.payload };
+    case "decrement":
+      return { count: state.count - Number(action.payload) };
+    default:
+      throw new Error();
+  }
+}
+
+function Counter() {
+  const [state, dispatch] = useReducer(reducer, initialState);
+  return (
+    <>
+      Count: {state.count}
+      <button onClick={() => dispatch({ type: "decrement", payload: "5" })}>
+        -
+      </button>
+      <button onClick={() => dispatch({ type: "increment", payload: 5 })}>
+        +
+      </button>
+    </>
+  );
+}
+```
 
 ## useContext
 

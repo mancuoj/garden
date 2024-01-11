@@ -13,7 +13,46 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TIL/017.md",
+                "file": "TIL/015.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "caaac9d6d3cd8db9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Collection/Snippets.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "66c97ebc14496b1f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Blog/React + TypeScript 小抄.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5944209a0614de9f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TIL/006.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -46,7 +85,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TIL/017.md",
+                "file": "Blog/React + TypeScript 小抄.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TIL/017.md",
+                "file": "Blog/React + TypeScript 小抄.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TIL/017.md"
+                "file": "Blog/React + TypeScript 小抄.md"
               }
             }
           }
@@ -168,20 +208,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8b1e5f39f9e59f79",
+  "active": "66c97ebc14496b1f",
   "lastOpenFiles": [
-    "TIL/016.md",
+    "TIL/006.md",
+    "TIL/007.md",
+    "TIL/008.md",
+    "Blog/React + TypeScript 小抄.md",
+    "Collection/Snippets.md",
     "TIL/015.md",
     "TIL/014.md",
-    "TIL/012.md",
     "TIL/013.md",
-    "TIL/017.md",
+    "TIL/012.md",
     "TIL/011.md",
-    "TIL/010.md",
     "TIL/009.md",
-    "TIL/008.md",
-    "TIL/007.md",
-    "TIL/006.md",
+    "TIL/017.md",
+    "TIL/016.md",
+    "TIL/010.md",
     "TIL/005.md",
     "TIL/004.md",
     "TIL/003.md",
@@ -190,11 +232,9 @@
     "Collection/Books.md",
     "Collection/Articles.md",
     "Collection/Bloggers.md",
-    "Collection/Snippets.md",
     "Collection/Ideas.md",
     "Collection/Media.md",
     "notes.md",
-    "Blog/React + TypeScript 小抄.md",
     "Blog/Vue2 TodoMVC.md",
     "Untitled",
     "TIL",

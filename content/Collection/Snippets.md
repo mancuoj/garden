@@ -80,3 +80,16 @@ export const useMousePosition = () => {
 const id = crypto.randomUUID()
 ```
 
+
+## Position Type
+
+```ts
+type VPosition = 'top' | 'middle' | 'bottom'
+type HPosition = 'left' | 'center' | 'right'
+
+export type PositionValues = Exclude<`${VPosition}-${HPosition}`, 'middle-center'> | 'center'
+```
+
+
+
+
