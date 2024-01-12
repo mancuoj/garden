@@ -11,12 +11,12 @@ date: 2024-01-01
 - [Docker 从入门到实践](https://yeasy.gitbook.io/docker_practice/)
 - [Let's Define Exactly What Atomic CSS is](https://css-tricks.com/lets-define-exactly-atomic-css/)
 - [重新构想原子化 CSS](https://antfu.me/posts/reimagine-atomic-css-zh)
+- [The anatomy of shadcn/ui](https://manupa.dev/blog/anatomy-of-shadcn-ui)
 
 
 ## To Read
 
 - [04-003 Creating a Table](https://www.bilibili.com/video/BV1cC4y1g7ng?p=30&vd_source=4da426ef9b0e129787ecf66363321458)
-- [The anatomy of shadcn/ui](https://manupa.dev/blog/anatomy-of-shadcn-ui)
 - [Let’s learn how modern JavaScript frameworks work by building one](https://nolanlawson.com/2023/12/02/lets-learn-how-modern-javascript-frameworks-work-by-building-one/)
 - [npm: A Free Guide for Beginners](https://css-tricks.com/a-complete-beginners-guide-to-npm/)
 - [Retry, Timeout and Cancel with fetch()](https://www.chrisarmstrong.dev/posts/retry-timeout-and-cancel-with-fetch)
@@ -128,6 +128,7 @@ date: 2024-01-01
 | [Adding Interactivity – React](https://react.dev/learn/adding-interactivity) | [[React 文档拾遗]] |
 | [Managing State – React](https://react.dev/learn/managing-state) | [[React 文档拾遗]] |
 | [TypeScript for React Developers](https://www.freecodecamp.org/news/typescript-for-react-developers/) | [[React + TypeScript 小抄]] |
+| [Function Components \| React TypeScript Cheatsheets ](https://react-typescript-cheatsheet.netlify.app/docs/basic/getting-started/function_components) | [[React + TypeScript 小抄]] |
 |  |  |
 
 

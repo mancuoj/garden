@@ -31,7 +31,7 @@ type InputProps = ComponentProps<'input'>
 
 const Input = forwardRef(
   (props: InputProps, ref: Ref<HTMLInputElement>) => {
-    return <input {...props} ref={ref} className={...} />
+    return <input ref={ref} {...props} className={...} />
   }
 )
 ```
