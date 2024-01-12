@@ -2,7 +2,7 @@
 date: 2024-01-01
 ---
 
-记录读过或想读的好文章，以及好的 Bloger，书单记录在[[Books|这里]]，都用来对抗我日渐衰退的记忆力 🥹
+记录读过或想读的好文章（包括一些写的好的项目文档），推荐的 Blogger 在[[Bloggers|这里]]，书单记录在[[Books|这里]]，都用来对抗我日渐衰退的记忆力 🥹
 
 ## Current
 
@@ -11,7 +11,8 @@ date: 2024-01-01
 - [Docker 从入门到实践](https://yeasy.gitbook.io/docker_practice/)
 - [Let's Define Exactly What Atomic CSS is](https://css-tricks.com/lets-define-exactly-atomic-css/)
 - [重新构想原子化 CSS](https://antfu.me/posts/reimagine-atomic-css-zh)
-
+- [Oh Shit, Git!?!](https://ohshitgit.com/)
+- 
 
 ## To Read
 
@@ -86,7 +87,6 @@ date: 2024-01-01
 - [modern-guide-to-packaging-js-library](https://github.com/frehner/modern-guide-to-packaging-js-library/blob/main/README-zh_CN.md)
 - [React re-renders guide: everything, all at once](https://www.developerway.com/posts/react-re-renders-guide)
 - [Defensive CSS](https://defensivecss.dev/)
-- [Oh Shit, Git!?!](https://ohshitgit.com/)
 - [Tao of React](https://alexkondov.com/tao-of-react/)
 - [Reading Code - React-Query](https://alexkondov.com/reading-source-code-react-query/)
 - [Building a Mini Next.js](https://hire.jonasgalvez.com.br/2022/may/18/building-a-mini-next-js/)
@@ -112,23 +112,24 @@ date: 2024-01-01
 | [Tailwind CSS v3.3](https://tailwindcss.com/blog/tailwindcss-v3-3) | 3.3 更新文档 |
 | [Tailwind CSS v3.2](https://tailwindcss.com/blog/tailwindcss-v3-2) | 3.2 更新文档 |
 | [Tailwind CSS v3.1](https://tailwindcss.com/blog/tailwindcss-v3-1) | 3.1 更新文档，时间跨度超过一年 |
-| [Describing the UI – React](https://react.dev/learn/describing-the-ui) | [[React 文档拾遗]] |
+| [描述用户界面 ](https://zh-hans.react.dev/learn/describing-the-ui) | [[React 文档拾遗]] |
 | [2023 JavaScript Rising Stars](https://risingstars.js.org/2023/en) | 可以看出 2023 前端趋势 |
 | [The Epic Stack](https://www.epicweb.dev/epic-stack) | fly.io 你让我哭，SQLite 就是最好用的数据库 |
 | [Let's Learn About Waveforms](https://pudding.cool/2018/02/waveforms/) | 我到底为啥要看这个？ |
 | [How to use prefers-reduced-motion in React](https://www.joshwcomeau.com/react/prefers-reduced-motion/) | 在用户系统设置禁用动画时，禁用组件的动画 |
 | [Spring Physics animation in JavaScript](https://www.joshwcomeau.com/animation/a-friendly-introduction-to-spring-physics/#thinking-in-springs-2) | Mass 质量，Tension 张力（可以看作弹簧的圈数），Friction 摩擦力 |
-| [Common Beginner Mistakes with React](https://www.joshwcomeau.com/react/common-beginner-mistakes/) | 常看常新 |
-| [Common React Hooks Mistakes You Should Avoid](https://blog.bitsrc.io/common-react-hooks-mistakes-every-developer-should-avoid-defd47d09d8c) | 状态值只会在下一次 render 更新，`setCount(count => count + 1)` 避免使用过时状态 |
+| [Common Beginner Mistakes with React](https://www.joshwcomeau.com/react/common-beginner-mistakes/) | ~~常看常新~~，React 新文档里描述了一切坑 |
+| [Common React Hooks Mistakes You Should Avoid](https://blog.bitsrc.io/common-react-hooks-mistakes-every-developer-should-avoid-defd47d09d8c) | React 新文档里描述了一切坑 |
 | [Data binding in React: how to work with forms in React](https://www.joshwcomeau.com/react/data-binding/) | 基本是 value, onChange |
 | [kettanaito/naming-cheatsheet](https://github.com/kettanaito/naming-cheatsheet) | set, get, reset, add, remove, create, delete, compose, handle, is, has, should, min, max, prev, next |
 | [Using the Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch) | [[009]] |
 | [You may not need Axios](https://danlevy.net/you-may-not-need-axios/) | [[009]] |
-| [Adding Interactivity – React](https://react.dev/learn/adding-interactivity) | [[React 文档拾遗]] |
-| [Managing State – React](https://react.dev/learn/managing-state) | [[React 文档拾遗]] |
+| [添加交互](https://zh-hans.react.dev/learn/adding-interactivity) | [[React 文档拾遗]] |
+| [状态管理](https://zh-hans.react.dev/learn/managing-state) | [[React 文档拾遗]] |
 | [TypeScript for React Developers](https://www.freecodecamp.org/news/typescript-for-react-developers/) | [[React + TypeScript 小抄]] |
 | [Function Components \| React TypeScript Cheatsheets ](https://react-typescript-cheatsheet.netlify.app/docs/basic/getting-started/function_components) | [[React + TypeScript 小抄]] |
 | [The anatomy of shadcn/ui](https://manupa.dev/blog/anatomy-of-shadcn-ui)<br> | clsx, twMerge, cva |
+| [应急方案](https://zh-hans.react.dev/learn/escape-hatches) | 每一篇都是精华 |
 |  |  |
 |  |  |
 
