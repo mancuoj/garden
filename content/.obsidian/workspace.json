@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Collection/Articles.md",
+                "file": "Collection/Media.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TIL/012.md",
+                "file": "Collection/Media.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TIL/012.md",
+                "file": "Collection/Media.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TIL/012.md"
+                "file": "Collection/Media.md"
               }
             }
           }
@@ -208,11 +208,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3a72db911c476559",
+  "active": "08326e74c80a4374",
   "lastOpenFiles": [
+    "Collection/Ideas.md",
+    "Collection/Books.md",
+    "Collection/Bloggers.md",
+    "Collection/Articles.md",
+    "Collection/Media.md",
+    "Collection/Free APIs.md",
+    "TIL/012.md",
     "TIL/011.md",
     "TIL/010.md",
-    "TIL/012.md",
     "TIL/013.md",
     "TIL/014.md",
     "TIL/015.md",
@@ -220,11 +226,7 @@
     "TIL/017.md",
     "notes.md",
     "Blog/React + TypeScript 小抄.md",
-    "Collection/Articles.md",
     "Collection/Snippets.md",
-    "Collection/Bloggers.md",
-    "Collection/Free APIs.md",
-    "Collection/Books.md",
     "TIL/006.md",
     "TIL/005.md",
     "TIL/004.md",
@@ -234,8 +236,6 @@
     "TIL/007.md",
     "TIL/009.md",
     "TIL/003.md",
-    "TIL/002.md",
-    "TIL/001.md",
     "Untitled",
     "TIL",
     "CSS/Tailwind",

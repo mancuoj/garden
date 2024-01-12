@@ -11,7 +11,6 @@ date: 2024-01-01
 - [Docker 从入门到实践](https://yeasy.gitbook.io/docker_practice/)
 - [Let's Define Exactly What Atomic CSS is](https://css-tricks.com/lets-define-exactly-atomic-css/)
 - [重新构想原子化 CSS](https://antfu.me/posts/reimagine-atomic-css-zh)
-- [The anatomy of shadcn/ui](https://manupa.dev/blog/anatomy-of-shadcn-ui)
 
 
 ## To Read
@@ -129,6 +128,8 @@ date: 2024-01-01
 | [Managing State – React](https://react.dev/learn/managing-state) | [[React 文档拾遗]] |
 | [TypeScript for React Developers](https://www.freecodecamp.org/news/typescript-for-react-developers/) | [[React + TypeScript 小抄]] |
 | [Function Components \| React TypeScript Cheatsheets ](https://react-typescript-cheatsheet.netlify.app/docs/basic/getting-started/function_components) | [[React + TypeScript 小抄]] |
+| [The anatomy of shadcn/ui](https://manupa.dev/blog/anatomy-of-shadcn-ui)<br> | clsx, twMerge, cva |
+|  |  |
 |  |  |
 
 

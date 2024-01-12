@@ -11,6 +11,7 @@ date: 2024-01-01
 
 ## To Read
 
+- 庆余年
 - 你不知道的 JavaScript 上卷 by Kyle Simpson
 - JavaScript 设计模式与开发实践 by 曾探
 - 图解 HTTP by 上野宣
