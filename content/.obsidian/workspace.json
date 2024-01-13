@@ -73,6 +73,19 @@
             }
           },
           {
+            "id": "d0366c2218ce8ccb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Collection/Articles.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "3a72db911c476559",
             "type": "leaf",
             "state": {
@@ -99,7 +112,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -151,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TIL/018.md",
+                "file": "Collection/Articles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TIL/018.md",
+                "file": "Collection/Articles.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +209,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TIL/018.md"
+                "file": "Collection/Articles.md"
               }
             }
           }
@@ -221,11 +234,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2df1e9bf169df4b3",
+  "active": "d0366c2218ce8ccb",
   "lastOpenFiles": [
+    "TIL/013.md",
+    "TIL/018.md",
     "TIL/017.md",
     "TIL/016.md",
-    "TIL/018.md",
     "Collection/Articles.md",
     "Collection/Bloggers.md",
     "Collection/Books.md",
@@ -239,7 +253,6 @@
     "TIL/012.md",
     "TIL/011.md",
     "TIL/010.md",
-    "TIL/013.md",
     "TIL/014.md",
     "notes.md",
     "TIL/006.md",
