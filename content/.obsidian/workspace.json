@@ -78,7 +78,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Collection/Articles.md",
+                "file": "Collection/Bloggers.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -164,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Collection/Articles.md",
+                "file": "Collection/Bloggers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Collection/Articles.md",
+                "file": "Collection/Bloggers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,7 +209,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Collection/Articles.md"
+                "file": "Collection/Bloggers.md"
               }
             }
           }
@@ -236,11 +236,11 @@
   },
   "active": "d0366c2218ce8ccb",
   "lastOpenFiles": [
+    "Collection/Articles.md",
     "TIL/013.md",
     "TIL/018.md",
     "TIL/017.md",
     "TIL/016.md",
-    "Collection/Articles.md",
     "Collection/Bloggers.md",
     "Collection/Books.md",
     "Collection/Snippets.md",

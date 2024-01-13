@@ -13,6 +13,7 @@ date: 2024-01-01
 - [重新构想原子化 CSS](https://antfu.me/posts/reimagine-atomic-css-zh)
 - [Oh Shit, Git!?!](https://ohshitgit.com/)
 - [Scroll-driven Animations](https://scroll-driven-animations.style/)
+- [Designing better target sizes](https://ishadeed.com/article/target-size#safe-triangle-target-areas)
 
 ## To Read
 

@@ -22,6 +22,8 @@ date: 2024-01-08
 | [Not a Number](https://www.nan.fyi/) | 网页太好看了，文章还没看过 |
 | [Exploring JS](https://exploringjs.com/) | 写 JS 书的，免费在线阅读 |
 | [Blog – Vercel](https://vercel.com/blog/category/engineering) | Vercel 官方的技术博客 |
+| [Articles - Ahmad Shadeed](https://ishadeed.com/articles) | 我去，是 CSS 大神 |
+|  |  |
 
 
 | 有时间归个类 |  |  |
@@ -29,12 +31,12 @@ date: 2024-01-08
 | [Smashing Magazine](https://www.smashingmagazine.com/) | [Alex Sidorenko's Blog](https://alexsidorenko.com/) |  [Developer Way](https://www.developerway.com/posts) |
 | [HeyDesigner](https://heydesigner.com/) | [Chris Armstrong's Blog](https://www.chrisarmstrong.dev/) | [Frontend Mastery's Posts](https://frontendmastery.com/posts/) |
 | [Sidebar](https://sidebar.io/) | [OwenGage.com](https://owengage.com/) |  [Chak Shun Yu's Blog](https://www.chakshunyu.com/blog/) |
-| [Frontend Horse](https://frontend.horse/articles/) | [Ahmad Shadeed's Articles](https://ishadeed.com/articles) | [Jonas Galvez's Blog](https://hire.jonasgalvez.com.br/) |
+| [Frontend Horse](https://frontend.horse/articles/) | [emilkowal.ski](https://emilkowal.ski/) | [Jonas Galvez's Blog](https://hire.jonasgalvez.com.br/) |
 | [CSS Weekly](https://css-weekly.com/archives/) |  [Tania Rascia's Blog](https://www.taniarascia.com/blog) |  [OpenReplay Blog](https://blog.openreplay.com/) |
 | [web.dev](https://web.dev/blog) |  [alexkondov's Articles](https://alexkondov.com/articles/) | [Rafael Camargo's Blog](https://rafaelcamargo.com/blog/) |
 | [CSS { In Real Life }](https://css-irl.info/) |  [Fatih's Personal's Blog](https://blog.6nok.org/) | [webup.org](https://webup.org/blog/) |
 | [Modern CSS Solutions](https://moderncss.dev/) | [Exploring JS: JavaScript books for programmers](https://exploringjs.com/) | [Matt Rickard's Blog](https://matt-rickard.com/archive) |
-| [SitePoint](https://www.sitepoint.com/) |  [Daily Dev Tips](https://daily-dev-tips.com/archive/) |  [emilkowal.ski](https://emilkowal.ski/) |
+| [SitePoint](https://www.sitepoint.com/) |  [Daily Dev Tips](https://daily-dev-tips.com/archive/) |   |
 | [arne.me](https://arne.me/) | [Brad Woods' Digital Garden](https://garden.bradwoods.io/) |  |
 | [Articles – A List Apart](https://alistapart.com/articles/) | [TkDodo's Blog](https://tkdodo.eu/blog/all) |  |
 | [leerob.io](https://leerob.io/blog) |  [lutaonan.com](https://lutaonan.com/) |  |
