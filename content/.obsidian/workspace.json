@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TIL/013.md",
+                "file": "TIL/015.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -98,7 +98,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -220,24 +221,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8b1e5f39f9e59f79",
+  "active": "8f908637b5ffbbd9",
   "lastOpenFiles": [
-    "TIL/018.md",
-    "TIL/019.md",
-    "TIL/015.md",
     "TIL/016.md",
     "TIL/017.md",
+    "TIL/018.md",
+    "TIL/019.md",
     "index.md",
-    "TIL/014.md",
+    "TIL/015.md",
+    "TIL/009.md",
+    "TIL/007.md",
+    "TIL/006.md",
+    "TIL/005.md",
+    "TIL/004.md",
+    "TIL/003.md",
     "TIL/013.md",
+    "Collection/Bloggers.md",
+    "TIL/014.md",
     "TIL/012.md",
     "TIL/011.md",
     "TIL/010.md",
-    "TIL/009.md",
     "TIL/008.md",
-    "TIL/007.md",
-    "TIL/006.md",
-    "Collection/Bloggers.md",
     "Collection/Books.md",
     "Collection/Articles.md",
     "Collection/Ideas.md",
@@ -245,9 +249,6 @@
     "Blog/React 文档拾遗.md",
     "Collection/Snippets.md",
     "Collection/Media.md",
-    "Blog/React + TypeScript 小抄.md",
-    "notes.md",
-    "TIL/005.md",
     "Untitled",
     "TIL",
     "CSS/Tailwind",
