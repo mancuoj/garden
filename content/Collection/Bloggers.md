@@ -2,28 +2,35 @@
 date: 2024-01-08
 ---
 
+| 大杂烩 | 备注 |
+| ---- | ---- |
+| [This Week In React](https://thisweekinreact.com/newsletter) | React 你让我哭 |
+| [MDH Weekly 前端周刊](https://mdhweekly.com/weekly) | 一路追更过来，React 偏多 |
+| [阮一峰的科技爱好者周刊](https://www.ruanyifeng.com/blog/) |  |
+| [前端食堂技术周刊](https://github.com/Geekhyt/weekly) |  |
+|  |  |
+
+
 | 博客名称 | 备注 |
 | ---- | ---- |
-| [This Week In React](https://thisweekinreact.com/newsletter) | React 大杂烩，总结趋势，每周必看 |
-| [MDH Weekly 前端周刊](https://mdhweekly.com/weekly) | 一路追更过来，前端大杂烩，React 偏多 |
-| [阮一峰的科技爱好者周刊](https://www.ruanyifeng.com/blog/) | 科技爱好者，什么都有的大杂烩 |
-| [前端食堂技术周刊](https://github.com/Geekhyt/weekly) | 前端大杂烩 |
 | [Josh W Comeau's Blog](https://www.joshwcomeau.com/) | 神中神，最有交互式的一集 |
 | [Dan Abramov's Blog](https://overreacted.io/) | Dan 神！ |
 | [Rauno Freiberg](https://rauno.me/) | 天才！最有设计感的一集，动效的神 |
 | [Anthony Fu's Blog](https://antfu.me/posts) | 真偶像 |
 | [文章列表 - 静かな森](https://innei.in/posts) | 写 Next 写的 |
 | [Cali Castle](https://cali.so/blog) | 最想去的公司 |
-| [JSer.dev](https://jser.dev/) | jser 怎么光写 React 相关的 |
+| [JSer.dev](https://jser.dev/) |  |
 | [ManupaDev Blog](https://manupa.dev/blog) | 就三篇，React 相关 ⭐ |
-| [The Pudding](https://pudding.cool/) | Interactive Guides |
+|  |  |
 | [Daishi Kato's blog](https://blog.axlight.com/posts/) | 一人写三个 React 状态库 |
 | [EGOIST](https://egoist.dev/) | Indie Hacker，咱不离口 |
-| [Not a Number](https://www.nan.fyi/) | 网页太好看了，文章还没看过 |
+| [Not a Number](https://www.nan.fyi/) |  |
 | [Exploring JS](https://exploringjs.com/) | 写 JS 书的，免费在线阅读 |
 | [Blog – Vercel](https://vercel.com/blog/category/engineering) | Vercel 官方的技术博客 |
 | [Articles - Ahmad Shadeed](https://ishadeed.com/articles) | 我去，是 CSS 大神 |
-|  |  |
+| [samwho - all posts](https://samwho.dev/blog/) |  |
+| [Zero Wind :: Jamie Wong](https://jamie-wong.com/) |  |
+| [Maxime Heckel's Blog](https://blog.maximeheckel.com/) |  |
 
 
 | 有时间归个类 |  |  |

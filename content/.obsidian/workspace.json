@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Collection/Books.md",
+                "file": "Collection/Bloggers.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -164,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Collection/Books.md",
+                "file": "Collection/Bloggers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Collection/Books.md",
+                "file": "Collection/Bloggers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,7 +209,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Collection/Books.md"
+                "file": "Collection/Bloggers.md"
               }
             }
           }
@@ -236,13 +236,13 @@
   },
   "active": "08326e74c80a4374",
   "lastOpenFiles": [
-    "Collection/Ideas.md",
-    "Collection/Free APIs.md",
     "Collection/Books.md",
     "Collection/Articles.md",
+    "Collection/Bloggers.md",
+    "Collection/Ideas.md",
+    "Collection/Free APIs.md",
     "Blog/React 文档拾遗.md",
     "TIL/012.md",
-    "Collection/Bloggers.md",
     "TIL/013.md",
     "TIL/018.md",
     "TIL/017.md",
