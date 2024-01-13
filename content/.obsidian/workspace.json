@@ -21,19 +21,6 @@
             }
           },
           {
-            "id": "2df1e9bf169df4b3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TIL/018.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "08326e74c80a4374",
             "type": "leaf",
             "state": {
@@ -111,8 +98,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -164,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TIL/019.md",
+                "file": "TIL/015.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TIL/019.md",
+                "file": "TIL/015.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TIL/019.md"
+                "file": "TIL/015.md"
               }
             }
           }
@@ -234,13 +220,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "08326e74c80a4374",
+  "active": "8b1e5f39f9e59f79",
   "lastOpenFiles": [
-    "TIL/015.md",
+    "TIL/018.md",
     "TIL/019.md",
+    "TIL/015.md",
     "TIL/016.md",
     "TIL/017.md",
-    "TIL/018.md",
     "index.md",
     "TIL/014.md",
     "TIL/013.md",
