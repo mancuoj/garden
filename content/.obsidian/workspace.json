@@ -60,6 +60,19 @@
             }
           },
           {
+            "id": "50d402086ed4addf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Collection/Books.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "d0366c2218ce8ccb",
             "type": "leaf",
             "state": {
@@ -223,10 +236,16 @@
   },
   "active": "8f908637b5ffbbd9",
   "lastOpenFiles": [
+    "Collection/Books.md",
+    "Collection/Bloggers.md",
     "TIL/019.md",
+    "Collection/Free APIs.md",
+    "Collection/Ideas.md",
+    "Collection/Media.md",
+    "Collection/Snippets.md",
+    "TIL/020.md",
     "TIL/017.md",
     "TIL/018.md",
-    "TIL/020.md",
     "Collection/Articles.md",
     "TIL/016.md",
     "TIL/015.md",
@@ -243,12 +262,6 @@
     "TIL/004.md",
     "TIL/003.md",
     "TIL/002.md",
-    "Collection/Bloggers.md",
-    "index.md",
-    "Collection/Books.md",
-    "Collection/Ideas.md",
-    "Collection/Free APIs.md",
-    "Blog/React 文档拾遗.md",
     "Untitled",
     "TIL",
     "CSS/Tailwind",
