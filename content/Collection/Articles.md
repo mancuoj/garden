@@ -14,6 +14,7 @@ date: 2024-01-01
 - [Oh Shit, Git!?!](https://ohshitgit.com/)
 - [Scroll-driven Animations](https://scroll-driven-animations.style/)
 - [Designing better target sizes](https://ishadeed.com/article/target-size#safe-triangle-target-areas)
+- [A new kind of color picker](https://polar.sh/emilwidlund/posts/a-new-kind-of-color-picker-with-react-typescript)
 
 ## To Read
 
