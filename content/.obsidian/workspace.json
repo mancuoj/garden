@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TIL/020.md",
+                "file": "TIL/013.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -164,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TIL/020.md",
+                "file": "TIL/013.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TIL/020.md",
+                "file": "TIL/013.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,7 +209,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TIL/020.md"
+                "file": "TIL/013.md"
               }
             }
           }
@@ -236,23 +236,23 @@
   },
   "active": "8f908637b5ffbbd9",
   "lastOpenFiles": [
+    "TIL/011.md",
+    "TIL/012.md",
+    "TIL/020.md",
+    "TIL/019.md",
+    "TIL/018.md",
+    "TIL/015.md",
+    "TIL/014.md",
+    "TIL/017.md",
+    "TIL/016.md",
     "Collection/Books.md",
     "Collection/Bloggers.md",
-    "TIL/019.md",
     "Collection/Free APIs.md",
     "Collection/Ideas.md",
     "Collection/Media.md",
     "Collection/Snippets.md",
-    "TIL/020.md",
-    "TIL/017.md",
-    "TIL/018.md",
     "Collection/Articles.md",
-    "TIL/016.md",
-    "TIL/015.md",
-    "TIL/014.md",
     "TIL/013.md",
-    "TIL/012.md",
-    "TIL/011.md",
     "TIL/010.md",
     "TIL/009.md",
     "TIL/008.md",
