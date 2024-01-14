@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Collection/Articles.md",
+                "file": "TIL/020.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -151,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Collection/Articles.md",
+                "file": "TIL/020.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Collection/Articles.md",
+                "file": "TIL/020.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Collection/Articles.md"
+                "file": "TIL/020.md"
               }
             }
           }
@@ -223,12 +223,14 @@
   },
   "active": "8f908637b5ffbbd9",
   "lastOpenFiles": [
+    "TIL/019.md",
     "TIL/017.md",
+    "TIL/018.md",
+    "TIL/020.md",
+    "Collection/Articles.md",
     "TIL/016.md",
     "TIL/015.md",
     "TIL/014.md",
-    "TIL/018.md",
-    "TIL/019.md",
     "TIL/013.md",
     "TIL/012.md",
     "TIL/011.md",
@@ -244,11 +246,9 @@
     "Collection/Bloggers.md",
     "index.md",
     "Collection/Books.md",
-    "Collection/Articles.md",
     "Collection/Ideas.md",
     "Collection/Free APIs.md",
     "Blog/React 文档拾遗.md",
-    "Collection/Snippets.md",
     "Untitled",
     "TIL",
     "CSS/Tailwind",
