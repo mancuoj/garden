@@ -1,8 +1,10 @@
 ---
-date: 2024-01-01
+date: 2023-12-01
 ---
 
 记录读过或想读的好文章（包括一些写的好的项目文档），推荐的 Blogger 在[[Bloggers|这里]]，书单记录在[[Books|这里]]，都用来对抗我日渐衰退的记忆力 🥹
+
+用 [TIL: Today I Learned](https://garden.mancuoj.me/TIL/) 来逐步代替这个页面了。
 
 ## Current
 
@@ -132,8 +134,6 @@ date: 2024-01-01
 | [Function Components \| React TypeScript Cheatsheets ](https://react-typescript-cheatsheet.netlify.app/docs/basic/getting-started/function_components) | [[React + TypeScript 小抄]] |
 | [The anatomy of shadcn/ui](https://manupa.dev/blog/anatomy-of-shadcn-ui)<br> | clsx, twMerge, cva |
 | [应急方案](https://zh-hans.react.dev/learn/escape-hatches) | 每一篇都是精华 |
-|  |  |
-|  |  |
 
 
 ### Dec 2023
