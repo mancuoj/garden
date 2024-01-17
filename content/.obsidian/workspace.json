@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blog/2024 Flags.md",
+                "file": "Collection/Snippets.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -164,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Blog/2024 Flags.md",
+                "file": "Collection/Snippets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Blog/2024 Flags.md",
+                "file": "Collection/Snippets.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,7 +209,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Blog/2024 Flags.md"
+                "file": "Collection/Snippets.md"
               }
             }
           }
@@ -236,6 +236,8 @@
   },
   "active": "8f908637b5ffbbd9",
   "lastOpenFiles": [
+    "Collection/Ideas.md",
+    "Blog/2024 Flags.md",
     "TIL/012.md",
     "TIL/016.md",
     "TIL/018.md",
@@ -258,10 +260,8 @@
     "Blog/React + TypeScript 小抄.md",
     "Collection/Bloggers.md",
     "Collection/Free APIs.md",
-    "Collection/Ideas.md",
     "Collection/Media.md",
     "Collection/Snippets.md",
-    "TIL/010.md",
     "Untitled",
     "TIL",
     "CSS/Tailwind",
