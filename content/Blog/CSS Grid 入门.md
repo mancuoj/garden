@@ -190,7 +190,7 @@ gap 属性同样适用于 grid，事实上它最开始就是为 grid 设置的�
 
 还有两个值 `start` 会在左上角，`end` 在右下角。
 
-一个简单的应用：[[004|Full-Bleed Layout]]
+一个简单的应用：[[001|Full-Bleed Layout]]
 
 ## Thanks
 
