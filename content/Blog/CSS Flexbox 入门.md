@@ -1,35 +1,33 @@
 ---
-title: Think in Flexbox
 date: 2023-12-10
 tags:
   - css
 ---
 
-Flexbox is all about arranging a group of items in a row or column, and giving us a ridiculous amount of control over the distribution and alignment of those items.
+Flexbox（弹性盒布局）主要用于将子元素排列成一行或一列，并提供了控制子元素对齐和分布的方法。
 
-As the name suggest, Flexbox is also all about flexibility, we can control whether items grow or shrink, how the extra space is distributed, and more.
+正如其名称所示，Flexbox 也与灵活性（flexibility）有关，我们可以控制子元素增长或缩小，以及如何分配额外的空间等。
 
-When we flip `display` to `flex`, we create a _flex formatting context_, all children will be positioned according to the Flexbox layout algorithm.
+当我们将 `display` 设置为 `flex` 时，我们创建了一个 flex 格式化上下文（flex formatting context），所有子元素都将根据 Flexbox 布局算法进行定位。
 
 ## Flex Direction
 
-By default, Flexbox items will stack side-by-side in a row, the _primary axis_ runs horizontally, from left to right.
+默认情况下，Flexbox 子元素将在一行中水平排列，也就是主轴为水平方向。
 
-When we flip to `flex-direction: column`, the primary axis runs vertically, from top to bottom. 
+修改属性为 `flex-direction: column` 以后，主轴将变为垂直方向。
 
-**In Flexbox, everything is based on the primary axis**, and the _cross axis_ that runs perpendingdicularly.
+在 Flexbox 中，**一切都基于主轴**，以及垂直于它的交叉轴。
 
-The children will positioned by default according to the following 2 rules:
+子元素的默认定位如下：
 
-1. **Primary axis:** Children will be bunched up at the start of the container, `flex-start`
-2. **Cross axis:** Children will stretch out to fill the entire container, `stretch`
+1. **主轴：** 子元素将紧密排列在容器的起始位置，即 `flex-start`。
+2. **交叉轴：** 子元素将拉伸以填满整个容器，即 `stretch`。
 
 ## Alignment
 
-We can change how children are distributed along the primary axis using `justify-content` property.
+使用 `justify-content` 属性可以更改子元素沿主轴的分布方式。
 
-We can bunch all the items up (with `flex-start`, `center` and `flex-end`), or we can spread them apart (with `space-between`, `space-around` and `space-evenly`).
-
+我们可以将所有项目紧密排列在一起（使用 `flex-start`、`center` 和 `flex-end`），或者将它们分开（使用 `space-between`、`space-around` 和 `space-evenly`）。
 
 谈到主轴时，我们在意的是 content，也就是整个 group 的排列，而不是单个子项的对齐方式。
 
@@ -38,7 +36,6 @@ We can bunch all the items up (with `flex-start`, `center` and `flex-end`), or w
 `align-self` 应用于子元素，而不是整个容器，我们可以使用它来改变特定子元素在交叉轴上的对齐方式，它的 value 与 `align-items` 完全一致。
 
 事实上，`align-items` 就是 `align-self` 的语法糖，便于我们一次设置**所有**子元素的对齐方式。
-
 
 ## Content vs Items
 
@@ -51,7 +48,7 @@ Flexbox 中主轴也就是默认的横轴，可以由一条水平直线穿起来
 
 所以，水平排列单个子项肯定会影响到左右子项的排列，这就是为什么没有 `justify-self` 和 `justify-items` 的原因。
 
-至于 `align-content`, [[002#flex-wrap|下文]]会提到。
+至于 `align-content`, [[CSS Flexbox 入门#flex-wrap|下文]]会提到。
 
 
 ## flex-basis
@@ -117,10 +114,9 @@ hypothetical 更多指的是建议大小而不是硬性约束，在容器大小�
 
 但是谨慎修改！内置的最小尺寸充当的是护栏的角色，它肯定是有用的。
 
-
 ## gap
 
-`gap` 用于设置子项之间距离，同样可以用于 [[003|Grid 布局]]。
+`gap` 用于设置子项之间距离，同样可以用于 [[CSS Grid 入门|Grid 布局]]。
 
 除了使用 `gap` 外，`margin` 在一些情况下也有妙用，比如 `margin-right: auto` 可以在不使用 `flex-grow` 的情况下，占据子项右侧的剩余空间。
 
@@ -141,7 +137,7 @@ hypothetical 更多指的是建议大小而不是硬性约束，在容器大小�
 
 这时候我们就可以使用 `align-content` 来移动整个 group，它的用法与 `justify-content` 类似。
 
-但是不推荐在使用换行，一般来说，进入二维后，最好使用 [[003|Grid 布局]]。
+但是不推荐在使用换行，一般来说，进入二维后，最好使用 [[CSS Grid 入门|Grid 布局]]。
 
 
 ## Thanks

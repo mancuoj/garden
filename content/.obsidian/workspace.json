@@ -4,24 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8e9530a3fb2a27b3",
+        "id": "99346b3453a00be6",
         "type": "tabs",
         "children": [
           {
-            "id": "8b1e5f39f9e59f79",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TIL/015.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "08326e74c80a4374",
+            "id": "c9a039222767517c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -34,12 +21,12 @@
             }
           },
           {
-            "id": "66c97ebc14496b1f",
+            "id": "72a472d3949d0f1c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blog/React + TypeScript 小抄.md",
+                "file": "TIL/021.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -47,64 +34,12 @@
             }
           },
           {
-            "id": "8f908637b5ffbbd9",
+            "id": "5e991580ded99bcf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Collection/Snippets.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "50d402086ed4addf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Collection/Books.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d0366c2218ce8ccb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Collection/Bloggers.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3a72db911c476559",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TIL/012.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "23d599db28f03f9e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TIL/011.md",
+                "file": "notes.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -112,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -164,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Collection/Snippets.md",
+                "file": "notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Collection/Snippets.md",
+                "file": "notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Collection/Snippets.md"
+                "file": "notes.md"
               }
             }
           }
@@ -234,34 +169,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8f908637b5ffbbd9",
+  "active": "5e991580ded99bcf",
   "lastOpenFiles": [
-    "Collection/Ideas.md",
-    "Blog/2024 Flags.md",
-    "TIL/012.md",
-    "TIL/016.md",
-    "TIL/018.md",
-    "TIL/019.md",
-    "TIL/020.md",
-    "notes.md",
-    "TIL/011.md",
-    "TIL/014.md",
-    "TIL/015.md",
-    "TIL/013.md",
     "TIL/017.md",
-    "TIL/006.md",
+    "TIL/015.md",
+    "TIL/016.md",
+    "TIL/021.md",
+    "TIL/020.md",
+    "TIL/019.md",
+    "Blog/CSS Flexbox 入门.md",
+    "Blog/CSS Grid 入门.md",
+    "Blog/React 命名及项目结构规范.md",
+    "Blog/Angular ngDoCheck.md",
+    "Blog/买了新服务器后 ....md",
+    "Blog/2024 Flags.md",
     "TIL/004.md",
-    "TIL/003.md",
-    "TIL/002.md",
-    "TIL/001.md",
+    "TIL/006.md",
+    "TIL/013.md",
+    "TIL/012.md",
+    "TIL/011.md",
+    "TIL/010.md",
+    "TIL/009.md",
+    "TIL/007.md",
+    "TIL/005.md",
+    "TIL/008.md",
     "Collection/Articles.md",
-    "index.md",
-    "Collection/Books.md",
+    "TIL/014.md",
+    "TIL/018.md",
     "Blog/React + TypeScript 小抄.md",
-    "Collection/Bloggers.md",
-    "Collection/Free APIs.md",
-    "Collection/Media.md",
-    "Collection/Snippets.md",
     "Untitled",
     "TIL",
     "CSS/Tailwind",

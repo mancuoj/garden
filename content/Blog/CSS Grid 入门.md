@@ -1,5 +1,4 @@
 ---
-title: Think in Grid
 date: 2023-12-11
 tags:
   - css
@@ -144,7 +143,7 @@ gap 属性同样适用于 grid，事实上它最开始就是为 grid 设置的�
 }
 ```
 
-就像 [[002#Alignment|Flexbox]] 一样，可以使用 `justify-content` 来控制 columns 的排列。
+就像 [[CSS Flexbox 入门#Alignment|Flexbox]] 一样，可以使用 `justify-content` 来控制 columns 的排列。
 
 使用 `justfiy-items` 来控制列中 item 的排列。
 
