@@ -4,7 +4,7 @@ tags:
   - ts
 ---
 
-Copy from my repo [front-loop/react-mini-tmpl](https://github.com/front-loop/react-mini-tmpl).
+Copied from my repo [front-loop/react-mini-tmpl](https://github.com/front-loop/react-mini-tmpl).
 
 ```json
 {
@@ -34,6 +34,8 @@ Copy from my repo [front-loop/react-mini-tmpl](https://github.com/front-loop/rea
 }
 ```
 
+
+Vite 默认将设置分为了三类，
 
 
 ## Thanks

@@ -71,7 +71,7 @@ clsx('text-base', props.active && 'text-primary', props.className);
 ```
 
 
-## Source Code
+## Rewrote with TS
 
 ```ts
 export type ClassValue = ClassArray | ClassDict | string | number | boolean | null | undefined
