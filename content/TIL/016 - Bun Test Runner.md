@@ -1,8 +1,9 @@
 ---
-title: Bun Test Runner in 5 Minutes
+title: Bun Test Runner
 date: 2024-01-16
 tags:
   - bun
+  - test
 ---
 
 ## Features

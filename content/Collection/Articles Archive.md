@@ -136,8 +136,8 @@ date: 2023-12-01
 | [Common React Hooks Mistakes You Should Avoid](https://blog.bitsrc.io/common-react-hooks-mistakes-every-developer-should-avoid-defd47d09d8c) | React 新文档里描述了一切坑 |
 | [Data binding in React: how to work with forms in React](https://www.joshwcomeau.com/react/data-binding/) | 基本是 value, onChange |
 | [kettanaito/naming-cheatsheet](https://github.com/kettanaito/naming-cheatsheet) | set, get, reset, add, remove, create, delete, compose, handle, is, has, should, min, max, prev, next |
-| [Using the Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch) | [[006]] |
-| [You may not need Axios](https://danlevy.net/you-may-not-need-axios/) | [[006]] |
+| [Using the Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch) | [[006 -  You Might Not Need Axios]] |
+| [You may not need Axios](https://danlevy.net/you-may-not-need-axios/) | [[006 -  You Might Not Need Axios]] |
 | [添加交互](https://zh-hans.react.dev/learn/adding-interactivity) | [[React 文档拾遗]] |
 | [状态管理](https://zh-hans.react.dev/learn/managing-state) | [[React 文档拾遗]] |
 | [TypeScript for React Developers](https://www.freecodecamp.org/news/typescript-for-react-developers/) | [[React + TypeScript 小抄]] |

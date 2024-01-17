@@ -1,5 +1,4 @@
 ---
-title: Oh Shit Git
 date: 2024-01-15
 tags:
   - git

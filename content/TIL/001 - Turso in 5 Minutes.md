@@ -1,5 +1,4 @@
 ---
-title: Turso in 5 Minutes
 date: 2024-01-01
 tags:
   - sql

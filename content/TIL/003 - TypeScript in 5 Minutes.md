@@ -1,5 +1,4 @@
 ---
-title: TypeScript in 5 Minutes
 date: 2024-01-03
 tags:
   - ts

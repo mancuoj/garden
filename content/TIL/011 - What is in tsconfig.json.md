@@ -1,5 +1,4 @@
 ---
-title: What is in tsconfig.json
 date: 2024-01-11
 tags:
   - ts

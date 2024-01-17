@@ -1,15 +1,13 @@
 ---
-title: CLSX in 5 Minutes
 date: 2024-01-12
 tags:
   - css
+  - tailwind
 ---
-
 
 A tiny (239B) utility for constructing `className` strings conditionally.
 
 ## Usage
-
 
 Conditionally joining classNames together:
 
@@ -56,7 +54,6 @@ clsx('hello', true && 'foo', false && 'bar')
 clsx({ foo: true })
 //=> ""
 ```
-
 
 
 ## Tailwind Support

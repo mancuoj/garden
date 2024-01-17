@@ -1,5 +1,4 @@
 ---
-title: What is Atomic CSS
 date: 2024-01-10
 tags:
   - css

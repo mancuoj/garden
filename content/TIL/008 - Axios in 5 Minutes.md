@@ -1,8 +1,7 @@
 ---
-title: Axios in 5 Minutes
 date: 2024-01-08
 tags:
-  - api
+  - http
 ---
 
 ```sh
@@ -80,4 +79,4 @@ const {data} = await axios.post('https://httpbin.org/post', {
 ## Thanks
 
 - [Axios Docs](https://axios-http.com/docs/intro)
-- [[006]]
+- [[006 -  You Might Not Need Axios]]

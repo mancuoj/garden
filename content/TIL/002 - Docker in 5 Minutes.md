@@ -1,5 +1,4 @@
 ---
-title: Docker in 5 Minutes
 date: 2024-01-02
 tags:
   - docker

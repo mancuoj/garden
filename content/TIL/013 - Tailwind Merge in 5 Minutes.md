@@ -1,13 +1,13 @@
 ---
-title: Tailwind Merge in 5 Minutes
 date: 2024-01-13
 tags:
   - css
+  - tailwind
 ---
 
-## Usage
-
 `twMerge` overrides conflicting classes and keeps everything else untouched. 
+
+## Usage
 
 ```tsx
 function MyGenericInput(props) {

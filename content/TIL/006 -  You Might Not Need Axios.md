@@ -1,8 +1,7 @@
 ---
-title: You Might Not Need Axios
 date: 2024-01-06
 tags:
-  - api
+  - http
 ---
 
 ## Get JSON
