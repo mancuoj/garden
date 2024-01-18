@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TIL/023.md",
+                "file": "TIL/014 - CVA in 5 Minutes ❌.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TIL/023.md",
+                "file": "TIL/014 - CVA in 5 Minutes ❌.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TIL/023.md",
+                "file": "TIL/014 - CVA in 5 Minutes ❌.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TIL/023.md"
+                "file": "TIL/014 - CVA in 5 Minutes ❌.md"
               }
             }
           }
@@ -171,6 +171,11 @@
   },
   "active": "5e991580ded99bcf",
   "lastOpenFiles": [
+    "TIL/012 - CLSX in 5 Minutes.md",
+    "TIL/010 - What is Atomic CSS ❌.md",
+    "TIL/009.md",
+    "TIL/022.md",
+    "TIL/021.md",
     "TIL/020.md",
     "TIL/023.md",
     "TIL/019.md",
@@ -181,8 +186,6 @@
     "TIL/014 - CVA in 5 Minutes ❌.md",
     "TIL/013 - Tailwind Merge in 5 Minutes.md",
     "TIL/011 - What is in tsconfig.json ❌.md",
-    "TIL/010 - What is Atomic CSS ❌.md",
-    "TIL/009.md",
     "TIL/008 - Axios in 5 Minutes.md",
     "TIL/007 - Fly.io in 5 Minutes.md",
     "TIL/006 -  You Might Not Need Axios.md",
@@ -194,9 +197,6 @@
     "Collection/Snippets.md",
     "Collection/Media.md",
     "Collection/Bloggers.md",
-    "TIL/012 - CLSX in 5 Minutes.md",
-    "Collection/Articles Archive.md",
-    "Blog/Tailwind 文档拾遗.md",
     "Untitled",
     "TIL",
     "CSS/Tailwind",
