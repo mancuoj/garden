@@ -35,8 +35,6 @@ Copied from my repo [front-loop/react-mini-tmpl](https://github.com/front-loop/r
 ```
 
 
-Vite 默认将设置分为了三类，
-
 
 ## Thanks
 
