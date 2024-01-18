@@ -1,5 +1,7 @@
 ---
 date: 2024-01-04
+tags:
+  - sql
 ---
 
 ## Table

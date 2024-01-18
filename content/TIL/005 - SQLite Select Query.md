@@ -1,5 +1,7 @@
 ---
 date: 2024-01-05
+tags:
+  - sql
 ---
 
 ```sqlite

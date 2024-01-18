@@ -1,8 +1,8 @@
 ---
-title: Use Function to Initalize State
 date: 2024-01-17
 tags:
   - react
+  - hook
 ---
 
 

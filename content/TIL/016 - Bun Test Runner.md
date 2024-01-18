@@ -1,5 +1,4 @@
 ---
-title: Bun Test Runner
 date: 2024-01-16
 tags:
   - bun
