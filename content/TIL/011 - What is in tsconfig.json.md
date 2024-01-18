@@ -41,4 +41,4 @@ Vite 默认将设置分为了三类，
 ## Thanks
 
 - [TypeScript for React Developers](https://www.freecodecamp.org/news/typescript-for-react-developers/)
-- [Ts config helper](https://tsconfiger.netlify.app/)
+- [TS Config Helper](https://tsconfiger.netlify.app/)
