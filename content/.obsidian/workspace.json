@@ -21,6 +21,32 @@
             }
           },
           {
+            "id": "fcea62adcc8b9fb2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Collection/Snippets.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "532edcf443599891",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TIL/018 - Bun + SQLite.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "bf0fb3c1491ebf6d",
             "type": "leaf",
             "state": {
@@ -65,7 +91,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TIL/018.md",
+                "file": "TIL/018 - Bun + SQLite.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -85,7 +111,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -137,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TIL/010 - What is Atomic CSS.md",
+                "file": "TIL/018 - Bun + SQLite.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TIL/010 - What is Atomic CSS.md",
+                "file": "TIL/018 - Bun + SQLite.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +209,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TIL/010 - What is Atomic CSS.md"
+                "file": "TIL/018 - Bun + SQLite.md"
               }
             }
           }
@@ -207,16 +234,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c9a039222767517c",
+  "active": "532edcf443599891",
   "lastOpenFiles": [
+    "TIL/017 - Use Function to Initalize React State.md",
+    "Collection/Media.md",
+    "Collection/Snippets.md",
+    "TIL/010 - What is Atomic CSS.md",
     "TIL/011 - What is in tsconfig.json.md",
     "Collection/Bloggers.md",
     "TIL/012 - CLSX in 5 Minutes.md",
-    "TIL/018.md",
-    "TIL/017 - Use Function to Initalize React State.md",
+    "TIL/018 - Bun + SQLite.md",
     "TIL/016 - Bun Test Runner.md",
     "TIL/015 - Oh Shit Git.md",
-    "TIL/010 - What is Atomic CSS.md",
     "TIL/013 - Tailwind Merge in 5 Minutes.md",
     "TIL/014 - CVA in 5 Minutes.md",
     "TIL/009.md",
@@ -233,7 +262,6 @@
     "Blog/React + TypeScript 小抄.md",
     "notes.md",
     "Blog/CSS Flexbox 入门.md",
-    "Blog/CSS Grid 入门.md",
     "Untitled",
     "TIL",
     "CSS/Tailwind",
