@@ -11,6 +11,23 @@ tags:
 3. Open a WSL distribution and display the version by entering `docker --version`
 4. Running a simple Docker image using `docker run hello-world`
 
+## What
+
+
+## Why
+
+
+## Image
+
+
+
+## Container
+
+
+
+## Repository
+
+
 
 
 
