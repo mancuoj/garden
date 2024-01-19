@@ -18,11 +18,16 @@ date: 2023-12-01
 - [React with TypeScript Cheatsheet](https://blog.bitsrc.io/react-with-typescript-cheatsheet-9dd891dc5bfe)
 - [10 Must-Know Patterns for Writing Clean Code with React and TypeScript](https://dev.to/alexomeyer/10-must-know-patterns-for-writing-clean-code-with-react-and-typescript-1m0g)
 - [React component as prop: the right way](https://www.developerway.com/posts/react-component-as-prop-the-right-way)
-- [Simplifying React state management](https://causal.app/blog/re-re-reselect)
 - [React Design Patterns](https://dev.to/refine/react-design-patterns-230o)
 - 
 - [Building a Two-Way Data Binding Hook for Form Inputs in React](https://macarthur.me/posts/binding-input-state-in-react)
 ## To Read
+
+
+- [State Management in React with Jōtai](https://blog.openreplay.com/state-management-in-react-with-jotai/)
+- [Simplifying React state management](https://causal.app/blog/re-re-reselect)
+
+
 
 - [04-003 Creating a Table](https://www.bilibili.com/video/BV1cC4y1g7ng?p=30&vd_source=4da426ef9b0e129787ecf66363321458)
 - [Let’s learn how modern JavaScript frameworks work by building one](https://nolanlawson.com/2023/12/02/lets-learn-how-modern-javascript-frameworks-work-by-building-one/)
@@ -30,7 +35,7 @@ date: 2023-12-01
 - [Retry, Timeout and Cancel with fetch()](https://www.chrisarmstrong.dev/posts/retry-timeout-and-cancel-with-fetch)
 - [How to Create and Publish a React Component Library](https://dev.to/alexeagleson/how-to-create-and-publish-a-react-component-library-2oe)
 - 
-- [State Management in React with Jōtai](https://blog.openreplay.com/state-management-in-react-with-jotai/)
+
 - [Avoid These Common Pitfalls Of React useState](https://profy.dev/article/react-usestate-pitfalls)
 - [Extract parameter types from string literal types with TypeScript](https://lihautan.com/extract-parameters-type-from-string-literal-types-with-typescript/)
 - [How to Use Two GitHub Accounts on a Macbook the Right Way](https://fayazahmed.com/articles/how-to-use-two-github-accounts-on-a-macbook-the-right-way)
