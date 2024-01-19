@@ -65,7 +65,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TIL/020 - React useGlobalState ❌.md",
+                "file": "TIL/022 - React useAtom ❌.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TIL/020 - React useGlobalState ❌.md",
+                "file": "TIL/022 - React useAtom ❌.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TIL/020 - React useGlobalState ❌.md",
+                "file": "TIL/022 - React useAtom ❌.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TIL/020 - React useGlobalState ❌.md"
+                "file": "TIL/022 - React useAtom ❌.md"
               }
             }
           }
@@ -210,9 +210,9 @@
   },
   "active": "5e991580ded99bcf",
   "lastOpenFiles": [
+    "TIL/020 - React useGlobalState ❌.md",
     "TIL/022 - React useAtom ❌.md",
     "TIL/021 - React 7GUIs ❌.md",
-    "TIL/020 - React useGlobalState ❌.md",
     "TIL/019 - React useFetch ❌.md",
     "TIL/017 - React useState(func()).md",
     "TIL/018 - Bun SQLite Driver.md",
