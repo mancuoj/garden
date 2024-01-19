@@ -5,6 +5,17 @@ tags:
   - ts
 ---
 
+## Interface vs Type
+
+When you're not sure which one to use, always go with `interface` until you have a reason to use `type`.
+
+```ts
+type isLoading = boolean
+type Theme = "dark" | "light"
+type Lang = "en" | "fr"
+```
+
+
 ## Function Components
 
 ```tsx
@@ -134,3 +145,4 @@ export function TaskProvider({ children }: { children: ReactNode }) {
 - [React TypeScript Cheatsheets](https://react-typescript-cheatsheet.netlify.app/)
 - [使用 TypeScript – React 中文文档](https://zh-hans.react.dev/learn/typescript)
 - [TypeScript for React Developers](https://www.freecodecamp.org/news/typescript-for-react-developers/)
+- [React with TypeScript Cheatsheet](https://blog.bitsrc.io/react-with-typescript-cheatsheet-9dd891dc5bfe)

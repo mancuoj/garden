@@ -9,14 +9,10 @@ date: 2023-12-01
 
 ## Current
 
-- [React I Love You, But You're Bringing Me Down](https://marmelab.com/blog/2022/09/20/react-i-love-you.html)
-
 - [Scroll-driven Animations](https://scroll-driven-animations.style/)
 - [Designing better target sizes](https://ishadeed.com/article/target-size#safe-triangle-target-areas)
 - [A new kind of color picker](https://polar.sh/emilwidlund/posts/a-new-kind-of-color-picker-with-react-typescript)
 
-- [React with TypeScript Cheatsheet](https://blog.bitsrc.io/react-with-typescript-cheatsheet-9dd891dc5bfe)
-- [10 Must-Know Patterns for Writing Clean Code with React and TypeScript](https://dev.to/alexomeyer/10-must-know-patterns-for-writing-clean-code-with-react-and-typescript-1m0g)
 - [React component as prop: the right way](https://www.developerway.com/posts/react-component-as-prop-the-right-way)
 - [React Design Patterns](https://dev.to/refine/react-design-patterns-230o)
 - 

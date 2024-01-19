@@ -21,6 +21,19 @@
             }
           },
           {
+            "id": "e0f16baf3ec31185",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Collection/Articles Archive.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "72a472d3949d0f1c",
             "type": "leaf",
             "state": {
@@ -60,7 +73,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -112,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Blog/React + TypeScript 小抄.md",
+                "file": "Collection/Articles Archive.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Blog/React + TypeScript 小抄.md",
+                "file": "Collection/Articles Archive.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Blog/React + TypeScript 小抄.md"
+                "file": "Collection/Articles Archive.md"
               }
             }
           }
@@ -182,10 +195,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c9f35f94a106b276",
+  "active": "e0f16baf3ec31185",
   "lastOpenFiles": [
-    "Collection/Articles Archive.md",
+    "TIL/018 - Bun SQLite Driver.md",
     "TIL/019 - Jotai.md",
+    "Blog/React + TypeScript 小抄.md",
+    "Collection/Articles Archive.md",
     "TIL/009 - SQLite + Drizzle ORM in 5 Minutes ❌.md",
     "TIL/005 - SQLite Select Query ❌.md",
     "TIL/004 - SQLite Cheat Sheet.md",
@@ -194,7 +209,6 @@
     "TIL/020.md",
     "TIL/016 - Bun Test Runner.md",
     "TIL/017 - Use Function to Initalize React State.md",
-    "TIL/018 - Bun SQLite Driver.md",
     "TIL/001 - Turso in 5 Minutes.md",
     "TIL/003 - TypeScript in 5 Minutes.md",
     "TIL/002 - Docker in 5 Minutes ❌.md",
@@ -209,7 +223,6 @@
     "TIL/008 - Axios in 5 Minutes.md",
     "TIL/007 - Fly.io in 5 Minutes.md",
     "Collection/Snippets.md",
-    "Collection/Media.md",
     "Untitled",
     "TIL",
     "CSS/Tailwind",
