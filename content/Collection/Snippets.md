@@ -92,4 +92,9 @@ export type PositionValues = Exclude<`${VPosition}-${HPosition}`, 'middle-center
 
 
 
+## React Force Update
+
+```ts
+const useForceUpdate = () => useReducer(state => !state, false)[1]
+```
 

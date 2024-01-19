@@ -34,6 +34,19 @@
             }
           },
           {
+            "id": "23ef97e44f4d4694",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TIL/020 - React useGlobalState.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "72a472d3949d0f1c",
             "type": "leaf",
             "state": {
@@ -52,7 +65,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TIL/019 - Jotai.md",
+                "file": "TIL/020 - React useGlobalState.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -73,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -125,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Collection/Articles Archive.md",
+                "file": "TIL/020 - React useGlobalState.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Collection/Articles Archive.md",
+                "file": "TIL/020 - React useGlobalState.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Collection/Articles Archive.md"
+                "file": "TIL/020 - React useGlobalState.md"
               }
             }
           }
@@ -195,20 +208,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e0f16baf3ec31185",
+  "active": "5e991580ded99bcf",
   "lastOpenFiles": [
+    "TIL/019 - React useFetch ❌.md",
+    "TIL/020 - React useGlobalState.md",
+    "TIL/017 - React useState(func()).md",
     "TIL/018 - Bun SQLite Driver.md",
-    "TIL/019 - Jotai.md",
-    "Blog/React + TypeScript 小抄.md",
+    "TIL/015 - Oh Shit Git ❌.md",
+    "Collection/Snippets.md",
     "Collection/Articles Archive.md",
+    "Blog/React + TypeScript 小抄.md",
     "TIL/009 - SQLite + Drizzle ORM in 5 Minutes ❌.md",
     "TIL/005 - SQLite Select Query ❌.md",
     "TIL/004 - SQLite Cheat Sheet.md",
     "TIL/006 -  You Might Not Need Axios.md",
     "TIL/010 - What is Atomic CSS ❌.md",
-    "TIL/020.md",
     "TIL/016 - Bun Test Runner.md",
-    "TIL/017 - Use Function to Initalize React State.md",
     "TIL/001 - Turso in 5 Minutes.md",
     "TIL/003 - TypeScript in 5 Minutes.md",
     "TIL/002 - Docker in 5 Minutes ❌.md",
@@ -217,12 +232,10 @@
     "TIL/022.md",
     "TIL/021.md",
     "TIL/023.md",
-    "TIL/015 - Oh Shit Git ❌.md",
     "TIL/013 - Tailwind Merge in 5 Minutes.md",
     "TIL/011 - What is in tsconfig.json ❌.md",
     "TIL/008 - Axios in 5 Minutes.md",
     "TIL/007 - Fly.io in 5 Minutes.md",
-    "Collection/Snippets.md",
     "Untitled",
     "TIL",
     "CSS/Tailwind",
