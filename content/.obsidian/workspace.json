@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TIL/020 - React useGlobalState.md",
+                "file": "TIL/020 - React useGlobalState ❌.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -65,7 +65,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TIL/021 - React 7GUIs.md",
+                "file": "TIL/020 - React useGlobalState ❌.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TIL/021 - React 7GUIs.md",
+                "file": "TIL/020 - React useGlobalState ❌.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TIL/021 - React 7GUIs.md",
+                "file": "TIL/020 - React useGlobalState ❌.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TIL/021 - React 7GUIs.md"
+                "file": "TIL/020 - React useGlobalState ❌.md"
               }
             }
           }
@@ -210,7 +210,9 @@
   },
   "active": "5e991580ded99bcf",
   "lastOpenFiles": [
-    "TIL/020 - React useGlobalState.md",
+    "TIL/022 - React useAtom ❌.md",
+    "TIL/021 - React 7GUIs ❌.md",
+    "TIL/020 - React useGlobalState ❌.md",
     "TIL/019 - React useFetch ❌.md",
     "TIL/017 - React useState(func()).md",
     "TIL/018 - Bun SQLite Driver.md",
@@ -229,8 +231,6 @@
     "TIL/002 - Docker in 5 Minutes ❌.md",
     "TIL/014 - CVA in 5 Minutes ❌.md",
     "TIL/012 - CLSX in 5 Minutes.md",
-    "TIL/022.md",
-    "TIL/021 - React 7GUIs.md",
     "TIL/023.md",
     "TIL/013 - Tailwind Merge in 5 Minutes.md",
     "TIL/011 - What is in tsconfig.json ❌.md",
