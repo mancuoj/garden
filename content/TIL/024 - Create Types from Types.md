@@ -39,10 +39,31 @@ function identity<Type>(arg: Type): Type {
 let myIdentity: GenericIdentityFn<number> = identity;
 ```
 
+## Operator `in`
+
+A way to narrow down potential types.
+
+```ts
+type Fish = { swim: () => void };
+type Bird = { fly: () => void };
+type Human = { swim?: () => void; fly?: () => void };
+ 
+function move(animal: Fish | Bird | Human) {
+  if ("swim" in animal) {
+    animal;
+    // animal: Fish | Human
+  } else {
+    animal;
+    // animal: Bird | Human
+  }
+}
+```
+
+True branch have either an optional or required property, and the false branch have an optional or missing property.
 
 ## Operator `keyof`
 
-Take an object type and produce a string of numeric literal union of its keys.
+Take an object type and produce a string of numeric literal _union_ of its keys.
 
 ```ts
 type Point = { x: number; y: number };
@@ -148,6 +169,137 @@ type Example2 = RegExp extends Animal ? number : string;
 // type Example2 = string
 ```
 
+Use `infer` keyword to extract out types.
+
+```ts
+type Flatten<Type> = Type extends Array<infer Item> ? Item : Type;
+
+type GetReturnType<Type> = Type extends (...args: never[]) => infer Return
+  ? Return
+  : never;
+```
+
+Avoid distributivity behavior.
+
+```ts
+type ToArray<Type> = Type extends any ? Type[] : never;
+type StrArrOrNumArr = ToArray<string | number>;
+// type StrArrOrNumArr = string[] | number[]
+
+type ToArrayNonDist<Type> = [Type] extends [any] ? Type[] : never;
+type ArrOfStrOrNum = ToArrayNonDist<string | number>;
+// type ArrOfStrOrNum = (string | number)[]
+```
+
+## Mapped Types
+
+Don't repeat yourself.
+
+```ts
+type OnlyBoolsAndHorses = {
+  [key: string]: boolean | Horse;
+};
+ 
+const conforms: OnlyBoolsAndHorses = {
+  del: true,
+  rodney: false,
+};
+```
+
+Use a union to iterate through keys to create a type.
+
+```ts
+type OptionsFlags<Type> = {
+  [Property in keyof Type]: boolean;
+};
+
+type Features = {
+  darkMode: () => void;
+  newUserProfile: () => void;
+};
+ 
+type FeatureOptions = OptionsFlags<Features>;
+// type FeatureOptions = { darkMode: boolean; newUserProfile: boolean; }
+```
+
+We can use `readonly` and `?` to affect types during mapping, and `+` or `-` prefix to add or remove the modifiers (`+` is the default value).
+
+```ts
+// Removes 'readonly' attributes from a type's properties
+type CreateMutable<Type> = {
+  -readonly [Property in keyof Type]: Type[Property];
+};
+ 
+type LockedAccount = {
+  readonly id: string;
+  readonly name: string;
+};
+ 
+type UnlockedAccount = CreateMutable<LockedAccount>;
+// type UnlockedAccount = { id: string; name: string; }
+```
+
+```ts
+// Removes 'optional' attributes from a type's properties
+type Concrete<Type> = {
+  [Property in keyof Type]-?: Type[Property];
+};
+ 
+type MaybeUser = {
+  id: string;
+  name?: string;
+  age?: number;
+};
+ 
+type User = Concrete<MaybeUser>;
+// type User = { id: string; name: string; age: number; }
+```
+
+Use `as` clause to rename properties.
+
+```ts
+type Getters<Type> = {
+  [Property in keyof Type as `get${Capitalize<string & Property>}`]: () => Type[Property]
+};
+
+interface Person {
+  name: string;
+  age: number;
+  location: string;
+}
+ 
+type LazyPerson = Getters<Person>;
+// type LazyPerson = { getName: () => string; getAge: () => number; getLocation: () => string; }
+```
+
+Filter out keys by producing `never`.
+
+```ts
+// Remove the 'kind' property
+type RemoveKindField<Type> = {
+    [Property in keyof Type as Exclude<Property, "kind">]: Type[Property]
+};
+ 
+interface Circle {
+    kind: "circle";
+    radius: number;
+}
+ 
+type KindlessCircle = RemoveKindField<Circle>;
+// type KindlessCircle = { radius: number; }
+```
+
+```ts
+type EventConfig<Events extends { kind: string }> = {
+    [E in Events as E["kind"]]: (event: E) => void;
+}
+ 
+type SquareEvent = { kind: "square", x: number, y: number };
+type CircleEvent = { kind: "circle", radius: number };
+ 
+type Config = EventConfig<SquareEvent | CircleEvent>
+// 
+```
 
 
 ## Thanks
