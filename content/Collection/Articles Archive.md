@@ -21,6 +21,7 @@ date: 2023-12-01
 
 
 - [State Management in React with Jōtai](https://blog.openreplay.com/state-management-in-react-with-jotai/)
+- [#07: Current state of state management)](https://newsletter.bytebullet.dev/p/07-current-state-of-state-management)
 - [Simplifying React state management](https://causal.app/blog/re-re-reselect)
 
 
@@ -47,17 +48,17 @@ date: 2023-12-01
 
 
 - [What is in that .git directory?](https://blog.meain.io/2023/what-is-in-dot-git/)
+
 - [How I Deployed my Website as a Docker Container](https://dev.to/paschalogu/how-i-deployed-my-website-as-a-container-3fje)
 - [Draggable objects](https://www.redblobgames.com/making-of/draggable/)
 - [Creating a text typing effect with React](https://www.julienthibeaut.xyz/blog/create-text-typing-effect-with-react)
 - [View Transitions API & meta frameworks: a practical guide](https://bejamas.io/blog/what-is-view-transitions-api/)
 - [Building a toast component](https://emilkowal.ski/ui/building-a-toast-component)
 - [Case Study: Rebuilding TechCrunch layout with modern CSS](https://ishadeed.com/article/rebuilding-techcrunch-modern-css)
-- [#07: Current state of state management)](https://newsletter.bytebullet.dev/p/07-current-state-of-state-management)
+
 - [Array Types in TypeScript](https://tkdodo.eu/blog/array-types-in-type-script)
 
 - [Sending UI over APIs](https://www.builder.io/blog/ui-over-apis)
-- [React Global State as Local State](https://webup.org/blog/react-global-state-as-local-state/)
 - [Mastering infer in TypeScript](https://javascript.plainenglish.io/mastering-infer-in-typescript-6cf3f93cca86)
 
 - [Understanding useRef and useState for Tracking Component Render Count in React](https://peterkellner.net//2023/05/05/Understanding-useRef-and-useState-for-Tracking-Component-Render-Count-in-React/)
@@ -108,11 +109,8 @@ date: 2023-12-01
 - [How To Develop A Text Editor For The Web](https://www.smashingmagazine.com/2022/02/develop-text-editor-web/)
 
 - [Creating a Schema-Based Form System](https://www.taniarascia.com/schema-based-form-system/)
-
 - [Patterns.dev](https://www.patterns.dev/)
-
 - [Rethink Modals Management in React](https://medium.com/ebaytech/rethink-modals-management-in-react-cf3b6804223d)
-
 - [sorrycc/toy-vite](https://github.com/sorrycc/toy-vite)
 - [haixiangyan/make-wheels 一天学习一个 npm 轮子，十天后变成轮子哥](https://github.com/haixiangyan/make-wheels)
 - [Dependency Managers Don’t Manage Your Dependencies 系列四篇](https://cpojer.net/posts/dependency-managers-dont-manage-your-dependencies)

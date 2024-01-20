@@ -4,7 +4,6 @@ tags:
   - react
   - hook
   - http
-  - promise
 ---
 
 

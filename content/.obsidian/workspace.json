@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "99346b3453a00be6",
+        "id": "2448f27dc83af4ff",
         "type": "tabs",
         "children": [
           {
-            "id": "c9a039222767517c",
+            "id": "7ca46485bceb0990",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TIL/010 - What is Atomic CSS.md",
+                "file": "index.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -21,7 +21,7 @@
             }
           },
           {
-            "id": "e0f16baf3ec31185",
+            "id": "afdde1b81662e07f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,48 +32,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "23ef97e44f4d4694",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TIL/020 - React useGlobalState ❌.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "72a472d3949d0f1c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TIL/018 - Bun SQLite Driver.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5e991580ded99bcf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TIL/026 - TypeScript Template Literal Types ❌.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -125,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TIL/026 - TypeScript Template Literal Types ❌.md",
+                "file": "Collection/Articles Archive.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TIL/026 - TypeScript Template Literal Types ❌.md",
+                "file": "Collection/Articles Archive.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TIL/026 - TypeScript Template Literal Types ❌.md"
+                "file": "Collection/Articles Archive.md"
               }
             }
           }
@@ -195,21 +156,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5e991580ded99bcf",
+  "active": "afdde1b81662e07f",
   "lastOpenFiles": [
-    "TIL/025 - Test React Hooks with Vitest ❌.md",
-    "TIL/021 - React 7GUIs ❌.md",
+    "index.md",
+    "Blog/2024 Flags.md",
+    "TIL/020 - React useGlobalState ❌.md",
     "TIL/018 - Bun SQLite Driver.md",
+    "notes.md",
+    "TIL/025 - Test React Hooks with Vitest ❌.md",
+    "TIL/026 - TypeScript Template Literal Types ❌.md",
+    "TIL/019 - React useFetch ❌.md",
+    "TIL/022 - React useAtom ❌.md",
+    "TIL/023 - TypeScript Utility Types ❌.md",
+    "TIL/021 - React 7GUIs ❌.md",
     "TIL/011 - What is in tsconfig.json.md",
     "TIL/009 - SQLite + Drizzle ORM in 5 Minutes ❌.md",
     "TIL/013 - Tailwind Merge in 5 Minutes.md",
     "TIL/016 - Bun Test Runner.md",
-    "TIL/026 - TypeScript Template Literal Types ❌.md",
     "TIL/024 - Create Types from Types.md",
-    "TIL/023 - TypeScript Utility Types ❌.md",
-    "TIL/022 - React useAtom ❌.md",
-    "TIL/020 - React useGlobalState ❌.md",
-    "TIL/019 - React useFetch ❌.md",
     "TIL/017 - React useState(func()).md",
     "TIL/015 - Oh Shit Git ❌.md",
     "TIL/014 - CVA in 5 Minutes ❌.md",
@@ -220,9 +184,6 @@
     "TIL/008 - Axios in 5 Minutes.md",
     "TIL/007 - Fly.io in 5 Minutes.md",
     "TIL/006 -  You Might Not Need Axios.md",
-    "TIL/003 - TypeScript in 5 Minutes.md",
-    "TIL/002 - Docker in 5 Minutes ❌.md",
-    "TIL/001 - Turso in 5 Minutes.md",
     "Untitled",
     "TIL",
     "CSS/Tailwind",
