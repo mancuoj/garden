@@ -43,5 +43,5 @@ Constructs a type by picking the set of properties `K` from `T`.
 ## Thanks
 
 - [TypeScript: Documentation](https://www.typescriptlang.org/docs/handbook/utility-types.html)
-- [[024 - TypeScript Type Manipulation ❌]]
+- [[024 - Create Types from Types]]
 - [type-challenges](https://github.com/type-challenges/type-challenges)
