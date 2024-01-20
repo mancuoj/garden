@@ -1,5 +1,7 @@
 ---
 date: 2024-01-24
+tags:
+  - ts
 ---
 
 TypeScript's type system is very powerful because it allows expressing types in terms of other types.
@@ -298,9 +300,22 @@ type SquareEvent = { kind: "square", x: number, y: number };
 type CircleEvent = { kind: "circle", radius: number };
  
 type Config = EventConfig<SquareEvent | CircleEvent>
-// 
+// type Config = { square: (event: SquareEvent) => void; circle: (event: CircleEvent) => void; }
 ```
 
+```ts
+type ExtractPII<Type> = {
+  [Property in keyof Type]: Type[Property] extends { pii: true } ? true : false;
+};
+ 
+type DBFields = {
+  id: { format: "incrementing" };
+  name: { type: string; pii: true };
+};
+ 
+type ObjectsNeedingGDPRDeletion = ExtractPII<DBFields>;
+// type ObjectsNeedingGDPRDeletion = { id: false; name: true; }
+```
 
 ## Thanks
 

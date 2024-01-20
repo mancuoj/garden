@@ -3,6 +3,7 @@ date: 2024-01-18
 tags:
   - sql
   - bun
+  - db
 ---
 
 Bun natively implements a high-performance SQLite3 driver.

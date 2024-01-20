@@ -1,5 +1,8 @@
 ---
 date: 2024-01-22
+tags:
+  - react 
+  - hook
 ---
 
 
@@ -8,4 +11,3 @@ date: 2024-01-22
 
 - [use-atom/src/Provider.tsx](https://github.com/dai-shi/use-atom/blob/5489a5c2e11261a4cc47d6148fbfee7827002bf7/src/Provider.tsx)
 - [dai-shi/use-context-selector](https://github.com/dai-shi/use-context-selector)
-- 
