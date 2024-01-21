@@ -4,50 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "2448f27dc83af4ff",
+        "id": "f3de3acc2aabe900",
         "type": "tabs",
         "children": [
           {
-            "id": "7ca46485bceb0990",
+            "id": "8c30c46caf2a6bff",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "afdde1b81662e07f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Collection/Articles Archive.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3eacae4bdafd9ceb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TIL/025 - Test React Hooks with Vitest ❌.md",
+                "file": "TIL/020 - React useGlobalState ❌.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +72,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TIL/025 - Test React Hooks with Vitest ❌.md",
+                "file": "TIL/020 - React useGlobalState ❌.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +89,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TIL/025 - Test React Hooks with Vitest ❌.md",
+                "file": "TIL/020 - React useGlobalState ❌.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TIL/025 - Test React Hooks with Vitest ❌.md"
+                "file": "TIL/020 - React useGlobalState ❌.md"
               }
             }
           }
@@ -169,34 +142,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3eacae4bdafd9ceb",
+  "active": "8c30c46caf2a6bff",
   "lastOpenFiles": [
-    "TIL/026 - TypeScript Template Literal Types.md",
-    "TIL/024 - Create Types from Types.md",
-    "TIL/023 - TypeScript Utility Types.md",
-    "TIL/027 - TypeScript extends keyof and in keyof.md",
-    "TIL/025 - Test React Hooks with Vitest ❌.md",
-    "notes.md",
-    "Collection/Books.md",
-    "Collection/Articles Archive.md",
-    "index.md",
-    "Blog/2024 Flags.md",
-    "TIL/020 - React useGlobalState ❌.md",
-    "TIL/018 - Bun SQLite Driver.md",
-    "TIL/019 - React useFetch ❌.md",
-    "TIL/022 - React useAtom ❌.md",
     "TIL/021 - React 7GUIs ❌.md",
-    "TIL/011 - What is in tsconfig.json.md",
-    "TIL/009 - SQLite + Drizzle ORM in 5 Minutes ❌.md",
-    "TIL/013 - Tailwind Merge in 5 Minutes.md",
-    "TIL/016 - Bun Test Runner.md",
-    "TIL/017 - React useState(func()).md",
+    "TIL/023 - TypeScript Utility Types.md",
+    "TIL/024 - Create Types from Types.md",
+    "TIL/025 - Test React Hooks with Vitest.md",
+    "TIL/026 - TypeScript Template Literal Types.md",
+    "TIL/027 - TypeScript extends keyof and in keyof.md",
+    "index.md",
     "TIL/015 - Oh Shit Git ❌.md",
     "TIL/014 - CVA in 5 Minutes ❌.md",
+    "TIL/016 - Bun Test Runner.md",
+    "TIL/002 - Docker in 5 Minutes ❌.md",
+    "TIL/005 - SQLite Select Query ❌.md",
+    "TIL/009 - Conventional Commits in 5 Minutes.md",
+    "notes.md",
+    "Collection/Articles Archive.md",
+    "TIL/019 - React useFetch ❌.md",
+    "TIL/020 - React useGlobalState ❌.md",
+    "TIL/022 - React useAtom ❌.md",
+    "Collection/Books.md",
+    "Blog/2024 Flags.md",
+    "TIL/018 - Bun SQLite Driver.md",
+    "TIL/011 - What is in tsconfig.json.md",
+    "TIL/013 - Tailwind Merge in 5 Minutes.md",
+    "TIL/017 - React useState(func()).md",
     "TIL/012 - CLSX in 5 Minutes.md",
     "TIL/010 - What is Atomic CSS.md",
-    "TIL/004 - SQLite Cheat Sheet.md",
-    "TIL/005 - SQLite Select Query ❌.md",
     "Untitled",
     "TIL",
     "CSS/Tailwind",
