@@ -66,9 +66,18 @@ type MyOmit<T, K extends keyof T> = {
 }
 ```
 
+## NonNullable
+
+```ts
+type MyNonNullable<T> = T & {}
+```
 
 
+## Exclude
 
+```ts
+
+```
 
 ## Thanks
 
