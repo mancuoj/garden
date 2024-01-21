@@ -44,6 +44,15 @@ type MyReadonly<T> = {
 }
 ```
 
+## Record
+
+```ts
+type MyPropertyKey = string | number | symbol
+
+type MyRecord<K extends PropertyKey, T> = {
+  [Key in K]: T
+}
+```
 
 ## Pick Omit
 
