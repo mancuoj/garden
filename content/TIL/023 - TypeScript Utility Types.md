@@ -31,6 +31,14 @@ tags:
 ## Partial Required Readonly
 
 ```ts
+type MyPartial<T> = {
+  [Key in keyof T]?: T[Key] | undefined
+}
+
+type MyRequired<T> = {
+  [Key in keyof T]-?: T[Key]
+} 
+
 type MyReadonly<T> = {
   readonly [Key in keyof T]: T[Key]
 }
@@ -55,6 +63,6 @@ type MyOmit<T, K extends keyof T> = {
 
 ## Thanks
 
-- [TypeScript: Documentation](https://www.typescriptlang.org/docs/handbook/utility-types.html)
 - [[024 - Create Types from Types]]
+- [TypeScript: Documentation](https://www.typescriptlang.org/docs/handbook/utility-types.html)
 - [type-challenges](https://github.com/type-challenges/type-challenges)
