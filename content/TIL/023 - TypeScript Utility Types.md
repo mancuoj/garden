@@ -73,11 +73,23 @@ type MyNonNullable<T> = T & {}
 ```
 
 
-## Exclude
+## Exclude Extract
 
 ```ts
+type MyExclude<T, U> = T extends U ? never : T
 
+type MyExtract<T, U> = T extends U ? T : never
 ```
+
+
+## Parameters ReturnType
+
+```ts
+type MyParameters<T extends (...args: any[]) => any> = T extends (...args: infer P) => any ? P : never
+
+type MyReturnType<T extends (...args: any) => any> = T extends (...args: any) => infer R ? R : never 
+```
+
 
 ## Thanks
 
