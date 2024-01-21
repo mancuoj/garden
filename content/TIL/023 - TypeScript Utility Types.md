@@ -28,12 +28,25 @@ tags:
 - `Capitalize<StringType>`
 - `Uncapitalize<StringType>`
 
+## Partial Required Readonly
+
+```ts
+
+```
+
+
 ## Pick
 
 Implement the built-in `Pick<T, K>` generic without using it.
 
 Constructs a type by picking the set of properties `K` from `T`.
 
+
+```ts
+type MyPick<T, K extends keyof T> = {
+  [Key in K]: T[Key]
+}
+```
 
 
 ## Omit
