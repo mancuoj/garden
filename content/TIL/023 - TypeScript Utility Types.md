@@ -13,7 +13,7 @@ tags:
 - `Record<Keys, Type>` a map type
 - `Pick<Type, Keys>` pick keys to construct a type
 - `Omit<Type, Keys>` pick all to remove keys to construct a type
-- `NotNullable<Type>` exclude `null` and `undefined`
+- `NonNullable<Type>` exclude `null` and `undefined`
 - `Extract<Type, Union>` extract all union members that are assignable to `Union` to construct a type
 - `Exclude<UnionType, ExcludedMembers>` remove excluded members
 - `Parameters<Type>` construct a _tuple_ type from function parameters
