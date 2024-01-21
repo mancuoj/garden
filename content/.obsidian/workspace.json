@@ -32,9 +32,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f7641754ed4ae442",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Collection/Books.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Collection/Articles Archive.md",
+                "file": "Collection/Books.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Collection/Articles Archive.md",
+                "file": "Collection/Books.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Collection/Articles Archive.md"
+                "file": "Collection/Books.md"
               }
             }
           }
@@ -156,11 +169,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "afdde1b81662e07f",
+  "active": "f7641754ed4ae442",
   "lastOpenFiles": [
+    "Collection/Articles Archive.md",
     "notes.md",
     "index.md",
-    "Collection/Articles Archive.md",
     "Blog/2024 Flags.md",
     "TIL/020 - React useGlobalState ❌.md",
     "TIL/018 - Bun SQLite Driver.md",

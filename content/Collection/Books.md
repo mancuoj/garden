@@ -6,7 +6,8 @@ date: 2024-01-01
 
 ## Current
 
-- 死在火星上 by 天瑞说符
+- 鬼吹灯 by 天下霸唱
+- 盗墓笔记 by 南派三叔
 - Refactoring UI by Adam Wathan & Steve Schoger
 
 ## To Read
@@ -27,6 +28,9 @@ date: 2024-01-01
 
 - 玩家凶猛 by 黑灯夏火
 - 我们生活在南京 by 天瑞说符
+- 死在火星上 by 天瑞说符
+- ❌ 我在诸天轮回封神 by 封七月
+- 
 
 ### Dec 2023
 
