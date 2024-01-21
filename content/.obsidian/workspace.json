@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "notes.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -158,11 +158,12 @@
   },
   "active": "afdde1b81662e07f",
   "lastOpenFiles": [
+    "notes.md",
     "index.md",
+    "Collection/Articles Archive.md",
     "Blog/2024 Flags.md",
     "TIL/020 - React useGlobalState ❌.md",
     "TIL/018 - Bun SQLite Driver.md",
-    "notes.md",
     "TIL/025 - Test React Hooks with Vitest ❌.md",
     "TIL/026 - TypeScript Template Literal Types ❌.md",
     "TIL/019 - React useFetch ❌.md",
@@ -183,7 +184,6 @@
     "TIL/005 - SQLite Select Query ❌.md",
     "TIL/008 - Axios in 5 Minutes.md",
     "TIL/007 - Fly.io in 5 Minutes.md",
-    "TIL/006 -  You Might Not Need Axios.md",
     "Untitled",
     "TIL",
     "CSS/Tailwind",
