@@ -31,25 +31,23 @@ tags:
 ## Partial Required Readonly
 
 ```ts
-
+type MyReadonly<T> = {
+  readonly [Key in keyof T]: T[Key]
+}
 ```
 
 
-## Pick
-
-Implement the built-in `Pick<T, K>` generic without using it.
-
-Constructs a type by picking the set of properties `K` from `T`.
-
+## Pick Omit
 
 ```ts
 type MyPick<T, K extends keyof T> = {
   [Key in K]: T[Key]
 }
+
+type MyOmit<T, K extends keyof T> = {
+  [Key in Exclude<keyof T, K>]: T[Key]
+}
 ```
-
-
-## Omit
 
 
 
