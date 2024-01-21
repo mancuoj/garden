@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Collection/Books.md",
+                "file": "TIL/024 - Create Types from Types.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Collection/Books.md",
+                "file": "TIL/024 - Create Types from Types.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Collection/Books.md",
+                "file": "TIL/024 - Create Types from Types.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Collection/Books.md"
+                "file": "TIL/024 - Create Types from Types.md"
               }
             }
           }
@@ -171,14 +171,15 @@
   },
   "active": "f7641754ed4ae442",
   "lastOpenFiles": [
-    "Collection/Articles Archive.md",
+    "TIL/025 - Test React Hooks with Vitest ❌.md",
+    "TIL/026 - TypeScript Template Literal Types.md",
     "notes.md",
+    "Collection/Books.md",
+    "Collection/Articles Archive.md",
     "index.md",
     "Blog/2024 Flags.md",
     "TIL/020 - React useGlobalState ❌.md",
     "TIL/018 - Bun SQLite Driver.md",
-    "TIL/025 - Test React Hooks with Vitest ❌.md",
-    "TIL/026 - TypeScript Template Literal Types ❌.md",
     "TIL/019 - React useFetch ❌.md",
     "TIL/022 - React useAtom ❌.md",
     "TIL/023 - TypeScript Utility Types ❌.md",
@@ -196,7 +197,6 @@
     "TIL/004 - SQLite Cheat Sheet.md",
     "TIL/005 - SQLite Select Query ❌.md",
     "TIL/008 - Axios in 5 Minutes.md",
-    "TIL/007 - Fly.io in 5 Minutes.md",
     "Untitled",
     "TIL",
     "CSS/Tailwind",
