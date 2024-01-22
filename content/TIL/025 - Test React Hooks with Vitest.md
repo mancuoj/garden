@@ -67,6 +67,30 @@ describe('useCounter', () => {
 })
 ```
 
+```ts
+export interface RenderHookResult<Result, Props> {
+  /**
+   * Triggers a re-render. The props will be passed to your renderHook callback.
+   */
+  rerender: (props?: Props) => void
+  /**
+   * This is a stable reference to the latest value returned by your renderHook
+   * callback
+   */
+  result: {
+    /**
+     * The value returned by your renderHook callback
+     */
+    current: Result
+  }
+  /**
+   * Unmounts the test component. This is useful for when you need to test
+   * any cleanup your useEffects have.
+   */
+  unmount: () => void
+}
+```
+
 
 ## Thanks
 
