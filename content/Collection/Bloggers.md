@@ -28,9 +28,10 @@ date: 2024-01-08
 | [Exploring JS](https://exploringjs.com/) | 写 JS 书的，免费在线阅读 |
 | [Blog – Vercel](https://vercel.com/blog/category/engineering) | Vercel 官方的技术博客 |
 | [Articles - Ahmad Shadeed](https://ishadeed.com/articles) | 我去，是 CSS 大神 |
-| [samwho - all posts](https://samwho.dev/blog/) |  |
+| [Sukka's Blog](https://blog.skk.moe/) | 二次元头像的魅力，React 大神 |
 | [Zero Wind :: Jamie Wong](https://jamie-wong.com/) |  |
 | [Maxime Heckel's Blog](https://blog.maximeheckel.com/) |  |
+| [samwho - all posts](https://samwho.dev/blog/) |  |
 
 
 | 有时间归个类 |  |  |
