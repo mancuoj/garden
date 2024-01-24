@@ -1,4 +1,11 @@
 
+---
+date: 2024-01-27
+tags:
+  - ts
+---
+
+
 For any type `T`, `keyof T` is the _union_ of known, public property names of `T`.
 
 ```ts

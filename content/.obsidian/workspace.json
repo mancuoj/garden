@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Collection/Bloggers.md",
+                "file": "notes.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -72,7 +72,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Collection/Bloggers.md",
+                "file": "notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,7 +89,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Collection/Bloggers.md",
+                "file": "notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Collection/Bloggers.md"
+                "file": "notes.md"
               }
             }
           }
@@ -144,32 +144,32 @@
   },
   "active": "8c30c46caf2a6bff",
   "lastOpenFiles": [
-    "TIL/021 - React 7GUIs ❌.md",
-    "TIL/009 - Conventional Commits in 5 Minutes.md",
-    "TIL/022 - React useAtom ❌.md",
-    "TIL/020 - React useGlobalState ❌.md",
-    "TIL/017 - React useState(func()).md",
-    "TIL/016 - Bun Test Runner.md",
-    "TIL/015 - Oh Shit Git ❌.md",
-    "TIL/013 - Tailwind Merge in 5 Minutes.md",
-    "TIL/012 - CLSX in 5 Minutes.md",
     "TIL/011 - What is in tsconfig.json.md",
+    "TIL/012 - CLSX in 5 Minutes.md",
+    "TIL/013 - Tailwind Merge in 5 Minutes.md",
     "TIL/014 - CVA in 5 Minutes ❌.md",
-    "TIL/007 - Fly.io in 5 Minutes.md",
-    "TIL/004 - SQLite Cheat Sheet.md",
+    "TIL/018 - Bun SQLite Driver.md",
+    "TIL/020 - React useGlobalState ❌.md",
+    "TIL/022 - React useAtom ❌.md",
+    "TIL/023 - TypeScript Utility Types.md",
+    "TIL/024 - Create Types from Types.md",
     "TIL/025 - Test React Hooks with Vitest.md",
     "TIL/026 - TypeScript Template Literal Types.md",
     "TIL/027 - TypeScript extends keyof and in keyof.md",
+    "Collection/Bloggers.md",
+    "TIL/021 - React 7GUIs ❌.md",
+    "TIL/009 - Conventional Commits in 5 Minutes.md",
+    "TIL/017 - React useState(func()).md",
+    "TIL/016 - Bun Test Runner.md",
+    "TIL/015 - Oh Shit Git ❌.md",
+    "TIL/007 - Fly.io in 5 Minutes.md",
+    "TIL/004 - SQLite Cheat Sheet.md",
     "Blog/CSS Flexbox 入门.md",
     "Blog/CSS Grid 入门.md",
     "notes.md",
-    "TIL/023 - TypeScript Utility Types.md",
-    "TIL/024 - Create Types from Types.md",
     "index.md",
     "TIL/002 - Docker in 5 Minutes ❌.md",
     "TIL/005 - SQLite Select Query ❌.md",
-    "Collection/Articles Archive.md",
-    "TIL/019 - React useFetch ❌.md",
     "Untitled",
     "TIL",
     "CSS/Tailwind",
