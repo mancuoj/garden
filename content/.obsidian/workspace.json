@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TIL/030.md",
+                "file": "Blog/7GUIs 挑战.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -72,7 +72,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TIL/030.md",
+                "file": "Blog/7GUIs 挑战.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,7 +89,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TIL/030.md",
+                "file": "Blog/7GUIs 挑战.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TIL/030.md"
+                "file": "Blog/7GUIs 挑战.md"
               }
             }
           }
@@ -144,8 +144,13 @@
   },
   "active": "8c30c46caf2a6bff",
   "lastOpenFiles": [
-    "TIL/031.md",
+    "assets/Pasted image 20240126224428.png",
+    "assets/Pasted image 20240126224240.png",
+    "assets/Pasted image 20240126224150.png",
+    "TIL/021.md",
+    "Blog/7GUIs 挑战.md",
     "TIL/030.md",
+    "TIL/031.md",
     "TIL/029.md",
     "TIL/028.md",
     "notes.md",
@@ -162,14 +167,11 @@
     "TIL/026 - TypeScript Template Literal Types.md",
     "TIL/027 - TypeScript extends keyof and in keyof.md",
     "Collection/Bloggers.md",
-    "TIL/021 - React 7GUIs ❌.md",
     "TIL/009 - Conventional Commits in 5 Minutes.md",
     "TIL/017 - React useState(func()).md",
     "TIL/016 - Bun Test Runner.md",
     "TIL/015 - Oh Shit Git ❌.md",
     "TIL/007 - Fly.io in 5 Minutes.md",
-    "TIL/004 - SQLite Cheat Sheet.md",
-    "Blog/CSS Flexbox 入门.md",
     "Untitled",
     "TIL",
     "CSS/Tailwind",
@@ -190,8 +192,6 @@
     "assets/grid2.png",
     "assets/grid.png",
     "assets/nav.png",
-    "assets/nav.png",
-    "Canvas/ideas.canvas",
-    "assets/draw1.png"
+    "Canvas/ideas.canvas"
   ]
 }
