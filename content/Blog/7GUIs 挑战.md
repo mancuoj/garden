@@ -48,6 +48,4 @@ d <= e 时，进度条满，计时停止；d > e 时，开始计时，直到 d =
 ## Thanks
 
 - [7GUIs](https://eugenkiss.github.io/7guis/tasks/#counter)
-- [Task 1: Counter | XState Docs](https://xstate.js.org/docs/tutorials/7guis/counter.html)
-- [Learning React State Manager Jotai With 7GUIS Tasks](https://blog.axlight.com/posts/learning-react-state-manager-jotai-with-7guis-tasks/)
 
