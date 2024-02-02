@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes.md",
+                "file": "TIL/028 - Java Core in 5 Minutes.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -72,7 +72,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes.md",
+                "file": "TIL/028 - Java Core in 5 Minutes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,7 +89,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes.md",
+                "file": "TIL/028 - Java Core in 5 Minutes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes.md"
+                "file": "TIL/028 - Java Core in 5 Minutes.md"
               }
             }
           }
@@ -144,14 +144,14 @@
   },
   "active": "8c30c46caf2a6bff",
   "lastOpenFiles": [
+    "notes.md",
     "TIL/013 - Tailwind Merge in 5 Minutes.md",
     "TIL/015 - Oh Shit Git ❌.md",
-    "notes.md",
     "TIL/032.md",
     "TIL/029.md",
     "TIL/030.md",
     "TIL/031.md",
-    "TIL/028.md",
+    "TIL/028 - Java Core in 5 Minutes.md",
     "TIL/027 - TypeScript extends keyof and in keyof.md",
     "TIL/020 - React useGlobalState ❌.md",
     "TIL/019 - React useFetch ❌.md",
