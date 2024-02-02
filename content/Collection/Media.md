@@ -10,19 +10,21 @@ date: 2024-01-01
 
 ## Current
 
-- Friends Season 1
+- Friends Season 2
 
 ## To Do
 
-- Friends Season 2
 - 飞驰人生
 - 流浪地球
 - 流浪地球 2
 - 赛博朋克：边缘行者
+- 一人之下
+- 齐木楠雄的灾难
 
 ## Past
 
 ### Jan 2024
 
 
+- Friends Season 1 - 24
 
