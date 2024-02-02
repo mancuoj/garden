@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TIL/013 - Tailwind Merge in 5 Minutes.md",
+                "file": "notes.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -72,7 +72,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TIL/013 - Tailwind Merge in 5 Minutes.md",
+                "file": "notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,7 +89,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TIL/013 - Tailwind Merge in 5 Minutes.md",
+                "file": "notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TIL/013 - Tailwind Merge in 5 Minutes.md"
+                "file": "notes.md"
               }
             }
           }
@@ -144,6 +144,7 @@
   },
   "active": "8c30c46caf2a6bff",
   "lastOpenFiles": [
+    "TIL/013 - Tailwind Merge in 5 Minutes.md",
     "TIL/015 - Oh Shit Git ❌.md",
     "notes.md",
     "TIL/032.md",
@@ -161,7 +162,6 @@
     "TIL/024 - Create Types from Types.md",
     "TIL/023 - TypeScript Utility Types.md",
     "TIL/014 - CVA in 5 Minutes ❌.md",
-    "TIL/013 - Tailwind Merge in 5 Minutes.md",
     "TIL/011 - What is in tsconfig.json.md",
     "TIL/005 - SQLite Select Query ❌.md",
     "TIL/006 -  You Might Not Need Axios.md",
