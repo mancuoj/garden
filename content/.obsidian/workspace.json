@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Collection/Books.md",
+                "file": "TIL/030.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -72,7 +72,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Collection/Books.md",
+                "file": "TIL/030.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,7 +89,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Collection/Books.md",
+                "file": "TIL/030.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Collection/Books.md"
+                "file": "TIL/030.md"
               }
             }
           }
@@ -144,6 +144,7 @@
   },
   "active": "8c30c46caf2a6bff",
   "lastOpenFiles": [
+    "Collection/Books.md",
     "Collection/Free APIs.md",
     "Collection/Media.md",
     "Collection/Ideas.md",
@@ -169,7 +170,6 @@
     "TIL/005 - SQLite Select Query ❌.md",
     "TIL/006 -  You Might Not Need Axios.md",
     "TIL/002 - Docker in 5 Minutes ❌.md",
-    "Blog/7GUIs 挑战 ❌.md",
     "assets/Pasted image 20240127011624.png",
     "assets/Pasted image 20240127010830.png",
     "assets/Pasted image 20240126224428.png",
