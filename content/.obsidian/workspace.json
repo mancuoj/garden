@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Collection/Media.md",
+                "file": "Collection/Books.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -72,7 +72,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Collection/Media.md",
+                "file": "Collection/Books.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,7 +89,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Collection/Media.md",
+                "file": "Collection/Books.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Collection/Media.md"
+                "file": "Collection/Books.md"
               }
             }
           }
@@ -144,6 +144,9 @@
   },
   "active": "8c30c46caf2a6bff",
   "lastOpenFiles": [
+    "Collection/Free APIs.md",
+    "Collection/Media.md",
+    "Collection/Ideas.md",
     "TIL/028 - Java Core in 5 Minutes.md",
     "notes.md",
     "TIL/013 - Tailwind Merge in 5 Minutes.md",
@@ -166,10 +169,7 @@
     "TIL/005 - SQLite Select Query ❌.md",
     "TIL/006 -  You Might Not Need Axios.md",
     "TIL/002 - Docker in 5 Minutes ❌.md",
-    "Collection/Ideas.md",
     "Blog/7GUIs 挑战 ❌.md",
-    "Blog/2024 Flags.md",
-    "Blog/买了新服务器后.md",
     "assets/Pasted image 20240127011624.png",
     "assets/Pasted image 20240127010830.png",
     "assets/Pasted image 20240126224428.png",
