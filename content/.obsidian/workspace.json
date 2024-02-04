@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TIL/029 - Hands-On Guide to Spring Boot 3.md",
+                "file": "TIL/001 - How to Write a Good Technical Note.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -72,7 +72,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TIL/029 - Hands-On Guide to Spring Boot 3.md",
+                "file": "TIL/001 - How to Write a Good Technical Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,7 +89,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TIL/029 - Hands-On Guide to Spring Boot 3.md",
+                "file": "TIL/001 - How to Write a Good Technical Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TIL/029 - Hands-On Guide to Spring Boot 3.md"
+                "file": "TIL/001 - How to Write a Good Technical Note.md"
               }
             }
           }
@@ -144,20 +144,23 @@
   },
   "active": "8c30c46caf2a6bff",
   "lastOpenFiles": [
-    "notes.md",
+    "TIL/021 - Getting started with Docker ❌.md",
     "TIL/020 - React useGlobalState ❌.md",
+    "TIL/003 - TypeScript in 5 Minutes.md",
+    "TIL/002 - Turso.tech.md",
+    "TIL/001 - How to Write a Good Technical Note.md",
+    "TIL/029 - Hands-On Guide to Spring Boot 3.md",
+    "notes.md",
     "TIL/019 - React useFetch ❌.md",
     "TIL/018 - Bun SQLite Driver.md",
     "TIL/024 - Create Types from Types.md",
     "TIL/025 - Test React Hooks with Vitest.md",
     "TIL/027 - TypeScript extends keyof and in keyof.md",
-    "TIL/029 - Hands-On Guide to Spring Boot 3.md",
     "TIL/030.md",
     "TIL/028 - Java in 5 Minutes.md",
     "TIL/026 - TypeScript Template Literal Types.md",
     "TIL/023 - TypeScript Utility Types.md",
     "TIL/022 - React useAtom ❌.md",
-    "TIL/021.md",
     "TIL/017 - React useState(func()).md",
     "TIL/014 - CVA in 5 Minutes ❌.md",
     "TIL/015 - Oh Shit Git.md",
@@ -167,9 +170,6 @@
     "TIL/010 - What is Atomic CSS.md",
     "TIL/009 - Conventional Commits.md",
     "TIL/008 - Axios in 5 Minutes.md",
-    "TIL/006 -  You Might Not Need Axios.md",
-    "TIL/005 - SQLite Select Query.md",
-    "TIL/004 - SQLite Cheat Sheet.md",
     "assets/Pasted image 20240127011624.png",
     "assets/Pasted image 20240127010830.png",
     "assets/Pasted image 20240126224428.png",

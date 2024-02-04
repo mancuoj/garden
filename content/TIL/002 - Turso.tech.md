@@ -1,7 +1,5 @@
 ---
-date: 2024-01-01
-tags:
-  - sql
+date: 2024-01-02
 ---
 
 Turso is a SQLite-compatible database built on libSQL, the Open Contribution fork of SQLite.
