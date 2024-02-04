@@ -5,13 +5,11 @@ tags:
   - hook
 ---
 
-
 When you want the computation of that initial state to happen only once, you can pass a function instead.
 
 ```js
 const [state, setState] = useState(compute())
 ```
-
 
 The function will be invoked only once on the initial render.
 

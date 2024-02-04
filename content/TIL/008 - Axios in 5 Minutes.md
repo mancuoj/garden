@@ -1,17 +1,14 @@
 ---
 date: 2024-01-08
 tags:
-  - http
+  - api
 ---
 
-```sh
-ni axios
+Promise based HTTP client for the browser and node.js.
 
-# or cdn
+```html
 <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
 ```
-
-## Get
 
 ```js
 axios('https://httpbin.org/ip')
@@ -30,26 +27,20 @@ async function getIP() {
 }
 ```
 
-## Post
-
 ```js
 axios.post('/user', { firstName: 'Fred', lastName: 'Flintstone'})
 ```
 
-## Post HTML Form as JSON
-
 ```js
-const {data} = await axios.post('/user', document.querySelector('#my-form'), {
+const { data } = await axios.post('/user', document.querySelector('#my-form'), {
   headers: {
     'Content-Type': 'application/json'
   }
 })
 ```
 
-## Post Form
-
 ```js
-const {data} = await axios.post('https://httpbin.org/post', {
+const { data } = await axios.post('https://httpbin.org/post', {
     firstName: 'Fred',
     lastName: 'Flintstone',
     orders: [1, 2, 3],
@@ -63,7 +54,7 @@ const {data} = await axios.post('https://httpbin.org/post', {
 ```
 
 ```js
-const {data} = await axios.post('https://httpbin.org/post', {
+const { data } = await axios.post('https://httpbin.org/post', {
     firstName: 'Fred',
     lastName: 'Flintstone',
     orders: [1, 2, 3]
@@ -73,7 +64,6 @@ const {data} = await axios.post('https://httpbin.org/post', {
     }
 })
 ```
-
 
 
 ## Thanks

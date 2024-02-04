@@ -7,7 +7,7 @@ tags:
 
 
 
-## 
+## Thanks
 
 - [dai-shi/react-hooks-global-state](https://github.com/dai-shi/react-hooks-global-state)
 - [An alternative to React Redux by React Hooks API](https://blog.axlight.com/posts/an-alternative-to-react-redux-by-react-hooks-api-for-both-javascript-and-typescript/)
