@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TIL/029 - Build a Spring Boot 3 Application from scratch.md",
+                "file": "Collection/Articles Archive.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -72,7 +72,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TIL/029 - Build a Spring Boot 3 Application from scratch.md",
+                "file": "Collection/Articles Archive.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,7 +89,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TIL/029 - Build a Spring Boot 3 Application from scratch.md",
+                "file": "Collection/Articles Archive.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TIL/029 - Build a Spring Boot 3 Application from scratch.md"
+                "file": "Collection/Articles Archive.md"
               }
             }
           }
@@ -144,8 +144,8 @@
   },
   "active": "8c30c46caf2a6bff",
   "lastOpenFiles": [
-    "TIL/028 - Java in 5 Minutes.md",
     "TIL/029 - Build a Spring Boot 3 Application from scratch.md",
+    "TIL/028 - Java in 5 Minutes.md",
     "TIL/030.md",
     "Collection/Books.md",
     "Collection/Free APIs.md",
