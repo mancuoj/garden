@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TIL/020 - React useGlobalState ❌.md",
+                "file": "notes.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -72,7 +72,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TIL/020 - React useGlobalState ❌.md",
+                "file": "notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,7 +89,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TIL/020 - React useGlobalState ❌.md",
+                "file": "notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TIL/020 - React useGlobalState ❌.md"
+                "file": "notes.md"
               }
             }
           }
@@ -144,9 +144,9 @@
   },
   "active": "8c30c46caf2a6bff",
   "lastOpenFiles": [
+    "TIL/020 - React useGlobalState ❌.md",
     "TIL/019 - React useFetch ❌.md",
     "TIL/018 - Bun SQLite Driver.md",
-    "TIL/020 - React useGlobalState ❌.md",
     "TIL/024 - Create Types from Types.md",
     "TIL/025 - Test React Hooks with Vitest.md",
     "TIL/027 - TypeScript extends keyof and in keyof.md",
