@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TIL/031 - NextUI.md",
+                "file": "notes.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -72,7 +72,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TIL/031 - NextUI.md",
+                "file": "notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,7 +89,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TIL/031 - NextUI.md",
+                "file": "notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TIL/031 - NextUI.md"
+                "file": "notes.md"
               }
             }
           }
@@ -144,9 +144,9 @@
   },
   "active": "8c30c46caf2a6bff",
   "lastOpenFiles": [
-    "TIL/032 - Getting Started with Remix.md",
-    "TIL/031 - NextUI.md",
+    "TIL/032 - Getting Started with Remix ❌.md",
     "TIL/030 - Electron Markdown Notes App ❌.md",
+    "TIL/031 - NextUI.md",
     "TIL/029 - Hands-On Guide to Spring Boot 3 ❌.md",
     "TIL/022 - React useAtom ❌.md",
     "Collection/Media.md",
