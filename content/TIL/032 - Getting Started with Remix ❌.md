@@ -4,6 +4,24 @@ tags:
   - remix
 ---
 
+## Routes
+
+```
+- app
+  - routes
+     - _index.tsx
+     - posts.$postId.tsx
+     - tags.tsx
+     - tags._index.tsx
+     - tags.$tagId.tsx
+  - root.tsx
+
+- /posts/:postId
+- /tags
+- /tags/:tagId
+```
+
+不带 `_index` 的是 Layout 组件（内里需要有 Outlet 出口），带的是路由组件。
 
 
 ## Thanks
