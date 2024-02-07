@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes.md",
+                "file": "TIL/032 - Getting Started with Remix ❌.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -72,7 +72,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes.md",
+                "file": "TIL/032 - Getting Started with Remix ❌.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,7 +89,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes.md",
+                "file": "TIL/032 - Getting Started with Remix ❌.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes.md"
+                "file": "TIL/032 - Getting Started with Remix ❌.md"
               }
             }
           }
@@ -144,6 +144,7 @@
   },
   "active": "8c30c46caf2a6bff",
   "lastOpenFiles": [
+    "notes.md",
     "TIL/032 - Getting Started with Remix ❌.md",
     "TIL/030 - Electron Markdown Notes App ❌.md",
     "TIL/031 - NextUI.md",
@@ -155,7 +156,6 @@
     "TIL/020 - React useGlobalState ❌.md",
     "TIL/003 - TypeScript in 5 Minutes.md",
     "TIL/002 - Turso.tech.md",
-    "notes.md",
     "TIL/019 - React useFetch ❌.md",
     "TIL/018 - Bun SQLite Driver.md",
     "TIL/024 - Create Types from Types.md",
