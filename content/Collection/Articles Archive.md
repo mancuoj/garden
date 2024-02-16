@@ -17,8 +17,10 @@ date: 2023-12-01
 - [Building JavaScript widget (jenyay.com)](https://blog.jenyay.com/building-javascript-widget/)
 - [React component as prop: the right way](https://www.developerway.com/posts/react-component-as-prop-the-right-way)
 - [React Design Patterns](https://dev.to/refine/react-design-patterns-230o)
-- 
-- [Building a Two-Way Data Binding Hook for Form Inputs in React](https://macarthur.me/posts/binding-input-state-in-react)
+
+
+- [jsun969/just-submit: 🛫 Submit simple form, with safe types, without management! (github.com)](https://github.com/jsun969/just-submit)
+
 ## To Read
 
 
@@ -27,7 +29,6 @@ date: 2023-12-01
 - [npm: A Free Guide for Beginners](https://css-tricks.com/a-complete-beginners-guide-to-npm/)
 - [Retry, Timeout and Cancel with fetch()](https://www.chrisarmstrong.dev/posts/retry-timeout-and-cancel-with-fetch)
 - [How to Create and Publish a React Component Library](https://dev.to/alexeagleson/how-to-create-and-publish-a-react-component-library-2oe)
-- 
 
 - [Avoid These Common Pitfalls Of React useState](https://profy.dev/article/react-usestate-pitfalls)
 - [Extract parameter types from string literal types with TypeScript](https://lihautan.com/extract-parameters-type-from-string-literal-types-with-typescript/)
