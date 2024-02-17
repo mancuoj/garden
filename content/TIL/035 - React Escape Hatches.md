@@ -1,3 +1,9 @@
+---
+date: 2024-02-04
+tags:
+  - react
+  - ref
+---
 
 ## Remember infomation without re-rendering
 
