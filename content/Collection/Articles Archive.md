@@ -22,7 +22,6 @@ date: 2023-12-01
 
 ## To Read
 
-
 - [04-003 Creating a Table](https://www.bilibili.com/video/BV1cC4y1g7ng?p=30&vd_source=4da426ef9b0e129787ecf66363321458)
 - [Let’s learn how modern JavaScript frameworks work by building one](https://nolanlawson.com/2023/12/02/lets-learn-how-modern-javascript-frameworks-work-by-building-one/)
 - [npm: A Free Guide for Beginners](https://css-tricks.com/a-complete-beginners-guide-to-npm/)

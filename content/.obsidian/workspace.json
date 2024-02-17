@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Collection/Articles Archive.md",
+                "file": "TIL/033 - Modern Alternatives of Rust CLI Tools.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -72,7 +72,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Collection/Articles Archive.md",
+                "file": "TIL/033 - Modern Alternatives of Rust CLI Tools.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,7 +89,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Collection/Articles Archive.md",
+                "file": "TIL/033 - Modern Alternatives of Rust CLI Tools.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Collection/Articles Archive.md"
+                "file": "TIL/033 - Modern Alternatives of Rust CLI Tools.md"
               }
             }
           }
@@ -142,34 +142,35 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "f7b83c8b8ee79b66",
+  "active": "8c30c46caf2a6bff",
   "lastOpenFiles": [
-    "Collection/Media.md",
-    "Collection/Ideas.md",
-    "Collection/Books.md",
-    "Collection/Free APIs.md",
-    "TIL/031 - NextUI.md",
     "TIL/032 - Getting Started with Remix ❌.md",
+    "TIL/033 - Modern Alternatives of Rust CLI Tools.md",
+    "TMPL/时间+参考.md",
+    "Collection/Articles Archive.md",
+    "TMPL",
+    "TIL/Jan/031 - NextUI.md",
+    "TIL/Jan/030 - Electron Markdown Notes App ❌.md",
+    "TIL/Jan/001 - How to Write a Good Technical Note.md",
+    "TIL/Jan",
+    "Collection/Ideas.md",
+    "Collection/Bloggers.md",
+    "Collection/Books.md",
+    "Collection/Media.md",
+    "Collection/Snippets.md",
+    "TIL/033 - Modern.md",
+    "Collection/Free APIs.md",
     "notes.md",
-    "TIL/030 - Electron Markdown Notes App ❌.md",
-    "TIL/029 - Hands-On Guide to Spring Boot 3 ❌.md",
-    "TIL/022 - React useAtom ❌.md",
-    "TIL/001 - How to Write a Good Technical Note.md",
-    "TIL/021 - Getting started with Docker ❌.md",
-    "TIL/020 - React useGlobalState ❌.md",
-    "TIL/003 - TypeScript in 5 Minutes.md",
-    "TIL/002 - Turso.tech.md",
-    "TIL/019 - React useFetch ❌.md",
-    "TIL/018 - Bun SQLite Driver.md",
-    "TIL/024 - Create Types from Types.md",
-    "TIL/025 - Test React Hooks with Vitest.md",
-    "TIL/027 - TypeScript extends keyof and in keyof.md",
-    "TIL/028 - Java in 5 Minutes.md",
-    "TIL/026 - TypeScript Template Literal Types.md",
-    "TIL/023 - TypeScript Utility Types.md",
-    "TIL/017 - React useState(func()).md",
-    "TIL/014 - CVA in 5 Minutes ❌.md",
-    "TIL/015 - Oh Shit Git.md",
+    "TIL/Jan/029 - Hands-On Guide to Spring Boot 3 ❌.md",
+    "TIL/Jan/022 - React useAtom ❌.md",
+    "TIL/Jan/021 - Getting started with Docker ❌.md",
+    "TIL/Jan/020 - React useGlobalState ❌.md",
+    "TIL/Jan/003 - TypeScript in 5 Minutes.md",
+    "TIL/Jan/002 - Turso.tech.md",
+    "TIL/Jan/019 - React useFetch ❌.md",
+    "TIL/Jan/018 - Bun SQLite Driver.md",
+    "TIL/Jan/024 - Create Types from Types.md",
+    "TIL/Jan/025 - Test React Hooks with Vitest.md",
     "assets/Pasted image 20240127011624.png",
     "assets/Pasted image 20240127010830.png",
     "assets/Pasted image 20240126224428.png",
@@ -186,8 +187,6 @@
     "POSTS/Angular",
     "Nest",
     "Blog",
-    "Vue",
-    "Network",
     "assets/full bleed.png",
     "assets/grid area.png",
     "assets/grid assign.png",
