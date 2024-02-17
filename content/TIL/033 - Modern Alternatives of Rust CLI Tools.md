@@ -22,6 +22,7 @@ tags:
 - du -> dust
 - onefetch
 - bandwhich
+- nvm -> fnm
 
 ## Thanks
 
