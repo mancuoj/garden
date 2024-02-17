@@ -16,6 +16,8 @@ tags:
 - hyperfine
 - tldr -> tealdeer
 - grex
+- bottom
+- ps -> procs
 - 
 
 
