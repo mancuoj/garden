@@ -13,7 +13,6 @@ date: 2023-12-01
 - [Designing better target sizes](https://ishadeed.com/article/target-size#safe-triangle-target-areas)
 - [A new kind of color picker](https://polar.sh/emilwidlund/posts/a-new-kind-of-color-picker-with-react-typescript)
 
-
 - [Building JavaScript widget (jenyay.com)](https://blog.jenyay.com/building-javascript-widget/)
 - [React component as prop: the right way](https://www.developerway.com/posts/react-component-as-prop-the-right-way)
 - [React Design Patterns](https://dev.to/refine/react-design-patterns-230o)

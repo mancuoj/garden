@@ -32,7 +32,7 @@
       {
         "id": "9c8bcebfba500842",
         "type": "tabs",
-        "dimension": 33.33333333333333,
+        "dimension": 72.01086956521739,
         "children": [
           {
             "id": "43b6f11314d32c5c",
@@ -64,7 +64,7 @@
       {
         "id": "b904ff6d18e068ad",
         "type": "tabs",
-        "dimension": 66.66666666666666,
+        "dimension": 27.98913043478261,
         "children": [
           {
             "id": "de4ed91ab97def22",
@@ -142,7 +142,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "8c30c46caf2a6bff",
+  "active": "f7b83c8b8ee79b66",
   "lastOpenFiles": [
     "Collection/Media.md",
     "Collection/Ideas.md",
