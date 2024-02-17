@@ -1,11 +1,11 @@
 {
   "accentColor": "#a6a0fd",
-  "interfaceFontFamily": "Maple UI,Inter",
-  "textFontFamily": "Maple UI,Zed Sans,Geist,苹方-简",
-  "baseFontSize": 16,
-  "monospaceFontFamily": "Zed Mono,Monaspace Krypton,Monaspace Neon,苹方-简",
+  "interfaceFontFamily": "微软雅黑,霞鹜文楷",
+  "textFontFamily": "霞鹜文楷等宽,微软雅黑",
+  "baseFontSize": 20,
+  "monospaceFontFamily": "Monaspace Xenon",
   "translucency": false,
   "cssTheme": "obsidian_ia",
-  "theme": "obsidian",
+  "theme": "system",
   "showViewHeader": false
 }

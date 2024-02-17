@@ -32,7 +32,7 @@
       {
         "id": "9c8bcebfba500842",
         "type": "tabs",
-        "dimension": 75.11627906976744,
+        "dimension": 33.33333333333333,
         "children": [
           {
             "id": "43b6f11314d32c5c",
@@ -64,7 +64,7 @@
       {
         "id": "b904ff6d18e068ad",
         "type": "tabs",
-        "dimension": 24.883720930232563,
+        "dimension": 66.66666666666666,
         "children": [
           {
             "id": "de4ed91ab97def22",
@@ -126,7 +126,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 467.0086555480957
+    "width": 353
   },
   "right": {
     "id": "ee7d24da7b485845",
@@ -138,8 +138,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
     }
   },
   "active": "8c30c46caf2a6bff",
