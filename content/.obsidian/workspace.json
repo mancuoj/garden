@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TIL/033 - Modern Alternatives of Rust CLI Tools.md",
+                "file": "TIL/034 - Why I use Prettier.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -72,7 +72,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TIL/033 - Modern Alternatives of Rust CLI Tools.md",
+                "file": "TIL/034 - Why I use Prettier.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,7 +89,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TIL/033 - Modern Alternatives of Rust CLI Tools.md",
+                "file": "TIL/034 - Why I use Prettier.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TIL/033 - Modern Alternatives of Rust CLI Tools.md"
+                "file": "TIL/034 - Why I use Prettier.md"
               }
             }
           }
@@ -126,7 +126,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 353
+    "width": 333
   },
   "right": {
     "id": "ee7d24da7b485845",
@@ -144,6 +144,8 @@
   },
   "active": "8c30c46caf2a6bff",
   "lastOpenFiles": [
+    "TIL/033 - Modern Alternatives of Rust CLI Tools.md",
+    "TIL/034 - Why I use Prettier.md",
     "TIL/032 - Getting Started with Remix ❌.md",
     "TIL/Jan/030 - Electron Markdown Notes App ❌.md",
     "TIL/Jan/031 - NextUI.md",
@@ -152,7 +154,6 @@
     "TIL/Jan/020 - React useGlobalState ❌.md",
     "TIL/Jan/019 - React useFetch ❌.md",
     "TIL/Jan/014 - CVA in 5 Minutes ❌.md",
-    "TIL/033 - Modern Alternatives of Rust CLI Tools.md",
     "TMPL/时间+参考.md",
     "Collection/Articles Archive.md",
     "TMPL",
@@ -171,7 +172,6 @@
     "TIL/Jan/002 - Turso.tech.md",
     "TIL/Jan/018 - Bun SQLite Driver.md",
     "TIL/Jan/024 - Create Types from Types.md",
-    "TIL/Jan/025 - Test React Hooks with Vitest.md",
     "assets/Pasted image 20240127011624.png",
     "assets/Pasted image 20240127010830.png",
     "assets/Pasted image 20240126224428.png",

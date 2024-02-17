@@ -2,10 +2,10 @@
   "accentColor": "#a6a0fd",
   "interfaceFontFamily": "Maple UI,微软雅黑,霞鹜文楷",
   "textFontFamily": "Maple Hand,霞鹜文楷等宽,微软雅黑",
-  "baseFontSize": 19,
+  "baseFontSize": 20,
   "monospaceFontFamily": "Monaspace Xenon",
   "translucency": false,
-  "cssTheme": "",
+  "cssTheme": "GitHub Theme",
   "theme": "system",
   "showViewHeader": false
 }

@@ -25,4 +25,4 @@ tags:
 
 ## Thanks
 
-- [Rewritten in Rust: Modern Alternatives of Command-Line Tools · Zaiste Programming](https://zaiste.net/posts/shell-commands-rust/)
+- [Rewritten in Rust: Modern Alternatives of Command-Line Tools](https://zaiste.net/posts/shell-commands-rust/)
