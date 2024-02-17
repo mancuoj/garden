@@ -34,3 +34,4 @@ ni -D prettier
 ## Thanks
 
 - [Why I don't use Prettier](https://antfu.me/posts/why-not-prettier)
+- [聊聊代码格式化](https://burogu.hyoban.vercel.app/post/code-format)
