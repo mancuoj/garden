@@ -19,9 +19,9 @@ tags:
 - grex
 - bottom
 - ps -> procs
+- du -> dust
 - onefetch
 - bandwhich
-
 
 ## Thanks
 
