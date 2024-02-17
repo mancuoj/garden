@@ -10,6 +10,12 @@ tags:
 - cat -> bat
 - ls -> eza
 - find -> fd
+- yazi
+- tokei
+- grep -> ripgrep
+- hyperfine
+- tldr -> tealdeer
+- grex
 - 
 
 
