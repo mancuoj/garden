@@ -7,7 +7,6 @@ tags:
 
 ## Install Rust First
 
-- `cargo install`
 - cat -> bat
 - ls -> eza
 - find -> fd
@@ -20,9 +19,9 @@ tags:
 - bottom
 - ps -> procs
 - du -> dust
+- nvm -> fnm
 - onefetch
 - bandwhich
-- nvm -> fnm
 
 ## Thanks
 
