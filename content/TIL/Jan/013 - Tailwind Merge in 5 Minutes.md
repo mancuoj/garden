@@ -6,6 +6,8 @@ tags:
 ---
 
 `twMerge` overrides conflicting classes and keeps everything else untouched. 
+
+
 ## cn
 
 ```ts
@@ -16,7 +18,6 @@ export function cn(...inputs: ClassValue[]) {
   return twMerge(clsx(inputs))
 }
 ```
-
 
 
 ## Thanks
