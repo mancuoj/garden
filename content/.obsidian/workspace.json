@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Collection/Media.md",
+                "file": "TIL/030.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -72,7 +72,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Collection/Media.md",
+                "file": "TIL/030.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,7 +89,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Collection/Media.md",
+                "file": "TIL/030.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Collection/Media.md"
+                "file": "TIL/030.md"
               }
             }
           }
@@ -142,10 +142,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "43b6f11314d32c5c",
+  "active": "84263f871163668a",
   "lastOpenFiles": [
-    "Collection/Books.md",
+    "TIL/029 - Make PowerShell Great Again.md",
+    "Notes.md",
     "Collection/Media.md",
+    "Collection/Books.md",
     "Collection/Ideas.md",
     "Blog/Vue2 TodoMVC.md",
     "Blog/React 文档拾遗.md",
@@ -168,8 +170,6 @@
     "TIL/041.md",
     "TIL/040.md",
     "TIL/032.md",
-    "TIL/033 - Modern Alternatives of Rust CLI Tools.md",
-    "TIL/034 - Why I use Prettier.md",
     "TMPL",
     "TIL/Jan",
     "assets/Pasted image 20240127011624.png",
