@@ -5,6 +5,15 @@ date: 2023-12-01
 > [!quote]
 > Fight for a bright tomorrow!
 
+
+
+
+## RSS
+
+- 订阅各位大佬博客
+- 更新后显示在网站上
+
+
 ## 随手记
 
 ### 想法
@@ -79,6 +88,3 @@ date: 2023-12-01
 - [Neave Interactive](https://neave.com/)
 
 
-## RSS Reader Feed
-
-- RSS 订阅博客

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TIL/005.md",
+                "file": "Collection/Media.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -72,7 +72,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TIL/005.md",
+                "file": "Collection/Media.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,7 +89,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TIL/005.md",
+                "file": "Collection/Media.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TIL/005.md"
+                "file": "Collection/Media.md"
               }
             }
           }
@@ -144,13 +144,13 @@
   },
   "active": "84263f871163668a",
   "lastOpenFiles": [
+    "Collection/Ideas.md",
+    "Collection/Books.md",
+    "Collection/Media.md",
+    "TIL/005.md",
     "TIL/004 - SQLite Cheat Sheet.md",
     "TIL/003 - TS in 5 Minutes.md",
     "TIL/002 - Turso.tech.md",
-    "Collection/Media.md",
-    "Collection/Ideas.md",
-    "Collection/Books.md",
-    "TIL/005.md",
     "TIL/006 -  You Might Not Need Axios.md",
     "TIL/007 - Fly.io.md",
     "TIL/008 - Axios in 5 Minutes.md",
