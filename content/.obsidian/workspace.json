@@ -13,14 +13,54 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Collection/Media.md",
+                "file": "TIL/042.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7f0ea051ed0e86d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TIL/043.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a2280d3bb31a0ff5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TIL/044.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9be0e2737ff01f60",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TIL/043.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -72,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Collection/Media.md",
+                "file": "TIL/043.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Collection/Media.md",
+                "file": "TIL/043.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Collection/Media.md"
+                "file": "TIL/043.md"
               }
             }
           }
@@ -142,34 +182,35 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "84263f871163668a",
+  "active": "9be0e2737ff01f60",
   "lastOpenFiles": [
-    "Collection/Ideas.md",
-    "Collection/Books.md",
-    "Collection/Media.md",
-    "TIL/005.md",
-    "TIL/004 - SQLite Cheat Sheet.md",
-    "TIL/003 - TS in 5 Minutes.md",
-    "TIL/002 - Turso.tech.md",
-    "TIL/006 -  You Might Not Need Axios.md",
-    "TIL/007 - Fly.io.md",
-    "TIL/008 - Axios in 5 Minutes.md",
-    "TIL/010 - What is Atomic CSS.md",
-    "TIL/009 - Conventional Commits.md",
-    "TIL/011 - What is in tsconfig.json.md",
-    "TIL/012 - Clsx in 5 Minutes.md",
-    "TIL/014 - Git Alias.md",
-    "TIL/015 - Oh Shit Git.md",
-    "TIL/016 - Bun Test Runner.md",
-    "TIL/019.md",
-    "TIL/017 - React useState(func()).md",
-    "TIL/013 - Tailwind Merge in 5 Minutes.md",
+    "TIL/042.md",
+    "TIL/044.md",
+    "TIL/045 - How to Center a Div.md",
+    "assets/Pasted image 20240218223759.png",
+    "TIL/043.md",
+    "TIL/020.md",
+    "TIL/039.md",
+    "TIL/040.md",
+    "TIL/041.md",
+    "TIL/038.md",
+    "TIL/036.md",
+    "TIL/035.md",
+    "TIL/032.md",
     "TIL/031 - NextUI in 5 Minutes.md",
     "TIL/030.md",
     "TIL/029 - Make PowerShell Great Again.md",
     "TIL/028 - Java Syntax in 10 Minutes.md",
-    "TIL/032.md",
-    "TIL/035 - React useRef.md",
+    "TIL/019 - WSL Proxy.md",
+    "TIL/018 - Bun SQLite Driver.md",
+    "TIL/012 - Clsx in 5 Minutes.md",
+    "TIL/013 - Tailwind Merge in 5 Minutes.md",
+    "TIL/011 - What is in tsconfig.json.md",
+    "TIL/009 - Conventional Commits.md",
+    "TIL/007 - Fly.io.md",
+    "TIL/006 -  You Might Not Need Axios.md",
+    "TIL/005 - Windows Fonts Beautification.md",
+    "assets/Pasted image 20240218220700.png",
     "TMPL",
     "TIL/Jan",
     "assets/Pasted image 20240127011624.png",
@@ -190,8 +231,6 @@
     "Blog",
     "assets/full bleed.png",
     "assets/grid area.png",
-    "assets/grid assign.png",
-    "assets/grid repeat.png",
     "Canvas/ideas.canvas"
   ]
 }
