@@ -23,8 +23,7 @@ ni -D prettier
 }
 ```
 
-```json
-// .vscode/settings.json
+```json title=".vscode/settings.json"
 {
   "editor.formatOnSave": true,
   "prettier.semi": false,

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TIL/042.md",
+                "file": "TIL/021 - Daisy UI in 5 Minutes.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -52,15 +52,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TIL/045 - How to Center a Div.md",
+                "file": "TIL/012 - Clsx in 5 Minutes.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,7 +89,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "minutes",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -112,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TIL/045 - How to Center a Div.md",
+                "file": "TIL/021 - Daisy UI in 5 Minutes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TIL/045 - How to Center a Div.md",
+                "file": "TIL/021 - Daisy UI in 5 Minutes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TIL/045 - How to Center a Div.md"
+                "file": "TIL/021 - Daisy UI in 5 Minutes.md"
               }
             }
           }
@@ -182,35 +181,35 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "9be0e2737ff01f60",
+  "active": "84263f871163668a",
   "lastOpenFiles": [
+    "TIL/022.md",
+    "TIL/021 - Daisy UI in 5 Minutes.md",
+    "TIL/032.md",
+    "TIL/030.md",
+    "TIL/035.md",
+    "TIL/036.md",
     "TIL/034 - Why I use Prettier.md",
-    "TIL/020 - FE Observer Pattern.md",
-    "TIL/043.md",
     "TIL/042.md",
+    "TIL/043.md",
     "TIL/044.md",
+    "TIL/012 - Clsx in 5 Minutes.md",
     "TIL/045 - How to Center a Div.md",
+    "TIL/020 - FE Observer Pattern.md",
     "assets/Pasted image 20240218223759.png",
     "TIL/039.md",
     "TIL/040.md",
     "TIL/041.md",
     "TIL/038.md",
-    "TIL/036.md",
-    "TIL/035.md",
-    "TIL/032.md",
     "TIL/031 - NextUI in 5 Minutes.md",
-    "TIL/030.md",
     "TIL/029 - Make PowerShell Great Again.md",
     "TIL/028 - Java Syntax in 10 Minutes.md",
     "TIL/019 - WSL Proxy.md",
     "TIL/018 - Bun SQLite Driver.md",
-    "TIL/012 - Clsx in 5 Minutes.md",
     "TIL/013 - Tailwind Merge in 5 Minutes.md",
     "TIL/011 - What is in tsconfig.json.md",
     "TIL/009 - Conventional Commits.md",
     "TIL/007 - Fly.io.md",
-    "TIL/006 -  You Might Not Need Axios.md",
-    "TIL/005 - Windows Fonts Beautification.md",
     "assets/Pasted image 20240218220700.png",
     "TMPL",
     "TIL/Jan",
