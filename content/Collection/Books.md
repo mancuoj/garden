@@ -4,14 +4,23 @@ date: 2024-01-01
 
 网络小说（最多），技术书籍，经典名著，上班没事干就有啥看啥，不图营养图个乐 🛌
 
+50 块参加了微信阅读的挑战赛，先送一个月付费卡，然后全年能有 360 天保持每天阅读 5 分钟以上，就再送 365 天付费卡，就多读读书吧。
+
 ## Current
 
-- 鬼吹灯 by 天下霸唱
-- 盗墓笔记 by 南派三叔
+- 从姑获鸟开始 by 活儿该
+- ng-book by Nate Murray & Felipe Coury & Ari Lerner & Carlos Taborda
+- Angular in Action by Jeremy Wilken
+- Angular Up & Running by Shyam Seshadri
+- Angular Development with TypeScript by Yakov Fain & Anton Moiseev
+- Testing Angular Applications by Jesse Palmer & Corinna Cohn & Mike Giambalvo & Craig Nishina
 - Refactoring UI by Adam Wathan & Steve Schoger
+
 
 ## To Read
 
+- 鬼吹灯 by 天下霸唱
+- 盗墓笔记 by 南派三叔
 - 你不知道的 JavaScript 上卷 by Kyle Simpson
 - JavaScript 设计模式与开发实践 by 曾探
 - 图解 HTTP by 上野宣
@@ -24,7 +33,6 @@ date: 2024-01-01
 
 ### Feb 2024
 
-- ❌ 从姑获鸟开始 by 活儿该
 - ❌ 女主从书里跑出来了怎么办 by 姬叉
 - ❌ 娱乐春秋 by 姬叉
 
