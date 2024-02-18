@@ -13,8 +13,6 @@ NextUI is a UI library for React that helps you build beautiful and accessible u
 - React Aria
 - [L-Blondy/tw-colors](https://github.com/L-Blondy/tw-colors)
 
-
-
 ## Thanks
 
-- [Installation | NextUI - Beautiful, fast and modern React UI Library](https://nextui.org/docs/guide/installation)
+- [NextUI - Beautiful, fast and modern React UI Library](https://nextui.org/docs/guide/installation)

@@ -50,6 +50,6 @@ type MyPick<T, K extends keyof T> = {
 
 ## Thanks
 
-- [[023 - TypeScript Utility Types]]
+- [[023 - TS Utility Types]]
 - [[024 - Create Types from Types]]
 - [In TypeScript, what do "extends keyof" and "in keyof" mean? - Stack Overflow](https://stackoverflow.com/questions/57337598/in-typescript-what-do-extends-keyof-and-in-keyof-mean)
