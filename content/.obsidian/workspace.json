@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TIL/020 - FE Observer Pattern.md",
+                "file": "TIL/045 - How to Center a Div.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TIL/020 - FE Observer Pattern.md",
+                "file": "TIL/045 - How to Center a Div.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TIL/020 - FE Observer Pattern.md",
+                "file": "TIL/045 - How to Center a Div.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TIL/020 - FE Observer Pattern.md"
+                "file": "TIL/045 - How to Center a Div.md"
               }
             }
           }
@@ -184,12 +184,13 @@
   },
   "active": "9be0e2737ff01f60",
   "lastOpenFiles": [
+    "TIL/034 - Why I use Prettier.md",
+    "TIL/020 - FE Observer Pattern.md",
     "TIL/043.md",
     "TIL/042.md",
     "TIL/044.md",
     "TIL/045 - How to Center a Div.md",
     "assets/Pasted image 20240218223759.png",
-    "TIL/020 - FE Observer Pattern.md",
     "TIL/039.md",
     "TIL/040.md",
     "TIL/041.md",
