@@ -4,102 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "f3de3acc2aabe900",
+        "id": "f51d6226b3de12dd",
         "type": "tabs",
         "children": [
           {
-            "id": "8c30c46caf2a6bff",
+            "id": "84263f871163668a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TIL/036.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8729c9f6ccefec6b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TIL/037.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "61b6461e7c9efc7e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TIL/038.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4ac1f602a4f10b75",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TIL/039.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bef7a8d441b9a50c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TIL/040.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "837ca38cb0ef6157",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TIL/041.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b9b50048379d1dcd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Collection/Books.md",
+                "file": "Collection/Media.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -151,7 +72,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Collection/Books.md",
+                "file": "Collection/Media.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +89,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Collection/Books.md",
+                "file": "Collection/Media.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Collection/Books.md"
+                "file": "Collection/Media.md"
               }
             }
           }
@@ -221,8 +142,9 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "b9b50048379d1dcd",
+  "active": "43b6f11314d32c5c",
   "lastOpenFiles": [
+    "Collection/Books.md",
     "Collection/Media.md",
     "Collection/Ideas.md",
     "Blog/Vue2 TodoMVC.md",
@@ -248,7 +170,6 @@
     "TIL/032.md",
     "TIL/033 - Modern Alternatives of Rust CLI Tools.md",
     "TIL/034 - Why I use Prettier.md",
-    "TIL/014.md",
     "TMPL",
     "TIL/Jan",
     "assets/Pasted image 20240127011624.png",
