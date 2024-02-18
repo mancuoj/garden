@@ -2,9 +2,10 @@
 date: 2024-02-03
 ---
 
+Anyway, life is too short to bother with formatters.
+
 ## I Love Prettier
 
-Anyway, life is too short to bother with it.
 
 ```sh
 ni -D prettier

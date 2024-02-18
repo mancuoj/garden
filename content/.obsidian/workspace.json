@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TIL/030.md",
+                "file": "TIL/034 - Why I use Prettier.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -72,7 +72,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TIL/030.md",
+                "file": "TIL/034 - Why I use Prettier.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,7 +89,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TIL/030.md",
+                "file": "TIL/034 - Why I use Prettier.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TIL/030.md"
+                "file": "TIL/034 - Why I use Prettier.md"
               }
             }
           }
@@ -144,6 +144,7 @@
   },
   "active": "84263f871163668a",
   "lastOpenFiles": [
+    "TIL/030.md",
     "TIL/029 - Make PowerShell Great Again.md",
     "Notes.md",
     "Collection/Media.md",
@@ -169,7 +170,6 @@
     "TIL/042.md",
     "TIL/041.md",
     "TIL/040.md",
-    "TIL/032.md",
     "TMPL",
     "TIL/Jan",
     "assets/Pasted image 20240127011624.png",
