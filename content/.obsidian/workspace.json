@@ -4,55 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f51d6226b3de12dd",
+        "id": "550a561415a76c14",
         "type": "tabs",
         "children": [
           {
-            "id": "84263f871163668a",
+            "id": "a4a795c54d6aba27",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TIL/021 - Daisy UI in 5 Minutes.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7f0ea051ed0e86d0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TIL/043.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a2280d3bb31a0ff5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TIL/044.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9be0e2737ff01f60",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TIL/012 - Clsx in 5 Minutes.md",
+                "file": "TIL/022 - JS Map.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -111,7 +72,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TIL/021 - Daisy UI in 5 Minutes.md",
+                "file": "TIL/022 - JS Map.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +89,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TIL/021 - Daisy UI in 5 Minutes.md",
+                "file": "TIL/022 - JS Map.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TIL/021 - Daisy UI in 5 Minutes.md"
+                "file": "TIL/022 - JS Map.md"
               }
             }
           }
@@ -181,19 +142,20 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "84263f871163668a",
+  "active": "a4a795c54d6aba27",
   "lastOpenFiles": [
-    "TIL/022.md",
-    "TIL/021 - Daisy UI in 5 Minutes.md",
-    "TIL/032.md",
     "TIL/030.md",
     "TIL/035.md",
     "TIL/036.md",
+    "TIL/012 - Clsx in 5 Minutes.md",
+    "TIL/002 - Turso.tech.md",
+    "TIL/043.md",
+    "TIL/021 - Daisy UI in 5 Minutes.md",
+    "TIL/022 - JS Map.md",
+    "TIL/032.md",
     "TIL/034 - Why I use Prettier.md",
     "TIL/042.md",
-    "TIL/043.md",
     "TIL/044.md",
-    "TIL/012 - Clsx in 5 Minutes.md",
     "TIL/045 - How to Center a Div.md",
     "TIL/020 - FE Observer Pattern.md",
     "assets/Pasted image 20240218223759.png",
@@ -209,7 +171,6 @@
     "TIL/013 - Tailwind Merge in 5 Minutes.md",
     "TIL/011 - What is in tsconfig.json.md",
     "TIL/009 - Conventional Commits.md",
-    "TIL/007 - Fly.io.md",
     "assets/Pasted image 20240218220700.png",
     "TMPL",
     "TIL/Jan",
