@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TIL/030 - RxJS in Angular ❌.md",
+                "file": "TIL/030.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -72,7 +72,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TIL/030 - RxJS in Angular ❌.md",
+                "file": "TIL/030.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,7 +89,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TIL/030 - RxJS in Angular ❌.md",
+                "file": "TIL/030.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TIL/030 - RxJS in Angular ❌.md"
+                "file": "TIL/030.md"
               }
             }
           }
@@ -144,8 +144,9 @@
   },
   "active": "a4a795c54d6aba27",
   "lastOpenFiles": [
-    "TIL/031 - NextUI in 5 Minutes.md",
     "TIL/032.md",
+    "TIL/031 - NextUI in 5 Minutes.md",
+    "TIL/030.md",
     "TIL/034 - Why I use Prettier.md",
     "TIL/035.md",
     "TIL/044.md",
@@ -154,7 +155,6 @@
     "TIL/040.md",
     "TIL/045 - How to Center a Div.md",
     "notes.md",
-    "TIL/030 - RxJS in Angular ❌.md",
     "TIL/029 - Make PowerShell Great Again.md",
     "TIL/026 - TS Template Literal Types.md",
     "TIL/024 - Create Types from Types.md",
