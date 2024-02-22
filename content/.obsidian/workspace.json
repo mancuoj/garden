@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TIL/030.md",
+                "file": "notes.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -72,7 +72,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TIL/030.md",
+                "file": "notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,7 +89,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TIL/030.md",
+                "file": "notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TIL/030.md"
+                "file": "notes.md"
               }
             }
           }
@@ -144,9 +144,9 @@
   },
   "active": "a4a795c54d6aba27",
   "lastOpenFiles": [
+    "TIL/030.md",
     "TIL/002 - Turso.tech.md",
     "notes.md",
-    "TIL/030.md",
     "TIL/048.md",
     "TIL/047.md",
     "TIL/046.md",
