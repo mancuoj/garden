@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Collection/Media.md",
+                "file": "notes.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -72,7 +72,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Collection/Media.md",
+                "file": "notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,7 +89,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Collection/Media.md",
+                "file": "notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Collection/Media.md"
+                "file": "notes.md"
               }
             }
           }
@@ -144,6 +144,7 @@
   },
   "active": "a4a795c54d6aba27",
   "lastOpenFiles": [
+    "Collection/Media.md",
     "notes.md",
     "TIL/030.md",
     "TIL/002 - Turso.tech.md",
@@ -169,7 +170,6 @@
     "TIL/020 - Observer Pattern.md",
     "TIL/021 - Daisy UI in 5 Minutes.md",
     "TIL/027 - TS extends keyof and in keyof.md",
-    "TIL/028 - Java Syntax in 10 Minutes.md",
     "assets/Pasted image 20240218223759.png",
     "assets/Pasted image 20240218220700.png",
     "TMPL",
