@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TIL/032 - Arrow JS.md",
+                "file": "TIL/021 - Daisy UI.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -72,7 +72,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TIL/032 - Arrow JS.md",
+                "file": "TIL/021 - Daisy UI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,7 +89,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TIL/032 - Arrow JS.md",
+                "file": "TIL/021 - Daisy UI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TIL/032 - Arrow JS.md"
+                "file": "TIL/021 - Daisy UI.md"
               }
             }
           }
@@ -144,10 +144,10 @@
   },
   "active": "a4a795c54d6aba27",
   "lastOpenFiles": [
+    "TIL/032 - Arrow JS.md",
     "TIL/008 - Axios.md",
     "TIL/003 - TS in 5 Minutes.md",
     "TIL/006 -  You Might Not Need Axios.md",
-    "TIL/032 - Arrow JS.md",
     "TIL/013 - Tailwind Merge.md",
     "TIL/012 - Clsx.md",
     "TIL/021 - Daisy UI.md",
