@@ -36,7 +36,7 @@ data.$on('price', (value) => {
 })
 
 data.price = 35
-// outputs 'Price changed to 35'
+// 'Price changed to 35'
 ```
 
 
@@ -55,12 +55,19 @@ function total () {
   }
 }
 
-// tracks any reactive data depend
+// tracks any reactive data dependencies of that function
 watch(total)
 
 data.price = 35
+// 'Total: 250'
+// 'Total: 350'
 ```
 
+
+
+```js
+
+```
 
 ## Thanks
 
