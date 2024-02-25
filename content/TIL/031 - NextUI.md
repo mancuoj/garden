@@ -2,7 +2,7 @@
 date: 2024-01-31
 tags:
   - ui
-  - react
+  - tailwind
 ---
 
 NextUI is a UI library for React that helps you build beautiful and accessible user interfaces. Created on top of [Tailwind CSS](https://tailwindcss.com/) and [React Aria](https://react-spectrum.adobe.com/react-aria/index.html).

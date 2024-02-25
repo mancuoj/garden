@@ -1,5 +1,7 @@
 ---
 date: 2024-02-03
+tags:
+  - prettier
 ---
 
 Anyway, life is too short to bother with formatters.

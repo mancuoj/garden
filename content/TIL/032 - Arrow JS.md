@@ -1,5 +1,7 @@
 ---
 date: 2024-02-01
+tags:
+  - js
 ---
 
 ## Install
@@ -56,6 +58,7 @@ function total () {
 }
 
 // tracks any reactive data dependencies of that function
+// truns $on and truns $off  
 watch(total)
 
 data.price = 35
@@ -64,10 +67,39 @@ data.price = 35
 ```
 
 
+```js
+watch(
+  // watched function
+  () => data.logTotal && data.price * data.quantity,
+  // watched function callback
+  // the argument is the values returned by the watched function
+  (total) => total !== false && console.log(`Total: ${total}`)
+)
+```
 
 ```js
+import { html } from '@arrow-js/core'
 
+const appElement = document.getElementById('app')
+
+const template = html`Hello <em>World</em>`
+
+template(appElement)
+```
+
+```js
+import { html } from '@arrow-js/core'
+
+
+// function and reactive data will update automatically
+html`
+  <ul>
+    <li>Hello ${data.location} (🪨 static expression)</li>
+    <li>Hello ${() => data.location} (⚡ dynamic expression)</li>
+  </ul>
+`
 ```
 
 ## Thanks
 
+- [ArrowJS • Docs](https://www.arrow-js.com/docs/)
