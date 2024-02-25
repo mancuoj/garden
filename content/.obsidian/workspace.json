@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TIL/035.md",
+                "file": "TIL/014 - Git Alias.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TIL/035.md",
+                "file": "TIL/014 - Git Alias.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TIL/035.md",
+                "file": "TIL/014 - Git Alias.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TIL/035.md"
+                "file": "TIL/014 - Git Alias.md"
               }
             }
           }
@@ -171,6 +171,10 @@
   },
   "active": "ab73c39d86572c64",
   "lastOpenFiles": [
+    "TIL/013 - Tailwind Merge.md",
+    "TIL/012 - Clsx.md",
+    "TIL/019 - WSL Proxy.md",
+    "TIL/035.md",
     "TIL/034 - Why I use Prettier.md",
     "TIL/036.md",
     "TIL/044.md",
@@ -182,7 +186,6 @@
     "TIL/049.md",
     "TIL/050.md",
     "TIL/051.md",
-    "TIL/035.md",
     "TIL/037.md",
     "TIL/038.md",
     "TIL/039.md",
@@ -194,9 +197,6 @@
     "TIL/031 - NextUI.md",
     "TIL/030 - Auto Animate.md",
     "TIL/029 - Make PowerShell Great Again.md",
-    "TIL/028 - Java Syntax.md",
-    "TIL/027 - TS extends keyof and in keyof.md",
-    "TIL/026 - TS Template Literal Types.md",
     "assets/Pasted image 20240218223759.png",
     "assets/Pasted image 20240218220700.png",
     "TMPL",

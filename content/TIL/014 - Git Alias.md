@@ -7,7 +7,7 @@ tags:
 
 Use `gam update` to commit everything. 
 
-```
+```zshrc
 alias gl='git log'
 alias glo='git log --oneline --graph'
 alias gs='git status'
