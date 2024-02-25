@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TIL/035 - 10 Tailwind Classes.md",
+                "file": "TIL/036.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TIL/035 - 10 Tailwind Classes.md",
+                "file": "TIL/036.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TIL/035 - 10 Tailwind Classes.md",
+                "file": "TIL/036.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TIL/035 - 10 Tailwind Classes.md"
+                "file": "TIL/036.md"
               }
             }
           }
@@ -171,13 +171,13 @@
   },
   "active": "ab73c39d86572c64",
   "lastOpenFiles": [
+    "TIL/035 - 10 Tailwind Classes.md",
     "Blog/2024 Flags.md",
     "index.md",
     "notes.md",
     "Collection/Books.md",
     "Collection/Ideas.md",
     "Collection/Media.md",
-    "TIL/035 - 10 Tailwind Classes.md",
     "TIL/036.md",
     "TIL/049.md",
     "TIL/014 - Git Alias.md",
