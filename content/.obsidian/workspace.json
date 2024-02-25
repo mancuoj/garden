@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TIL/035.md",
+                "file": "TIL/035 - 10 Tailwind Classes.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blog/2024 Flags.md",
+                "file": "TIL/035 - 10 Tailwind Classes.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Blog/2024 Flags.md",
+                "file": "TIL/035 - 10 Tailwind Classes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Blog/2024 Flags.md",
+                "file": "TIL/035 - 10 Tailwind Classes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Blog/2024 Flags.md"
+                "file": "TIL/035 - 10 Tailwind Classes.md"
               }
             }
           }
@@ -171,12 +171,13 @@
   },
   "active": "ab73c39d86572c64",
   "lastOpenFiles": [
+    "Blog/2024 Flags.md",
     "index.md",
     "notes.md",
     "Collection/Books.md",
     "Collection/Ideas.md",
     "Collection/Media.md",
-    "TIL/035.md",
+    "TIL/035 - 10 Tailwind Classes.md",
     "TIL/036.md",
     "TIL/049.md",
     "TIL/014 - Git Alias.md",
@@ -196,7 +197,6 @@
     "TIL/038.md",
     "TIL/039.md",
     "TIL/040.md",
-    "TIL/041.md",
     "assets/Pasted image 20240218223759.png",
     "assets/Pasted image 20240218220700.png",
     "TMPL",
