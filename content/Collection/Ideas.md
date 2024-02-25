@@ -6,14 +6,6 @@ date: 2023-12-01
 > Fight for a bright tomorrow!
 
 
-
-
-## RSS
-
-- 订阅各位大佬博客
-- 更新后显示在网站上
-
-
 ## 随手记
 
 ### 想法

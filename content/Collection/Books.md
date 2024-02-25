@@ -10,13 +10,7 @@ date: 2024-01-01
 
 - 从姑获鸟开始 by 活儿该
 - ng-book by Nate Murray & Felipe Coury & Ari Lerner & Carlos Taborda
-- Angular in Action by Jeremy Wilken
-- Angular Up & Running by Shyam Seshadri
-- Angular Development with TypeScript by Yakov Fain & Anton Moiseev
-- Testing Angular Applications by Jesse Palmer & Corinna Cohn & Mike Giambalvo & Craig Nishina
 - Refactoring UI by Adam Wathan & Steve Schoger
-
-
 ## To Read
 
 - 鬼吹灯 by 天下霸唱
@@ -28,6 +22,10 @@ date: 2024-01-01
 - 网络是怎样连接的 by 户勤根
 - Wireshark 网络分析就这么简单 by 林沛满
 - Wireshark 网络分析的艺术 by 林沛满
+- Angular in Action by Jeremy Wilken
+- Angular Up & Running by Shyam Seshadri
+- Angular Development with TypeScript by Yakov Fain & Anton Moiseev
+- Testing Angular Applications by Jesse Palmer & Corinna Cohn & Mike Giambalvo & Craig Nishina
 
 ## Past
 
@@ -48,7 +46,7 @@ date: 2024-01-01
 - ❌ 从津门第一开始 by 咬一口山风
 - ❌ 从解脱胜开始 by 退巍
 
-### Dec 2023
+### 2023
 
 > 12 月开始记录，中途弃掉就不计算在内了
 

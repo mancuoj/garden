@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TIL/035.md",
+                "file": "index.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TIL/035.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TIL/035.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TIL/035.md"
+                "file": "index.md"
               }
             }
           }
@@ -171,14 +171,17 @@
   },
   "active": "ab73c39d86572c64",
   "lastOpenFiles": [
+    "notes.md",
+    "Collection/Books.md",
+    "Collection/Ideas.md",
+    "Collection/Media.md",
+    "TIL/035.md",
     "TIL/036.md",
     "TIL/049.md",
-    "notes.md",
     "TIL/014 - Git Alias.md",
     "TIL/013 - Tailwind Merge.md",
     "TIL/012 - Clsx.md",
     "TIL/019 - WSL Proxy.md",
-    "TIL/035.md",
     "TIL/034 - Why I use Prettier.md",
     "TIL/044.md",
     "TIL/045 - How to Center a Div.md",
@@ -194,9 +197,6 @@
     "TIL/040.md",
     "TIL/041.md",
     "TIL/042.md",
-    "TIL/033 - Rust CLI Tools.md",
-    "TIL/032 - Arrow JS.md",
-    "TIL/031 - NextUI.md",
     "assets/Pasted image 20240218223759.png",
     "assets/Pasted image 20240218220700.png",
     "TMPL",
