@@ -9,4 +9,5 @@ CSS libraries that provides consistent, cross-browser default styling of HTML el
 ## Thanks
 
 - [Style Reset](https://unocss.dev/guide/style-reset)
-- [csstools/normalize.css](https://github.com/csstools/normalize.css)
+- [sindresorhus/modern-normalize](https://github.com/sindresorhus/modern-normalize)
+- [Modern CSS Reset / Global Styles](https://www.joshwcomeau.com/css/custom-css-reset/)
