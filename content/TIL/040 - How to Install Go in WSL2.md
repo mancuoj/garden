@@ -13,7 +13,7 @@ tags:
 # select the latest release: https://go.dev/dl
 cd ~
 wget https://go.dev/dl/go1.22.0.linux-amd64.tar.gz
-tar -C /usr/local -xzf go1.22.0.linux-amd64.tar.gz
+sudo tar -C /usr/local -xzf go1.22.0.linux-amd64.tar.gz
 mkdir go
 ```
 
