@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TIL/038 - From React to Next.js.md",
+                "file": "TIL/039 - React Ref.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TIL/038 - From React to Next.js.md",
+                "file": "TIL/039 - React Ref.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TIL/038 - From React to Next.js.md",
+                "file": "TIL/039 - React Ref.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TIL/038 - From React to Next.js.md"
+                "file": "TIL/039 - React Ref.md"
               }
             }
           }
@@ -158,14 +158,14 @@
   },
   "active": "4b033ecd8c42c07b",
   "lastOpenFiles": [
+    "TIL/038 - From React to Next.js.md",
+    "TIL/033 - Modern Rust CLI Tools.md",
     "TIL/039 - React Ref.md",
     "TIL/031 - Next UI.md",
     "TIL/032 - Arrow JS.md",
-    "TIL/038 - From React to Next.js.md",
     "TIL/037 - CSS Style Reset.md",
     "TIL/036 - Aceternity UI.md",
     "TIL/034 - Why I use Prettier.md",
-    "TIL/033 - Rust CLI Tools.md",
     "TIL/029 - Make PowerShell Great Again.md",
     "TIL/030 - Auto Animate.md",
     "TIL/001 - How to Write a Good Technical Note.md",
