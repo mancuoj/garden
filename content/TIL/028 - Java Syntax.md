@@ -4,7 +4,7 @@ tags:
   - java
 ---
 
-My goal is to quickly learn and then dive into building a simple CRUD project with Spring Boot 3. 
+My goal is to quickly learn and then dive into building a simple CRUD project with Spring Boot 3.
 
 Here's a summary of the prerequisites:
 
@@ -25,6 +25,7 @@ javac --version
 JDK stands for Java Development Kit, which includes the code compiler JAVAC and other tools like the runtime environment JRE.
 
 JAVAC compiles `.java` files into `.class` bytecode files, which are then executed by JRE. The Java Virtual Machine (JVM) in JRE translates bytecode into machine code for execution on different computer devices, enabling Java's cross-platform capabilities.
+
 ## Hello World
 
 Firstly, install VS Code and Extension Pack for Java.
@@ -44,7 +45,6 @@ class HelloWorld {
   }
 }
 ```
-
 
 ## Types and Variables
 
@@ -120,4 +120,3 @@ Object-oriented concepts such as classes, constructors, inheritance, polymorphis
 - [10分钟速成Java 送你的2024新年礼物](https://www.bilibili.com/video/BV1Ee411H7mT/?vd_source=4da426ef9b0e129787ecf66363321458)
 - [Spring Boot Tutorial for Beginners - 2023 Crash Course using Spring Boot 3 - YouTube](https://www.youtube.com/watch?v=UgX5lgv4uVM)
 - [Java Cheat Sheet & Quick Reference](https://quickref.me/java.html)
-

@@ -35,7 +35,6 @@ Append a `!` after the type when you have a breaking change.
 feat!: api change
 ```
 
-
 ## Thanks
 
 - [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/)

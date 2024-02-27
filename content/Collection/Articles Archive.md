@@ -2,7 +2,6 @@
 date: 2023-12-01
 ---
 
-
 记录读过或想读的好文章（包括一些写的好的项目文档），推荐的 Blogger 在[[Bloggers|这里]]，书单记录在[[Books|这里]]，都用来对抗我日渐衰退的记忆力 🥹
 
 用 [TIL: Today I Learned](https://garden.mancuoj.me/TIL/) 逐步代替这个页面了，把看过的好文章归纳总结成自己的东西。
@@ -16,7 +15,6 @@ date: 2023-12-01
 - [Building JavaScript widget (jenyay.com)](https://blog.jenyay.com/building-javascript-widget/)
 - [React component as prop: the right way](https://www.developerway.com/posts/react-component-as-prop-the-right-way)
 - [React Design Patterns](https://dev.to/refine/react-design-patterns-230o)
-
 
 - [jsun969/just-submit: 🛫 Submit simple form, with safe types, without management! (github.com)](https://github.com/jsun969/just-submit)
 
@@ -41,7 +39,6 @@ date: 2023-12-01
 - [Why You Should Write Your Own Static Site Generator](https://arne.me/articles/write-your-own-ssg)
 - [Organizing multiple Git identities](https://garrit.xyz/posts/2023-10-13-organizing-multiple-git-identities)
 
-
 - [What is in that .git directory?](https://blog.meain.io/2023/what-is-in-dot-git/)
 
 - [How I Deployed my Website as a Docker Container](https://dev.to/paschalogu/how-i-deployed-my-website-as-a-container-3fje)
@@ -64,7 +61,6 @@ date: 2023-12-01
 - [Why I Like Using Maps (and WeakMaps) for Handling DOM Nodes](https://macarthur.me/posts/maps-for-dom-nodes)
 - [Display a view counter on your blog with React Server Components](https://scastiel.dev/view-counter-react-server-components)
 - [Building a blog with Next.js 14 and React Server Components](https://maxleiter.com/blog/build-a-blog-with-nextjs-13)
-
 
 - [A deep dive into mutations in TanStack Query](https://blog.logrocket.com/deep-dive-mutations-tanstack-query/)
 - [How to Drag and Drop in React](https://www.robinwieruch.de/react-drag-and-drop/)
@@ -110,50 +106,51 @@ date: 2023-12-01
 - [haixiangyan/make-wheels 一天学习一个 npm 轮子，十天后变成轮子哥](https://github.com/haixiangyan/make-wheels)
 - [Dependency Managers Don’t Manage Your Dependencies 系列四篇](https://cpojer.net/posts/dependency-managers-dont-manage-your-dependencies)
 
-
 ## Past
 
 ### Jan 2024
-| 文章名称 | 记录 |
-| ---- | ---- |
-| [Tailwind CSS v3.4](https://tailwindcss.com/blog/tailwindcss-v3-4) | 3.4 更新文档，支持了许多好东西 |
-| [Tailwind CSS v3.3](https://tailwindcss.com/blog/tailwindcss-v3-3) | 3.3 更新文档 |
-| [Tailwind CSS v3.2](https://tailwindcss.com/blog/tailwindcss-v3-2) | 3.2 更新文档 |
-| [Tailwind CSS v3.1](https://tailwindcss.com/blog/tailwindcss-v3-1) | 3.1 更新文档，时间跨度超过一年 |
-| [描述用户界面 ](https://zh-hans.react.dev/learn/describing-the-ui) | [[React 文档拾遗]] |
-| [2023 JavaScript Rising Stars](https://risingstars.js.org/2023/en) | 可以看出 2023 前端趋势 |
-| [The Epic Stack](https://www.epicweb.dev/epic-stack) | fly.io 你让我哭，SQLite 就是最好用的数据库 |
-| [Let's Learn About Waveforms](https://pudding.cool/2018/02/waveforms/) | 我到底为啥要看这个？ |
-| [How to use prefers-reduced-motion in React](https://www.joshwcomeau.com/react/prefers-reduced-motion/) | 在用户系统设置禁用动画时，禁用组件的动画 |
-| [Spring Physics animation in JavaScript](https://www.joshwcomeau.com/animation/a-friendly-introduction-to-spring-physics/#thinking-in-springs-2) | Mass 质量，Tension 张力（可以看作弹簧的圈数），Friction 摩擦力 |
-| [Common Beginner Mistakes with React](https://www.joshwcomeau.com/react/common-beginner-mistakes/) | ~~常看常新~~，React 新文档里描述了一切坑 |
-| [Common React Hooks Mistakes You Should Avoid](https://blog.bitsrc.io/common-react-hooks-mistakes-every-developer-should-avoid-defd47d09d8c) | React 新文档里描述了一切坑 |
-| [Data binding in React: how to work with forms in React](https://www.joshwcomeau.com/react/data-binding/) | 基本是 value, onChange |
-| [kettanaito/naming-cheatsheet](https://github.com/kettanaito/naming-cheatsheet) | set, get, reset, add, remove, create, delete, compose, handle, is, has, should, min, max, prev, next |
-| [Using the Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch) | [[006 -  You Might Not Need Axios]] |
-| [You may not need Axios](https://danlevy.net/you-may-not-need-axios/) | [[006 -  You Might Not Need Axios]] |
-| [添加交互](https://zh-hans.react.dev/learn/adding-interactivity) | [[React 文档拾遗]] |
-| [状态管理](https://zh-hans.react.dev/learn/managing-state) | [[React 文档拾遗]] |
-| [TypeScript for React Developers](https://www.freecodecamp.org/news/typescript-for-react-developers/) | [[React + TypeScript 小抄]] |
-| [Function Components \| React TypeScript Cheatsheets ](https://react-typescript-cheatsheet.netlify.app/docs/basic/getting-started/function_components) | [[React + TypeScript 小抄]] |
-| [The anatomy of shadcn/ui](https://manupa.dev/blog/anatomy-of-shadcn-ui)<br> | clsx, twMerge, cva |
-| [应急方案](https://zh-hans.react.dev/learn/escape-hatches) | 每一篇都是精华 |
+
+| 文章名称                                                                                                                                               | 记录                                                                                                 |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------- |
+| [Tailwind CSS v3.4](https://tailwindcss.com/blog/tailwindcss-v3-4)                                                                                     | 3.4 更新文档，支持了许多好东西                                                                       |
+| [Tailwind CSS v3.3](https://tailwindcss.com/blog/tailwindcss-v3-3)                                                                                     | 3.3 更新文档                                                                                         |
+| [Tailwind CSS v3.2](https://tailwindcss.com/blog/tailwindcss-v3-2)                                                                                     | 3.2 更新文档                                                                                         |
+| [Tailwind CSS v3.1](https://tailwindcss.com/blog/tailwindcss-v3-1)                                                                                     | 3.1 更新文档，时间跨度超过一年                                                                       |
+| [描述用户界面 ](https://zh-hans.react.dev/learn/describing-the-ui)                                                                                     | [[React 文档拾遗]]                                                                                   |
+| [2023 JavaScript Rising Stars](https://risingstars.js.org/2023/en)                                                                                     | 可以看出 2023 前端趋势                                                                               |
+| [The Epic Stack](https://www.epicweb.dev/epic-stack)                                                                                                   | fly.io 你让我哭，SQLite 就是最好用的数据库                                                           |
+| [Let's Learn About Waveforms](https://pudding.cool/2018/02/waveforms/)                                                                                 | 我到底为啥要看这个？                                                                                 |
+| [How to use prefers-reduced-motion in React](https://www.joshwcomeau.com/react/prefers-reduced-motion/)                                                | 在用户系统设置禁用动画时，禁用组件的动画                                                             |
+| [Spring Physics animation in JavaScript](https://www.joshwcomeau.com/animation/a-friendly-introduction-to-spring-physics/#thinking-in-springs-2)       | Mass 质量，Tension 张力（可以看作弹簧的圈数），Friction 摩擦力                                       |
+| [Common Beginner Mistakes with React](https://www.joshwcomeau.com/react/common-beginner-mistakes/)                                                     | ~~常看常新~~，React 新文档里描述了一切坑                                                             |
+| [Common React Hooks Mistakes You Should Avoid](https://blog.bitsrc.io/common-react-hooks-mistakes-every-developer-should-avoid-defd47d09d8c)           | React 新文档里描述了一切坑                                                                           |
+| [Data binding in React: how to work with forms in React](https://www.joshwcomeau.com/react/data-binding/)                                              | 基本是 value, onChange                                                                               |
+| [kettanaito/naming-cheatsheet](https://github.com/kettanaito/naming-cheatsheet)                                                                        | set, get, reset, add, remove, create, delete, compose, handle, is, has, should, min, max, prev, next |
+| [Using the Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch)                                                          | [[006 -  You Might Not Need Axios]]                                                                  |
+| [You may not need Axios](https://danlevy.net/you-may-not-need-axios/)                                                                                  | [[006 -  You Might Not Need Axios]]                                                                  |
+| [添加交互](https://zh-hans.react.dev/learn/adding-interactivity)                                                                                       | [[React 文档拾遗]]                                                                                   |
+| [状态管理](https://zh-hans.react.dev/learn/managing-state)                                                                                             | [[React 文档拾遗]]                                                                                   |
+| [TypeScript for React Developers](https://www.freecodecamp.org/news/typescript-for-react-developers/)                                                  | [[React + TypeScript 小抄]]                                                                          |
+| [Function Components \| React TypeScript Cheatsheets ](https://react-typescript-cheatsheet.netlify.app/docs/basic/getting-started/function_components) | [[React + TypeScript 小抄]]                                                                          |
+| [The anatomy of shadcn/ui](https://manupa.dev/blog/anatomy-of-shadcn-ui)<br>                                                                           | clsx, twMerge, cva                                                                                   |
+| [应急方案](https://zh-hans.react.dev/learn/escape-hatches)                                                                                             | 每一篇都是精华                                                                                       |
 
 ### Dec 2023
-| 文章名称 | 记录 |
-| ---- | ---- |
-| [A Complete Guide to React Router: Everything You Need to Know](https://ui.dev/react-router-tutorial) | 烂 |
-| [Tutorial v6.21.0 \| React Router](https://reactrouter.com/en/main/start/tutorial) | 教程挺好，但是全是 JS， TS 支持太垃圾了 |
-| [State of CSS 2023](https://2023.stateofcss.com/en-US) | 收获的只有几个 CSS 博客网站 |
-| [开发一个浏览器插件在第三天卖出 1000 元](https://lutaonan.com/blog/my-extension-sold-1k-yuan/) | 第一桶金 |
-| [JavaScript to Know for React](https://kentcdodds.com/blog/javascript-to-know-for-react) | 看了就忘+1 |
-| [How to React](https://kentcdodds.com/blog/how-to-react) | 看了就忘 |
-| [AHA Programming](https://keenwon.com/aha-programming/) | 避免过早抽象 |
-| [How To Learn Stuff Quickly](https://www.joshwcomeau.com/blog/how-to-learn-stuff-quickly/) | 如何学习+1，最有收获的一集 |
-| [关于 Yak Shaving](https://antfu.me/posts/about-yak-shaving-zh) | 如何学习 |
-| [Super Simple Start to React](https://kentcdodds.com/blog/super-simple-start-to-react) | 没有框架怎么用 React |
-| [Top 10 Mistakes to Avoid When Using React](https://javascript.plainenglish.io/top-10-mistakes-to-avoid-when-using-react-1796711ad2a0) | 有点过时 |
-| [How to Use TypeScript with React](https://www.freecodecamp.org/news/use-typescript-with-react/) | [[React + TypeScript 小抄]] |
-| [A (more) Modern CSS Reset](https://andy-bell.co.uk/a-more-modern-css-reset/) | 这三个 Reset 结合起来看 |
-| [Modern CSS Reset / Global Styles](https://www.joshwcomeau.com/css/custom-css-reset/) | 最实用的 CSS Reset |
-| [Your CSS reset needs text-size-adjust (probably)](https://kilianvalkhof.com/2022/css-html/your-css-reset-needs-text-size-adjust-probably/) | CSS 的一些 text 设置 |
+
+| 文章名称                                                                                                                                    | 记录                                    |
+| ------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------- |
+| [A Complete Guide to React Router: Everything You Need to Know](https://ui.dev/react-router-tutorial)                                       | 烂                                      |
+| [Tutorial v6.21.0 \| React Router](https://reactrouter.com/en/main/start/tutorial)                                                          | 教程挺好，但是全是 JS， TS 支持太垃圾了 |
+| [State of CSS 2023](https://2023.stateofcss.com/en-US)                                                                                      | 收获的只有几个 CSS 博客网站             |
+| [开发一个浏览器插件在第三天卖出 1000 元](https://lutaonan.com/blog/my-extension-sold-1k-yuan/)                                              | 第一桶金                                |
+| [JavaScript to Know for React](https://kentcdodds.com/blog/javascript-to-know-for-react)                                                    | 看了就忘+1                              |
+| [How to React](https://kentcdodds.com/blog/how-to-react)                                                                                    | 看了就忘                                |
+| [AHA Programming](https://keenwon.com/aha-programming/)                                                                                     | 避免过早抽象                            |
+| [How To Learn Stuff Quickly](https://www.joshwcomeau.com/blog/how-to-learn-stuff-quickly/)                                                  | 如何学习+1，最有收获的一集              |
+| [关于 Yak Shaving](https://antfu.me/posts/about-yak-shaving-zh)                                                                             | 如何学习                                |
+| [Super Simple Start to React](https://kentcdodds.com/blog/super-simple-start-to-react)                                                      | 没有框架怎么用 React                    |
+| [Top 10 Mistakes to Avoid When Using React](https://javascript.plainenglish.io/top-10-mistakes-to-avoid-when-using-react-1796711ad2a0)      | 有点过时                                |
+| [How to Use TypeScript with React](https://www.freecodecamp.org/news/use-typescript-with-react/)                                            | [[React + TypeScript 小抄]]             |
+| [A (more) Modern CSS Reset](https://andy-bell.co.uk/a-more-modern-css-reset/)                                                               | 这三个 Reset 结合起来看                 |
+| [Modern CSS Reset / Global Styles](https://www.joshwcomeau.com/css/custom-css-reset/)                                                       | 最实用的 CSS Reset                      |
+| [Your CSS reset needs text-size-adjust (probably)](https://kilianvalkhof.com/2022/css-html/your-css-reset-needs-text-size-adjust-probably/) | CSS 的一些 text 设置                    |

@@ -29,7 +29,7 @@ sudo rm -rf /usr/local/go
 # delete and reinstall the latest version
 ```
 
-Or 
+Or
 
 ```sh
 git clone https://github.com/udhos/update-golang
@@ -41,5 +41,3 @@ sudo ./update-golang.sh
 
 - [WSL | GoLand Documentation](https://www.jetbrains.com/help/go/how-to-use-wsl-development-environment-in-product.html#wsl-general)
 - [All releases - The Go Programming Language](https://go.dev/dl/)
-
-

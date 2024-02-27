@@ -8,7 +8,6 @@ Anyway, life is too short to bother with formatters.
 
 ## I Love Prettier
 
-
 ```sh
 ni -D prettier
 ```
@@ -29,7 +28,7 @@ ni -D prettier
 {
   "editor.formatOnSave": true,
   "prettier.semi": false,
-  "prettier.trailingComma": "all",
+  "prettier.trailingComma": "all"
 }
 ```
 

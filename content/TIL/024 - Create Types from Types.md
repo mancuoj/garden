@@ -9,5 +9,3 @@ TypeScript's type system is very powerful because it allows expressing types in 
 ## Thanks
 
 - [TypeScript: Documentation](https://www.typescriptlang.org/docs/handbook/2/types-from-types.html)
-
-

@@ -24,15 +24,13 @@ date: 2023-12-31
 }
 ```
 
-
 ## 范围映射
 
 ```js
 const scale = (num, in_min, in_max, out_min, out_max) => {
-  return (num - in_min) / (in_max - in_min) * (out_max - out_min) + out_min
+  return ((num - in_min) / (in_max - in_min)) * (out_max - out_min) + out_min
 }
 ```
-
 
 ## 随机数字
 
@@ -40,13 +38,12 @@ const scale = (num, in_min, in_max, out_min, out_max) => {
 const random = (min, max) => Math.floor(Math.random() * (max - min)) + min
 ```
 
-
 ## [鼠标位置 Hook](https://www.joshwcomeau.com/snippets/react-hooks/use-mouse-position/)
 
 移动端增加条件需要判断 TouchEvent 和 touchmove。
 
 ```ts
-import { useEffect, useState } from 'react'
+import { useEffect, useState } from "react"
 
 interface Position {
   x: number | null
@@ -61,10 +58,10 @@ export const useMousePosition = () => {
       setMousePosition({ x: e.clientX, y: e.clientY })
     }
 
-    window.addEventListener('mousemove', updateMousePosition)
+    window.addEventListener("mousemove", updateMousePosition)
 
     return () => {
-      window.removeEventListener('mousemove', updateMousePosition)
+      window.removeEventListener("mousemove", updateMousePosition)
     }
   }, [])
 
@@ -80,21 +77,17 @@ export const useMousePosition = () => {
 const id = crypto.randomUUID()
 ```
 
-
 ## Position Type
 
 ```ts
-type VPosition = 'top' | 'middle' | 'bottom'
-type HPosition = 'left' | 'center' | 'right'
+type VPosition = "top" | "middle" | "bottom"
+type HPosition = "left" | "center" | "right"
 
-export type PositionValues = Exclude<`${VPosition}-${HPosition}`, 'middle-center'> | 'center'
+export type PositionValues = Exclude<`${VPosition}-${HPosition}`, "middle-center"> | "center"
 ```
-
-
 
 ## React Force Update
 
 ```ts
-const useForceUpdate = () => useReducer(state => !state, false)[1]
+const useForceUpdate = () => useReducer((state) => !state, false)[1]
 ```
-

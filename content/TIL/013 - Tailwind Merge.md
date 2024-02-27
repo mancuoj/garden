@@ -5,7 +5,7 @@ tags:
   - tailwind
 ---
 
-`twMerge` overrides conflicting classes and keeps everything else untouched. 
+`twMerge` overrides conflicting classes and keeps everything else untouched.
 
 ## cn
 
@@ -17,7 +17,6 @@ export function cn(...inputs: ClassValue[]) {
   return twMerge(clsx(inputs))
 }
 ```
-
 
 ## Thanks
 

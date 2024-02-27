@@ -18,7 +18,7 @@ tags:
 新建 `index.html` 文件，在未来的一段时间内，我们将在这个文件中编写代码。
 
 ```html
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
@@ -41,7 +41,7 @@ tags:
   <script src="https://unpkg.com/vue@2"></script>
   <script>
     new Vue({
-      el: '#app',
+      el: "#app",
     })
   </script>
 </body>
@@ -60,7 +60,7 @@ tags:
   <script src="https://unpkg.com/vue@2"></script>
   <script>
     const vm = new Vue()
-    vm.$mount('#app')
+    vm.$mount("#app")
   </script>
 </body>
 ```
@@ -79,7 +79,7 @@ tags:
 <script>
   new Vue({
     data: {
-      title: 'todos',
+      title: "todos",
     },
   })
 </script>
@@ -97,11 +97,11 @@ Vue 实例会在创建时将 `data` 对象中的所有属性加入到响应式�
 <script>
   new Vue({
     data: {
-      title: 'todos',
+      title: "todos",
       todos: [
-        { id: 1, text: 'Learn JavaScript', completed: true },
-        { id: 2, text: 'Learn Vue', completed: false },
-        { id: 3, text: 'Build something awesome', completed: false },
+        { id: 1, text: "Learn JavaScript", completed: true },
+        { id: 2, text: "Learn Vue", completed: false },
+        { id: 3, text: "Build something awesome", completed: false },
       ],
     },
   })
@@ -273,7 +273,7 @@ Vue 允许 `v-on` 监听键盘事件时添加按键修饰符，我们可以通�
           text: value,
           completed: false,
         })
-        e.target.value = ''
+        e.target.value = ""
       },
     },
   })
@@ -295,14 +295,14 @@ Vue 提供了 watch 选项也叫侦听器，用于观察和响应 Vue 实例上�
 ```js
 new Vue({
   data: {
-    title: 'todos',
-    todos: JSON.parse(localStorage.getItem('vue2-todomvc') || '[]'),
+    title: "todos",
+    todos: JSON.parse(localStorage.getItem("vue2-todomvc") || "[]"),
   },
 
   watch: {
     todos: {
       handler: function (todos) {
-        localStorage.setItem('vue2-todomvc', JSON.stringify(todos))
+        localStorage.setItem("vue2-todomvc", JSON.stringify(todos))
       },
       deep: true,
     },
@@ -319,12 +319,12 @@ new Vue({
 当然，我们尽量还是不要使用 `'vue-todomvc'` 这种硬编码的字符串，可以将其定义为常量，放在最外层。
 
 ```js
-const STORAGE_KEY = 'vue2-todomvc'
+const STORAGE_KEY = "vue2-todomvc"
 
 new Vue({
   data: {
-    title: 'todos',
-    todos: JSON.parse(localStorage.getItem(STORAGE_KEY) || '[]'),
+    title: "todos",
+    todos: JSON.parse(localStorage.getItem(STORAGE_KEY) || "[]"),
   },
 
   watch: {
@@ -345,7 +345,7 @@ new Vue({
 本文最终完整代码如下所示：
 
 ```html
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
@@ -375,12 +375,12 @@ new Vue({
     </div>
 
     <script>
-      const STORAGE_KEY = 'vue2-todomvc'
+      const STORAGE_KEY = "vue2-todomvc"
 
       const vm = new Vue({
         data: {
-          title: 'todos',
-          todos: JSON.parse(localStorage.getItem(STORAGE_KEY) || '[]'),
+          title: "todos",
+          todos: JSON.parse(localStorage.getItem(STORAGE_KEY) || "[]"),
         },
 
         watch: {
@@ -403,7 +403,7 @@ new Vue({
               text: value,
               completed: false,
             })
-            e.target.value = ''
+            e.target.value = ""
           },
 
           removeTodo(index) {
@@ -412,7 +412,7 @@ new Vue({
         },
       })
 
-      vm.$mount('#app')
+      vm.$mount("#app")
     </script>
   </body>
 </html>
@@ -535,7 +535,7 @@ new Vue({
 <script>
   new Vue({
     directives: {
-      'todo-focus': {
+      "todo-focus": {
         inserted(el) {
           el.focus()
         },
@@ -566,16 +566,16 @@ new Vue({
 ```js
 new Vue({
   data: {
-    visibility: 'all',
+    visibility: "all",
   },
   methods: {
     onHashChange() {
-      const visibility = window.location.hash.replace(/#\/?/, '')
+      const visibility = window.location.hash.replace(/#\/?/, "")
       if (filters[visibility]) {
         this.visibility = visibility
       } else {
-        window.location.hash = ''
-        this.visibility = 'all'
+        window.location.hash = ""
+        this.visibility = "all"
       }
     },
   },
@@ -590,7 +590,7 @@ new Vue({
 new Vue({
   mounted() {
     this.onHashChange()
-    window.addEventListener('hashchange', this.onHashChange)
+    window.addEventListener("hashchange", this.onHashChange)
   },
 })
 ```
@@ -612,11 +612,11 @@ new Vue({
   new Vue({
     computed: {
       filteredTodos() {
-        if (this.visibility === 'all') {
+        if (this.visibility === "all") {
           return this.todos
-        } else if (this.visibility === 'active') {
+        } else if (this.visibility === "active") {
           return this.todos.filter((todo) => !todo.completed)
-        } else if (this.visibility === 'completed') {
+        } else if (this.visibility === "completed") {
           return this.todos.filter((todo) => todo.completed)
         }
       },
@@ -692,7 +692,7 @@ const vm = new Vue({
   new Vue({
     filters: {
       pluralize(n) {
-        return n === 1 ? 'item' : 'items'
+        return n === 1 ? "item" : "items"
       },
     },
   })
@@ -738,7 +738,7 @@ const vm = new Vue({
 最终完整代码（不包含 CSS）如下所示：
 
 ```html
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
@@ -760,8 +760,20 @@ const vm = new Vue({
         <input type="text" autofocus placeholder="What needs to be done?" @keyup.enter="addTodo" />
       </div>
       <ul>
-        <li v-for="(todo, index) in filteredTodos" :key="todo.id" :class="{completed: todo.completed}">
-          <input type="text" v-if="todo === editedTodo" v-model="todo.text" @keyup.enter="doneEdit(todo)" @keyup.esc="cancelEdit(todo)" v-todo-focus @blur="doneEdit(todo)" />
+        <li
+          v-for="(todo, index) in filteredTodos"
+          :key="todo.id"
+          :class="{completed: todo.completed}"
+        >
+          <input
+            type="text"
+            v-if="todo === editedTodo"
+            v-model="todo.text"
+            @keyup.enter="doneEdit(todo)"
+            @keyup.esc="cancelEdit(todo)"
+            v-todo-focus
+            @blur="doneEdit(todo)"
+          />
           <div v-else>
             <input type="checkbox" v-model="todo.completed" />
             <label @dblclick="editTodo(todo)">{{todo.text}}</label>
@@ -781,7 +793,7 @@ const vm = new Vue({
     </div>
 
     <script>
-      const STORAGE_KEY = 'vue2-todomvc'
+      const STORAGE_KEY = "vue2-todomvc"
 
       const filters = {
         all: (todos) => todos,
@@ -791,10 +803,10 @@ const vm = new Vue({
 
       const vm = new Vue({
         data: {
-          title: 'todos',
-          todos: JSON.parse(localStorage.getItem(STORAGE_KEY) || '[]'),
+          title: "todos",
+          todos: JSON.parse(localStorage.getItem(STORAGE_KEY) || "[]"),
           editedTodo: null,
-          visibility: 'all',
+          visibility: "all",
         },
 
         watch: {
@@ -808,7 +820,7 @@ const vm = new Vue({
 
         mounted() {
           this.onHashChange()
-          window.addEventListener('hashchange', this.onHashChange)
+          window.addEventListener("hashchange", this.onHashChange)
         },
 
         computed: {
@@ -841,7 +853,7 @@ const vm = new Vue({
               text: value,
               completed: false,
             })
-            e.target.value = ''
+            e.target.value = ""
           },
 
           removeTodo(index) {
@@ -874,24 +886,24 @@ const vm = new Vue({
           },
 
           onHashChange() {
-            const visibility = window.location.hash.replace(/#\/?/, '')
+            const visibility = window.location.hash.replace(/#\/?/, "")
             if (filters[visibility]) {
               this.visibility = visibility
             } else {
-              window.location.hash = ''
-              this.visibility = 'all'
+              window.location.hash = ""
+              this.visibility = "all"
             }
           },
         },
 
         filters: {
           pluralize(n) {
-            return n === 1 ? 'item' : 'items'
+            return n === 1 ? "item" : "items"
           },
         },
 
         directives: {
-          'todo-focus': {
+          "todo-focus": {
             inserted(el) {
               el.focus()
             },
@@ -899,7 +911,7 @@ const vm = new Vue({
         },
       })
 
-      vm.$mount('#app')
+      vm.$mount("#app")
     </script>
   </body>
 </html>

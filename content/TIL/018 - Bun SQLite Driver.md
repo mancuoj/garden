@@ -15,27 +15,27 @@ class Database {
     options?:
       | number
       | {
-          readonly?: boolean;
-          create?: boolean;
-          readwrite?: boolean;
+          readonly?: boolean
+          create?: boolean
+          readwrite?: boolean
         },
-  );
+  )
 
-  query<Params, ReturnType>(sql: string): Statement<Params, ReturnType>;
+  query<Params, ReturnType>(sql: string): Statement<Params, ReturnType>
 }
 
 class Statement<Params, ReturnType> {
-  all(params: Params): ReturnType[];
-  get(params: Params): ReturnType | undefined;
-  run(params: Params): void;
-  values(params: Params): unknown[][];
+  all(params: Params): ReturnType[]
+  get(params: Params): ReturnType | undefined
+  run(params: Params): void
+  values(params: Params): unknown[][]
 
-  finalize(): void; // destroy statement and clean up resources
-  toString(): string; // serialize to SQL
+  finalize(): void // destroy statement and clean up resources
+  toString(): string // serialize to SQL
 
-  columnNames: string[]; // the column names of the result set
-  paramsCount: number; // the number of parameters expected by the statement
-  native: any; // the native object representing the statement
+  columnNames: string[] // the column names of the result set
+  paramsCount: number // the number of parameters expected by the statement
+  native: any // the native object representing the statement
 }
 
 type SQLQueryBindings =
@@ -45,7 +45,7 @@ type SQLQueryBindings =
   | number
   | boolean
   | null
-  | Record<string, string | bigint | TypedArray | number | boolean | null>;
+  | Record<string, string | bigint | TypedArray | number | boolean | null>
 ```
 
 ## Thanks

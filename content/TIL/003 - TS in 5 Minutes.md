@@ -116,7 +116,6 @@ interface Backpack<Type> {
 }
 ```
 
-
 ## Structural Type System
 
 One of TypeScript's core principles is that type checking focuses on the _shape_ that values have. This is sometimes called "duck typing" or "structural typing".

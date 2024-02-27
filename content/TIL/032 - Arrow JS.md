@@ -12,8 +12,7 @@ tags:
 
 ```js
 <script type="module">
-  import { reactive, html } from 'https://esm.sh/@arrow-js/core';
-  // Start your app here!
+  import {(reactive, html)} from 'https://esm.sh/@arrow-js/core'; // Start your app here!
 </script>
 ```
 
@@ -24,16 +23,16 @@ tags:
 - HTML (t)
 
 ```js
-import { reactive } from '@arrow-js/core'
+import { reactive } from "@arrow-js/core"
 
 const data = reactive({
   price: 25,
-  quantity: 10
+  quantity: 10,
 })
 
 // when price changes, call the function
 // $off to remove that callback
-data.$on('price', (value) => {
+data.$on("price", (value) => {
   console.log(`Price changed to ${value}`)
 })
 
@@ -41,24 +40,23 @@ data.price = 35
 // 'Price changed to 35'
 ```
 
-
 ```js
-import { reactive, watch } from '@arrow-js/core'
+import { reactive, watch } from "@arrow-js/core"
 
 const data = reactive({
   price: 25,
   quantity: 10,
-  logTotal: true
+  logTotal: true,
 })
 
-function total () {
+function total() {
   if (data.logTotal) {
-    console.log(`Total: ${data.price * data.quantity}`);
+    console.log(`Total: ${data.price * data.quantity}`)
   }
 }
 
 // tracks any reactive data dependencies of that function
-// truns $on and truns $off  
+// truns $on and truns $off
 watch(total)
 
 data.price = 35
@@ -66,21 +64,20 @@ data.price = 35
 // 'Total: 350'
 ```
 
-
 ```js
 watch(
   // watched function
   () => data.logTotal && data.price * data.quantity,
   // watched function callback
   // the argument is the values returned by the watched function
-  (total) => total !== false && console.log(`Total: ${total}`)
+  (total) => total !== false && console.log(`Total: ${total}`),
 )
 ```
 
 ```js
-import { html } from '@arrow-js/core'
+import { html } from "@arrow-js/core"
 
-const appElement = document.getElementById('app')
+const appElement = document.getElementById("app")
 
 const template = html`Hello <em>World</em>`
 
@@ -88,8 +85,7 @@ template(appElement)
 ```
 
 ```js
-import { html } from '@arrow-js/core'
-
+import { html } from "@arrow-js/core"
 
 // function and reactive data will update automatically
 html`

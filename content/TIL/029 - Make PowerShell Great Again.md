@@ -48,7 +48,6 @@ $env:https_proxy="http://127.0.0.1:7890";
 Import-Module PSReadLine
 ```
 
-
 ## Thanks
 
 - [about Profiles - PowerShell | Microsoft Learn](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_profiles?view=powershell-7.4)

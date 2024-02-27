@@ -14,4 +14,3 @@ scoop install java/temurin21-jdk
 ## Thanks
 
 - [Which Version of JDK Should I Use? | whichjdk.com](https://whichjdk.com/)
-

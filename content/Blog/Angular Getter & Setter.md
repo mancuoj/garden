@@ -10,8 +10,8 @@ Angular 中并没有计算属性的概念，但是可以使用 `get` 方法来�
 
 ```ts
 export class AppComponent {
-  firstName = '彻底'
-  lastName = '失败'
+  firstName = "彻底"
+  lastName = "失败"
 
   get fullName() {
     // logic here ...
@@ -38,4 +38,3 @@ ngOnChanges(changes: SimpleChanges): void {
   }
 }
 ```
-

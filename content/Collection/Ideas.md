@@ -5,7 +5,6 @@ date: 2023-12-01
 > [!quote]
 > Fight for a bright tomorrow!
 
-
 ## 随手记
 
 ### 想法
@@ -78,5 +77,3 @@ date: 2023-12-01
 ### 参考
 
 - [Neave Interactive](https://neave.com/)
-
-

@@ -9,4 +9,3 @@ tags:
 ## Thanks
 
 - [SQLite Cheat Sheet](https://www.sqlitetutorial.net/sqlite-cheat-sheet/)
-

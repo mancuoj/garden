@@ -3,9 +3,7 @@
   "editor:toggle-checklist-status": [],
   "command-palette:open": [
     {
-      "modifiers": [
-        "Mod"
-      ],
+      "modifiers": ["Mod"],
       "key": "E"
     }
   ],
@@ -18,9 +16,7 @@
   "editor:open-search": [],
   "editor:open-search-replace": [
     {
-      "modifiers": [
-        "Mod"
-      ],
+      "modifiers": ["Mod"],
       "key": "F"
     }
   ]

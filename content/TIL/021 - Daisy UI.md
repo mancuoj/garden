@@ -14,7 +14,7 @@ ni -D daisyui@latest
 module.exports = {
   plugins: [
     // ...
-    require("daisyui")
+    require("daisyui"),
   ],
   daisyui: {
     themes: false, // false: only light + dark | true: all themes | array: specific themes like this ["light", "dark", "cupcake"]
@@ -46,16 +46,10 @@ export default function App() {
         React MVP
         <label className="swap swap-flip">
           <input type="checkbox" className="hidden" />
-          <div
-            className="swap-on flex items-center justify-center"
-            data-set-theme="dark"
-          >
+          <div className="swap-on flex items-center justify-center" data-set-theme="dark">
             <span className="i-lucide-heart-off"></span>
           </div>
-          <div
-            className="swap-off flex items-center justify-center"
-            data-set-theme="light"
-          >
+          <div className="swap-off flex items-center justify-center" data-set-theme="light">
             <span className="i-lucide-heart"></span>
           </div>
         </label>

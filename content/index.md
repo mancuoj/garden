@@ -17,6 +17,3 @@ Here are some places you may want to visit:
 - [[2024 Flags]] - Hope I can succeed
 
 ![[Pasted image 20231219213958.png]]
-
-
-

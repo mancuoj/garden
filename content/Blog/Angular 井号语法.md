@@ -11,10 +11,7 @@ Angular 的模版引用变量就是在模版中使用 `#` 将 DOM 元素（同�
 ## 拿到 input 的值填入
 
 ```html
-<input 
-  #newItem
-  (keyup.enter)="addItem(newItem.value); newItem.value = ''"
-/>
+<input #newItem (keyup.enter)="addItem(newItem.value); newItem.value = ''" />
 ```
 
 ## ngIf 的 else 块
@@ -39,7 +36,7 @@ Angular 的模版引用变量就是在模版中使用 `#` 将 DOM 元素（同�
 
 ```ts
 export class AppComponent {
-  @ViewChild('editInput', { static: false }) editInput: ElementRef<HTMLInputElement>
+  @ViewChild("editInput", { static: false }) editInput: ElementRef<HTMLInputElement>
 
   editTodo(todo: Todo) {
     // ....

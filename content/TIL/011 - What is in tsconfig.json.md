@@ -114,9 +114,6 @@ tags:
 }
 ```
 
-
-
-
 ## Thanks
 
 - [TypeScript for React Developers](https://www.freecodecamp.org/news/typescript-for-react-developers/)

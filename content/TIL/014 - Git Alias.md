@@ -4,8 +4,7 @@ tags:
   - git
 ---
 
-
-Use `gam update` to commit everything. 
+Use `gam update` to commit everything.
 
 ```zshrc
 alias gl='git log'
@@ -31,7 +30,6 @@ alias dev='git checkout dev'
 alias grh='git reset HEAD'
 alias grh1='git reset HEAD~1'
 ```
-
 
 ## Thanks
 

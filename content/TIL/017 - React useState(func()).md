@@ -24,9 +24,7 @@ const [state, setState] = useState(() => {
 })
 ```
 
-
 ## Thanks
 
 - [Hooks API Reference – React (reactjs.org)](https://legacy.reactjs.org/docs/hooks-reference.html#lazy-initial-state)
 - [When to use useState initial value as function? - Stack Overflow](https://stackoverflow.com/questions/60120261/when-to-use-usestate-initial-value-as-function)
-

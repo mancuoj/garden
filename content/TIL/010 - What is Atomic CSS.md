@@ -18,7 +18,6 @@ Basically, you can say an Atomic CSS framework is a collection of the CSS like t
 }
 ```
 
-
 ## Thanks
 
 - [Let's Define Exactly What Atomic CSS is](https://css-tricks.com/lets-define-exactly-atomic-css/)

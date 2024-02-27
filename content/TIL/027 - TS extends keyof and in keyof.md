@@ -4,19 +4,18 @@ tags:
   - ts
 ---
 
-
 For any type `T`, `keyof T` is the _union_ of known, public property names of `T`.
 
 ```ts
 interface Person {
-  age: number;
-  name: string;
+  age: number
+  name: string
 }
 
-type PersonKeys = keyof Person; // "age" | "name"
+type PersonKeys = keyof Person // "age" | "name"
 ```
 
-`extends` is used to constrain the type of a generic parameter. 
+`extends` is used to constrain the type of a generic parameter.
 
 `<T, K extends keyof T>` restrict `K` to be the public property name of `T`.
 

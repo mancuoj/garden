@@ -48,8 +48,8 @@ tags:
 ```
 
 - `inset` is a shorthand that sets `top, left, right, bottom` all to the same value
-- Element can't be 0px from the left _and_ 0px from the right _and_ only 12rem wide (assuming the viewport is wider than 12rem), we can only pick 2 of the 3
-- `margin:auto` resolves the impossible condition to center an element both horizontally _and_ vertically
+- Element can't be 0px from the left *and* 0px from the right *and* only 12rem wide (assuming the viewport is wider than 12rem), we can only pick 2 of the 3
+- `margin:auto` resolves the impossible condition to center an element both horizontally *and* vertically
 
 ### Center in a single direction
 
@@ -77,7 +77,6 @@ tags:
 }
 ```
 
-
 ## CSS Grid
 
 ```css
@@ -90,7 +89,6 @@ tags:
 ```
 
 - It's simpler to use Flexbox instead, to avoid the rabbithole
-
 
 ## Center a stack of elements
 
@@ -126,7 +124,6 @@ tags:
   text-align: center;
 }
 ```
-
 
 ## When to use which method
 

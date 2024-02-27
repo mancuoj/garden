@@ -4,7 +4,6 @@ tags:
   - animate
 ---
 
-
 AutoAnimate is fundamentally a single function — `autoAnimate` — that accepts a parent element. Automatic animations will be applied to the parent element and its immediate children. Animations are specifically triggered when one of three events occurs:
 
 - A child is **added** in the DOM.
@@ -13,4 +12,4 @@ AutoAnimate is fundamentally a single function — `autoAnimate` — that acce
 
 ## Thanks
 
-- [AutoAnimate - Add motion to your apps with a single line of code](https://auto-animate.formkit.com/#installation) 
+- [AutoAnimate - Add motion to your apps with a single line of code](https://auto-animate.formkit.com/#installation)

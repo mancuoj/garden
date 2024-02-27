@@ -39,7 +39,6 @@ Flexbox（弹性盒布局）主要用于将子元素排列成一行或一列，�
 
 ## Content vs Items
 
-
 那么有 `justify-items` 和 `align-content` 吗？`justify-self` 呢？
 
 Flexbox 中主轴也就是默认的横轴，可以由一条水平直线穿起来。
@@ -49,7 +48,6 @@ Flexbox 中主轴也就是默认的横轴，可以由一条水平直线穿起来
 所以，水平排列单个子项肯定会影响到左右子项的排列，这就是为什么没有 `justify-self` 和 `justify-items` 的原因。
 
 至于 `align-content`, [[CSS Flexbox 入门#flex-wrap|下文]]会提到。
-
 
 ## flex-basis
 
@@ -62,7 +60,6 @@ hypothetical 更多指的是建议大小而不是硬性约束，在容器大小�
 
 除了一些 edge-case 外，`width` 与 `flex-basis` 效果基本一样。
 
-
 ## flex-grow
 
 `flex-grow` 用于指定如何消耗容器的剩余空间。
@@ -74,8 +71,6 @@ hypothetical 更多指的是建议大小而不是硬性约束，在容器大小�
 设置多个子项，剩余空间将根据设置的值按比例分配。
 
 比如 1 和 2，就分别占 1/3 和 2/3。
-
-
 
 ## flex-shrink
 
@@ -94,7 +89,6 @@ hypothetical 更多指的是建议大小而不是硬性约束，在容器大小�
 但是有时候我们并不希望一些子项缩小，可以设置 `flex-shrink: 0` 来禁止收缩（不推荐使用 `min-width` 限制）。
 
 设置后，flexbox 的算法会将 flex-basis or width 设置的值视为硬性最小限制。
-
 
 ## min-width gotcha
 
@@ -124,9 +118,6 @@ hypothetical 更多指的是建议大小而不是硬性约束，在容器大小�
 
 ![[nav.png]]
 
-
-
-
 ## flex-wrap
 
 上文中，flexbox 的子项都是并排放在单行/单列中，这是因为默认值 `flex-wrap: nowrap`，不允许换行。
@@ -138,7 +129,6 @@ hypothetical 更多指的是建议大小而不是硬性约束，在容器大小�
 这时候我们就可以使用 `align-content` 来移动整个 group，它的用法与 `justify-content` 类似。
 
 但是不推荐在使用换行，一般来说，进入二维后，最好使用 [[CSS Grid 入门|Grid 布局]]。
-
 
 ## Thanks
 

@@ -20,7 +20,7 @@ tags:
 - `ConstructorParameters<Type>`
 - `ReturnType<Type>` function return type
 - `InstanceType<Type>`
-- `ThisParameterType<Type>` function `this` parameter type,  else `unknown`
+- `ThisParameterType<Type>` function `this` parameter type, else `unknown`
 - `OmitThisParameter<Type>`
 - `ThisType<Type>`
 - `Uppercase<StringType>`
@@ -37,7 +37,7 @@ type MyPartial<T> = {
 
 type MyRequired<T> = {
   [Key in keyof T]-?: T[Key]
-} 
+}
 
 type MyReadonly<T> = {
   readonly [Key in keyof T]: T[Key]
@@ -72,7 +72,6 @@ type MyOmit<T, K extends keyof T> = {
 type MyNonNullable<T> = T & {}
 ```
 
-
 ## Exclude Extract
 
 ```ts
@@ -81,15 +80,15 @@ type MyExclude<T, U> = T extends U ? never : T
 type MyExtract<T, U> = T extends U ? T : never
 ```
 
-
 ## Parameters ReturnType
 
 ```ts
-type MyParameters<T extends (...args: any[]) => any> = T extends (...args: infer P) => any ? P : never
+type MyParameters<T extends (...args: any[]) => any> = T extends (...args: infer P) => any
+  ? P
+  : never
 
-type MyReturnType<T extends (...args: any) => any> = T extends (...args: any) => infer R ? R : never 
+type MyReturnType<T extends (...args: any) => any> = T extends (...args: any) => infer R ? R : never
 ```
-
 
 ## Thanks
 

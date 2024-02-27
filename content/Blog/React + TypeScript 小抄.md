@@ -15,7 +15,6 @@ type Theme = "dark" | "light"
 type Lang = "en" | "fr"
 ```
 
-
 ## Function Components
 
 ```tsx
@@ -34,7 +33,6 @@ const App: FC<AppProps> = ({ title, children }) => { ... }
 const App = ({ message }: { message: string }) => { ... }
 ```
 
-
 ## Custom HTML Components
 
 ```tsx
@@ -51,9 +49,9 @@ Use text value instead of children:
 
 ```tsx
 type TagProps = {
-  variant?: 'solid' | 'outlined'
+  variant?: "solid" | "outlined"
   text: string
-} & Omit<React.ComponentProps<'span'>, 'children'>
+} & Omit<React.ComponentProps<"span">, "children">
 ```
 
 ## useState
@@ -74,9 +72,9 @@ const [status, setStatus] = useState<Status>("idle")
 const initialTasks: TaskItem[] = []
 
 enum ACTIONS {
-  ADD = 'added',
-  CHANGE = 'changed',
-  DELETE = 'deleted',
+  ADD = "added",
+  CHANGE = "changed",
+  DELETE = "deleted",
 }
 
 type ActionType =
@@ -102,7 +100,7 @@ function tasksReducer(tasks: typeof initialTasks, action: ActionType) {
       return tasks.filter((t) => t.id !== action.id)
     }
     default: {
-      throw Error('Unknown Type')
+      throw Error("Unknown Type")
     }
   }
 }
@@ -129,15 +127,11 @@ export function TaskProvider({ children }: { children: ReactNode }) {
 
   return (
     <TasksContext.Provider value={tasks}>
-      <TasksDispatchContext.Provider value={dispatch}>
-        {children}
-      </TasksDispatchContext.Provider>
+      <TasksDispatchContext.Provider value={dispatch}>{children}</TasksDispatchContext.Provider>
     </TasksContext.Provider>
   )
 }
 ```
-
-
 
 ## Thanks
 

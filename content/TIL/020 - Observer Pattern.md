@@ -45,7 +45,6 @@ class Observable {
 export default new Observable()
 ```
 
-
 ## Pros and Cons
 
 - Separation of concerns and the single-responsiblity principle

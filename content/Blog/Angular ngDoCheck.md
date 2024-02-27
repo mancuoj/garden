@@ -12,7 +12,7 @@ tags:
 export class MyComponent implements DoCheck {
   ngDoCheck() {
     // 执行你的逻辑...
-    console.log('变更检测')
+    console.log("变更检测")
   }
 }
 ```
@@ -27,4 +27,3 @@ ngDoCheck() {
   }
 }
 ```
-
