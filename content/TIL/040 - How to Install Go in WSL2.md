@@ -17,14 +17,27 @@ tar -C /usr/local -xzf go1.22.0.linux-amd64.tar.gz
 mkdir go
 ```
 
-
-## Update
-
-```sh
-# delete and reinstall the latest version
-sudo rm -rf /usr/local/go
+```zshrc
+# configure file
+export GOROOT=/usr/local/go
+export GOPATH=$HOME/go
+export PATH=$PATH:/usr/local/go/bin
 ```
 
+## Update Version
+
+```sh
+sudo rm -rf /usr/local/go
+# delete and reinstall the latest version
+```
+
+Or 
+
+```sh
+git clone https://github.com/udhos/update-golang
+cd update-golang
+sudo ./update-golang.sh
+```
 
 ## Thanks
 
