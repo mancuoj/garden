@@ -1,10 +1,10 @@
 ---
 date: 2024-01-01
+tags:
+  - how
 ---
 
 > If a technical document written by oneself cannot guide one's related work after three months or even a longer period, the document is seriously inadequate. 
-> 
-> This standard is reliable, and everyone can verify it on their own.
 
 - **Comprehensive Context**: Original requirements, prior knowledge, existing solutions, specific practices, and reference literature.
 - **Reproducibility**: Complete demonstration of the environment setup process, all command-line parameters, complete command-line output, and full source code with compilation parameters.

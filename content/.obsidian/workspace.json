@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TIL/039 - React Ref.md",
+                "file": "TIL/038 - From React to Next.js.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TIL/039 - React Ref.md",
+                "file": "TIL/038 - From React to Next.js.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TIL/039 - React Ref.md",
+                "file": "TIL/038 - From React to Next.js.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TIL/039 - React Ref.md"
+                "file": "TIL/038 - From React to Next.js.md"
               }
             }
           }
@@ -158,16 +158,23 @@
   },
   "active": "4b033ecd8c42c07b",
   "lastOpenFiles": [
+    "TIL/039 - React Ref.md",
+    "TIL/031 - Next UI.md",
+    "TIL/032 - Arrow JS.md",
     "TIL/038 - From React to Next.js.md",
     "TIL/037 - CSS Style Reset.md",
-    "TIL/039 - React Ref.md",
+    "TIL/036 - Aceternity UI.md",
+    "TIL/034 - Why I use Prettier.md",
+    "TIL/033 - Rust CLI Tools.md",
+    "TIL/029 - Make PowerShell Great Again.md",
+    "TIL/030 - Auto Animate.md",
+    "TIL/001 - How to Write a Good Technical Note.md",
     "TIL/050.md",
     "TIL/040.md",
     "assets/Pasted image 20240227231644.png",
     "TIL/046.md",
     "TIL/051.md",
     "notes.md",
-    "TIL/036 - Aceternity UI.md",
     "Blog/CSS Flexbox 入门.md",
     "Blog/CSS Grid 入门.md",
     "Blog/React + TypeScript 小抄.md",
@@ -178,13 +185,6 @@
     "Blog/中文技术文档排版指南.md",
     "Blog/买了新服务器后.md",
     "Blog/2024 Flags.md",
-    "TIL/035 - 10 Tailwind Classes.md",
-    "index.md",
-    "Collection/Books.md",
-    "Collection/Ideas.md",
-    "Collection/Media.md",
-    "TIL/049.md",
-    "TIL/014 - Git Alias.md",
     "assets/Pasted image 20240218223759.png",
     "assets/Pasted image 20240218220700.png",
     "TMPL",

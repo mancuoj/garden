@@ -7,7 +7,7 @@ tags:
 
 ## Modern Applications
 
-> [React](https://react.dev/) is a JavaScript **library** for building **interactive user interfaces**.
+> React is a JavaScript **library** for building interactive user interfaces.
 
 
 - User Interface
