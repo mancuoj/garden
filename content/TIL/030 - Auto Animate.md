@@ -1,7 +1,7 @@
 ---
 date: 2024-01-30
 tags:
-  - animate
+  - animation
 ---
 
 AutoAnimate is fundamentally a single function — `autoAnimate` — that accepts a parent element. Automatic animations will be applied to the parent element and its immediate children. Animations are specifically triggered when one of three events occurs:

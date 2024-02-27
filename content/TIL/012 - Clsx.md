@@ -3,6 +3,7 @@ date: 2024-01-12
 tags:
   - css
   - tailwind
+  - how
 ---
 
 A tiny (239B) utility for constructing `className` strings conditionally.
