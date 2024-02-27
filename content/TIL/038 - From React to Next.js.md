@@ -1,9 +1,29 @@
 ---
 date: 2024-02-07
+tags:
+  - react
+  - next
 ---
 
+## Modern Applications
+
+> [React](https://react.dev/) is a JavaScript **library** for building **interactive user interfaces**.
 
 
+- User Interface
+- Routing
+- Data Fetching
+- Rendering - when and where to render static or dynamic content
+- Integrations - third-party services
+- Infrastructure - deploy, store and run
+- Performance
+- Scalability
+- Developer Experience
+
+ 
+> Next.js is a React **framework** that gives you building blocks to create web applications.
+
+![[Pasted image 20240227231644.png]]
 
 
 ## Thanks
