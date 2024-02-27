@@ -156,8 +156,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "4b033ecd8c42c07b",
+  "active": "43b6f11314d32c5c",
   "lastOpenFiles": [
+    "TIL/012 - Clsx.md",
+    "TIL/008 - Axios.md",
+    "TIL/007 - Fly.io.md",
+    "Notes.md",
     "TIL/038 - From React to Next.js ❌.md",
     "TIL/042.md",
     "TIL/041 - JDK Version.md",
@@ -180,10 +184,6 @@
     "TIL/011 - What is in tsconfig.json.md",
     "TIL/014 - Git Alias.md",
     "TIL/015 - Oh Shit Git.md",
-    "TIL/017 - React useState(func()).md",
-    "TIL/018 - Bun SQLite Driver.md",
-    "TIL/021 - Daisy UI.md",
-    "TIL/022 - JS Map.md",
     "assets/Pasted image 20240227231644.png",
     "assets/Pasted image 20240218223759.png",
     "assets/Pasted image 20240218220700.png",
