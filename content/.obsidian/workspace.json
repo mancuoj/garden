@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TIL/038 - From React to Next.js.md",
+                "file": "notes.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TIL/038 - From React to Next.js.md",
+                "file": "notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TIL/038 - From React to Next.js.md",
+                "file": "notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TIL/038 - From React to Next.js.md"
+                "file": "notes.md"
               }
             }
           }
@@ -171,8 +171,8 @@
   },
   "active": "ab73c39d86572c64",
   "lastOpenFiles": [
-    "TIL/037 - CSS Style Reset.md",
     "TIL/038 - From React to Next.js.md",
+    "TIL/037 - CSS Style Reset.md",
     "TIL/051.md",
     "TIL/050.md",
     "TIL/036 - Aceternity UI.md",
