@@ -1,0 +1,34 @@
+---
+date: 2024-02-09
+tags:
+  - go
+  - how
+---
+
+
+## Install WSL First
+
+
+```sh
+# select the latest release: https://go.dev/dl
+cd ~
+wget https://go.dev/dl/go1.22.0.linux-amd64.tar.gz
+tar -C /usr/local -xzf go1.22.0.linux-amd64.tar.gz
+mkdir go
+```
+
+
+## Update
+
+```sh
+# delete and reinstall the latest version
+sudo rm -rf /usr/local/go
+```
+
+
+## Thanks
+
+- [WSL | GoLand Documentation](https://www.jetbrains.com/help/go/how-to-use-wsl-development-environment-in-product.html#wsl-general)
+- [All releases - The Go Programming Language](https://go.dev/dl/)
+
+

@@ -14,6 +14,9 @@ tags:
 - A ref is a plain JavaScript object with a single property called `current`, which you can read or set.
 - Don’t read or write `ref.current` during rendering. This makes your component hard to predict.
 
+--- 
+
+- 
 
 ## Thanks
 
