@@ -5,9 +5,7 @@ tags:
   - how
 ---
 
-
 ## Install WSL First
-
 
 ```sh
 # select the latest release: https://go.dev/dl
