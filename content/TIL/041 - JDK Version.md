@@ -1,6 +1,7 @@
 ---
 date: 2024-02-10
 tags:
+  - wsl
   - java
 ---
 
@@ -15,4 +16,5 @@ scoop install java/temurin21-jdk
 
 ## Thanks
 
-- [Which Version of JDK Should I Use? | whichjdk.com](https://whichjdk.com/)
+- [[029 - Make PowerShell Great Again]]
+- [Which Version of JDK Should I Use?](https://whichjdk.com/)

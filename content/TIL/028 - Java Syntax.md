@@ -1,6 +1,7 @@
 ---
 date: 2024-01-28
 tags:
+  - til
   - java
 ---
 
@@ -118,5 +119,5 @@ Object-oriented concepts such as classes, constructors, inheritance, polymorphis
 ## Thanks
 
 - [10分钟速成Java 送你的2024新年礼物](https://www.bilibili.com/video/BV1Ee411H7mT/?vd_source=4da426ef9b0e129787ecf66363321458)
-- [Spring Boot Tutorial for Beginners - 2023 Crash Course using Spring Boot 3 - YouTube](https://www.youtube.com/watch?v=UgX5lgv4uVM)
+- [Spring Boot Tutorial for Beginners](https://www.youtube.com/watch?v=UgX5lgv4uVM)
 - [Java Cheat Sheet & Quick Reference](https://quickref.me/java.html)

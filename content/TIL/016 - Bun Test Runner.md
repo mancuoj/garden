@@ -1,8 +1,8 @@
 ---
 date: 2024-01-16
 tags:
+  - til
   - bun
-  - test
 ---
 
 ## Thanks

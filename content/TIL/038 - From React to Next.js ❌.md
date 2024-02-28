@@ -1,7 +1,7 @@
 ---
 date: 2024-02-07
 tags:
-  - react
+  - til
   - next
 ---
 

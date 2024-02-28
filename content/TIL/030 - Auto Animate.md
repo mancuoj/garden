@@ -1,6 +1,7 @@
 ---
 date: 2024-01-30
 tags:
+  - til
   - animation
 ---
 
@@ -12,4 +13,4 @@ AutoAnimate is fundamentally a single function — `autoAnimate` — that acce
 
 ## Thanks
 
-- [AutoAnimate - Add motion to your apps with a single line of code](https://auto-animate.formkit.com/#installation)
+- [AutoAnimate Docs](https://auto-animate.formkit.com/#installation)

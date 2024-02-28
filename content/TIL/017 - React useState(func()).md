@@ -1,8 +1,8 @@
 ---
 date: 2024-01-17
 tags:
+  - til
   - react
-  - hook
 ---
 
 When you want the computation of that initial state to happen only once, you can pass a function instead.

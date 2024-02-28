@@ -1,7 +1,7 @@
 ---
 date: 2024-01-12
 tags:
-  - css
+  - til
   - tailwind
 ---
 

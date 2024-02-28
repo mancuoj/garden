@@ -1,8 +1,8 @@
 ---
 date: 2024-01-25
 tag:
+  - til
   - test
-  - react
 ---
 
 ## Install

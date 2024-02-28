@@ -1,8 +1,8 @@
 ---
 date: 2024-02-09
 tags:
-  - go
-  - how
+  - til
+  - wsl
 ---
 
 ## Install WSL First

@@ -1,6 +1,7 @@
 ---
 date: 2024-01-23
 tags:
+  - til
   - ts
 ---
 
@@ -94,4 +95,4 @@ type MyReturnType<T extends (...args: any) => any> = T extends (...args: any) =>
 
 - [[024 - Create Types from Types]]
 - [TypeScript: Documentation](https://www.typescriptlang.org/docs/handbook/utility-types.html)
-- [type-challenges](https://github.com/type-challenges/type-challenges)
+- [Type Challenges](https://github.com/type-challenges/type-challenges)

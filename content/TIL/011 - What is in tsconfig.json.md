@@ -1,8 +1,8 @@
 ---
 date: 2024-01-11
 tags:
+  - til
   - ts
-  - config
 ---
 
 ```ts

@@ -1,7 +1,8 @@
 ---
 date: 2024-02-03
 tags:
-  - prettier
+  - til
+  - formatter
 ---
 
 Anyway, life is too short to bother with formatters.
