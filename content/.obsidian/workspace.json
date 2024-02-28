@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TIL/039 - React Ref ❌.md",
+                "file": "TIL/026 - TS Template Literal Types.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TIL/039 - React Ref ❌.md",
+                "file": "TIL/026 - TS Template Literal Types.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TIL/039 - React Ref ❌.md",
+                "file": "TIL/026 - TS Template Literal Types.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TIL/039 - React Ref ❌.md"
+                "file": "TIL/026 - TS Template Literal Types.md"
               }
             }
           }
@@ -156,8 +156,14 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "43b6f11314d32c5c",
+  "active": "4b033ecd8c42c07b",
   "lastOpenFiles": [
+    "TIL/023 - TS Utility Types.md",
+    "TIL/032 - Arrow JS.md",
+    "TIL/033 - Modern Rust CLI Tools.md",
+    "TIL/035 - 10 Tailwind Classes.md",
+    "TIL/037 - CSS Style Reset.md",
+    "TIL/039 - React Ref ❌.md",
     "TIL/012 - Clsx.md",
     "TIL/008 - Axios.md",
     "TIL/007 - Fly.io.md",
@@ -166,8 +172,6 @@
     "TIL/042.md",
     "TIL/041 - JDK Version.md",
     "TIL/040 - Install Go in WSL2.md",
-    "TIL/039 - React Ref ❌.md",
-    "TIL/037 - CSS Style Reset.md",
     "TIL/036 - Aceternity UI.md",
     "TIL/019 - WSL Proxy.md",
     "TIL/020 - Observer Pattern.md",
@@ -180,10 +184,6 @@
     "TIL/007 - fly.io.md",
     "TIL/008 - axios.md",
     "TIL/012 - clsx.md",
-    "TIL/013 - twMerge.md",
-    "TIL/011 - What is in tsconfig.json.md",
-    "TIL/014 - Git Alias.md",
-    "TIL/015 - Oh Shit Git.md",
     "assets/Pasted image 20240227231644.png",
     "assets/Pasted image 20240218223759.png",
     "assets/Pasted image 20240218220700.png",
