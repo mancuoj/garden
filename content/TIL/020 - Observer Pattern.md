@@ -2,7 +2,7 @@
 date: 2024-01-20
 tags:
   - til
-  - design patterns
+  - pattern
 ---
 
 Implementing a one-to-many dependency relationship between objects, when the state of an object changes, all objects that depend on it will be notified and automatically updated.
