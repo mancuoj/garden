@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TIL/020 - Observer Pattern.md",
+                "file": "TIL/042 - Remix ❌.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TIL/020 - Observer Pattern.md",
+                "file": "TIL/042 - Remix ❌.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TIL/020 - Observer Pattern.md",
+                "file": "TIL/042 - Remix ❌.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TIL/020 - Observer Pattern.md"
+                "file": "TIL/042 - Remix ❌.md"
               }
             }
           }
@@ -158,6 +158,11 @@
   },
   "active": "4b033ecd8c42c07b",
   "lastOpenFiles": [
+    "TIL/043.md",
+    "TIL/042 - Remix ❌.md",
+    "TIL/039 - React Ref ❌.md",
+    "TIL/038 - From React to Next.js ❌.md",
+    "TIL/020 - Observer Pattern.md",
     "TIL/021 - Daisy UI.md",
     "TIL/019 - WSL Proxy.md",
     "TIL/008 - axios.md",
@@ -166,7 +171,6 @@
     "TIL/031 - Next UI.md",
     "TIL/022 - JS Map.md",
     "TIL/023 - TS Utility Types.md",
-    "TIL/020 - Observer Pattern.md",
     "TIL/007 - fly.io.md",
     "TIL/006 -  You Might Not Need Axios.md",
     "TIL/001 - How to Write a Good Technical Note.md",
@@ -178,12 +182,8 @@
     "TIL/046.md",
     "TIL/045 - How to Center a Div.md",
     "TIL/044.md",
-    "TIL/043.md",
-    "TIL/042.md",
     "TIL/041 - JDK Version.md",
-    "TIL/039 - React Ref ❌.md",
     "TIL/032 - Arrow JS.md",
-    "TIL/033 - Modern Rust CLI Tools.md",
     "assets/Pasted image 20240227231644.png",
     "assets/Pasted image 20240218223759.png",
     "assets/Pasted image 20240218220700.png",
