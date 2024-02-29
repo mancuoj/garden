@@ -23,6 +23,8 @@ tags:
 - A component doesn’t expose its DOM nodes by default. You can opt into exposing a DOM node by using `forwardRef` and passing the second `ref` argument down to a specific node
 - Avoid changing DOM nodes managed by React
 - If you do modify DOM nodes managed by React, modify parts that React has no reason to update
+
+
 ## Thanks
 
 - [Referencing Values with Refs – React](https://react.dev/learn/referencing-values-with-refs#best-practices-for-refs)
