@@ -5,6 +5,16 @@ tags:
   - docker
 ---
 
+## How
+
+To run once:
+
+```shell
+npx --yes @flydotio/dockerfile@latest
+```
+
+
+
 
 
 ## Thanks
