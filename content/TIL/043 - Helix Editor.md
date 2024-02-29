@@ -2,8 +2,12 @@
 date: 2024-02-12
 tags:
   - til
+  - vim
 ---
 
+> A post-modern **text editor**. 
+
+A Neovim inspired editor, written in Rust.
 
 ## Install
 
