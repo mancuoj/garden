@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes.md",
+                "file": "TIL/042 - NodeJS Dockerfile.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes.md",
+                "file": "TIL/042 - NodeJS Dockerfile.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes.md",
+                "file": "TIL/042 - NodeJS Dockerfile.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes.md"
+                "file": "TIL/042 - NodeJS Dockerfile.md"
               }
             }
           }
@@ -156,12 +156,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "43b6f11314d32c5c",
+  "active": "4b033ecd8c42c07b",
   "lastOpenFiles": [
+    "Notes.md",
     "TIL/039 - React Ref ❌.md",
     "TIL/040 - Install Go in WSL2.md",
     "TIL/041 - JDK Version.md",
-    "TIL/042.md",
+    "TIL/042 - NodeJS Dockerfile.md",
     "TIL/043.md",
     "TIL/038 - From React to Next.js ❌.md",
     "TIL/020 - Observer Pattern.md",
@@ -183,7 +184,6 @@
     "TIL/047.md",
     "TIL/046.md",
     "TIL/045 - How to Center a Div.md",
-    "TIL/044.md",
     "assets/Pasted image 20240227231644.png",
     "assets/Pasted image 20240218223759.png",
     "assets/Pasted image 20240218220700.png",
