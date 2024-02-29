@@ -5,16 +5,11 @@ tags:
   - docker
 ---
 
-## How
-
-To run once:
+Just to run once:
 
 ```shell
 npx --yes @flydotio/dockerfile@latest
 ```
-
-
-
 
 
 ## Thanks
