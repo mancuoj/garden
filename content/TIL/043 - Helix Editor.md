@@ -5,9 +5,7 @@ tags:
   - vim
 ---
 
-> A post-modern **text editor**. 
-
-A Neovim inspired editor, written in Rust.
+A post-modern **text editor** written in Rust.
 
 ## Install
 
