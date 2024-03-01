@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TIL/009 - Conventional Commits.md",
+                "file": "Blog/买了新服务器后.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TIL/009 - Conventional Commits.md",
+                "file": "Blog/买了新服务器后.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TIL/009 - Conventional Commits.md",
+                "file": "Blog/买了新服务器后.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TIL/009 - Conventional Commits.md"
+                "file": "Blog/买了新服务器后.md"
               }
             }
           }
@@ -171,6 +171,20 @@
   },
   "active": "4b033ecd8c42c07b",
   "lastOpenFiles": [
+    "Blog/2024 Flags.md",
+    "Blog/Angular Getter & Setter.md",
+    "Blog/React 命名及项目结构规范.md",
+    "Blog/Vue2 TodoMVC.md",
+    "Blog/React 文档拾遗.md",
+    "Blog/React + TypeScript 小抄.md",
+    "Blog/CSS Grid 入门.md",
+    "Blog/CSS Flexbox 入门.md",
+    "Blog/ChatGPT 中英翻译 Prompt.md",
+    "Blog/Angular ngDoCheck.md",
+    "Blog/Angular 井号语法.md",
+    "Blog/买了新服务器后.md",
+    "Blog/中文技术文档排版指南.md",
+    "TIL/009 - Conventional Commits.md",
     "Collection/Media.md",
     "Collection/Ideas.md",
     "Collection/Books.md",
@@ -183,20 +197,6 @@
     "TIL/042 - NodeJS Dockerfile.md",
     "TIL/043 - Helix Editor.md",
     "TIL/044 - Scoop.md",
-    "TIL/045 - Center a Div.md",
-    "TIL/037 - CSS Style Reset.md",
-    "TIL/033 - Modern Rust CLI Tools.md",
-    "TIL/025 - Test React Hooks with Vitest.md",
-    "TIL/021 - Daisy UI.md",
-    "TIL/015 - Oh Shit Git.md",
-    "TIL/012 - clsx.md",
-    "TIL/010 - What is Atomic CSS.md",
-    "TIL/008 - axios.md",
-    "TIL/006 -  You Might Not Need Axios.md",
-    "TIL/005 - Windows Fonts Beautification.md",
-    "TIL/003 - TS in 5 Minutes.md",
-    "TIL/004 - SQLite Cheat Sheet.md",
-    "TIL/002 - turso.tech.md",
     "assets/nextjs.png",
     "assets/crud.png",
     "assets/Pasted image 20240218223759.png",
