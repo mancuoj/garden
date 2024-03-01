@@ -7,7 +7,13 @@ tags:
 
 ## WSL
 
-```
+```zshrc
+function up() {
+  sudo apt update -qq && sudo apt upgrade -yqq
+  taze major -gi
+  rye self update
+  bun upgrade
+}
 ```
 
 
@@ -19,4 +25,5 @@ tags:
 
 ## Thanks
 
-- 
+- [[029 - Make PowerShell Great Again]]
+- [[044 - Scoop]]
