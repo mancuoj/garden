@@ -21,7 +21,7 @@ tags:
 
 > Next.js is a React **framework** that gives you building blocks to create web applications.
 
-![[Pasted image 20240227231644.png]]
+![[nextjs.png]]
 
 ## Thanks
 
