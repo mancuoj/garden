@@ -49,31 +49,6 @@ $env:https_proxy="http://127.0.0.1:7890";
 Import-Module PSReadLine
 ```
 
-## Devlopment Environment
-
-```powershell
-scoop bucket add main
-scoop bucket add java
-
-# fnm for nodejs
-scoop install main/fnm
-fnm install --lts
-
-# go
-scoop install main/go
-
-# java
-scoop install java/temurin21-jdk
-
-# rust
-scoop install main/rust
-
-# rye for python
-scoop install main/rye
-
-scoop update *
-```
-
 ## Thanks
 
 - [Microsoft Learn](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_profiles?view=powershell-7.4)
