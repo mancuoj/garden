@@ -8,9 +8,8 @@ date: 2024-01-01
 
 ## Current
 
-- 从姑获鸟开始 by 活儿该
-- ng-book by Nate Murray & Felipe Coury & Ari Lerner & Carlos Taborda
 - Refactoring UI by Adam Wathan & Steve Schoger
+- ng-book by Nate Murray & Felipe Coury & Ari Lerner & Carlos Taborda
 
 ## To Read
 
@@ -30,10 +29,15 @@ date: 2024-01-01
 
 ## Past
 
-### Feb 2024
+## Mar
+
+-
+
+### Feb
 
 - ❌ 女主从书里跑出来了怎么办 by 姬叉
 - ❌ 娱乐春秋 by 姬叉
+- ❌ 从姑获鸟开始 by 活儿该
 
 ### Jan 2024
 

@@ -31,7 +31,14 @@ date: 2024-01-01
 
 ## Past
 
+## Mar
+
+- 🎮 Deep Rock Galactic: Survivor
+-
+
+## Feb 2024
+
 - 🎦 飞驰人生 2
 - 📺 Friends Season 1 - 24
-- 🎮 Gunfire Reborn 枪火重生
-- 🎮 BlazBlue: Entropy Effect 苍翼：混沌效应
+- 🎮 Gunfire Reborn
+- 🎮 BlazBlue: Entropy Effect

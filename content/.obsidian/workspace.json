@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TIL/047.md",
+                "file": "Collection/Media.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TIL/047.md",
+                "file": "Collection/Media.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TIL/047.md",
+                "file": "Collection/Media.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TIL/047.md"
+                "file": "Collection/Media.md"
               }
             }
           }
@@ -171,13 +171,19 @@
   },
   "active": "4b033ecd8c42c07b",
   "lastOpenFiles": [
+    "Collection/Ideas.md",
+    "Collection/Books.md",
+    "Collection/Bloggers.md",
+    "Collection/Articles Archive.md",
+    "Collection/Snippets.md",
+    "Collection/Media.md",
+    "TIL/047.md",
     "TIL/046 - Update Or Die.md",
     "TIL/041 - JDK Version.md",
     "TIL/042 - NodeJS Dockerfile.md",
     "TIL/043 - Helix Editor.md",
     "TIL/044 - Scoop.md",
     "TIL/045 - Center a Div.md",
-    "TIL/047.md",
     "TIL/037 - CSS Style Reset.md",
     "TIL/033 - Modern Rust CLI Tools.md",
     "TIL/025 - Test React Hooks with Vitest.md",
@@ -191,12 +197,6 @@
     "TIL/003 - TS in 5 Minutes.md",
     "TIL/004 - SQLite Cheat Sheet.md",
     "TIL/002 - turso.tech.md",
-    "TIL/001 - Write a Good Technical Note.md",
-    "TIL/007 - fly.io.md",
-    "TIL/009 - Conventional Commits.md",
-    "TIL/011 - What is in tsconfig.json.md",
-    "TIL/013 - twMerge.md",
-    "TIL/014 - Git Alias.md",
     "assets/nextjs.png",
     "assets/crud.png",
     "assets/Pasted image 20240218223759.png",

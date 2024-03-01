@@ -13,7 +13,6 @@ This model allows the observable to focus on event monitoring, while observers h
 
 Different from the observer pattern, the publish/subscribe pattern involves publishers and subscribers who are unaware of each other, communicating via a broker component.
 
-
 ## Observable
 
 An observable object usually contains:

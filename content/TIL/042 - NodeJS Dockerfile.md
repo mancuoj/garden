@@ -65,7 +65,6 @@ EXPOSE 80
 CMD [ "/usr/sbin/nginx", "-g", "daemon off;" ]
 ```
 
-
 ## Thanks
 
 - [Fly-apps/dockerfile-node](https://github.com/fly-apps/dockerfile-node)

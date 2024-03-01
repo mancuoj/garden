@@ -15,7 +15,7 @@ This ensures the function is called only during the component's initial render.
 
 ## Docs
 
-The `initialState` parameter is used only for the first render. For subsequent renders, React ignores it. If calculating the initial state is resource-intensive, consider providing a function. 
+The `initialState` parameter is used only for the first render. For subsequent renders, React ignores it. If calculating the initial state is resource-intensive, consider providing a function.
 
 This function will be executed solely during the initial render, optimizing performance:
 
