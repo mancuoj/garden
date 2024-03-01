@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blog/买了新服务器后.md",
+                "file": "Blog/2024 Flags.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Blog/买了新服务器后.md",
+                "file": "Blog/2024 Flags.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Blog/买了新服务器后.md",
+                "file": "Blog/2024 Flags.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Blog/买了新服务器后.md"
+                "file": "Blog/2024 Flags.md"
               }
             }
           }
@@ -171,6 +171,8 @@
   },
   "active": "4b033ecd8c42c07b",
   "lastOpenFiles": [
+    "Blog/中文技术文档排版指南.md",
+    "Blog/买了新服务器后.md",
     "Blog/2024 Flags.md",
     "Blog/Angular Getter & Setter.md",
     "Blog/React 命名及项目结构规范.md",
@@ -182,8 +184,6 @@
     "Blog/ChatGPT 中英翻译 Prompt.md",
     "Blog/Angular ngDoCheck.md",
     "Blog/Angular 井号语法.md",
-    "Blog/买了新服务器后.md",
-    "Blog/中文技术文档排版指南.md",
     "TIL/009 - Conventional Commits.md",
     "Collection/Media.md",
     "Collection/Ideas.md",
