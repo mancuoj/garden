@@ -30,7 +30,7 @@ $env:https_proxy="http://127.0.0.1:7890";
 
 ## Scoop
 
-It can be understood as homebrew which is not that easy to use.
+Aka homebrew in Windows.
 
 ```powershell
 Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
@@ -70,6 +70,8 @@ scoop install main/rust
 
 # rye for python
 scoop install main/rye
+
+scoop update *
 ```
 
 ## Thanks
