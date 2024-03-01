@@ -17,15 +17,23 @@ function up() {
 }
 ```
 
-
 ## Windows App
 
 ```powershell
+notepad $PROFILE
+```
 
+```powershell
+function up {
+    scoop update *
+    if ($?) {
+        scoop cleanup *
+    }
+}
 ```
 
 ## Thanks
 
 - [[029 - Make PowerShell Great Again]]
 - [[044 - Scoop]]
-- 
+- [My dotfiles](https://github.com/mancuoj/dotfiles)

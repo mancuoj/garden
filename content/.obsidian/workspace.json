@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TIL/046 - Update Or Die.md",
+                "file": "TIL/042 - NodeJS Dockerfile.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TIL/046 - Update Or Die.md",
+                "file": "TIL/042 - NodeJS Dockerfile.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TIL/046 - Update Or Die.md",
+                "file": "TIL/042 - NodeJS Dockerfile.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TIL/046 - Update Or Die.md"
+                "file": "TIL/042 - NodeJS Dockerfile.md"
               }
             }
           }
@@ -171,6 +171,17 @@
   },
   "active": "4b033ecd8c42c07b",
   "lastOpenFiles": [
+    "TIL/041 - JDK Version.md",
+    "TIL/040 - Install Go in WSL2.md",
+    "TIL/039 - React Ref ❌.md",
+    "TIL/042 - NodeJS Dockerfile.md",
+    "TIL/043 - Helix Editor.md",
+    "TIL/044 - Scoop.md",
+    "TIL/045 - Center a Div.md",
+    "TIL/046 - Update Or Die.md",
+    "TIL/001 - Write a Good Technical Note.md",
+    "TIL/047.md",
+    "TIL/038 - From React to Next.js ❌.md",
     "TIL/019 - WSL Proxy.md",
     "TIL/020 - Observer Pattern.md",
     "TIL/021 - Daisy UI.md",
@@ -186,11 +197,6 @@
     "TIL/031 - Next UI.md",
     "TIL/032 - Arrow JS.md",
     "TIL/033 - Modern Rust CLI Tools.md",
-    "TIL/034 - Why I use Prettier.md",
-    "TIL/035 - 10 Tailwind Classes.md",
-    "TIL/036 - Aceternity UI.md",
-    "TIL/037 - CSS Style Reset.md",
-    "TIL/038 - From React to Next.js ❌.md",
     "assets/nextjs.png",
     "assets/crud.png",
     "assets/Pasted image 20240218223759.png",
@@ -201,12 +207,6 @@
     "assets/idea1.png",
     "assets/counter.png",
     "assets/dan.png",
-    "TIL/046 - Update Or Die.md",
-    "TIL/045 - How to Center a Div.md",
-    "TIL/044 - Scoop.md",
-    "TIL/010 - What is Atomic CSS.md",
-    "TIL/018 - Bun SQLite Driver.md",
-    "TIL/015 - Oh Shit Git.md",
     "TMPL",
     "TIL/Jan",
     "Untitled",
