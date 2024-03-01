@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Collection/Media.md",
+                "file": "TIL/009 - Conventional Commits.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Collection/Media.md",
+                "file": "TIL/009 - Conventional Commits.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Collection/Media.md",
+                "file": "TIL/009 - Conventional Commits.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Collection/Media.md"
+                "file": "TIL/009 - Conventional Commits.md"
               }
             }
           }
@@ -171,12 +171,12 @@
   },
   "active": "4b033ecd8c42c07b",
   "lastOpenFiles": [
+    "Collection/Media.md",
     "Collection/Ideas.md",
     "Collection/Books.md",
     "Collection/Bloggers.md",
     "Collection/Articles Archive.md",
     "Collection/Snippets.md",
-    "Collection/Media.md",
     "TIL/047.md",
     "TIL/046 - Update Or Die.md",
     "TIL/041 - JDK Version.md",
