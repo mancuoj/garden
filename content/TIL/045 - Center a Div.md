@@ -52,7 +52,7 @@ tags:
 - Element can't be 0px from the left *and* 0px from the right *and* only 12rem wide (assuming the viewport is wider than 12rem), we can only pick 2 of the 3
 - `margin:auto` resolves the impossible condition to center an element both horizontally *and* vertically
 
-### Center in a single direction
+### Centering in a single direction
 
 ```css
 .element {
@@ -66,7 +66,7 @@ tags:
 }
 ```
 
-### Center elements with unknown sizes
+### Centering elements with unknown sizes
 
 ```css
 .element {
@@ -89,9 +89,9 @@ tags:
 }
 ```
 
-- It's simpler to use Flexbox instead, to avoid the rabbithole
+- Flexbox is often a simpler choice for centering without delving into complexities
 
-## Center a stack of elements
+## Centering a stack of elements
 
 ```html
 <div class="container">
@@ -118,7 +118,7 @@ tags:
 - This can work _even when the child elements are different sizes
 - Add `place-items: center;` to avoid all stack in the top-left corner
 
-## Center Text
+## Centering Text
 
 ```css
 .container {
@@ -126,13 +126,13 @@ tags:
 }
 ```
 
-## When to use which method
+## Choosing the Right Centering Method
 
-- If we want to horizontally center a single element without disturbing any of its siblings, we can use the [Flow layout auto margin strategy](https://www.joshwcomeau.com/css/center-a-div/#centering-with-auto-margins)
-- If we have a piece of floating UI, like a modal or a banner, we can center it using [Positioned layout and auto margins](https://www.joshwcomeau.com/css/center-a-div/#centering-within-the-viewport)
-- If we want to center a stack of elements one on top of the other, we can use [CSS Grid](https://www.joshwcomeau.com/css/center-a-div/#centering-a-stack-of-elements)
-- If we want to center text, we can use [text-align](https://www.joshwcomeau.com/css/center-a-div/#centering-text). This can be used in conjunction with any of the additional methods
-- Finally, in most other situations, we can use [Flexbox](https://www.joshwcomeau.com/css/center-a-div/#centering-with-flexbox). It's the most versatile method; it can be used to center one or multiple children, horizontally and/or vertically, whether they're contained or overflowing
+- Use auto margins in a flow layout to center a single element without affecting siblings.
+- For UI elements like modals, use fixed positioning with auto margins.
+- Stack elements using CSS Grid for central alignment.
+- `text-align: center;` is best for centering text, compatible with other centering methods.
+- Flexbox is the go-to for most situations; it's versatile for centering single or multiple elements both horizontally and vertically.
 
 ## Thanks
 

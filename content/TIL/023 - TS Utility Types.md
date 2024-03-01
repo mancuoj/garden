@@ -5,7 +5,7 @@ tags:
   - ts
 ---
 
-## Intro
+## Usage
 
 - `Awaited<Type>` unwrap promise type
 - `Partial<Type>` set all properties optional

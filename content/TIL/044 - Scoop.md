@@ -7,9 +7,9 @@ tags:
 
 ## Install
 
-See it in [[029 - Make PowerShell Great Again]]
+Please refer to [[029 - Make PowerShell Great Again]]
 
-## Devlopment Environment
+## Devlopment Environment Setup
 
 ```powershell
 scoop bucket add main
@@ -32,11 +32,11 @@ scoop install main/rust
 scoop install main/rye
 ```
 
-## Apps
+## Applications
 
-You can download the latest versions of virtually any software you can imagine on Scoop (maybe in unofficial bucket).
+Scoop makes it easy to download the latest versions of nearly any software you might need (including those from unofficial buckets).
 
-My list:
+Here's what I use:
 
 ```powershell
 > scoop list
@@ -65,7 +65,7 @@ vscode          1.87.0      extras   2024-03-01 20:55:50
 wechat          3.9.9.43    extras   2024-03-01 20:57:14
 ```
 
-## Update & Clean
+## Up-to-Date
 
 ```powershell
 scoop update *

@@ -5,14 +5,14 @@ tags:
   - how
 ---
 
-> If a technical document written by oneself cannot guide one's related work after three months or even a longer period, the document is seriously inadequate.
+> A technical document that fails to guide related work after three months or more is fundamentally flawed.
 
-- **Comprehensive Context**: Original requirements, prior knowledge, existing solutions, specific practices, and reference literature.
-- **Reproducibility**: Complete demonstration of the environment setup process, all command-line parameters, complete command-line output, and full source code with compilation parameters.
-- **Documenting Failures**: Even if unsuccessful, record the "entire" attempted process leading up to the failure.
-- **In-Depth Details:** Delve into the details, elaborate on the challenges encountered.
-- **Continuity**: Iterating through experiences in an ongoing manner is the best practice.
-- **Reference Material**: Avoid leaving only links for reference. It is preferable to include titles, authors, dates, and links.
+- **Comprehensive Context**: Include the original requirements, background knowledge, existing solutions, applied practices, and relevant literature to provide a full picture.
+- **Reproducibility**: Ensure the document details the environment setup, all command-line inputs, outputs, and the complete source code with its compilation parameters for easy replication.
+- **Documenting Failures**: Record the entire process, including unsuccessful attempts, to provide valuable insights into what didn't work.
+- **In-Depth Details**: Dive deep into the specifics, discussing the challenges faced and how they were addressed or why they remained unresolved.
+- **Continuity**: Adopt a practice of continuously updating the document with new findings and experiences for ongoing relevance.
+- **Reference Material**: Instead of merely linking to references, include the title, author(s), publication date, and the link to ensure the information remains accessible and understandable over time.
 
 ## Thanks
 

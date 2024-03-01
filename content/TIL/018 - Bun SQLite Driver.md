@@ -7,8 +7,6 @@ tags:
 
 Bun natively implements a high-performance [SQLite3](https://www.sqlite.org/) driver. To use it import from the built-in `bun:sqlite` module.
 
-## Preference
-
 ```ts
 class Database {
   constructor(

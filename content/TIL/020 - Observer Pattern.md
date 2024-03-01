@@ -9,9 +9,10 @@ Implementing a one-to-many dependency relationship between objects, when the sta
 
 There are several important concepts: observable, also known as subject, can be likened to a news public account, and observers can be likened to the crowd. Observers can subscribe to the observable, and once a major event occurs, the observable can notify all observers subscribed to it. Of course, observers must also have a way to unsubscribe.
 
-In this way, the observable is only responsible for monitoring events, while the observers are only responsible for handling the received data, and the two can be decoupled at any time.
+This model allows the observable to focus on event monitoring, while observers handle data processing, enabling easy decoupling.
 
-Unlike the observer pattern, in the publish/subscribe pattern, the publisher and the subscriber do not know of each other's existence. They communicate through a broker component.
+Different from the observer pattern, the publish/subscribe pattern involves publishers and subscribers who are unaware of each other, communicating via a broker component.
+
 
 ## Observable
 

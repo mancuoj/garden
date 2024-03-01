@@ -5,7 +5,7 @@ tags:
   - windows
 ---
 
-## WSL
+## WSL Ubuntu
 
 ```zshrc
 function up() {
@@ -17,7 +17,7 @@ function up() {
 }
 ```
 
-## Windows App
+## Windows
 
 ```powershell
 notepad $PROFILE
