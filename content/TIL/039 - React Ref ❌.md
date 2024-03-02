@@ -13,14 +13,14 @@ tags:
 - Unlike state, setting the ref's `current` value does not trigger a re-render.
 - Refs are an escape hatch to hold onto values that aren't used for rendering. You won't need them often.
 - A ref is a plain JavaScript object with a single property called `current`, which you can read or set.
-- Don’t read or write `ref.current` during rendering. This makes your component hard to predict.
+- Don't read or write `ref.current` during rendering. This makes your component hard to predict.
 
 ---
 
 - Refs are a generic concept, but most often you'll use them to hold DOM elements
 - You instruct React to put a DOM node into `myRef.current` by passing `<div ref={myRef}>`
 - Usually, you will use refs for non-destructive actions like focusing, scrolling, or measuring DOM elements
-- A component doesn’t expose its DOM nodes by default. You can opt into exposing a DOM node by using `forwardRef` and passing the second `ref` argument down to a specific node
+- A component doesn't expose its DOM nodes by default. You can opt into exposing a DOM node by using `forwardRef` and passing the second `ref` argument down to a specific node
 - Avoid changing DOM nodes managed by React
 - If you do modify DOM nodes managed by React, modify parts that React has no reason to update
 
