@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TIL/039 - React Ref ❌.md",
+                "file": "Collection/Media.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TIL/039 - React Ref ❌.md",
+                "file": "Collection/Media.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TIL/039 - React Ref ❌.md",
+                "file": "Collection/Media.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TIL/039 - React Ref ❌.md"
+                "file": "Collection/Media.md"
               }
             }
           }
@@ -171,7 +171,13 @@
   },
   "active": "4b033ecd8c42c07b",
   "lastOpenFiles": [
+    "Collection/Ideas.md",
+    "Collection/Books.md",
+    "Collection/Bloggers.md",
+    "Collection/Articles.md",
     "TIL/047.md",
+    "Notes.md",
+    "TIL/039 - React Ref ❌.md",
     "TIL/044 - Scoop.md",
     "TIL/042 - NodeJS Dockerfile.md",
     "TIL/035 - 10 Tailwind Classes.md",
@@ -191,12 +197,6 @@
     "Blog/React 文档拾遗.md",
     "Blog/React + TypeScript 小抄.md",
     "Blog/CSS Grid 入门.md",
-    "Blog/CSS Flexbox 入门.md",
-    "Blog/ChatGPT 中英翻译 Prompt.md",
-    "Blog/Angular ngDoCheck.md",
-    "Blog/Angular 井号语法.md",
-    "TIL/009 - Conventional Commits.md",
-    "Collection/Media.md",
     "assets/nextjs.png",
     "assets/crud.png",
     "assets/Pasted image 20240218223759.png",
