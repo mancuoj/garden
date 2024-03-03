@@ -27,3 +27,4 @@ tags:
 ## Thanks
 
 - [Referencing Values with Refs – React](https://react.dev/learn/referencing-values-with-refs#best-practices-for-refs)
+- [Manipulating the DOM with Refs – React](https://react.dev/learn/manipulating-the-dom-with-refs)
