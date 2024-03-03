@@ -9,7 +9,6 @@ tags:
 
 No need to say more.
 
-
 ## exports
 
 `exports` define the public API for your library.
@@ -64,6 +63,10 @@ For example, if you transform your code from TypeScript into JavaScript, you pro
 
 Much a like creating a [pure function](https://en.wikipedia.org/wiki/Pure_function) can bring benefits, creating a "pure module" enables certain benefits as well; bundlers can do a much better job of tree shaking your library.
 
+## peerDependencies
+
+If you rely on another framework or library, set it as a peer dependency.
+
 ## Example
 
 ```json
@@ -92,7 +95,6 @@ Much a like creating a [pure function](https://en.wikipedia.org/wiki/Pure_funct
   "files": ["dist"]
 }
 ```
-
 
 ## Thanks
 
