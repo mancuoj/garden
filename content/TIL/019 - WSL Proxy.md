@@ -10,7 +10,7 @@ tags:
 - WSL2 + Ubuntu
 - Incorporate the following into your shell profile, such as `.bashrc` or `.zshrc`
 
-```zshrc
+```shell
 host_ip=$(cat /etc/resolv.conf | grep "nameserver" | cut -f 2 -d " ")
 export all_proxy=http://$host_ip:7890
 export http_proxy=http://$host_ip:7890

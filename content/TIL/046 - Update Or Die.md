@@ -7,13 +7,13 @@ tags:
 
 ## WSL Ubuntu
 
-```zshrc
+```shell
 function up() {
   sudo apt update -qq && sudo apt upgrade -yqq
-  taze major -gi
+  taze major -gis
   bun upgrade
   rye self update
-  cargo install $(cargo install --list | egrep '^[a-z0-9_-]+ v[0-9.]+:$' | cut -f1 -d' ')
+  cargo install -q $(cargo install --list | egrep '^[a-z0-9_-]+ v[0-9.]+:$' | cut -f1 -d' ')
 }
 ```
 
@@ -36,4 +36,4 @@ function up {
 
 - [[029 - Make PowerShell Great Again]]
 - [[044 - Scoop]]
-- [My dotfiles](https://github.com/mancuoj/dotfiles)
+- [mancuoj/dotfiles](https://github.com/mancuoj/dotfiles)

@@ -16,7 +16,7 @@ No need to say more.
 - Defines what can and cannot be imported from your library, and what the name of it is. If it's not listed in `exports`, then developers cannot `import`/`require` it. In other words, it acts like a public API for users of your library and helps define what is public and what is internal
 - Allows you to change which file is imported based on conditions (that you can define), such as "Was the file `import`ed or `require`d?
 
-One example that covers the most common use-cases: 
+One example that covers the most common use-cases:
 
 ```json
 {
@@ -51,6 +51,7 @@ If a bundler or environment understands the `exports` field, then the `packag
 - `main` defines the CommonJS entry
 - `module` defines the ESM entry
 - `types` defines the TypeScript types
+
 ## files
 
 The [`files`](https://docs.npmjs.com/cli/v8/configuring-npm/package-json#files) field indicates to the `npm` CLI which files and folders to include when you package your library to be put on NPM's package registry.
