@@ -49,6 +49,9 @@ One example that covers the most common use-cases:
 
 If a bundler or environment understands the `exports` field, then the `package.json`'s top-level [main](https://github.com/frehner/modern-guide-to-packaging-js-library#set-the-main-field), [types](https://github.com/frehner/modern-guide-to-packaging-js-library#set-the-types-field), [module](https://github.com/frehner/modern-guide-to-packaging-js-library#set-the-module-field), and [browser](https://github.com/frehner/modern-guide-to-packaging-js-library#set-the-browser-field) fields are ignored, as `exports` supersedes those fields.
 
+- `main` defines the CommonJS entry
+- `module` defines the ESM entry
+- `types` defines the TypeScript types
 ## files
 
 The [`files`](https://docs.npmjs.com/cli/v8/configuring-npm/package-json#files) field indicates to the `npm` CLI which files and folders to include when you package your library to be put on NPM's package registry.
