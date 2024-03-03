@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TIL/049 - exports in package.json.md",
+                "file": "TIL/049 - package.json settings.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TIL/049 - exports in package.json.md",
+                "file": "TIL/049 - package.json settings.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TIL/049 - exports in package.json.md",
+                "file": "TIL/049 - package.json settings.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TIL/049 - exports in package.json.md"
+                "file": "TIL/049 - package.json settings.md"
               }
             }
           }
@@ -172,7 +172,7 @@
   "active": "4b033ecd8c42c07b",
   "lastOpenFiles": [
     "TIL/042 - NodeJS Dockerfile.md",
-    "TIL/049 - exports in package.json.md",
+    "TIL/049 - package.json settings.md",
     "TIL/048 - Jotai ❌.md",
     "Blog/2024 了，如何发布一个 npm 包 ❌.md",
     "TIL/038 - From React to Next.js ❌.md",
