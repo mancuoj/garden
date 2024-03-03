@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TIL/049 - TS Starter.md",
+                "file": "TIL/049 - exports in package.json.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -77,7 +77,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "sample",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TIL/049 - TS Starter.md",
+                "file": "TIL/049 - exports in package.json.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TIL/049 - TS Starter.md",
+                "file": "TIL/049 - exports in package.json.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TIL/049 - TS Starter.md"
+                "file": "TIL/049 - exports in package.json.md"
               }
             }
           }
@@ -171,7 +171,10 @@
   },
   "active": "4b033ecd8c42c07b",
   "lastOpenFiles": [
-    "TIL/048 - Jotai.md",
+    "TIL/042 - NodeJS Dockerfile.md",
+    "TIL/049 - exports in package.json.md",
+    "TIL/048 - Jotai ❌.md",
+    "Blog/2024 了，如何发布一个 npm 包 ❌.md",
     "TIL/038 - From React to Next.js ❌.md",
     "TIL/047 - React Docs Effect.md",
     "TIL/039 - React Docs Ref.md",
@@ -194,9 +197,6 @@
     "TIL/034 - Why I use Prettier.md",
     "TIL/037 - CSS Style Reset.md",
     "TIL/033 - Modern Rust CLI Tools.md",
-    "TIL/027 - TS extends keyof and in keyof.md",
-    "TIL/024 - Create Types from Types.md",
-    "TIL/021 - Daisy UI.md",
     "assets/nextjs.png",
     "assets/crud.png",
     "assets/Pasted image 20240218223759.png",

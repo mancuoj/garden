@@ -11,7 +11,7 @@ Just to run once:
 npx --yes @flydotio/dockerfile@latest
 ```
 
-## Sample
+## Example
 
 ```dockerfile
 # syntax = docker/dockerfile:1
