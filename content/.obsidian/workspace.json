@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TIL/038 - From React to Next.js ❌.md",
+                "file": "TIL/048 - Jotai.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TIL/038 - From React to Next.js ❌.md",
+                "file": "TIL/048 - Jotai.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TIL/038 - From React to Next.js ❌.md",
+                "file": "TIL/048 - Jotai.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TIL/038 - From React to Next.js ❌.md"
+                "file": "TIL/048 - Jotai.md"
               }
             }
           }
@@ -171,10 +171,10 @@
   },
   "active": "4b033ecd8c42c07b",
   "lastOpenFiles": [
+    "TIL/038 - From React to Next.js ❌.md",
     "TIL/047 - React Docs Effect.md",
     "TIL/039 - React Docs Ref.md",
     "TIL/046 - Update Or Die.md",
-    "TIL/038 - From React to Next.js ❌.md",
     "TIL/019 - WSL Proxy.md",
     "TIL/020 - Observer Pattern.md",
     "TIL/018 - Bun SQLite Driver.md",
