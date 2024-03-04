@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blog/简历 ❌.md",
+                "file": "Collection/Bloggers.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Blog/简历 ❌.md",
+                "file": "Collection/Bloggers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Blog/简历 ❌.md",
+                "file": "Collection/Bloggers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Blog/简历 ❌.md"
+                "file": "Collection/Bloggers.md"
               }
             }
           }
@@ -171,10 +171,10 @@
   },
   "active": "4b033ecd8c42c07b",
   "lastOpenFiles": [
-    "Blog/2024 了，如何发布一个 npm 包 ❌.md",
-    "Blog/简历 ❌.md",
-    "Blog/2024 Flags.md",
     "Collection/Articles.md",
+    "Blog/简历 ❌.md",
+    "Blog/2024 了，如何发布一个 npm 包 ❌.md",
+    "Blog/2024 Flags.md",
     "Collection/简历.md",
     "Collection/Books.md",
     "Collection/Media.md",
