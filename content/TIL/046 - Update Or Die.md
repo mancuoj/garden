@@ -9,11 +9,20 @@ tags:
 
 ```shell
 function up() {
+  echo -e "\033[0;34m---------- Updating system packages ------------------------\033[0m"
   sudo apt update -qq && sudo apt upgrade -yqq
+
+  echo -e "\033[0;34m---------- Updating npm global packages --------------------\033[0m"
   taze major -gis
+
+  echo -e "\033[0;34m---------- Upgrading bun -----------------------------------\033[0m"
   bun upgrade
+
+  echo -e "\033[0;34m---------- Updating rye ------------------------------------\033[0m"
   rye self update
-  cargo install -q $(cargo install --list | egrep '^[a-z0-9_-]+ v[0-9.]+:$' | cut -f1 -d' ')
+
+  echo -e "\033[0;34m---------- Updating Rust packages --------------------------\033[0m"
+  cargo install $(cargo install --list | egrep '^[a-z0-9_-]+ v[0-9.]+:$' | cut -f1 -d' ')
 }
 ```
 
