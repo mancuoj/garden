@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TIL/050 - TS Starter ❌.md",
+                "file": "TIL/051 - RSC ❌.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TIL/050 - TS Starter ❌.md",
+                "file": "TIL/051 - RSC ❌.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TIL/050 - TS Starter ❌.md",
+                "file": "TIL/051 - RSC ❌.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TIL/050 - TS Starter ❌.md"
+                "file": "TIL/051 - RSC ❌.md"
               }
             }
           }
@@ -171,8 +171,8 @@
   },
   "active": "4b033ecd8c42c07b",
   "lastOpenFiles": [
+    "TIL/050.md",
     "TIL/051 - RSC ❌.md",
-    "TIL/050 - TS Starter ❌.md",
     "TIL/046 - Update or Die.md",
     "TIL/045 - Center a Div.md",
     "TIL/047 - React Docs Effect.md",
