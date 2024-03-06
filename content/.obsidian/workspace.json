@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TIL/051 - RSC ❌.md",
+                "file": "Collection/Media.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TIL/051 - RSC ❌.md",
+                "file": "Collection/Media.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TIL/051 - RSC ❌.md",
+                "file": "Collection/Media.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TIL/051 - RSC ❌.md"
+                "file": "Collection/Media.md"
               }
             }
           }
@@ -171,22 +171,22 @@
   },
   "active": "4b033ecd8c42c07b",
   "lastOpenFiles": [
-    "TIL/050.md",
+    "Collection/Ideas.md",
+    "Collection/Bloggers.md",
+    "Collection/Books.md",
+    "Collection/Media.md",
+    "Notes.md",
     "TIL/051 - RSC ❌.md",
+    "TIL/050.md",
     "TIL/046 - Update or Die.md",
     "TIL/045 - Center a Div.md",
     "TIL/047 - React Docs Effect.md",
     "assets/Pasted image 20240304203313.png",
-    "Collection/Bloggers.md",
     "Collection/Articles.md",
     "Blog/简历 ❌.md",
     "Blog/2024 了，如何发布一个 npm 包 ❌.md",
     "Blog/2024 Flags.md",
     "Collection/简历.md",
-    "Collection/Books.md",
-    "Collection/Media.md",
-    "Collection/Ideas.md",
-    "Notes.md",
     "TMPL/时间参考.md",
     "TIL/040 - Install Go in WSL2.md",
     "TIL/043 - Helix Editor.md",
