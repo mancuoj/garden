@@ -5,6 +5,13 @@ tags:
   - npm
 ---
 
+- `package.json`
+- `.gitignore`
+- [antfu/eslint-config](https://github.com/antfu/eslint-config)
+- `.vscode/settings.json`
+- 
+
+
 ## Thanks
 
 - [[049 - package.json]]
