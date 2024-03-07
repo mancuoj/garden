@@ -33,14 +33,17 @@ date: 2024-01-01
 
 ### Mar
 
-- 🎮 Deep Rock Galactic: Survivor
-- 🎮 Oblivion Override
-- 🎮 Tiny Civilization
-- 🎮 星引擎
+- 🎮 Deep Rock Galactic: Survivor：无脑幸存者爽玩 6/10
+- 🎮 湮灭线：跟死亡细胞一个品类，玩了几把就不想玩了 6/10
+- 🎮 方寸文明：三消，偶尔来一局还是挺爽的 6/10
+- 🎮 星引擎：四人大富翁，一点意思都没有 2/10
+- 🎮 Roboquest：哒哒哒，一点都不爽，不如 OW 一根 5/10
+- 🎮 无主之地 3：玩半个小时差点没吐出来 1/10
 
 ### Feb 2024
 
-- 🎦 飞驰人生 2
-- 📺 Friends Season 1 - 24
-- 🎮 Gunfire Reborn
-- 🎮 BlazBlue: Entropy Effect
+- 🎦 飞驰人生 2：反正我看得是挺爽的，尤其后半段，一直赛车一直爽，7/10
+- 📺 Friends Season 1 - 24：经典回顾
+- 🎮 Gunfire Reborn：哒哒哒，联机体验还行 7/10
+- 🎮 BlazBlue: Entropy Effect：爽玩，动作性拉满，手残也能过 9/10
+- 🎮 Spiritfall：手感稀烂 1/10
