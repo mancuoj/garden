@@ -18,7 +18,6 @@ packages:
 ```
 
 
-
 ## Thanks
 
 - [Managing a full-stack, multipackage monorepo using pnpm](https://blog.logrocket.com/managing-full-stack-monorepo-pnpm/)

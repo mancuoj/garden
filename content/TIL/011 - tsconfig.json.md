@@ -119,3 +119,4 @@ tags:
 - [TypeScript for React Developers](https://www.freecodecamp.org/news/typescript-for-react-developers/)
 - [TS Config Helper](https://tsconfiger.netlify.app/)
 - [elysia/tsconfig.json](https://github.com/elysiajs/elysia/blob/main/tsconfig.json)
+- [The TSConfig Cheat Sheet | Total TypeScript](https://www.totaltypescript.com/tsconfig-cheat-sheet)

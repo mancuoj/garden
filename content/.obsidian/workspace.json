@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TIL/050 - pnpm workspace.md",
+                "file": "TIL/011 - tsconfig.json.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TIL/050 - pnpm workspace.md",
+                "file": "TIL/011 - tsconfig.json.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TIL/050 - pnpm workspace.md",
+                "file": "TIL/011 - tsconfig.json.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TIL/050 - pnpm workspace.md"
+                "file": "TIL/011 - tsconfig.json.md"
               }
             }
           }
@@ -171,6 +171,11 @@
   },
   "active": "fcbeb93a60bee58d",
   "lastOpenFiles": [
+    "TIL/023 - TS Utility Types.md",
+    "TIL/024 - Create Types from Types.md",
+    "TIL/025 - Test React Hooks with Vitest.md",
+    "TIL/027 - TS extends keyof and in keyof.md",
+    "TIL/050 - pnpm workspace.md",
     "TIL/049 - package.json.md",
     "TIL/029 - Make PowerShell Great Again.md",
     "Collection/Media.md",
@@ -179,7 +184,6 @@
     "Collection/Books.md",
     "Notes.md",
     "TIL/051 - RSC ❌.md",
-    "TIL/050 - pnpm workspace.md",
     "TIL/046 - Update or Die.md",
     "TIL/045 - Center a Div.md",
     "TIL/047 - React Docs Effect.md",
@@ -194,10 +198,6 @@
     "TIL/043 - Helix Editor.md",
     "Blog/买了新服务器后.md",
     "TIL/009 - Conventional Commits.md",
-    "TIL/019 - WSL Proxy.md",
-    "TIL/014 - Git Alias.md",
-    "TIL/044 - Scoop.md",
-    "TIL/052.md",
     "assets/nextjs.png",
     "assets/crud.png",
     "assets/Pasted image 20240218223759.png",
