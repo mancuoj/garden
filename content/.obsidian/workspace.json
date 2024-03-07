@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TIL/029 - Make PowerShell Great Again.md",
+                "file": "TIL/050 - pnpm workspace.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TIL/029 - Make PowerShell Great Again.md",
+                "file": "TIL/050 - pnpm workspace.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TIL/029 - Make PowerShell Great Again.md",
+                "file": "TIL/050 - pnpm workspace.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TIL/029 - Make PowerShell Great Again.md"
+                "file": "TIL/050 - pnpm workspace.md"
               }
             }
           }
@@ -171,13 +171,15 @@
   },
   "active": "fcbeb93a60bee58d",
   "lastOpenFiles": [
+    "TIL/049 - package.json.md",
+    "TIL/029 - Make PowerShell Great Again.md",
     "Collection/Media.md",
     "Collection/Ideas.md",
     "Collection/Bloggers.md",
     "Collection/Books.md",
     "Notes.md",
     "TIL/051 - RSC ❌.md",
-    "TIL/050.md",
+    "TIL/050 - pnpm workspace.md",
     "TIL/046 - Update or Die.md",
     "TIL/045 - Center a Div.md",
     "TIL/047 - React Docs Effect.md",
@@ -191,13 +193,11 @@
     "TIL/040 - Install Go in WSL2.md",
     "TIL/043 - Helix Editor.md",
     "Blog/买了新服务器后.md",
-    "TIL/049 - package.json.md",
     "TIL/009 - Conventional Commits.md",
     "TIL/019 - WSL Proxy.md",
     "TIL/014 - Git Alias.md",
     "TIL/044 - Scoop.md",
     "TIL/052.md",
-    "TIL/053.md",
     "assets/nextjs.png",
     "assets/crud.png",
     "assets/Pasted image 20240218223759.png",
