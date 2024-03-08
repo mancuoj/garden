@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TIL/012 - clsx.md",
+                "file": "Collection/Ideas.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TIL/012 - clsx.md",
+                "file": "Collection/Ideas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TIL/012 - clsx.md",
+                "file": "Collection/Ideas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TIL/012 - clsx.md"
+                "file": "Collection/Ideas.md"
               }
             }
           }
@@ -171,6 +171,7 @@
   },
   "active": "fcbeb93a60bee58d",
   "lastOpenFiles": [
+    "TIL/012 - clsx.md",
     "TIL/019 - WSL Proxy.md",
     "TIL/052.md",
     "TIL/051 - RSC ❌.md",
@@ -183,7 +184,6 @@
     "TIL/013 - twMerge.md",
     "TIL/011 - tsconfig.json.md",
     "TIL/009 - Conventional Commits.md",
-    "TIL/012 - clsx.md",
     "TIL/010 - Atomic CSS.md",
     "TIL/015 - Oh Shit Git.md",
     "TIL/023 - TS Utility Types.md",

@@ -5,9 +5,14 @@ date: 2023-12-01
 > [!quote]
 > Fight for a bright tomorrow!
 
-## 随手记
+## LeetCode CLI
 
-### 想法
+- 终端下载题目描述，测试用例，代码模板 ...
+- 终端内测试
+- 终端提交代码
+- 简洁好用
+
+## 随手记
 
 - 收集零散想法的平台
 - 随手可记，多平台同步（同步机制？跨平台方案？）
@@ -22,8 +27,6 @@ date: 2023-12-01
 - 自由更改 Layout（通过 config 文件，参考 quartz）
 - ...
 
-### 草图
-
 ![[idea1.png]]
 
 ### 参考
@@ -32,8 +35,6 @@ date: 2023-12-01
 - [usememos/memos](https://github.com/usememos/memos)
 
 ## typing game
-
-### 想法
 
 - 打字游戏，锻炼英文阅读 + 单词能力
 - 文章（双语），短文章（来源？）
@@ -67,8 +68,6 @@ date: 2023-12-01
 - [lemnos/tt](https://github.com/lemnos/tt)
 
 ## 小游戏合集
-
-### 想法
 
 - 贪吃蛇
 - Tic Tac Toe
