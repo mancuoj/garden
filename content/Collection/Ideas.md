@@ -8,9 +8,11 @@ date: 2023-12-01
 ## LeetCode CLI
 
 - 终端下载题目描述，测试用例，代码模板 ...
-- 终端内测试
-- 终端提交代码
-- 简洁好用
+- 本地测试，测试成功自动提交
+### 参考
+
+- [EternalHeartTeam/leetcode-practice](https://github.com/EternalHeartTeam/leetcode-practice)
+- [j178/leetgo](https://github.com/j178/leetgo)
 
 ## 随手记
 
