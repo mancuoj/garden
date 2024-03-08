@@ -7,7 +7,7 @@ tags:
 
 `pnpm-workspace.yaml` defines the root of the [workspace](https://pnpm.io/workspaces) and enables you to include / exclude directories from the workspace. By default, all packages of all subdirectories are included.
 
-```yaml
+```yaml title="pnpm-workspace.yaml"
 packages:
   # all packages in direct subdirs of packages/
   - 'packages/*'
@@ -16,7 +16,6 @@ packages:
   # exclude packages that are inside test directories
   - '!**/test/**'
 ```
-
 
 ## Thanks
 
