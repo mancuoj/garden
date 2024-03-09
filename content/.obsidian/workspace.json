@@ -47,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Collection/Ideas.md",
+                "file": "Collection/Media.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Collection/Ideas.md",
+                "file": "Collection/Media.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Collection/Ideas.md"
+                "file": "Collection/Media.md"
               }
             }
           }
@@ -169,13 +169,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "fcbeb93a60bee58d",
+  "active": "4b033ecd8c42c07b",
   "lastOpenFiles": [
+    "Collection/Ideas.md",
     "index.md",
     "TIL/052 - React Docs Effect.md",
     "TIL/039 - React Docs Ref.md",
     "Notes.md",
-    "Collection/Ideas.md",
     "TIL/012 - clsx.md",
     "TIL/019 - WSL Proxy.md",
     "TIL/051 - RSC ❌.md",
