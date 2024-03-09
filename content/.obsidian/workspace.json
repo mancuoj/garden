@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes.md",
+                "file": "TIL/052 - React Docs Effect.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes.md",
+                "file": "TIL/052 - React Docs Effect.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes.md",
+                "file": "TIL/052 - React Docs Effect.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes.md"
+                "file": "TIL/052 - React Docs Effect.md"
               }
             }
           }
@@ -171,10 +171,12 @@
   },
   "active": "fcbeb93a60bee58d",
   "lastOpenFiles": [
+    "TIL/039 - React Docs Ref.md",
+    "Notes.md",
     "Collection/Ideas.md",
     "TIL/012 - clsx.md",
     "TIL/019 - WSL Proxy.md",
-    "TIL/052.md",
+    "TIL/052 - React Docs Effect.md",
     "TIL/051 - RSC ❌.md",
     "TIL/050 - pnpm workspace.md",
     "TIL/048 - Jotai ❌.md",
@@ -195,8 +197,6 @@
     "Collection/Media.md",
     "Collection/Bloggers.md",
     "Collection/Books.md",
-    "Notes.md",
-    "TIL/045 - Center a Div.md",
     "assets/Pasted image 20240304203313.png",
     "assets/nextjs.png",
     "assets/crud.png",
