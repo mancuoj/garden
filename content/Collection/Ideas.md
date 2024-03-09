@@ -14,7 +14,7 @@ date: 2023-12-01
 - [EternalHeartTeam/leetcode-practice](https://github.com/EternalHeartTeam/leetcode-practice)
 - [j178/leetgo](https://github.com/j178/leetgo)
 - [skygragon/leetcode-cli: A cli tool to enjoy leetcode! (github.com)](https://github.com/skygragon/leetcode-cli)
-- 
+
 ## 随手记
 
 - 收集零散想法的平台
