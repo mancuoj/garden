@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TIL/052 - React Docs Effect.md",
+                "file": "Collection/Ideas.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TIL/052 - React Docs Effect.md",
+                "file": "Collection/Ideas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TIL/052 - React Docs Effect.md",
+                "file": "Collection/Ideas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TIL/052 - React Docs Effect.md"
+                "file": "Collection/Ideas.md"
               }
             }
           }
@@ -171,12 +171,13 @@
   },
   "active": "fcbeb93a60bee58d",
   "lastOpenFiles": [
+    "index.md",
+    "TIL/052 - React Docs Effect.md",
     "TIL/039 - React Docs Ref.md",
     "Notes.md",
     "Collection/Ideas.md",
     "TIL/012 - clsx.md",
     "TIL/019 - WSL Proxy.md",
-    "TIL/052 - React Docs Effect.md",
     "TIL/051 - RSC ❌.md",
     "TIL/050 - pnpm workspace.md",
     "TIL/048 - Jotai ❌.md",
@@ -196,7 +197,6 @@
     "TIL/029 - Make PowerShell Great Again.md",
     "Collection/Media.md",
     "Collection/Bloggers.md",
-    "Collection/Books.md",
     "assets/Pasted image 20240304203313.png",
     "assets/nextjs.png",
     "assets/crud.png",

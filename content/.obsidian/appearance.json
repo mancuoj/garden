@@ -1,8 +1,8 @@
 {
   "accentColor": "#a6a0fd",
   "interfaceFontFamily": "Maple UI,微软雅黑",
-  "textFontFamily": "MonoLisa,Maple Hand,SN Pro",
-  "baseFontSize": 15,
+  "textFontFamily": "Monaspace Radon,Maple Hand,MonoLisa,SN Pro",
+  "baseFontSize": 18,
   "monospaceFontFamily": "Monaspace Xenon",
   "translucency": false,
   "cssTheme": "Catppuccin",

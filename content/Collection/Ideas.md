@@ -5,6 +5,13 @@ date: 2023-12-01
 > [!quote]
 > Fight for a bright tomorrow!
 
+## 复刻 [Welcome to Dub.co](https://app.dub.co/welcome)
+
+- 网格背景
+- 渐变色 + 高斯模糊
+- 随鼠标移动的 3D 模型
+
+
 ## LeetCode CLI
 
 - 终端下载题目描述，测试用例，代码模板 ...
