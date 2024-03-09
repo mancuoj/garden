@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Collection/Ideas.md",
+                "file": "Notes.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Collection/Ideas.md",
+                "file": "Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Collection/Ideas.md",
+                "file": "Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Collection/Ideas.md"
+                "file": "Notes.md"
               }
             }
           }
@@ -171,6 +171,7 @@
   },
   "active": "fcbeb93a60bee58d",
   "lastOpenFiles": [
+    "Collection/Ideas.md",
     "TIL/012 - clsx.md",
     "TIL/019 - WSL Proxy.md",
     "TIL/052.md",
@@ -192,7 +193,6 @@
     "TIL/049 - package.json.md",
     "TIL/029 - Make PowerShell Great Again.md",
     "Collection/Media.md",
-    "Collection/Ideas.md",
     "Collection/Bloggers.md",
     "Collection/Books.md",
     "Notes.md",
