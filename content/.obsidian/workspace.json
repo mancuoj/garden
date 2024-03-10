@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TIL/054 - SSR.md",
+                "file": "TIL/055 - jsr.io.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TIL/054 - SSR.md",
+                "file": "TIL/055 - jsr.io.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TIL/054 - SSR.md",
+                "file": "TIL/055 - jsr.io.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TIL/054 - SSR.md"
+                "file": "TIL/055 - jsr.io.md"
               }
             }
           }
@@ -171,9 +171,10 @@
   },
   "active": "fcbeb93a60bee58d",
   "lastOpenFiles": [
+    "TIL/054 - SSR.md",
+    "TIL/055 - jsr.io.md",
     "TIL/053 - JS Prototype ❌.md",
     "TIL/052 - React Docs Effect ❌.md",
-    "TIL/054 - SSR.md",
     "TIL/051 - RSC ❌.md",
     "Collection/Ideas.md",
     "Collection/Media.md",
@@ -196,7 +197,6 @@
     "TIL/023 - TS Utility Types.md",
     "TIL/024 - Create Types from Types.md",
     "TIL/027 - TS extends keyof and in keyof.md",
-    "TIL/049 - package.json.md",
     "assets/Pasted image 20240304203313.png",
     "assets/nextjs.png",
     "assets/crud.png",
