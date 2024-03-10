@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TIL/052 - React Docs Effect.md",
+                "file": "TIL/053 - JS Prototype ❌.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TIL/052 - React Docs Effect.md",
+                "file": "TIL/053 - JS Prototype ❌.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TIL/052 - React Docs Effect.md",
+                "file": "TIL/053 - JS Prototype ❌.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TIL/052 - React Docs Effect.md"
+                "file": "TIL/053 - JS Prototype ❌.md"
               }
             }
           }
@@ -171,12 +171,13 @@
   },
   "active": "fcbeb93a60bee58d",
   "lastOpenFiles": [
+    "TIL/052 - React Docs Effect ❌.md",
+    "TIL/053 - JS Prototype ❌.md",
+    "TIL/054.md",
     "TIL/051 - RSC ❌.md",
-    "TIL/053.md",
     "Collection/Ideas.md",
     "Collection/Media.md",
     "index.md",
-    "TIL/052 - React Docs Effect.md",
     "TIL/039 - React Docs Ref.md",
     "Notes.md",
     "TIL/012 - clsx.md",
@@ -196,7 +197,6 @@
     "TIL/024 - Create Types from Types.md",
     "TIL/027 - TS extends keyof and in keyof.md",
     "TIL/049 - package.json.md",
-    "TIL/029 - Make PowerShell Great Again.md",
     "assets/Pasted image 20240304203313.png",
     "assets/nextjs.png",
     "assets/crud.png",
