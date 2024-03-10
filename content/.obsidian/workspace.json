@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TIL/053 - JS Prototype ❌.md",
+                "file": "TIL/054 - SSR.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TIL/053 - JS Prototype ❌.md",
+                "file": "TIL/054 - SSR.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TIL/053 - JS Prototype ❌.md",
+                "file": "TIL/054 - SSR.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TIL/053 - JS Prototype ❌.md"
+                "file": "TIL/054 - SSR.md"
               }
             }
           }
@@ -171,9 +171,9 @@
   },
   "active": "fcbeb93a60bee58d",
   "lastOpenFiles": [
-    "TIL/052 - React Docs Effect ❌.md",
     "TIL/053 - JS Prototype ❌.md",
-    "TIL/054.md",
+    "TIL/052 - React Docs Effect ❌.md",
+    "TIL/054 - SSR.md",
     "TIL/051 - RSC ❌.md",
     "Collection/Ideas.md",
     "Collection/Media.md",
