@@ -2,13 +2,13 @@
 date: 2024-01-08
 ---
 
-| 大杂烩                                                          | 备注              |
-| ------------------------------------------------------------ | --------------- |
-| [This Week In React](https://thisweekinreact.com/newsletter) | React 你让我哭      |
-| [MDH Weekly 前端周刊](https://mdhweekly.com/weekly)              | 一路追更过来，React 偏多 |
-| [阮一峰的科技爱好者周刊](https://www.ruanyifeng.com/blog/)              |                 |
-| [前端食堂技术周刊](https://github.com/Geekhyt/weekly)                |                 |
-| [Usubeni Fantasy](https://ssshooter.com/)                    |                 |
+| 大杂烩                                                       | 备注                     |
+| ------------------------------------------------------------ | ------------------------ |
+| [This Week In React](https://thisweekinreact.com/newsletter) | React 你让我哭           |
+| [MDH Weekly 前端周刊](https://mdhweekly.com/weekly)          | 一路追更过来，React 偏多 |
+| [阮一峰的科技爱好者周刊](https://www.ruanyifeng.com/blog/)   |                          |
+| [前端食堂技术周刊](https://github.com/Geekhyt/weekly)        |                          |
+| [Usubeni Fantasy](https://ssshooter.com/)                    |                          |
 
 | 博客名称                                                      | 备注                             |
 | ------------------------------------------------------------- | -------------------------------- |

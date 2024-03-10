@@ -7,10 +7,6 @@ tags:
 
 ## Concepts
 
-
-
-
-
 ## Thanks
- 
+
 - [Synchronizing with Effects – React](https://react.dev/learn/synchronizing-with-effects)

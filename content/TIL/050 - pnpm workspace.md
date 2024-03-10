@@ -10,11 +10,11 @@ tags:
 ```yaml title="pnpm-workspace.yaml"
 packages:
   # all packages in direct subdirs of packages/
-  - 'packages/*'
+  - "packages/*"
   # all packages in subdirs of components/
-  - 'components/**'
+  - "components/**"
   # exclude packages that are inside test directories
-  - '!**/test/**'
+  - "!**/test/**"
 ```
 
 ## Thanks
