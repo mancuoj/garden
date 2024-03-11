@@ -4,24 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "550a561415a76c14",
+        "id": "abc68f4072bd86b6",
         "type": "tabs",
         "children": [
           {
-            "id": "a4a795c54d6aba27",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TIL/035 - 10 Tailwind Classes.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4b033ecd8c42c07b",
+            "id": "5b6e43101d3719e3",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,87 +19,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "f50796ba2d90d087",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TIL/057 -.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "15ca8701684626f9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TIL/058 -.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7859099552a9cc1e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TIL/059.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9fd1e54fe312c412",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TIL/060 -.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c7591fdaae2024c7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TIL/061 -.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fcbeb93a60bee58d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TIL/055 - jsr.io.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -164,7 +72,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TIL/061 -.md",
+                "file": "TIL/056 -.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +89,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TIL/061 -.md",
+                "file": "TIL/056 -.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TIL/061 -.md"
+                "file": "TIL/056 -.md"
               }
             }
           }
@@ -234,18 +142,20 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "c7591fdaae2024c7",
+  "active": "5b6e43101d3719e3",
   "lastOpenFiles": [
-    "TIL/060 -.md",
+    "TIL/055 - jsr.io.md",
+    "TIL/054 - SSR.md",
+    "TIL/056 -.md",
     "TIL/061 -.md",
+    "TIL/004 - SQLite Cheat Sheet.md",
+    "未命名.md",
+    "TIL/060 -.md",
     "TIL/036 - Aceternity UI.md",
     "TIL/038 - From React to Next.js ❌.md",
-    "TIL/055 - jsr.io.md",
     "TIL/058 -.md",
     "TIL/059.md",
     "TIL/057 -.md",
-    "TIL/056 -.md",
-    "TIL/054 - SSR.md",
     "TIL/053 - JS Prototype ❌.md",
     "Collection/Media.md",
     "TIL/052 - React Docs Effect ❌.md",
@@ -260,8 +170,6 @@
     "TIL/048 - Jotai ❌.md",
     "TIL/046 - Update or Die.md",
     "TIL/035 - 10 Tailwind Classes.md",
-    "TIL/025 - Test React Hooks with Vitest.md",
-    "TIL/020 - Observer Pattern.md",
     "assets/Pasted image 20240304203313.png",
     "assets/nextjs.png",
     "assets/crud.png",
