@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes.md",
+                "file": "TIL/056 - JS Generators.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -72,7 +72,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes.md",
+                "file": "TIL/056 - JS Generators.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,7 +89,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes.md",
+                "file": "TIL/056 - JS Generators.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes.md"
+                "file": "TIL/056 - JS Generators.md"
               }
             }
           }
@@ -144,10 +144,11 @@
   },
   "active": "5b6e43101d3719e3",
   "lastOpenFiles": [
+    "Notes.md",
     "TIL/054 - SSR ❌.md",
     "TIL/053 - JS Prototype ❌.md",
     "TIL/055 - jsr.io.md",
-    "TIL/056 -.md",
+    "TIL/056 - JS Generators.md",
     "TIL/061 -.md",
     "TIL/004 - SQLite Cheat Sheet.md",
     "未命名.md",
@@ -163,7 +164,6 @@
     "Collection/Ideas.md",
     "index.md",
     "TIL/039 - React Docs Ref.md",
-    "Notes.md",
     "TIL/012 - clsx.md",
     "TIL/019 - WSL Proxy.md",
     "TIL/050 - pnpm workspace.md",
