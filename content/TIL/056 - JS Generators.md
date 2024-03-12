@@ -10,34 +10,34 @@ Generators can return ("yield") multiple values, one after another, on-demand. T
 
 ```js
 function* generateSequence() {
-  yield 1;
-  yield 2;
-  return 3;
+  yield 1
+  yield 2
+  return 3
 }
 
 // "generator function" creates "generator object"
-let generator = generateSequence();
-alert(generator); // [object Generator]
+let generator = generateSequence()
+alert(generator) // [object Generator]
 
-let one = generator.next();
-alert(JSON.stringify(one)); // {value: 1, done: false}
+let one = generator.next()
+alert(JSON.stringify(one)) // {value: 1, done: false}
 
-let two = generator.next();
-alert(JSON.stringify(two)); // {value: 2, done: false}
+let two = generator.next()
+alert(JSON.stringify(two)) // {value: 2, done: false}
 
-let three = generator.next();
-alert(JSON.stringify(three)); // {value: 3, done: true}
+let three = generator.next()
+alert(JSON.stringify(three)) // {value: 3, done: true}
 
 // If we do them, they return the same object: {done: true}
 ```
 
 ```js
-for(let value of generator) {
-  alert(value); // 1, then 2
+for (let value of generator) {
+  alert(value) // 1, then 2
   // no 3, because { done: true }
 }
 
-let sequence = [0, ...generateSequence()];
+let sequence = [0, ...generateSequence()]
 // 0, 1, 2
 ```
 
@@ -46,42 +46,41 @@ let range = {
   from: 1,
   to: 5,
 
-  *[Symbol.iterator]() { // a shorthand for [Symbol.iterator]: function*()
-    for(let value = this.from; value <= this.to; value++) {
-      yield value;
+  *[Symbol.iterator]() {
+    // a shorthand for [Symbol.iterator]: function*()
+    for (let value = this.from; value <= this.to; value++) {
+      yield value
     }
-  }
-};
+  },
+}
 
-alert( [...range] ); // 1,2,3,4,5
+alert([...range]) // 1,2,3,4,5
 ```
 
 ```js
 function* generateSequence(start, end) {
-  for (let i = start; i <= end; i++) yield i;
+  for (let i = start; i <= end; i++) yield i
 }
 
 function* generatePasswordCodes() {
-
   // 0..9
-  yield* generateSequence(48, 57);
+  yield* generateSequence(48, 57)
   // === for (let i = 48; i <= 57; i++) yield i;
 
   // A..Z
-  yield* generateSequence(65, 90);
+  yield* generateSequence(65, 90)
 
   // a..z
-  yield* generateSequence(97, 122);
-
+  yield* generateSequence(97, 122)
 }
 
-let str = '';
+let str = ""
 
-for(let code of generatePasswordCodes()) {
-  str += String.fromCharCode(code);
+for (let code of generatePasswordCodes()) {
+  str += String.fromCharCode(code)
 }
 
-alert(str); // 0..9A..Za..z
+alert(str) // 0..9A..Za..z
 ```
 
 ## Thanks
