@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TIL/059.md",
+                "file": "TIL/059 - 闭包.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -72,7 +72,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TIL/059.md",
+                "file": "TIL/059 - 闭包.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,7 +89,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TIL/059.md",
+                "file": "TIL/059 - 闭包.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TIL/059.md"
+                "file": "TIL/059 - 闭包.md"
               }
             }
           }
@@ -145,7 +145,7 @@
   "active": "6a6c32eece4fc999",
   "lastOpenFiles": [
     "TIL/058 - JS Object.md",
-    "TIL/059.md",
+    "TIL/059 - 闭包.md",
     "TIL/053 - JS Class and Prototype.md",
     "TIL/055 - jsr.io.md",
     "TIL/051 - RSC ❌.md",
