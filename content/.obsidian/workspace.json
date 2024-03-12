@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TIL/033 - Modern Rust CLI Tools.md",
+                "file": "TIL/058 -.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -72,7 +72,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TIL/033 - Modern Rust CLI Tools.md",
+                "file": "TIL/058 -.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,7 +89,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TIL/033 - Modern Rust CLI Tools.md",
+                "file": "TIL/058 -.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TIL/033 - Modern Rust CLI Tools.md"
+                "file": "TIL/058 -.md"
               }
             }
           }
@@ -144,6 +144,8 @@
   },
   "active": "5b6e43101d3719e3",
   "lastOpenFiles": [
+    "TIL/057 - Atuin.md",
+    "TIL/033 - Modern Rust CLI Tools.md",
     "TIL/019 - WSL Proxy.md",
     "TIL/022 - JS Map.md",
     "TIL/020 - Observer Pattern.md",
@@ -157,7 +159,6 @@
     "TIL/044 - Scoop.md",
     "TIL/043 - Helix Editor.md",
     "TIL/042 - NodeJS Dockerfile.md",
-    "TIL/057 -.md",
     "TIL/056 - JS Generators.md",
     "Notes.md",
     "TIL/054 - SSR ❌.md",
@@ -169,7 +170,6 @@
     "TIL/060 -.md",
     "TIL/036 - Aceternity UI.md",
     "TIL/038 - From React to Next.js ❌.md",
-    "TIL/058 -.md",
     "assets/Pasted image 20240304203313.png",
     "assets/nextjs.png",
     "assets/crud.png",
