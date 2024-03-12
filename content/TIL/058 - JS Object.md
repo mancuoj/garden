@@ -21,8 +21,25 @@ const object = {
 There are three ways to access the values of an object:
 
 - Dot notation
-- Bracket notation, which is used when the key is not a valid variable name, for example, ".123".
-- Destructuring syntax, which is very useful when accessing multiple values at once. You can learn more about the syntax here.
+
+```js
+const val = object.obj.x;
+console.log(val); // 5
+```
+
+- Bracket notation, which is used when the key is not a valid variable name, for example, ".123"
+
+```js
+const val = object["obj"]["x"];
+console.log(val); // 5
+```
+
+- Destructuring syntax, which is very useful when accessing multiple values at once. You can learn more about the syntax here
+
+```js
+const { num, str } = object;
+console.log(num, str); // 1 "Hello World"
+```
 
 
 
