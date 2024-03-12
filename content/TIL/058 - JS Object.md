@@ -42,8 +42,6 @@ console.log(num, str); // 1 "Hello World"
 ```
 
 
-
-
 ## Thanks
 
 - [2665. 计数器 II - 力扣](https://leetcode.cn/problems/counter-ii/solutions/2487703/ji-shu-qi-ii-by-leetcode-solution-ofuk/)
