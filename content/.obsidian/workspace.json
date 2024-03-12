@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TIL/057 -.md",
+                "file": "TIL/033 - Modern Rust CLI Tools.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -72,7 +72,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TIL/057 -.md",
+                "file": "TIL/033 - Modern Rust CLI Tools.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,7 +89,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TIL/057 -.md",
+                "file": "TIL/033 - Modern Rust CLI Tools.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TIL/057 -.md"
+                "file": "TIL/033 - Modern Rust CLI Tools.md"
               }
             }
           }
@@ -144,6 +144,20 @@
   },
   "active": "5b6e43101d3719e3",
   "lastOpenFiles": [
+    "TIL/019 - WSL Proxy.md",
+    "TIL/022 - JS Map.md",
+    "TIL/020 - Observer Pattern.md",
+    "TIL/016 - Bun Test Runner.md",
+    "TIL/017 - React useState(func()).md",
+    "TIL/015 - Oh Shit Git.md",
+    "TIL/010 - Atomic CSS.md",
+    "TIL/006 -  You Might Not Need Axios.md",
+    "TIL/009 - Conventional Commits.md",
+    "TIL/049 - package.json.md",
+    "TIL/044 - Scoop.md",
+    "TIL/043 - Helix Editor.md",
+    "TIL/042 - NodeJS Dockerfile.md",
+    "TIL/057 -.md",
     "TIL/056 - JS Generators.md",
     "Notes.md",
     "TIL/054 - SSR ❌.md",
@@ -156,20 +170,6 @@
     "TIL/036 - Aceternity UI.md",
     "TIL/038 - From React to Next.js ❌.md",
     "TIL/058 -.md",
-    "TIL/059.md",
-    "TIL/057 -.md",
-    "Collection/Media.md",
-    "TIL/052 - React Docs Effect ❌.md",
-    "TIL/051 - RSC ❌.md",
-    "Collection/Ideas.md",
-    "index.md",
-    "TIL/039 - React Docs Ref.md",
-    "TIL/012 - clsx.md",
-    "TIL/019 - WSL Proxy.md",
-    "TIL/050 - pnpm workspace.md",
-    "TIL/048 - Jotai ❌.md",
-    "TIL/046 - Update or Die.md",
-    "TIL/035 - 10 Tailwind Classes.md",
     "assets/Pasted image 20240304203313.png",
     "assets/nextjs.png",
     "assets/crud.png",
