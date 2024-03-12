@@ -2,6 +2,7 @@
 date: 2024-02-25
 tags:
   - til
+  - js
 ---
 
 Regular functions return only one, single value (or nothing).
