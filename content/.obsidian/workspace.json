@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TIL/060 -.md",
+                "file": "TIL/061 - JS Arguments Object.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -72,7 +72,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TIL/060 -.md",
+                "file": "TIL/061 - JS Arguments Object.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,7 +89,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TIL/060 -.md",
+                "file": "TIL/061 - JS Arguments Object.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TIL/060 -.md"
+                "file": "TIL/061 - JS Arguments Object.md"
               }
             }
           }
@@ -144,8 +144,9 @@
   },
   "active": "6a6c32eece4fc999",
   "lastOpenFiles": [
+    "TIL/060 - JS Wrapper.md",
+    "TIL/061 - JS Arguments Object.md",
     "TIL/059 - JS Closure.md",
-    "TIL/060 -.md",
     "TIL/058 - JS Object.md",
     "TIL/054 - SSR ❌.md",
     "TIL/053 - JS Class and Prototype.md",
@@ -169,7 +170,6 @@
     "TIL/016 - Bun Test Runner.md",
     "TIL/017 - React useState(func()).md",
     "TIL/015 - Oh Shit Git.md",
-    "TIL/010 - Atomic CSS.md",
     "assets/Pasted image 20240304203313.png",
     "assets/nextjs.png",
     "assets/crud.png",
