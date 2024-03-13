@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes.md",
+                "file": "TIL/060 -.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -72,7 +72,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes.md",
+                "file": "TIL/060 -.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,7 +89,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes.md",
+                "file": "TIL/060 -.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes.md"
+                "file": "TIL/060 -.md"
               }
             }
           }
@@ -142,16 +142,24 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "43b6f11314d32c5c",
+  "active": "6a6c32eece4fc999",
   "lastOpenFiles": [
-    "TIL/059 - 闭包.md",
+    "TIL/059 - JS Closure.md",
+    "TIL/060 -.md",
     "TIL/058 - JS Object.md",
+    "TIL/054 - SSR ❌.md",
     "TIL/053 - JS Class and Prototype.md",
-    "TIL/055 - jsr.io.md",
+    "TIL/052 - React Docs Effect ❌.md",
     "TIL/051 - RSC ❌.md",
     "TIL/050 - pnpm workspace.md",
-    "TIL/052 - React Docs Effect ❌.md",
-    "TIL/054 - SSR ❌.md",
+    "TIL/048 - Jotai ❌.md",
+    "TIL/038 - From React to Next.js ❌.md",
+    "TIL/003 - TS in 5 Minutes.md",
+    "TIL/002 - turso.tech.md",
+    "TIL/001 - Write a Good Technical Note.md",
+    "TMPL/时间参考.md",
+    "Notes.md",
+    "TIL/055 - jsr.io.md",
     "TIL/056 - JS Generators.md",
     "TIL/057 - Atuin.md",
     "TIL/033 - Modern Rust CLI Tools.md",
@@ -162,14 +170,6 @@
     "TIL/017 - React useState(func()).md",
     "TIL/015 - Oh Shit Git.md",
     "TIL/010 - Atomic CSS.md",
-    "TIL/006 -  You Might Not Need Axios.md",
-    "TIL/009 - Conventional Commits.md",
-    "TIL/049 - package.json.md",
-    "TIL/044 - Scoop.md",
-    "TIL/043 - Helix Editor.md",
-    "TIL/042 - NodeJS Dockerfile.md",
-    "Notes.md",
-    "TIL/061 -.md",
     "assets/Pasted image 20240304203313.png",
     "assets/nextjs.png",
     "assets/crud.png",
