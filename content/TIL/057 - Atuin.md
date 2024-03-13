@@ -5,7 +5,7 @@ tags:
   - shell
 ---
 
-Atuin replaces your existing shell history with a SQLite database, and records additional context for your commands. Additionally, it provides optional and _fully encrypted_ synchronisation of your history between machines, via an Atuin server.
+Atuin replaces your existing shell history with a SQLite database, and records additional context for your commands. Additionally, it provides optional and *fully encrypted* synchronisation of your history between machines, via an Atuin server.
 
 ```sh
 # bash/zsh/etc

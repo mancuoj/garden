@@ -2,7 +2,7 @@
   "accentColor": "#4252b8",
   "interfaceFontFamily": "Maple UI,微软雅黑",
   "textFontFamily": "Maple Hand,霞鹜文楷,Maple UI,Gill Sans,MonoLisa,Monaspace Radon,SN Pro",
-  "baseFontSize": 16,
+  "baseFontSize": 14,
   "monospaceFontFamily": "Monaspace Xenon",
   "translucency": false,
   "cssTheme": "Border",
