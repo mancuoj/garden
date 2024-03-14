@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TIL/061 - JS Arguments Object.md",
+                "file": "TIL/005 - Windows Fonts Beautification.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -72,7 +72,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TIL/061 - JS Arguments Object.md",
+                "file": "TIL/005 - Windows Fonts Beautification.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,7 +89,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TIL/061 - JS Arguments Object.md",
+                "file": "TIL/005 - Windows Fonts Beautification.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TIL/061 - JS Arguments Object.md"
+                "file": "TIL/005 - Windows Fonts Beautification.md"
               }
             }
           }
@@ -144,8 +144,16 @@
   },
   "active": "6a6c32eece4fc999",
   "lastOpenFiles": [
-    "TIL/060 - JS Wrapper.md",
+    "TIL/018 - Bun SQLite Driver.md",
+    "TIL/025 - Test React Hooks with Vitest.md",
+    "TIL/021 - Daisy UI.md",
+    "TIL/019 - WSL Proxy.md",
+    "TIL/020 - Observer Pattern.md",
+    "TIL/024 - Create Types from Types.md",
+    "TIL/022 - JS Map.md",
+    "TIL/030 - Auto Animate.md",
     "TIL/061 - JS Arguments Object.md",
+    "TIL/060 - JS Wrapper.md",
     "TIL/059 - JS Closure.md",
     "TIL/058 - JS Object.md",
     "TIL/054 - SSR ❌.md",
@@ -162,14 +170,6 @@
     "Notes.md",
     "TIL/055 - jsr.io.md",
     "TIL/056 - JS Generators.md",
-    "TIL/057 - Atuin.md",
-    "TIL/033 - Modern Rust CLI Tools.md",
-    "TIL/019 - WSL Proxy.md",
-    "TIL/022 - JS Map.md",
-    "TIL/020 - Observer Pattern.md",
-    "TIL/016 - Bun Test Runner.md",
-    "TIL/017 - React useState(func()).md",
-    "TIL/015 - Oh Shit Git.md",
     "assets/Pasted image 20240304203313.png",
     "assets/nextjs.png",
     "assets/crud.png",
