@@ -19,22 +19,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "b74160810750a114",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TIL/062 - JS Array.sort.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -86,7 +72,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TIL/062 - JS Array.sort.md",
+                "file": "TIL/061 - JS Arguments Object.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +89,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TIL/062 - JS Array.sort.md",
+                "file": "TIL/061 - JS Arguments Object.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TIL/062 - JS Array.sort.md"
+                "file": "TIL/061 - JS Arguments Object.md"
               }
             }
           }
@@ -156,10 +142,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "b74160810750a114",
+  "active": "6a6c32eece4fc999",
   "lastOpenFiles": [
-    "TIL/061 - JS Arguments Object.md",
     "TIL/062 - JS Array.sort.md",
+    "TIL/061 - JS Arguments Object.md",
     "Notes.md",
     "index.md",
     "TMPL/时间参考.md",
