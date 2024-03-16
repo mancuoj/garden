@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes.md",
+                "file": "TIL/061 - JS Arguments Object.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5ef4e3714c76682c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TIL/062 - Jotai Core.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -72,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes.md",
+                "file": "TIL/062 - Jotai Core.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes.md",
+                "file": "TIL/062 - Jotai Core.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes.md"
+                "file": "TIL/062 - Jotai Core.md"
               }
             }
           }
@@ -142,15 +156,18 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "6a6c32eece4fc999",
+  "active": "5ef4e3714c76682c",
   "lastOpenFiles": [
+    "TIL/061 - JS Arguments Object.md",
+    "TIL/062 - Jotai Core.md",
+    "TIL/060 - JS Wrapper.md",
+    "TIL/042 - NodeJS Dockerfile.md",
+    "Notes.md",
     "TIL/020 - Observer Pattern.md",
     "TIL/009 - Conventional Commits.md",
     "TIL/012 - clsx.md",
     "TIL/010 - Atomic CSS.md",
-    "TIL/061 - JS Arguments Object.md",
     "TIL/062 - JS Array.sort.md",
-    "Notes.md",
     "index.md",
     "TMPL/时间参考.md",
     "TIL/005 - Windows Fonts Beautification.md",
@@ -161,15 +178,12 @@
     "TIL/024 - Create Types from Types.md",
     "TIL/022 - JS Map.md",
     "TIL/030 - Auto Animate.md",
-    "TIL/060 - JS Wrapper.md",
     "TIL/059 - JS Closure.md",
     "TIL/058 - JS Object.md",
     "TIL/054 - SSR ❌.md",
     "TIL/053 - JS Class and Prototype.md",
     "TIL/052 - React Docs Effect ❌.md",
     "TIL/051 - RSC ❌.md",
-    "TIL/050 - pnpm workspace.md",
-    "TIL/048 - Jotai ❌.md",
     "assets/Pasted image 20240304203313.png",
     "assets/nextjs.png",
     "assets/crud.png",
