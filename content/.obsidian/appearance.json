@@ -1,8 +1,8 @@
 {
   "accentColor": "#4252b8",
   "interfaceFontFamily": "Maple UI,微软雅黑",
-  "textFontFamily": "Monaspace Xenon,朱雀仿宋（预览测试版）,阿里妈妈东方大楷,阿里妈妈刀隶体,寒蝉正楷体,江西拙楷",
-  "baseFontSize": 17,
+  "textFontFamily": "阿里妈妈东方大楷,朱雀仿宋（预览测试版）,阿里妈妈刀隶体,寒蝉正楷体,江西拙楷",
+  "baseFontSize": 20,
   "monospaceFontFamily": "Monaspace Xenon",
   "translucency": false,
   "cssTheme": "Border",
