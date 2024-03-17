@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TIL/062 - Jotai Core.md",
+                "file": "TIL/056 - JS Generators.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TIL/062 - Jotai Core.md",
+                "file": "TIL/056 - JS Generators.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TIL/062 - Jotai Core.md",
+                "file": "TIL/056 - JS Generators.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TIL/062 - Jotai Core.md"
+                "file": "TIL/056 - JS Generators.md"
               }
             }
           }
@@ -159,8 +159,8 @@
   "active": "5ef4e3714c76682c",
   "lastOpenFiles": [
     "TIL/061 - JS Arguments Object.md",
-    "TIL/062 - Jotai Core.md",
     "TIL/060 - JS Wrapper.md",
+    "TIL/062 - Jotai Core.md",
     "TIL/042 - NodeJS Dockerfile.md",
     "Notes.md",
     "TIL/020 - Observer Pattern.md",
