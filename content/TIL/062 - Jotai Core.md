@@ -46,8 +46,6 @@ const readWriteAtom = atom(
 - `get` in the write function is also to read atom value, but it's not tracked
 
 
-
-
 ## useAtom
 
 
