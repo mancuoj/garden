@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TIL/064 - co.md",
+                "file": "Collection/Books.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TIL/064 - co.md",
+                "file": "Collection/Books.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TIL/064 - co.md",
+                "file": "Collection/Books.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TIL/064 - co.md"
+                "file": "Collection/Books.md"
               }
             }
           }
@@ -184,9 +184,10 @@
   },
   "active": "8aeffd218eac3129",
   "lastOpenFiles": [
+    "Collection/Media.md",
+    "TIL/064 - co.md",
     "TIL/063 - React Geiger.md",
     "TIL/062 - Jotai Core.md",
-    "TIL/064 - co.md",
     "TIL/061 - JS Arguments Object.md",
     "TIL/060 - JS Wrapper.md",
     "TIL/059 - JS Closure.md",
@@ -209,7 +210,6 @@
     "TIL/022 - JS Map.md",
     "TIL/030 - Auto Animate.md",
     "TIL/058 - JS Object.md",
-    "TIL/054 - SSR ❌.md",
     "assets/Pasted image 20240304203313.png",
     "assets/nextjs.png",
     "assets/crud.png",
