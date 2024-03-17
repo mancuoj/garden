@@ -7,17 +7,16 @@ tags:
 
 ## atom
 
-The `atom` function is to create an atom config. We call it "atom config" as it's just a definition and it doesn't yet hold a value. We may also call it just "atom" if the context is clear.
-
-An atom config is an immutable object. The atom config object doesn't hold a value. The atom value exists in a store.
-
-To create a primitive atom (config), all you need is to provide an initial value.
-
-You can also create derived atoms. We have three patterns:
-
-- Read-only atom
-- Write-only atom
-- Read-Write atom
+- `atom` function to create an atom config object
+  - need an initial value
+  - immutable
+  - doesn't hold a value
+  - values exists in a **store**
+- call it **atom** when the context is clear
+- can create derived atoms
+  - read-only
+  - write-only
+  - read-write
 
 ```js
 const readOnlyAtom = atom((get) => get(priceAtom) * 2)
@@ -43,10 +42,8 @@ const readWriteAtom = atom(
 )
 ```
 
-`get` in the read function is to read the atom value. It's reactive and read dependencies are tracked.
-
-`get` in the write function is also to read atom value, but it's not tracked. Furthermore, it can't read unresolved async values in Jotai v1 API.
-
+- `get` in the read function is to read the atom value. It's reactive and read dependencies are tracked
+- `get` in the write function is also to read atom value, but it's not tracked
 
 
 
