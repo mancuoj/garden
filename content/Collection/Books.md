@@ -16,7 +16,6 @@ date: 2024-01-01
 - 鬼吹灯 by 天下霸唱
 - 盗墓笔记 by 南派三叔
 - 你不知道的 JavaScript 上卷 by Kyle Simpson
-- JavaScript 设计模式与开发实践 by 曾探
 - 图解 HTTP by 上野宣
 - 图解 TCP/IP by 竹下隆史 & 村山公保 & 荒井透 & 苅田幸雄
 - 网络是怎样连接的 by 户勤根
@@ -33,6 +32,7 @@ date: 2024-01-01
 
 - ❌ 从姑获鸟开始 by 活儿该
 - 古董局中局 4/4 by 马伯庸
+- JavaScript 设计模式与开发实践 by 曾探
 
 ### Feb
 
