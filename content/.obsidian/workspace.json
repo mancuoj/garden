@@ -60,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Blog/2024 了，如何发布一个 npm 包 ❌.md",
+                "file": "TIL/063 - React Geiger.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Blog/2024 了，如何发布一个 npm 包 ❌.md",
+                "file": "TIL/063 - React Geiger.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Blog/2024 了，如何发布一个 npm 包 ❌.md"
+                "file": "TIL/063 - React Geiger.md"
               }
             }
           }
@@ -182,8 +182,9 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "8aeffd218eac3129",
+  "active": "52867883005fd7be",
   "lastOpenFiles": [
+    "Blog/2024 了，如何发布一个 npm 包 ❌.md",
     "Collection/Books.md",
     "Collection/Media.md",
     "TIL/064 - co.md",
@@ -209,7 +210,6 @@
     "TIL/019 - WSL Proxy.md",
     "TIL/024 - Create Types from Types.md",
     "TIL/022 - JS Map.md",
-    "TIL/030 - Auto Animate.md",
     "assets/Pasted image 20240304203313.png",
     "assets/nextjs.png",
     "assets/crud.png",
