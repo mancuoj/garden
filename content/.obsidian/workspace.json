@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TIL/061 - JS Arguments Object.md",
+                "file": "Blog/React 命名及项目结构规范.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TIL/063 - React Geiger.md",
+                "file": "TIL/021 - Daisy UI.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -59,8 +59,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -112,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TIL/063 - React Geiger.md",
+                "file": "Blog/React 命名及项目结构规范.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TIL/063 - React Geiger.md",
+                "file": "Blog/React 命名及项目结构规范.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,12 +156,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TIL/063 - React Geiger.md"
+                "file": "Blog/React 命名及项目结构规范.md"
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -182,15 +181,19 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "52867883005fd7be",
+  "active": "6a6c32eece4fc999",
   "lastOpenFiles": [
+    "TIL/003 - TS in 5 Minutes.md",
+    "TIL/005 - Windows Fonts Beautification.md",
+    "TIL/002 - turso.tech.md",
+    "TIL/061 - JS Arguments Object.md",
+    "TIL/062 - Jotai Core.md",
+    "TIL/021 - Daisy UI.md",
+    "TIL/063 - React Geiger.md",
     "Blog/2024 了，如何发布一个 npm 包 ❌.md",
     "Collection/Books.md",
     "Collection/Media.md",
     "TIL/064 - co.md",
-    "TIL/063 - React Geiger.md",
-    "TIL/062 - Jotai Core.md",
-    "TIL/061 - JS Arguments Object.md",
     "TIL/060 - JS Wrapper.md",
     "TIL/059 - JS Closure.md",
     "TMPL/时间参考.md",
@@ -203,13 +206,9 @@
     "TIL/010 - Atomic CSS.md",
     "TIL/062 - JS Array.sort.md",
     "index.md",
-    "TIL/005 - Windows Fonts Beautification.md",
     "TIL/018 - Bun SQLite Driver.md",
     "TIL/025 - Test React Hooks with Vitest.md",
-    "TIL/021 - Daisy UI.md",
     "TIL/019 - WSL Proxy.md",
-    "TIL/024 - Create Types from Types.md",
-    "TIL/022 - JS Map.md",
     "assets/Pasted image 20240304203313.png",
     "assets/nextjs.png",
     "assets/crud.png",
