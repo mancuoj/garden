@@ -7,30 +7,30 @@ tags:
 
 ```js
 let obj = {
-  valueOf: function() {
-    return 5;
+  valueOf: function () {
+    return 5
   },
-  toString: function() {
-    return 'Hello';
-  }
-};
+  toString: function () {
+    return "Hello"
+  },
+}
 
-console.log(obj + 2); // 7
-console.log(String(obj)); // 'Hello'
+console.log(obj + 2) // 7
+console.log(String(obj)) // 'Hello'
 ```
 
 ```js
-var ArrayWrapper = function(nums) {
-    this.nums = nums;
-};
-
-ArrayWrapper.prototype.valueOf = function() {
-    return this.nums.reduce((a, b) => a + b, 0);
+var ArrayWrapper = function (nums) {
+  this.nums = nums
 }
 
-ArrayWrapper.prototype.toString = function() {
-    return "[" + this.nums.join(',') + "]";
-    // return `[${this.nums.toString()}]`
+ArrayWrapper.prototype.valueOf = function () {
+  return this.nums.reduce((a, b) => a + b, 0)
+}
+
+ArrayWrapper.prototype.toString = function () {
+  return "[" + this.nums.join(",") + "]"
+  // return `[${this.nums.toString()}]`
 }
 ```
 

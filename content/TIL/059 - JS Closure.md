@@ -28,8 +28,8 @@ var createCounter = function (init) {
 
 - **Formation of a Closure**: After `createCounter` has executed and returned the object, according to conventional understanding, the local variables of `createCounter` (`cur` and `init`) should be destroyed as the function execution is completed. However, since the methods in the returned object still reference `cur` and `init`, these variables are not destroyed. Instead, they continue to exist so that these methods can use them when called in the future. This is the core characteristic of closures: **functions remember and access the environment in which they were created**.
 - **Behavior of the Methods**:
-    - The `increment` and `decrement` methods work by modifying the value of the `cur` variable, increasing or decreasing `cur`'s value each time they are called.
-    - The `reset` method resets the value of `cur` to the value of `init`, regardless of what the `init` value was at the time of the `createCounter` call. The `reset` method can access and use this initial value through the closure.
+  - The `increment` and `decrement` methods work by modifying the value of the `cur` variable, increasing or decreasing `cur`'s value each time they are called.
+  - The `reset` method resets the value of `cur` to the value of `init`, regardless of what the `init` value was at the time of the `createCounter` call. The `reset` method can access and use this initial value through the closure.
 
 ## Thanks
 

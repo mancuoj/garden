@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes.md",
+                "file": "index.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes.md"
+                "file": "index.md"
               }
             }
           }
@@ -165,7 +165,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 310.5
+    "width": 266.5
   },
   "right": {
     "id": "ee7d24da7b485845",
@@ -181,10 +181,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "43b6f11314d32c5c",
+  "active": "6a6c32eece4fc999",
   "lastOpenFiles": [
-    "TMPL/时间参考.md",
     "Notes.md",
+    "TMPL/时间参考.md",
     "index.md",
     "TIL/001 - Write a Good Technical Note.md",
     "TIL/030 - Auto Animate.md",
