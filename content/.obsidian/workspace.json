@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "0ed76b374cded014",
+        "id": "48ab1378fb37bd8a",
         "type": "tabs",
         "children": [
           {
-            "id": "6a6c32eece4fc999",
+            "id": "bbdf44bf13e42fd8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "TIL/064 - co.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "5ef4e3714c76682c",
+            "id": "25d182f1f9bc1b48",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TIL/062 - Jotai Core.md",
+                "file": "TIL/065 - Tao of React.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -34,12 +34,12 @@
             }
           },
           {
-            "id": "52867883005fd7be",
+            "id": "6b7630e2e90cb625",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TIL/021 - Daisy UI.md",
+                "file": "TIL/066.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -47,19 +47,59 @@
             }
           },
           {
-            "id": "8aeffd218eac3129",
+            "id": "96e650a86908658a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blog/2024 了，如何发布一个 npm 包 ❌.md",
+                "file": "TIL/067.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "229ea727330d1913",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TIL/068.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "66f5e3702b9914b2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TIL/069.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3cd9e1a8580e8fb1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TIL/065 - Tao of React.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -111,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "TIL/065 - Tao of React.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "TIL/065 - Tao of React.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "TIL/065 - Tao of React.md"
               }
             }
           }
@@ -181,11 +221,24 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "6a6c32eece4fc999",
+  "active": "3cd9e1a8580e8fb1",
   "lastOpenFiles": [
+    "TIL/070.md",
+    "TIL/069.md",
+    "TIL/068.md",
+    "TIL/067.md",
+    "TIL/066.md",
+    "TIL/065 - Tao of React.md",
+    "TIL/064 - co.md",
+    "TIL/063 - React Geiger.md",
+    "TIL/062 - Jotai Core.md",
+    "TIL/061 - JS Arguments Object.md",
+    "TIL/060 - JS Wrapper.md",
     "Notes.md",
-    "TMPL/时间参考.md",
+    "TIL/021 - Daisy UI.md",
+    "Blog/2024 了，如何发布一个 npm 包 ❌.md",
     "index.md",
+    "TMPL/时间参考.md",
     "TIL/001 - Write a Good Technical Note.md",
     "TIL/030 - Auto Animate.md",
     "TIL/031 - Next UI.md",
@@ -196,19 +249,6 @@
     "Blog/React 命名及项目结构规范.md",
     "TIL/003 - TS in 5 Minutes.md",
     "TIL/005 - Windows Fonts Beautification.md",
-    "TIL/002 - turso.tech.md",
-    "TIL/061 - JS Arguments Object.md",
-    "TIL/062 - Jotai Core.md",
-    "TIL/021 - Daisy UI.md",
-    "TIL/063 - React Geiger.md",
-    "Blog/2024 了，如何发布一个 npm 包 ❌.md",
-    "Collection/Books.md",
-    "Collection/Media.md",
-    "TIL/064 - co.md",
-    "TIL/060 - JS Wrapper.md",
-    "TIL/059 - JS Closure.md",
-    "TIL/056 - JS Generators.md",
-    "TIL/042 - NodeJS Dockerfile.md",
     "assets/Pasted image 20240304203313.png",
     "assets/nextjs.png",
     "assets/crud.png",
