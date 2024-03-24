@@ -44,7 +44,7 @@ date: 2023-12-01
 - [flomo · 浮墨笔记](https://flomoapp.com/)
 - [usememos/memos](https://github.com/usememos/memos)
 
-## typing game
+## Typing game
 
 - 打字游戏，锻炼英文阅读 + 单词能力
 - 文章（双语），短文章（来源？）
