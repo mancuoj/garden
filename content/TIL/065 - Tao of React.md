@@ -72,7 +72,6 @@ Of course, there isn’t a universal best practice that can be applied to all bu
 - Use a Data Fetching Library
 
 
-
 ## Thanks
 
 - [Tao of React - Software Design, Architecture & Best Practices](https://alexkondov.com/tao-of-react/)

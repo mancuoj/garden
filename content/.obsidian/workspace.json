@@ -4,102 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "48ab1378fb37bd8a",
+        "id": "59f6b607606764af",
         "type": "tabs",
         "children": [
           {
-            "id": "bbdf44bf13e42fd8",
+            "id": "898ec8e5048d1bc5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TIL/064 - co.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "25d182f1f9bc1b48",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TIL/065 - Tao of React.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6b7630e2e90cb625",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TIL/066 - Bulma - Boostrap Alternative.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "96e650a86908658a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TIL/067.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "229ea727330d1913",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TIL/068.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "66f5e3702b9914b2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TIL/069.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3cd9e1a8580e8fb1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TIL/065 - Tao of React.md",
+                "file": "TIL/048 - Jotai ❌.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -151,7 +72,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TIL/065 - Tao of React.md",
+                "file": "TIL/048 - Jotai ❌.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +89,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TIL/065 - Tao of React.md",
+                "file": "TIL/048 - Jotai ❌.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TIL/065 - Tao of React.md"
+                "file": "TIL/048 - Jotai ❌.md"
               }
             }
           }
@@ -221,34 +142,34 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "3cd9e1a8580e8fb1",
+  "active": "898ec8e5048d1bc5",
   "lastOpenFiles": [
+    "TIL/052 - React Docs Effect ❌.md",
+    "TIL/051 - RSC ❌.md",
+    "TIL/054 - SSR ❌.md",
+    "TIL/056 - JS Generators.md",
+    "TIL/059 - JS Closure.md",
+    "TIL/061 - JS Arguments Object.md",
+    "TIL/060 - JS Wrapper.md",
+    "TIL/062 - Jotai Core.md",
+    "TIL/063 - React Geiger.md",
+    "TIL/064 - co.md",
+    "TIL/065 - Tao of React.md",
     "TIL/066 - Bulma - Boostrap Alternative.md",
+    "TIL/067.md",
     "Collection/Books.md",
     "Collection/Ideas.md",
     "Collection/Media.md",
     "Collection/Bloggers.md",
-    "TIL/065 - Tao of React.md",
     "TIL/070.md",
     "TIL/069.md",
     "TIL/068.md",
-    "TIL/067.md",
-    "TIL/064 - co.md",
-    "TIL/063 - React Geiger.md",
-    "TIL/062 - Jotai Core.md",
-    "TIL/061 - JS Arguments Object.md",
-    "TIL/060 - JS Wrapper.md",
     "Notes.md",
     "TIL/021 - Daisy UI.md",
     "Blog/2024 了，如何发布一个 npm 包 ❌.md",
     "index.md",
     "TMPL/时间参考.md",
     "TIL/001 - Write a Good Technical Note.md",
-    "TIL/030 - Auto Animate.md",
-    "TIL/031 - Next UI.md",
-    "TIL/029 - Make PowerShell Great Again.md",
-    "Blog/ChatGPT 中英翻译 Prompt.md",
-    "Blog/Angular ngDoCheck.md",
     "assets/Pasted image 20240304203313.png",
     "assets/nextjs.png",
     "assets/crud.png",
