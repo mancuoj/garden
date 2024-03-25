@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TIL/067 - React useEffect.md",
+                "file": "Blog/Blog Ideas❌.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -72,7 +72,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TIL/067 - React useEffect.md",
+                "file": "Blog/Blog Ideas❌.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,7 +89,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TIL/067 - React useEffect.md",
+                "file": "Blog/Blog Ideas❌.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TIL/067 - React useEffect.md"
+                "file": "Blog/Blog Ideas❌.md"
               }
             }
           }
@@ -126,7 +126,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 266.5
+    "width": 353.5
   },
   "right": {
     "id": "ee7d24da7b485845",
@@ -142,12 +142,18 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "898ec8e5048d1bc5",
+  "active": "43b6f11314d32c5c",
   "lastOpenFiles": [
+    "Blog/简历 ❌.md",
+    "Blog/Blog Ideas❌.md",
+    "Questions.md",
+    "Notes.md",
     "TIL/048 - Jotai ❌.md",
+    "TIL/067 - React useEffect ❌.md",
     "TIL/052 - React Docs Effect ❌.md",
-    "TIL/051 - RSC ❌.md",
     "TIL/054 - SSR ❌.md",
+    "TIL/068.md",
+    "TIL/051 - RSC ❌.md",
     "TIL/056 - JS Generators.md",
     "TIL/059 - JS Closure.md",
     "TIL/061 - JS Arguments Object.md",
@@ -157,19 +163,13 @@
     "TIL/064 - co.md",
     "TIL/065 - Tao of React.md",
     "TIL/066 - Bulma - Boostrap Alternative.md",
-    "TIL/067 - React useEffect.md",
     "Collection/Books.md",
     "Collection/Ideas.md",
     "Collection/Media.md",
     "Collection/Bloggers.md",
     "TIL/070.md",
     "TIL/069.md",
-    "TIL/068.md",
-    "Notes.md",
     "TIL/021 - Daisy UI.md",
-    "Blog/2024 了，如何发布一个 npm 包 ❌.md",
-    "index.md",
-    "TMPL/时间参考.md",
     "assets/Pasted image 20240304203313.png",
     "assets/nextjs.png",
     "assets/crud.png",
