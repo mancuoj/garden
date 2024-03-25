@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TIL/048 - Jotai ❌.md",
+                "file": "TIL/067 - React useEffect.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -72,7 +72,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TIL/048 - Jotai ❌.md",
+                "file": "TIL/067 - React useEffect.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,7 +89,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TIL/048 - Jotai ❌.md",
+                "file": "TIL/067 - React useEffect.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TIL/048 - Jotai ❌.md"
+                "file": "TIL/067 - React useEffect.md"
               }
             }
           }
@@ -144,6 +144,7 @@
   },
   "active": "898ec8e5048d1bc5",
   "lastOpenFiles": [
+    "TIL/048 - Jotai ❌.md",
     "TIL/052 - React Docs Effect ❌.md",
     "TIL/051 - RSC ❌.md",
     "TIL/054 - SSR ❌.md",
@@ -156,7 +157,7 @@
     "TIL/064 - co.md",
     "TIL/065 - Tao of React.md",
     "TIL/066 - Bulma - Boostrap Alternative.md",
-    "TIL/067.md",
+    "TIL/067 - React useEffect.md",
     "Collection/Books.md",
     "Collection/Ideas.md",
     "Collection/Media.md",
@@ -169,7 +170,6 @@
     "Blog/2024 了，如何发布一个 npm 包 ❌.md",
     "index.md",
     "TMPL/时间参考.md",
-    "TIL/001 - Write a Good Technical Note.md",
     "assets/Pasted image 20240304203313.png",
     "assets/nextjs.png",
     "assets/crud.png",
