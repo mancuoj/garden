@@ -8,5 +8,6 @@
   "cssTheme": "Border",
   "theme": "system",
   "showViewHeader": false,
-  "baseFontSizeAction": true
+  "baseFontSizeAction": true,
+  "nativeMenus": false
 }
