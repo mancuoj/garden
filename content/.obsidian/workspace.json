@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Questions.md",
+                "file": "TIL/068 - Alpine.js.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -72,7 +72,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Questions.md",
+                "file": "TIL/068 - Alpine.js.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,7 +89,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Questions.md",
+                "file": "TIL/068 - Alpine.js.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Questions.md"
+                "file": "TIL/068 - Alpine.js.md"
               }
             }
           }
@@ -144,15 +144,15 @@
   },
   "active": "898ec8e5048d1bc5",
   "lastOpenFiles": [
+    "Questions.md",
     "Blog/Blog Ideas❌.md",
     "Blog/简历 ❌.md",
-    "Questions.md",
     "Notes.md",
     "TIL/048 - Jotai ❌.md",
     "TIL/067 - React useEffect ❌.md",
     "TIL/052 - React Docs Effect ❌.md",
     "TIL/054 - SSR ❌.md",
-    "TIL/068.md",
+    "TIL/068 - Alpine.js.md",
     "TIL/051 - RSC ❌.md",
     "TIL/056 - JS Generators.md",
     "TIL/059 - JS Closure.md",
