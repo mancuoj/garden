@@ -47,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TIL/066 - Bulma - Boostrap Alternative.md",
+                "file": "TIL/071 -.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TIL/066 - Bulma - Boostrap Alternative.md",
+                "file": "TIL/071 -.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TIL/066 - Bulma - Boostrap Alternative.md"
+                "file": "TIL/071 -.md"
               }
             }
           }
@@ -169,8 +169,9 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "75c8de4382b54f73",
+  "active": "acea978f1fecf983",
   "lastOpenFiles": [
+    "TIL/066 - Bulma - Boostrap Alternative.md",
     "TIL/072 -.md",
     "TIL/071 -.md",
     "TIL/070 -.md",
@@ -193,7 +194,6 @@
     "TIL/063 - React Geiger.md",
     "TIL/064 - co.md",
     "TIL/065 - Tao of React.md",
-    "TIL/066 - Bulma - Boostrap Alternative.md",
     "Collection/Books.md",
     "Collection/Ideas.md",
     "Collection/Media.md",
