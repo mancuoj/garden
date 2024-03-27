@@ -13,14 +13,41 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Questions.md",
+                "file": "TIL/070 -.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "acea978f1fecf983",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TIL/071 -.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "75c8de4382b54f73",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TIL/066 - Bulma - Boostrap Alternative.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -72,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Questions.md",
+                "file": "TIL/066 - Bulma - Boostrap Alternative.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Questions.md",
+                "file": "TIL/066 - Bulma - Boostrap Alternative.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Questions.md"
+                "file": "TIL/066 - Bulma - Boostrap Alternative.md"
               }
             }
           }
@@ -142,8 +169,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "898ec8e5048d1bc5",
+  "active": "75c8de4382b54f73",
   "lastOpenFiles": [
+    "TIL/072 -.md",
+    "TIL/071 -.md",
+    "TIL/070 -.md",
+    "TIL/069 - Optimizing JavaScript.md",
     "TIL/068 - Alpine.js.md",
     "Questions.md",
     "Blog/Blog Ideas❌.md",
@@ -166,10 +197,6 @@
     "Collection/Books.md",
     "Collection/Ideas.md",
     "Collection/Media.md",
-    "Collection/Bloggers.md",
-    "TIL/070.md",
-    "TIL/069.md",
-    "TIL/021 - Daisy UI.md",
     "assets/Pasted image 20240304203313.png",
     "assets/nextjs.png",
     "assets/crud.png",
