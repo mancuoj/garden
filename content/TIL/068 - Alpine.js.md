@@ -29,11 +29,23 @@ Alpine is a collection of **15 attributes**, **6 properties**, and **2 method
 - x-if 
 - x-id
 
-## 6 Properties
+## ~~6~~ 9 Properties
 
+- $el
+- $refs
+- $store
+- $watch
+- $dispatch
+- $nextTick
+- $root
+- $data
+- $id
 
-## 2 Methods
+## ~~2~~ 3 Methods
 
+- Alphine.data()
+- Alphine.store()
+- Alphine.bind()
 
 ## Thanks
 
