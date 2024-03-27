@@ -13,8 +13,8 @@ Alpine is a collection of **15 attributes**, **6 properties**, and **2 method
 - x-data
 - x-init
 - x-show
-- x-bind
-- x-on  @
+- x-bind `:`
+- x-on `@`
 - x-text
 - x-html
 - x-model
