@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TIL/070 -.md",
+                "file": "TIL/070 - GitHub Merge Methods.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TIL/009 - Conventional Commits.md",
+                "file": "TIL/070 - GitHub Merge Methods.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,8 +86,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "b904ff6d18e068ad",
@@ -100,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TIL/009 - Conventional Commits.md",
+                "file": "TIL/070 - GitHub Merge Methods.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TIL/009 - Conventional Commits.md",
+                "file": "TIL/070 - GitHub Merge Methods.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TIL/009 - Conventional Commits.md"
+                "file": "TIL/070 - GitHub Merge Methods.md"
               }
             }
           }
@@ -172,7 +171,10 @@
   },
   "active": "acea978f1fecf983",
   "lastOpenFiles": [
-    "TIL/070 -.md",
+    "assets/Pasted image 20240330215706.png",
+    "assets/Pasted image 20240330215701.png",
+    "TIL/009 - Conventional Commits.md",
+    "TIL/070 - GitHub Merge Methods.md",
     "TIL/071 -.md",
     "TIL/066 - Bulma - Boostrap Alternative.md",
     "TIL/072 -.md",
@@ -196,8 +198,6 @@
     "TIL/064 - co.md",
     "TIL/065 - Tao of React.md",
     "Collection/Books.md",
-    "Collection/Ideas.md",
-    "Collection/Media.md",
     "assets/Pasted image 20240304203313.png",
     "assets/nextjs.png",
     "assets/crud.png",
@@ -207,7 +207,6 @@
     "assets/bookflight.png",
     "assets/tempconv.png",
     "assets/idea1.png",
-    "assets/counter.png",
     "TMPL",
     "TIL/Jan",
     "Untitled",
