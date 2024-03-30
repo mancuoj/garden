@@ -23,15 +23,23 @@ The Conventional Commits specification is a lightweight convention on top of com
 - refactor: changes that neither fixes a bug nor adds a feature
 - perf: changes that imporoves performance
 - test: add missing tests or correcting existing tests
-- chore: other changes that do not modify src or test files
 - build: changes that affect the build system
 - ci: changes to our CI configuration file
 - style: changes to style files
+- chore: other changes that do not modify src or test files
+- types: add types
+- wip: work in progress
 
 Append a `!` after the type when you have a breaking change.
 
 ```git
 feat!: api change
+```
+
+## regex
+
+```
+/^(revert: )?(feat|fix|docs|dx|style|refactor|perf|test|workflow|build|ci|chore|types|wip)(\(.+\))?: .{1,50}/
 ```
 
 ## Thanks
