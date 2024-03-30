@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TIL/071 -.md",
+                "file": "Blog/Remix 实战记录.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TIL/071 -.md",
+                "file": "Blog/Remix 实战记录.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TIL/071 -.md",
+                "file": "Blog/Remix 实战记录.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TIL/071 -.md"
+                "file": "Blog/Remix 实战记录.md"
               }
             }
           }
@@ -171,6 +171,11 @@
   },
   "active": "acea978f1fecf983",
   "lastOpenFiles": [
+    "Blog/中文技术文档排版指南.md",
+    "Blog/Remix 实战记录.md",
+    "Blog/2024 Flags.md",
+    "Blog/买了新服务器后.md",
+    "TIL/071 -.md",
     "TIL/070 - GitHub Merge Methods.md",
     "assets/Pasted image 20240330220420.png",
     "assets/Pasted image 20240330220416.png",
@@ -178,7 +183,6 @@
     "assets/Pasted image 20240330215706.png",
     "assets/Pasted image 20240330215701.png",
     "TIL/009 - Conventional Commits.md",
-    "TIL/071 -.md",
     "TIL/066 - Bulma - Boostrap Alternative.md",
     "TIL/072 -.md",
     "TIL/069 - Optimizing JavaScript.md",
@@ -198,9 +202,6 @@
     "TIL/060 - JS Wrapper.md",
     "TIL/062 - Jotai Core.md",
     "TIL/063 - React Geiger.md",
-    "TIL/064 - co.md",
-    "TIL/065 - Tao of React.md",
-    "Collection/Books.md",
     "assets/Pasted image 20240304203313.png",
     "assets/nextjs.png",
     "assets/crud.png",
