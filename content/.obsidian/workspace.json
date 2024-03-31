@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TIL/071 - Remix Dark Mode.md",
+                "file": "Blog/Remix 实战记录 ❌.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TIL/071 - Remix Dark Mode.md",
+                "file": "Blog/Remix 实战记录 ❌.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TIL/071 - Remix Dark Mode.md",
+                "file": "Blog/Remix 实战记录 ❌.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TIL/071 - Remix Dark Mode.md"
+                "file": "Blog/Remix 实战记录 ❌.md"
               }
             }
           }
@@ -171,13 +171,13 @@
   },
   "active": "acea978f1fecf983",
   "lastOpenFiles": [
+    "TIL/071 - Remix Dark Mode.md",
     "Blog/Remix 实战记录 ❌.md",
     "TIL/038 - From React to Next.js ❌.md",
     "TIL/039 - React Docs Ref.md",
     "Blog/中文技术文档排版指南.md",
     "Blog/2024 Flags.md",
     "Blog/买了新服务器后.md",
-    "TIL/071 - Remix Dark Mode.md",
     "TIL/070 - GitHub Merge Methods.md",
     "assets/Pasted image 20240330220420.png",
     "assets/Pasted image 20240330220416.png",
