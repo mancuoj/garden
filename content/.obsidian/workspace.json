@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "0a43efa2ac8c8dd3",
+        "id": "9bffcca65f52da15",
         "type": "tabs",
         "children": [
           {
-            "id": "a79661f31d796e8d",
+            "id": "cd75cbdb975287ae",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bloggers.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -72,7 +67,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bloggers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,7 +83,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bloggers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,9 +109,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Bloggers.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -142,21 +133,21 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "a79661f31d796e8d",
+  "active": "f7b83c8b8ee79b66",
   "lastOpenFiles": [
-    "index.md",
-    "Notes.md",
     "Questions.md",
+    "Notes.md",
+    "Media.md",
+    "index.md",
     "Ideas.md",
     "Bloggers.md",
-    "Media.md",
+    "Articles.md",
     "Books.md",
     "assets/tempconv.png",
     "assets/squash.png",
     "assets/merge.png",
     "assets/rebase.png",
     "assets/RSC.png",
-    "Articles.md",
     "TIL/073 -.md",
     "TIL/039 - React Docs Ref.md",
     "TIL/029 - Make PowerShell Great Again.md",

@@ -22,9 +22,9 @@ const config: QuartzConfig = {
       cdnCaching: true,
       fontOrigin: "googleFonts",
       typography: {
-        header: "IBM Plex Serif",
-        body: "IBM Plex Sans",
-        code: "IBM Plex Mono",
+        header: "Lobster",
+        body: "Kalam",
+        code: "JetBrains Mono",
       },
       colors: {
         lightMode: {
