@@ -20,32 +20,13 @@ const config: QuartzConfig = {
     defaultDateType: "created",
     theme: {
       cdnCaching: true,
+      fontOrigin: "googleFonts",
       typography: {
         header: "IBM Plex Serif",
         body: "IBM Plex Sans",
         code: "IBM Plex Mono",
       },
       colors: {
-        // lightMode: {
-        //   light: "#faf8f8",
-        //   lightgray: "#e5e5e5",
-        //   gray: "#b8b8b8",
-        //   darkgray: "#4e4e4e",
-        //   dark: "#2b2b2b",
-        //   secondary: "#284b63",
-        //   tertiary: "#84a59d",
-        //   highlight: "rgba(143, 159, 169, 0.15)",
-        // },
-        // darkMode: {
-        //   light: "#161618",
-        //   lightgray: "#393639",
-        //   gray: "#646464",
-        //   darkgray: "#d4d4d4",
-        //   dark: "#ebebec",
-        //   secondary: "#7b97aa",
-        //   tertiary: "#84a59d",
-        //   highlight: "rgba(143, 159, 169, 0.15)",
-        // },
         lightMode: {
           light: "#f8faf8", // 浅绿色护眼背景
           lightgray: "#e5e5e5", // 灰色
@@ -92,7 +73,7 @@ const config: QuartzConfig = {
     filters: [Plugin.RemoveDrafts()],
     emitters: [
       Plugin.AliasRedirects(),
-      Plugin.ComponentResources({ fontOrigin: "googleFonts" }),
+      Plugin.ComponentResources(),
       Plugin.ContentPage(),
       Plugin.FolderPage(),
       Plugin.TagPage(),
