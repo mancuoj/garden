@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Media.md",
+                "file": "Bloggers.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -72,7 +72,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Media.md",
+                "file": "Bloggers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,7 +89,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Media.md",
+                "file": "Bloggers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Media.md"
+                "file": "Bloggers.md"
               }
             }
           }
@@ -144,18 +144,18 @@
   },
   "active": "a79661f31d796e8d",
   "lastOpenFiles": [
+    "index.md",
     "Notes.md",
     "Questions.md",
+    "Ideas.md",
+    "Bloggers.md",
+    "Media.md",
+    "Books.md",
     "assets/tempconv.png",
     "assets/squash.png",
     "assets/merge.png",
     "assets/rebase.png",
     "assets/RSC.png",
-    "Bloggers.md",
-    "Ideas.md",
-    "Books.md",
-    "index.md",
-    "Media.md",
     "Articles.md",
     "TIL/073 -.md",
     "TIL/039 - React Docs Ref.md",
