@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ba7a9483a2d1f0f4",
+        "id": "1d0cf6967b5d6005",
         "type": "tabs",
         "children": [
           {
-            "id": "f5598a4b32c0458a",
+            "id": "4dc0bff6ebd84db7",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -133,7 +133,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "f5598a4b32c0458a",
+  "active": "4dc0bff6ebd84db7",
   "lastOpenFiles": [
     "TIL/081 -.md",
     "TIL/080 -.md",

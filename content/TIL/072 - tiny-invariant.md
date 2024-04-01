@@ -9,15 +9,15 @@ An `invariant` function takes a value, and if the value is [falsy](https://gi
 
 ```ts
 // Type Narrowing
-const value: Person | null = { name: 'Alex' };
-invariant(value, 'Expected value to be a person');
+const value: Person | null = { name: "Alex" }
+invariant(value, "Expected value to be a person")
 // type of value has been narrowed to 'Person'
 ```
 
 ```ts
 function minimalInvariant(condition: any, message: string): asserts condition {
   if (!condition) {
-    throw new Error(message);
+    throw new Error(message)
   }
 }
 ```

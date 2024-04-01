@@ -18,7 +18,6 @@ date: 2024-03-25
 
 ## 数据监控
 
-##  CSR SSR SSG RSC
+## CSR SSR SSG RSC
 
 ## Remix vs NextJS
-
