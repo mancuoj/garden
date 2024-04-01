@@ -23,7 +23,7 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       typography: {
         header: "Merienda",
-        body: "Play",
+        body: "Courier Prime",
         code: "JetBrains Mono",
       },
       colors: {

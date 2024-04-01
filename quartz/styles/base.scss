@@ -296,19 +296,22 @@ h6 {
 
 // typography improvements
 h1 {
-  font-size: 1.75rem;
+  // font-size: 1.75rem;
+  font-size: 2.3rem;
   margin-top: 2.25rem;
   margin-bottom: 1rem;
 }
 
 h2 {
-  font-size: 1.4rem;
+  // font-size: 1.4rem;
+  font-size: 2rem;
   margin-top: 1.9rem;
   margin-bottom: 1rem;
 }
 
 h3 {
-  font-size: 1.12rem;
+  // font-size: 1.12rem;
+  font-size: 1.6rem;
   margin-top: 1.62rem;
   margin-bottom: 1rem;
 }
@@ -316,7 +319,8 @@ h3 {
 h4,
 h5,
 h6 {
-  font-size: 1rem;
+  // font-size: 1rem;
+  font-size: 1.3rem;
   margin-top: 1.5rem;
   margin-bottom: 1rem;
 }
@@ -329,7 +333,8 @@ figure[data-rehype-pretty-code-figure] {
 
   & > [data-rehype-pretty-code-title] {
     font-family: var(--codeFont);
-    font-size: 0.9rem;
+    // font-size: 0.9rem;
+    font-size: 1.1rem;
     padding: 0.1rem 0.5rem;
     border: 1px solid var(--lightgray);
     width: max-content;
@@ -358,7 +363,8 @@ pre {
   & > code {
     background: none;
     padding: 0;
-    font-size: 0.85rem;
+    // font-size: 0.85rem;
+    font-size: 1.1rem;
     counter-reset: line;
     counter-increment: line 0;
     display: grid;
