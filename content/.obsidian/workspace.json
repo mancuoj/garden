@@ -4,63 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "59f6b607606764af",
+        "id": "bca7d38d419675c1",
         "type": "tabs",
         "children": [
           {
-            "id": "898ec8e5048d1bc5",
+            "id": "33210b61bbcb3e64",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TIL/070 - GitHub Merge Methods.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "acea978f1fecf983",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TIL/039 - React Docs Ref.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9902b0dce7437816",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "index.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "75c8de4382b54f73",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TIL/066 - Bulma - Boostrap Alternative.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -112,7 +67,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +83,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,9 +109,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "index.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -182,16 +133,21 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "9902b0dce7437816",
+  "active": "33210b61bbcb3e64",
   "lastOpenFiles": [
+    "assets/tempconv.png",
+    "assets/squash.png",
+    "assets/merge.png",
+    "assets/rebase.png",
+    "assets/RSC.png",
+    "Bloggers.md",
+    "Ideas.md",
+    "Books.md",
+    "index.md",
     "Media.md",
     "Notes.md",
     "Questions.md",
-    "index.md",
-    "Bloggers.md",
     "Articles.md",
-    "Books.md",
-    "Ideas.md",
     "TIL/073 -.md",
     "TIL/039 - React Docs Ref.md",
     "TIL/029 - Make PowerShell Great Again.md",
@@ -203,9 +159,6 @@
     "Blog/2024 Flags.md",
     "Blog/买了新服务器后.md",
     "TIL/070 - GitHub Merge Methods.md",
-    "assets/Pasted image 20240330220420.png",
-    "assets/Pasted image 20240330220416.png",
-    "assets/Pasted image 20240330220408.png",
     "assets/Pasted image 20240330215706.png",
     "assets/Pasted image 20240330215701.png",
     "TIL/009 - Conventional Commits.md",
@@ -214,8 +167,6 @@
     "TIL/069 - Optimizing JavaScript.md",
     "TIL/068 - Alpine.js.md",
     "Blog/Blog Ideas❌.md",
-    "Blog/简历 ❌.md",
-    "assets/Pasted image 20240304203313.png",
     "assets/nextjs.png",
     "assets/crud.png",
     "assets/Pasted image 20240218223759.png",

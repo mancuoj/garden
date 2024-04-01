@@ -5,11 +5,11 @@ tags:
   - git
 ---
 
-![[Pasted image 20240330220408.png]]
+![[squash.png]]
 
-![[Pasted image 20240330220416.png]]
+![[merge.png]]
 
-![[Pasted image 20240330220420.png]]
+![[rebase.png]]
 
 ## Thanks
 
