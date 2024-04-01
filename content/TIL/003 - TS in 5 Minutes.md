@@ -3,6 +3,7 @@ date: 2024-01-03
 tags:
   - til
   - ts
+  - guide
 ---
 
 TypeScript offers all of JavaScript's features, and an additional layer on top of these: TypeScript's type system.

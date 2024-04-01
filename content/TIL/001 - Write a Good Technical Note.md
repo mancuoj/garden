@@ -2,7 +2,7 @@
 date: 2024-01-01
 tags:
   - til
-  - how
+  - guide
 ---
 
 > A technical document that fails to guide related work after three months or more is fundamentally flawed.
