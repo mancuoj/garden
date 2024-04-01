@@ -11,8 +11,13 @@
             "id": "cd75cbdb975287ae",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "TIL/072 - tiny-invariant.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -67,6 +72,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "TIL/072 - tiny-invariant.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -83,6 +89,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "TIL/072 - tiny-invariant.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,7 +116,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "TIL/072 - tiny-invariant.md"
+              }
             }
           }
         ],
@@ -133,7 +142,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "f7b83c8b8ee79b66",
+  "active": "cd75cbdb975287ae",
   "lastOpenFiles": [
     "Questions.md",
     "Notes.md",
@@ -163,7 +172,7 @@
     "assets/Pasted image 20240330215701.png",
     "TIL/009 - Conventional Commits.md",
     "TIL/066 - Bulma - Boostrap Alternative.md",
-    "TIL/072 -.md",
+    "TIL/072 - tiny-invariant.md",
     "TIL/069 - Optimizing JavaScript.md",
     "TIL/068 - Alpine.js.md",
     "Blog/Blog Ideas❌.md",
