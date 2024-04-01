@@ -13,13 +13,13 @@ invariant(value, 'Expected value to be a person');
 // type of value has been narrowed to 'Person'
 ```
 
-
-## Source Code
-
 ```ts
-
+function minimalInvariant(condition: any, message: string): asserts condition {
+  if (!condition) {
+    throw new Error(message);
+  }
+}
 ```
-
 
 ## Thanks
 
