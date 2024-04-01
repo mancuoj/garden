@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "bca7d38d419675c1",
+        "id": "0a43efa2ac8c8dd3",
         "type": "tabs",
         "children": [
           {
-            "id": "33210b61bbcb3e64",
+            "id": "a79661f31d796e8d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Media.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -67,6 +72,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Media.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -83,6 +89,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Media.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,7 +116,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Media.md"
+              }
             }
           }
         ],
@@ -133,8 +142,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "33210b61bbcb3e64",
+  "active": "a79661f31d796e8d",
   "lastOpenFiles": [
+    "Notes.md",
+    "Questions.md",
     "assets/tempconv.png",
     "assets/squash.png",
     "assets/merge.png",
@@ -145,8 +156,6 @@
     "Books.md",
     "index.md",
     "Media.md",
-    "Notes.md",
-    "Questions.md",
     "Articles.md",
     "TIL/073 -.md",
     "TIL/039 - React Docs Ref.md",
@@ -170,7 +179,6 @@
     "assets/nextjs.png",
     "assets/crud.png",
     "assets/Pasted image 20240218223759.png",
-    "assets/Pasted image 20240218220700.png",
     "TMPL",
     "TIL/Jan",
     "Untitled",
