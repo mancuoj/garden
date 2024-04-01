@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "9bffcca65f52da15",
+        "id": "ba7a9483a2d1f0f4",
         "type": "tabs",
         "children": [
           {
-            "id": "cd75cbdb975287ae",
+            "id": "f5598a4b32c0458a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TIL/072 - tiny-invariant.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -72,7 +67,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TIL/072 - tiny-invariant.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,7 +83,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TIL/072 - tiny-invariant.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,9 +109,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "TIL/072 - tiny-invariant.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -142,10 +133,27 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "cd75cbdb975287ae",
+  "active": "f5598a4b32c0458a",
   "lastOpenFiles": [
+    "TIL/081 -.md",
+    "TIL/080 -.md",
+    "TIL/078 -.md",
+    "TIL/079 -.md",
+    "TIL/077 -.md",
+    "TIL/076 -.md",
+    "TIL/075 -.md",
+    "TIL/074 -.md",
     "TIL/073 -.md",
     "TIL/072 - tiny-invariant.md",
+    "TIL/063 - React Geiger.md",
+    "TIL/064 - co.md",
+    "TIL/065 - Tao of React.md",
+    "TIL/066 - Bulma - Boostrap Alternative.md",
+    "TIL/067 - React useEffect ❌.md",
+    "TIL/068 - Alpine.js.md",
+    "TIL/069 - Optimizing JavaScript.md",
+    "TIL/070 - GitHub Merge Methods.md",
+    "TIL/071 - Remix Dark Mode ❌.md",
     "Questions.md",
     "Notes.md",
     "Media.md",
@@ -153,29 +161,13 @@
     "Ideas.md",
     "Bloggers.md",
     "Articles.md",
-    "Books.md",
     "assets/tempconv.png",
     "assets/squash.png",
     "assets/merge.png",
     "assets/rebase.png",
     "assets/RSC.png",
-    "TIL/039 - React Docs Ref.md",
-    "TIL/029 - Make PowerShell Great Again.md",
-    "Blog/073 -.md",
-    "Blog/Remix 实战记录 ❌.md",
-    "TIL/071 - Remix Dark Mode.md",
-    "TIL/038 - From React to Next.js ❌.md",
-    "Blog/中文技术文档排版指南.md",
-    "Blog/2024 Flags.md",
-    "Blog/买了新服务器后.md",
-    "TIL/070 - GitHub Merge Methods.md",
     "assets/Pasted image 20240330215706.png",
     "assets/Pasted image 20240330215701.png",
-    "TIL/009 - Conventional Commits.md",
-    "TIL/066 - Bulma - Boostrap Alternative.md",
-    "TIL/069 - Optimizing JavaScript.md",
-    "TIL/068 - Alpine.js.md",
-    "Blog/Blog Ideas❌.md",
     "assets/nextjs.png",
     "assets/crud.png",
     "assets/Pasted image 20240218223759.png",
