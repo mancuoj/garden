@@ -26,7 +26,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blog/Remix 实战记录 ❌.md",
+                "file": "TIL/039 - React Docs Ref.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9902b0dce7437816",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -47,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -99,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Blog/Remix 实战记录 ❌.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Blog/Remix 实战记录 ❌.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Blog/Remix 实战记录 ❌.md"
+                "file": "index.md"
               }
             }
           }
@@ -169,12 +182,23 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "acea978f1fecf983",
+  "active": "9902b0dce7437816",
   "lastOpenFiles": [
-    "TIL/071 - Remix Dark Mode.md",
-    "Blog/Remix 实战记录 ❌.md",
-    "TIL/038 - From React to Next.js ❌.md",
+    "Media.md",
+    "Notes.md",
+    "Questions.md",
+    "index.md",
+    "Bloggers.md",
+    "Articles.md",
+    "Books.md",
+    "Ideas.md",
+    "TIL/073 -.md",
     "TIL/039 - React Docs Ref.md",
+    "TIL/029 - Make PowerShell Great Again.md",
+    "Blog/073 -.md",
+    "Blog/Remix 实战记录 ❌.md",
+    "TIL/071 - Remix Dark Mode.md",
+    "TIL/038 - From React to Next.js ❌.md",
     "Blog/中文技术文档排版指南.md",
     "Blog/2024 Flags.md",
     "Blog/买了新服务器后.md",
@@ -189,19 +213,8 @@
     "TIL/072 -.md",
     "TIL/069 - Optimizing JavaScript.md",
     "TIL/068 - Alpine.js.md",
-    "Questions.md",
     "Blog/Blog Ideas❌.md",
     "Blog/简历 ❌.md",
-    "Notes.md",
-    "TIL/048 - Jotai ❌.md",
-    "TIL/067 - React useEffect ❌.md",
-    "TIL/052 - React Docs Effect ❌.md",
-    "TIL/054 - SSR ❌.md",
-    "TIL/051 - RSC ❌.md",
-    "TIL/056 - JS Generators.md",
-    "TIL/059 - JS Closure.md",
-    "TIL/061 - JS Arguments Object.md",
-    "TIL/060 - JS Wrapper.md",
     "assets/Pasted image 20240304203313.png",
     "assets/nextjs.png",
     "assets/crud.png",
