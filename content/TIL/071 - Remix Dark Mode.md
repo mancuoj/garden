@@ -5,9 +5,6 @@ tags:
   - remix
 ---
 
-
-
-
 ## Thanks
 
--  [The Complete Guide to Dark Mode with Remix | Matt Stobbs](https://www.mattstobbs.com/remix-dark-mode/)
+- [The Complete Guide to Dark Mode with Remix | Matt Stobbs](https://www.mattstobbs.com/remix-dark-mode/)

@@ -27,7 +27,7 @@ Alpine is a collection of **15 attributes**, **6 properties**, and **2 method
 - x-ref
 - x-cloak
 - x-teleport
-- x-if 
+- x-if
 - x-id
 
 ## ~~6~~ 9 Properties

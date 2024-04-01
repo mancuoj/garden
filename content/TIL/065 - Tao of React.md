@@ -38,11 +38,11 @@ Of course, there isn’t a universal best practice that can be applied to all bu
 ## Component Mental Models
 
 - Container & Presentational
-- Stateless & Stateful 
+- Stateless & Stateful
 
 ## Application Structure
 
-- Group by Route/Module 
+- Group by Route/Module
 - Create a Common Module
 - Use Absolute Paths
 - Wrap External Components
@@ -70,7 +70,6 @@ Of course, there isn’t a universal best practice that can be applied to all bu
 ## Data Fetching
 
 - Use a Data Fetching Library
-
 
 ## Thanks
 

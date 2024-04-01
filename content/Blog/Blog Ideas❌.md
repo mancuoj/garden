@@ -1,5 +1,3 @@
-
-
 ## 2024 了，如何发布一个 npm 包
 
 - [antfu/starter-ts](https://github.com/antfu/starter-ts)
@@ -19,4 +17,3 @@
 - [Rel1cx/eslint-react)](https://github.com/Rel1cx/eslint-react)
 
 ## 2024 了，如何写一个 CLI 应用
-

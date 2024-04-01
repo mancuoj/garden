@@ -26,25 +26,45 @@ const config: QuartzConfig = {
         code: "IBM Plex Mono",
       },
       colors: {
+        // lightMode: {
+        //   light: "#faf8f8",
+        //   lightgray: "#e5e5e5",
+        //   gray: "#b8b8b8",
+        //   darkgray: "#4e4e4e",
+        //   dark: "#2b2b2b",
+        //   secondary: "#284b63",
+        //   tertiary: "#84a59d",
+        //   highlight: "rgba(143, 159, 169, 0.15)",
+        // },
+        // darkMode: {
+        //   light: "#161618",
+        //   lightgray: "#393639",
+        //   gray: "#646464",
+        //   darkgray: "#d4d4d4",
+        //   dark: "#ebebec",
+        //   secondary: "#7b97aa",
+        //   tertiary: "#84a59d",
+        //   highlight: "rgba(143, 159, 169, 0.15)",
+        // },
         lightMode: {
-          light: "#faf8f8",
-          lightgray: "#e5e5e5",
-          gray: "#b8b8b8",
-          darkgray: "#4e4e4e",
-          dark: "#2b2b2b",
-          secondary: "#284b63",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
+          light: "#f8faf8", // 浅绿色护眼背景
+          lightgray: "#e5e5e5", // 灰色
+          gray: "#b8b8b8", // 中灰色
+          darkgray: "#4e4e4e", // 深灰色
+          dark: "#2b2b2b", // 深色文字
+          secondary: "#457b63", // 次要元素，深绿色
+          tertiary: "#84a59d", // 三级元素，浅绿色
+          highlight: "rgba(143, 159, 169, 0.15)", // 高亮
         },
         darkMode: {
-          light: "#161618",
-          lightgray: "#393639",
-          gray: "#646464",
-          darkgray: "#d4d4d4",
-          dark: "#ebebec",
-          secondary: "#7b97aa",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
+          light: "#282a36", // Dracula 背景色
+          lightgray: "#6272a4", // Dracula 注释颜色
+          gray: "#44475a", // Dracula 中间色调
+          darkgray: "#f8f8f2", // Dracula 前景色（文本）
+          dark: "#ebebec", // 深色文字
+          secondary: "#50fa7b", // Dracula 绿色
+          tertiary: "#ff79c6", // Dracula 粉红色
+          highlight: "rgba(143, 159, 169, 0.15)", // 高亮
         },
       },
     },

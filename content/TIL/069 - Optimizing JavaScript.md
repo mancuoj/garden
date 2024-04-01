@@ -18,7 +18,7 @@ I often feel like javascript code in general runs much slower than it could, sim
 - Use strings, carefully - concatenation > mutation
 - Use specialization
 - Data structures
-- Benchmarking 
+- Benchmarking
   - Start with the top
   - Avoid micro-benchmarks
   - Doubt your results
