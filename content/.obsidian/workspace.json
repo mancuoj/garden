@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blog/CSS Flexbox 入门.md",
+                "file": "TIL/073 -.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -72,7 +72,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Blog/CSS Flexbox 入门.md",
+                "file": "TIL/073 -.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,7 +89,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Blog/CSS Flexbox 入门.md",
+                "file": "TIL/073 -.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Blog/CSS Flexbox 入门.md"
+                "file": "TIL/073 -.md"
               }
             }
           }
@@ -144,7 +144,10 @@
   },
   "active": "4dc0bff6ebd84db7",
   "lastOpenFiles": [
+    "TIL/072 - tiny-invariant.md",
+    "TIL/071 - Remix Dark Mode ❌.md",
     "TIL/073 -.md",
+    "Blog/CSS Flexbox 入门.md",
     "TIL/013 - twMerge.md",
     "TIL/012 - clsx.md",
     "TIL/014 - Git Alias.md",
@@ -167,9 +170,6 @@
     "Blog/中文技术文档排版指南.md",
     "Blog/买了新服务器后.md",
     "Blog/2024 Flags.md",
-    "TIL/081 -.md",
-    "TIL/080 -.md",
-    "TIL/078 -.md",
     "assets/tempconv.png",
     "assets/squash.png",
     "assets/merge.png",
