@@ -52,7 +52,6 @@ date: 2024-01-01
 - [x] 从解脱胜开始 by 退巍
 - [x] 龙族（1-4）by 江南
 - [x] 诸界第一因 by 裴屠狗
-- [x] 这游戏也太真实了 by 晨星LL
 - [x] 我只想安静地打游戏 by 十二翼黑暗炽天使
 - [x] 我师兄实在太稳健了 by 言归正传
 - [x] 地球第一剑 by 言归正传
@@ -63,7 +62,7 @@ date: 2024-01-01
 - [x] 古董局中局 1：佛头奇案 by 马伯庸
 - [ ] 惊悚乐园 by 三天两觉
 - [ ] 地煞七十二变 by 祭酒
-- [ ]
+- [ ] 这游戏也太真实了 by 晨星LL
 
 ---
 
@@ -71,7 +70,7 @@ date: 2024-01-01
 - [ ] Refactoring UI by Adam Wathan & Steve Schoger
 - [ ] JavaScript 设计模式与开发实践 by 曾探
 - [ ] Fluent React by Tejas Kumar
-- [ ]
+
 
 ### 🎮 游戏
 

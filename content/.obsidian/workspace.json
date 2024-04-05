@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes.md",
+                "file": "Media.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -72,7 +72,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes.md",
+                "file": "Media.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,7 +89,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes.md",
+                "file": "Media.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes.md"
+                "file": "Media.md"
               }
             }
           }
@@ -144,8 +144,8 @@
   },
   "active": "4dc0bff6ebd84db7",
   "lastOpenFiles": [
-    "Media.md",
     "Notes.md",
+    "Media.md",
     "TIL/073 -.md",
     "TIL/072 - tiny-invariant.md",
     "TIL/071 - Remix Dark Mode ❌.md",
