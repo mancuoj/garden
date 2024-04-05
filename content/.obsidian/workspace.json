@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TIL/054 - cva.md",
+                "file": "Notes.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -72,7 +72,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TIL/054 - cva.md",
+                "file": "Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,7 +89,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TIL/054 - cva.md",
+                "file": "Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TIL/054 - cva.md"
+                "file": "Notes.md"
               }
             }
           }
@@ -144,6 +144,10 @@
   },
   "active": "4dc0bff6ebd84db7",
   "lastOpenFiles": [
+    "Questions.md",
+    "Media.md",
+    "index.md",
+    "TIL/054 - cva.md",
     "TIL/051 - RSC ❌.md",
     "TIL/038 - From React to Next.js ❌.md",
     "TIL/021 - Daisy UI.md",
@@ -161,15 +165,11 @@
     "TIL/003 - TS in 5 Minutes.md",
     "TIL/002 - turso.tech.md",
     "TIL/001 - Write a Good Technical Note.md",
-    "Media.md",
     "Notes.md",
     "TIL/073 -.md",
     "TIL/072 - tiny-invariant.md",
     "TIL/071 - Remix Dark Mode ❌.md",
     "Blog/CSS Flexbox 入门.md",
-    "TIL/013 - twMerge.md",
-    "TIL/014 - Git Alias.md",
-    "Blog/React 命名及项目结构规范.md",
     "assets/tempconv.png",
     "assets/squash.png",
     "assets/merge.png",
