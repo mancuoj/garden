@@ -17,7 +17,7 @@ async function clearEmptyParams(url: URL) {
 export async function loader({ request }: LoaderFunctionArgs) {
   const url = new URL(request.url)
   await clearEmptyParams(url)
-
+  
   // ... 其他代码
 }
 ```

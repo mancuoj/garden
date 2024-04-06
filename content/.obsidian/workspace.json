@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blog/Remix 删除 URL 中为空的查询参数.md",
+                "file": "Blog/Remix/Remix.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -72,7 +72,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Blog/Remix 删除 URL 中为空的查询参数.md",
+                "file": "Blog/Remix/Remix.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,7 +89,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Blog/Remix 删除 URL 中为空的查询参数.md",
+                "file": "Blog/Remix/Remix.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Blog/Remix 删除 URL 中为空的查询参数.md"
+                "file": "Blog/Remix/Remix.md"
               }
             }
           }
@@ -144,6 +144,10 @@
   },
   "active": "4dc0bff6ebd84db7",
   "lastOpenFiles": [
+    "Blog/Remix/Remix 删除 URL 中为空的查询参数.md",
+    "Blog/Remix/Remix.md",
+    "Blog/Angular 井号语法.md",
+    "Blog/Remix",
     "Blog/React 文档拾遗.md",
     "Blog/Angular ngDoCheck.md",
     "杂文/React 命名及项目结构规范.md",
@@ -151,7 +155,6 @@
     "杂文/CSS Grid 入门.md",
     "杂文/CSS Flexbox 入门.md",
     "Blog/Angular Getter & Setter.md",
-    "Blog/Angular 井号语法.md",
     "杂文/中文技术文档排版指南.md",
     "杂文",
     "Notes.md",
@@ -169,8 +172,6 @@
     "TIL/010 - Atomic CSS.md",
     "TIL/009 - Conventional Commits.md",
     "TIL/008 - axios.md",
-    "TIL/007 - fly.io.md",
-    "TIL/006 -  You Might Not Need Axios.md",
     "assets/tempconv.png",
     "assets/squash.png",
     "assets/merge.png",
@@ -191,7 +192,6 @@
     "未命名.canvas",
     "未命名 1.canvas",
     "POSTS/Angular",
-    "Nest",
     "Canvas/ideas.canvas"
   ]
 }
