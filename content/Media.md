@@ -71,8 +71,9 @@ date: 2024-01-01
 - [ ] Refactoring UI by Adam Wathan & Steve Schoger
 - [ ] Understanding JavaScript Promises by Nicholas C.Zakas
 - [ ] JavaScript 设计模式与开发实践 by 曾探
+- [ ] 深入浅出 RxJS by 程墨
+- [ ] RxJS in Action by Paul P.Daniels & Luis Atencio
 - [ ] Fluent React by Tejas Kumar
-
 
 ### 🎮 游戏
 
@@ -93,10 +94,11 @@ date: 2024-01-01
 
 > 23 年基本没咋看过电影，今年一定要多看
 
-- 飞驰人生2：反正我看得是挺爽的，尤其后半段，一直赛车一直爽，7/10
-- Friends Season 1 - 24：经典回顾
-- 情圣 1991：无聊，唯一看点是叶子楣的胸 2/10
+- [x] 飞驰人生2
+- [x] 老友记第一季 24 集
+- [ ] 情圣 1991
 
 ### 🌸 动漫
 
 > 我们二次元真是太厉害了（混入
+

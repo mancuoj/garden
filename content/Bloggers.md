@@ -2,13 +2,15 @@
 date: 2024-01-08
 ---
 
-| 大杂烩                                                       | 备注                     |
-| ------------------------------------------------------------ | ------------------------ |
-| [This Week In React](https://thisweekinreact.com/newsletter) | React 你让我哭           |
-| [MDH Weekly 前端周刊](https://mdhweekly.com/weekly)          | 一路追更过来，React 偏多 |
-| [阮一峰的科技爱好者周刊](https://www.ruanyifeng.com/blog/)   |                          |
-| [前端食堂技术周刊](https://github.com/Geekhyt/weekly)        |                          |
-| [Usubeni Fantasy](https://ssshooter.com/)                    |                          |
+| 大杂烩                                                          | 备注              |
+| ------------------------------------------------------------ | --------------- |
+| [This Week In React](https://thisweekinreact.com/newsletter) | React 你让我哭      |
+| [MDH Weekly 前端周刊](https://mdhweekly.com/weekly)              | 一路追更过来，React 偏多 |
+| [阮一峰的科技爱好者周刊](https://www.ruanyifeng.com/blog/)              |                 |
+| [前端食堂技术周刊](https://github.com/Geekhyt/weekly)                | 量大管饱            |
+| [Usubeni Fantasy](https://ssshooter.com/)                    |                 |
+| [Smashing Magazine](https://www.smashingmagazine.com/)       | 经典              |
+| [web.dev](https://web.dev/blog)                              | 传奇              |
 
 | 博客名称                                                      | 备注                             |
 | ------------------------------------------------------------- | -------------------------------- |
@@ -32,14 +34,14 @@ date: 2024-01-08
 | [Maxime Heckel's Blog](https://blog.maximeheckel.com/)        |                                  |
 | [samwho - all posts](https://samwho.dev/blog/)                |                                  |
 
-| 有时间归个类                                                 |                                                                            |                                                                |
+| 有时间归个类                                                       |                                                                            |                                                                |
 | ------------------------------------------------------------ | -------------------------------------------------------------------------- | -------------------------------------------------------------- |
-| [Smashing Magazine](https://www.smashingmagazine.com/)       | [Alex Sidorenko's Blog](https://alexsidorenko.com/)                        | [Developer Way](https://www.developerway.com/posts)            |
+|                                                              | [Alex Sidorenko's Blog](https://alexsidorenko.com/)                        | [Developer Way](https://www.developerway.com/posts)            |
 | [HeyDesigner](https://heydesigner.com/)                      | [Chris Armstrong's Blog](https://www.chrisarmstrong.dev/)                  | [Frontend Mastery's Posts](https://frontendmastery.com/posts/) |
 | [Sidebar](https://sidebar.io/)                               | [OwenGage.com](https://owengage.com/)                                      | [Chak Shun Yu's Blog](https://www.chakshunyu.com/blog/)        |
 | [Frontend Horse](https://frontend.horse/articles/)           | [emilkowal.ski](https://emilkowal.ski/)                                    | [Jonas Galvez's Blog](https://hire.jonasgalvez.com.br/)        |
 | [CSS Weekly](https://css-weekly.com/archives/)               | [Tania Rascia's Blog](https://www.taniarascia.com/blog)                    | [OpenReplay Blog](https://blog.openreplay.com/)                |
-| [web.dev](https://web.dev/blog)                              | [alexkondov's Articles](https://alexkondov.com/articles/)                  | [Rafael Camargo's Blog](https://rafaelcamargo.com/blog/)       |
+|                                                              | [alexkondov's Articles](https://alexkondov.com/articles/)                  | [Rafael Camargo's Blog](https://rafaelcamargo.com/blog/)       |
 | [CSS { In Real Life }](https://css-irl.info/)                | [Fatih's Personal's Blog](https://blog.6nok.org/)                          | [webup.org](https://webup.org/blog/)                           |
 | [Modern CSS Solutions](https://moderncss.dev/)               | [Exploring JS: JavaScript books for programmers](https://exploringjs.com/) | [Matt Rickard's Blog](https://matt-rickard.com/archive)        |
 | [SitePoint](https://www.sitepoint.com/)                      | [Daily Dev Tips](https://daily-dev-tips.com/archive/)                      |                                                                |

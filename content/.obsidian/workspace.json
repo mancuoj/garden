@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Media.md",
+                "file": "index.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -72,7 +72,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Media.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,7 +89,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Media.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Media.md"
+                "file": "index.md"
               }
             }
           }
@@ -144,8 +144,10 @@
   },
   "active": "4dc0bff6ebd84db7",
   "lastOpenFiles": [
-    "index.md",
     "Media.md",
+    "index.md",
+    "Ideas.md",
+    "Bloggers.md",
     "Questions.md",
     "Notes.md",
     "Blog/Remix/Remix.md",
@@ -170,8 +172,6 @@
     "TIL/015 - Oh Shit Git.md",
     "TIL/016 - Bun Test Runner.md",
     "TIL/010 - Atomic CSS.md",
-    "TIL/009 - Conventional Commits.md",
-    "TIL/008 - axios.md",
     "assets/tempconv.png",
     "assets/squash.png",
     "assets/merge.png",
