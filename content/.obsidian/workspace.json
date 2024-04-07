@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes.md",
+                "file": "Media.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -72,7 +72,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes.md",
+                "file": "Media.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,7 +89,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes.md",
+                "file": "Media.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes.md"
+                "file": "Media.md"
               }
             }
           }
@@ -144,6 +144,10 @@
   },
   "active": "4dc0bff6ebd84db7",
   "lastOpenFiles": [
+    "index.md",
+    "Media.md",
+    "Questions.md",
+    "Notes.md",
     "Blog/Remix/Remix.md",
     "Blog/Remix/Remix 删除 URL 中为空的查询参数.md",
     "Blog/Angular 井号语法.md",
@@ -157,10 +161,6 @@
     "Blog/Angular Getter & Setter.md",
     "杂文/中文技术文档排版指南.md",
     "杂文",
-    "Notes.md",
-    "Questions.md",
-    "Media.md",
-    "index.md",
     "TIL/054 - cva.md",
     "TIL/051 - RSC ❌.md",
     "TIL/038 - From React to Next.js ❌.md",

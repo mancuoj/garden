@@ -24,7 +24,6 @@ date: 2024-01-01
 - [ ] 图解 TCP/IP by 竹下隆史 & 村山公保 & 荒井透 & 苅田幸雄
 - [ ] Wireshark 网络分析就这么简单 by 林沛满
 - [ ] Wireshark 网络分析的艺术 by 林沛满
-- [ ] 从斩妖除魔开始长生不死 by 陆月十九
 - [ ] 古董局中局 2：清明上河图之谜 by 马伯庸
 - [ ] 鬼吹灯 by 天下霸唱
 - [ ] 盗墓笔记 by 南派三叔
@@ -63,11 +62,14 @@ date: 2024-01-01
 - [ ] 惊悚乐园 by 三天两觉
 - [ ] 地煞七十二变 by 祭酒
 - [ ] 这游戏也太真实了 by 晨星LL
+- [ ] 道爷要飞升 by 裴屠狗
+- [ ] 从斩妖除魔开始长生不死 by 陆月十九
 
 ---
 
 - [x] Let's Go by Alex Edwards
 - [ ] Refactoring UI by Adam Wathan & Steve Schoger
+- [ ] Understanding JavaScript Promises by Nicholas C.Zakas
 - [ ] JavaScript 设计模式与开发实践 by 曾探
 - [ ] Fluent React by Tejas Kumar
 
