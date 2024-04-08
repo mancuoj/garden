@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Notes.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -72,7 +72,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,7 +89,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "Notes.md"
               }
             }
           }
@@ -145,11 +145,11 @@
   "active": "4dc0bff6ebd84db7",
   "lastOpenFiles": [
     "Media.md",
+    "Notes.md",
+    "Questions.md",
     "index.md",
     "Ideas.md",
     "Bloggers.md",
-    "Questions.md",
-    "Notes.md",
     "Blog/Remix/Remix.md",
     "Blog/Remix/Remix 删除 URL 中为空的查询参数.md",
     "Blog/Angular 井号语法.md",
