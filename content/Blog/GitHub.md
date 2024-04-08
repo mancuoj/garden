@@ -13,6 +13,14 @@ pr 合并 删除分支
 
 本地仓库依旧两个分支，在 main 同步 `git pull` 之后 删除新分支 git branch -d new-feature
 
+`git tag -a v1.0.0 -m "标签信息"` 打标签
+
+`git tag` 查看标签
+
+`git push origin v1.0.0`
+
+release 对应 标签，可以手动生成
+
 
 
 
