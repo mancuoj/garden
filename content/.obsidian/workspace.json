@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blog/GitHub.md",
+                "file": "杂文/一些水水的记录.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Blog/GitHub.md",
+                "file": "杂文/一些水水的记录.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Blog/GitHub.md",
+                "file": "杂文/一些水水的记录.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Blog/GitHub.md"
+                "file": "杂文/一些水水的记录.md"
               }
             }
           }
@@ -158,8 +158,11 @@
   },
   "active": "e1654986a5c36f23",
   "lastOpenFiles": [
+    "assets/Pasted image 20240409001740.png",
+    "assets/Pasted image 20240409001407.png",
+    "assets/Pasted image 20240409001347.png",
     "Blog/Vue2 TodoMVC.md",
-    "Blog/GitHub.md",
+    "杂文/一些水水的记录.md",
     "Blog/React 文档拾遗.md",
     "Blog/Angular 井号语法.md",
     "Notes.md",
@@ -185,7 +188,6 @@
     "TIL/021 - Daisy UI.md",
     "TIL/011 - tsconfig.json.md",
     "TIL/012 - clsx.md",
-    "TIL/015 - Oh Shit Git.md",
     "assets/tempconv.png",
     "assets/squash.png",
     "assets/merge.png",
@@ -194,8 +196,6 @@
     "assets/Pasted image 20240330215706.png",
     "assets/Pasted image 20240330215701.png",
     "assets/nextjs.png",
-    "assets/crud.png",
-    "assets/Pasted image 20240218223759.png",
     "TMPL",
     "TIL/Jan",
     "Untitled",
