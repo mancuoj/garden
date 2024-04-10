@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "杂文/一些水水的记录.md",
+                "file": "Notes.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "杂文/一些水水的记录.md",
+                "file": "Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "杂文/一些水水的记录.md",
+                "file": "Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "杂文/一些水水的记录.md"
+                "file": "Notes.md"
               }
             }
           }
@@ -158,18 +158,18 @@
   },
   "active": "e1654986a5c36f23",
   "lastOpenFiles": [
+    "Media.md",
+    "index.md",
+    "杂文/一些水水的记录.md",
     "assets/Pasted image 20240409002725.png",
     "assets/Pasted image 20240409001740.png",
     "assets/Pasted image 20240409001407.png",
     "assets/Pasted image 20240409001347.png",
     "Blog/Vue2 TodoMVC.md",
-    "杂文/一些水水的记录.md",
     "Blog/React 文档拾遗.md",
     "Blog/Angular 井号语法.md",
     "Notes.md",
-    "Media.md",
     "Questions.md",
-    "index.md",
     "Ideas.md",
     "Bloggers.md",
     "Blog/Remix/Remix.md",
@@ -195,7 +195,6 @@
     "assets/rebase.png",
     "assets/RSC.png",
     "assets/Pasted image 20240330215706.png",
-    "assets/Pasted image 20240330215701.png",
     "TMPL",
     "TIL/Jan",
     "Untitled",
