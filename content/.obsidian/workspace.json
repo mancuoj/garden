@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "杂文/CSS Flexbox 入门.md",
+                "file": "Notes.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -72,7 +72,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "杂文/CSS Flexbox 入门.md",
+                "file": "Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,7 +89,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "杂文/CSS Flexbox 入门.md",
+                "file": "Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "杂文/CSS Flexbox 入门.md"
+                "file": "Notes.md"
               }
             }
           }
@@ -142,11 +142,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "e1654986a5c36f23",
+  "active": "43b6f11314d32c5c",
   "lastOpenFiles": [
+    "index.md",
+    "杂文/CSS Flexbox 入门.md",
     "Notes.md",
     "Media.md",
-    "index.md",
     "杂文/一些水水的记录.md",
     "assets/Pasted image 20240409002725.png",
     "assets/Pasted image 20240409001740.png",
@@ -165,7 +166,6 @@
     "杂文/React 命名及项目结构规范.md",
     "杂文/React + TypeScript 小抄.md",
     "杂文/CSS Grid 入门.md",
-    "杂文/CSS Flexbox 入门.md",
     "Blog/Angular Getter & Setter.md",
     "杂文/中文技术文档排版指南.md",
     "杂文",
