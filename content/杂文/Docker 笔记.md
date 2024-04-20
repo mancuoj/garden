@@ -156,3 +156,67 @@ dig mysql
 # ;; ANSWER SECTION:
 # mysql.                  600     IN      A       172.18.0.2
 ```
+
+Docker Compose 是一种帮助您定义和共享多容器应用程序的工具。使用 Compose，您可以创建一个 YAML 文件来定义服务，只需一个命令，您就可以启动或将其全部拆卸。
+
+```shell
+docker run -d \
+  --network todo-app --network-alias mysql \
+  -v todo-mysql-data:/var/lib/mysql \
+  -e MYSQL_ROOT_PASSWORD=secret \
+  -e MYSQL_DATABASE=todos \
+  mysql:8.0
+
+docker run -dp 127.0.0.1:3000:3000 \
+  -w /app -v "$(pwd):/app" \
+  --network todo-app \
+  -e MYSQL_HOST=mysql \
+  -e MYSQL_USER=root \
+  -e MYSQL_PASSWORD=secret \
+  -e MYSQL_DB=todos \
+  node:18-alpine \
+  sh -c "yarn install && yarn run dev"
+```
+
+compose.yaml
+
+```yaml
+services:
+  app:
+    image: node:18-alpine
+    command: sh -c "yarn install && yarn run dev"
+    ports:
+      - 127.0.0.1:3000:3000
+    working_dir: /app
+    volumes:
+      - ./:/app
+    environment:
+      MYSQL_HOST: mysql
+      MYSQL_USER: root
+      MYSQL_PASSWORD: secret
+      MYSQL_DB: todos
+
+  mysql:
+    image: mysql:8.0
+    volumes:
+      - todo-mysql-data:/var/lib/mysql
+    environment:
+      MYSQL_ROOT_PASSWORD: secret
+      MYSQL_DATABASE: todos
+
+volumes:
+  todo-mysql-data:
+```
+
+
+```shell
+docker compose up -d
+# -d detach 后台运行
+# 会自动创建网络
+
+docker compose down 
+# 删除网络以及容器
+# 删除卷需要加上 --volumes
+
+
+```
