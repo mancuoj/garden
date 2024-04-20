@@ -35,7 +35,8 @@ RUN pnpm run build
 
 # 暴露 3000 端口
 EXPOSE 3000
-ENTRYPOINT ["npm", "start"]
+# 启动后执行的命令，只能有一个
+CMD ["pnpm", "run", "start"]
 ```
 
 ```shell
