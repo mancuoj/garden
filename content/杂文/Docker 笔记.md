@@ -107,7 +107,7 @@ Volumes 卷提供了将容器的特定文件系统路径连接回主机的功能
 
 由于 SQLite 数据库是单个文件，如果可以将该文件保留在主机上并使其可供下一个容器使用，则它应该能够从上一个容器中断的地方继续。通过创建卷并将其附加（通常称为“挂载”）到存储数据的目录，可以保留数据。当容器写入 `todo.db` 文件时，它会将数据保留到卷中的主机。
 
-如前所述，您将使用卷装载。将卷装载视为一个不透明的数据桶。Docker 完全管理卷，包括磁盘上的存储位置。您只需要记住卷的名称。
+如前所述，您将使用卷装载 volume mount。将卷装载视为一个不透明的数据桶。Docker 完全管理卷，包括磁盘上的存储位置。您只需要记住卷的名称。
 
 ```shell
 docker volume create todo-db
@@ -116,7 +116,37 @@ docker rm -f <id>
 
 docker run -dp 127.0.0.1:3000:3000 --mount type=volume,src=todo-db,target=/etc/todos getting-started
 # 存在 /etc/todos/todo.db 中
+
+docker volume inspect todo-db
 ```
 
+bind mount 绑定挂载是另一种类型的挂载，它允许您将主机文件系统中的目录共享到容器中。在处理应用程序时，可以使用绑定挂载将源代码挂载到容器中。一旦你保存文件，容器就会立即看到你对代码所做的更改。这意味着您可以在容器中运行进程来监视文件系统更改并响应它们。
 
+- `type=volume,src=my-volume,target=/usr/local/data`
+- `type=bind,src=/path/to/data,target=/usr/local/data`
 
+```shell
+docker run -it --mount type=bind,src="$(pwd)",target=/src ubuntu bash
+
+docker run -dp 127.0.0.1:3000:3000 \
+    -w /app --mount type=bind,src="$(pwd)",target=/app \
+    node:18-alpine \
+    sh -c "yarn install && yarn run dev"
+```
+
+容器间网络通信
+
+```shell
+docker network create todo-app
+
+docker run -d \
+    --network todo-app --network-alias mysql \
+    -v todo-mysql-data:/var/lib/mysql \
+    -e MYSQL_ROOT_PASSWORD=secret \
+    -e MYSQL_DATABASE=todos \
+    mysql:8.0
+
+# -v 创建 volume
+
+docker exec -it <mysql-container-id> mysql -u root -p
+```
