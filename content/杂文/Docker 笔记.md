@@ -93,7 +93,30 @@ docker push YOUR-USER-NAME/getting-started
 docker run -dp 0.0.0.0:3000:3000 YOUR-USER-NAME/getting-started
 ```
 
+```shell
+# test
+docker run -ti --name=mytest alpine
+# / # echo "hello" > greeting.txt
+# / # exit
+docker run alpine cat greeting.txt
+# docker ps --all
+# docker ps -a -n -l -q -s
+```
 
+Volumes 卷提供了将容器的特定文件系统路径连接回主机的功能。如果在容器中装载目录，则在主机上也会看到该目录中的更改。如果在容器重启时装载同一目录，则会看到相同的文件。
+
+由于 SQLite 数据库是单个文件，如果可以将该文件保留在主机上并使其可供下一个容器使用，则它应该能够从上一个容器中断的地方继续。通过创建卷并将其附加（通常称为“挂载”）到存储数据的目录，可以保留数据。当容器写入 `todo.db` 文件时，它会将数据保留到卷中的主机。
+
+如前所述，您将使用卷装载。将卷装载视为一个不透明的数据桶。Docker 完全管理卷，包括磁盘上的存储位置。您只需要记住卷的名称。
+
+```shell
+docker volume create todo-db
+docker rm -f <id>
+# 删除还在运行的原容器
+
+docker run -dp 127.0.0.1:3000:3000 --mount type=volume,src=todo-db,target=/etc/todos getting-started
+# 存在 /etc/todos/todo.db 中
+```
 
 
 
