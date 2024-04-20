@@ -217,6 +217,15 @@ docker compose up -d
 docker compose down 
 # 删除网络以及容器
 # 删除卷需要加上 --volumes
-
-
 ```
+
+
+[映像构建最佳实践 |Docker 文档 --- Image-building best practices | Docker Docs](https://docs.docker.com/get-started/09_image_best/)
+
+- Image layering
+- Layer caching
+- Multi-staged builds
+- ...
+
+[Dockerfile 参考 |Docker 文档 --- Dockerfile reference | Docker Docs](https://docs.docker.com/reference/dockerfile/)
+
