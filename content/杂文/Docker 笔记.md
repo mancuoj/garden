@@ -1,4 +1,6 @@
 
+## [Docker 入门教程 - 阮一峰的网络日志](https://www.ruanyifeng.com/blog/2018/02/docker-tutorial.html)
+
 ```shell
 docker image ls
 docker image rm [imageName]
@@ -52,4 +54,29 @@ docker container run -p 8000:3000 -it demo /bin/bash
 # /bin/bash 容器启动后执行的第一个命令
 # 可以加上 --rm 在容器终止运行后自动删除容器文件
 ```
+
+## [Containerize an application | Docker Docs](https://docs.docker.com/get-started/02_our_app/)
+
+
+```Dockerfile
+# syntax=docker/dockerfile:1
+
+FROM node:18-alpine
+WORKDIR /app
+COPY . .
+RUN yarn install --production
+CMD ["node", "src/index.js"]
+EXPOSE 3000
+```
+
+```shell
+docker build -t getting-started .
+# -t flag tags your image
+
+docker run -dp 127.0.0.1:3000:3000 getting-started
+# -d --detach 后台运行容器，启动后返回终端
+# -p --public 端口映射
+```
+
+
 
