@@ -134,7 +134,7 @@ docker run -dp 127.0.0.1:3000:3000 \
     sh -c "yarn install && yarn run dev"
 ```
 
-容器间网络通信
+容器间网络通信，如果在同一网络上运行另一个容器，如何找到该容器？请记住，每个容器都有自己的 IP 地址。使用 nicolaka/netshoot 映像启动一个新容器。确保将其连接到同一网络。在容器中，您将使用该 `dig` 命令，这是一个有用的 DNS 工具。您将查找主机名 `mysql` 的 IP 地址。
 
 ```shell
 docker network create todo-app
@@ -149,4 +149,10 @@ docker run -d \
 # -v 创建 volume
 
 docker exec -it <mysql-container-id> mysql -u root -p
+
+docker run -it --network todo-app nicolaka/netshoot
+dig mysql
+# 这里的 mysql 就是 --network-alias 定义的别名
+# ;; ANSWER SECTION:
+# mysql.                  600     IN      A       172.18.0.2
 ```
