@@ -76,7 +76,24 @@ docker build -t getting-started .
 docker run -dp 127.0.0.1:3000:3000 getting-started
 # -d --detach 后台运行容器，启动后返回终端
 # -p --public 端口映射
+
+docker stop <the-container-id>
+docker rm <the-container-id>
+# or just rm -f
 ```
+
+```shell
+# https://hub.docker.com 创建一个 public repo
+
+docker login -u YOUR-USER-NAME
+# or just docker login
+docker images
+docker tag getting-started YOUR-USER-NAME/getting-started
+docker push YOUR-USER-NAME/getting-started
+docker run -dp 0.0.0.0:3000:3000 YOUR-USER-NAME/getting-started
+```
+
+
 
 
 
