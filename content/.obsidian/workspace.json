@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes.md",
+                "file": "杂文/CSS Flexbox 入门.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -28,8 +28,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -81,7 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes.md",
+                "file": "杂文/CSS Flexbox 入门.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes.md",
+                "file": "杂文/CSS Flexbox 入门.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes.md"
+                "file": "杂文/CSS Flexbox 入门.md"
               }
             }
           }
@@ -151,8 +150,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "9ab35f13bd0f180a",
+  "active": "e1654986a5c36f23",
   "lastOpenFiles": [
+    "杂文/2024 Flags.md",
+    "Blog/Angular 井号语法.md",
     "Notes.md",
     "杂文/Blog Ideas❌.md",
     "杂文/Docker 笔记.md",
@@ -167,7 +168,6 @@
     "assets/Pasted image 20240409001347.png",
     "Blog/Vue2 TodoMVC.md",
     "Blog/React 文档拾遗.md",
-    "Blog/Angular 井号语法.md",
     "Questions.md",
     "Ideas.md",
     "Bloggers.md",
@@ -184,7 +184,6 @@
     "TIL/054 - cva.md",
     "TIL/051 - RSC ❌.md",
     "TIL/038 - From React to Next.js ❌.md",
-    "TIL/021 - Daisy UI.md",
     "assets/tempconv.png",
     "assets/squash.png",
     "assets/merge.png",
