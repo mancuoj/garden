@@ -19,8 +19,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9ab35f13bd0f180a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -142,12 +151,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "e1654986a5c36f23",
+  "active": "9ab35f13bd0f180a",
   "lastOpenFiles": [
+    "Notes.md",
     "杂文/Blog Ideas❌.md",
     "杂文/Docker 笔记.md",
     "杂文/CSS Flexbox 入门.md",
-    "Notes.md",
     "TIL/073 -.md",
     "index.md",
     "Media.md",
