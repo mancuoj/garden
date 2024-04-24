@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "杂文/CSS Flexbox 入门.md",
+                "file": "TIL/028 - Java Syntax.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -28,7 +28,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -58,7 +59,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file",
+                "query": "jdk",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -67,7 +68,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "b904ff6d18e068ad",
@@ -80,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "杂文/CSS Flexbox 入门.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "杂文/CSS Flexbox 入门.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +124,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "杂文/CSS Flexbox 入门.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -150,14 +148,15 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "e1654986a5c36f23",
+  "active": "9ab35f13bd0f180a",
   "lastOpenFiles": [
+    "TIL/028 - Java Syntax.md",
+    "杂文/CSS Flexbox 入门.md",
     "杂文/2024 Flags.md",
     "Blog/Angular 井号语法.md",
     "Notes.md",
     "杂文/Blog Ideas❌.md",
     "杂文/Docker 笔记.md",
-    "杂文/CSS Flexbox 入门.md",
     "TIL/073 -.md",
     "index.md",
     "Media.md",
@@ -183,7 +182,6 @@
     "杂文",
     "TIL/054 - cva.md",
     "TIL/051 - RSC ❌.md",
-    "TIL/038 - From React to Next.js ❌.md",
     "assets/tempconv.png",
     "assets/squash.png",
     "assets/merge.png",
