@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "bfe12ae9830951e1",
+        "id": "b9c4442d0cc007c6",
         "type": "tabs",
         "children": [
           {
-            "id": "6179c5c57e62d4b7",
+            "id": "7d0f626586be7259",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -142,11 +142,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "6179c5c57e62d4b7",
+  "active": "43b6f11314d32c5c",
   "lastOpenFiles": [
+    "Notes.md",
     "Media.md",
     "Questions.md",
-    "Notes.md",
     "TIL/028 - Java Syntax.md",
     "杂文/CSS Flexbox 入门.md",
     "杂文/2024 Flags.md",
