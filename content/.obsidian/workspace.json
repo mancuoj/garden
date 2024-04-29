@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b9c4442d0cc007c6",
+        "id": "f3c8e6a4d076cb04",
         "type": "tabs",
         "children": [
           {
-            "id": "7d0f626586be7259",
+            "id": "9f72821ff3ae7218",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Media.md",
+                "file": "TIL/029 - Make PowerShell Great Again.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -50,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "jdk",
+                "query": "powershell",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -59,7 +59,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "b904ff6d18e068ad",
@@ -72,7 +73,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Media.md",
+                "file": "TIL/029 - Make PowerShell Great Again.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,7 +90,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Media.md",
+                "file": "TIL/029 - Make PowerShell Great Again.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Media.md"
+                "file": "TIL/029 - Make PowerShell Great Again.md"
               }
             }
           }
@@ -142,11 +143,17 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "7d0f626586be7259",
+  "active": "9f72821ff3ae7218",
   "lastOpenFiles": [
     "Notes.md",
     "Media.md",
+    "杂文/React + TypeScript 小抄.md",
+    "杂文/CSS Grid 入门.md",
+    "杂文/一些水水的记录.md",
+    "杂文/中文技术文档排版指南.md",
     "Questions.md",
+    "Ideas.md",
+    "Bloggers.md",
     "TIL/028 - Java Syntax.md",
     "杂文/CSS Flexbox 入门.md",
     "杂文/2024 Flags.md",
@@ -155,24 +162,18 @@
     "杂文/Docker 笔记.md",
     "TIL/073 -.md",
     "index.md",
-    "杂文/一些水水的记录.md",
     "assets/Pasted image 20240409002725.png",
     "assets/Pasted image 20240409001740.png",
     "assets/Pasted image 20240409001407.png",
     "assets/Pasted image 20240409001347.png",
     "Blog/Vue2 TodoMVC.md",
     "Blog/React 文档拾遗.md",
-    "Ideas.md",
-    "Bloggers.md",
     "Blog/Remix/Remix.md",
     "Blog/Remix/Remix 删除 URL 中为空的查询参数.md",
     "Blog/Remix",
     "Blog/Angular ngDoCheck.md",
     "杂文/React 命名及项目结构规范.md",
-    "杂文/React + TypeScript 小抄.md",
-    "杂文/CSS Grid 入门.md",
     "Blog/Angular Getter & Setter.md",
-    "杂文/中文技术文档排版指南.md",
     "杂文",
     "TIL/054 - cva.md",
     "TIL/051 - RSC ❌.md",
