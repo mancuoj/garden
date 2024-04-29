@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f3c8e6a4d076cb04",
+        "id": "54517728740f04a8",
         "type": "tabs",
         "children": [
           {
-            "id": "9f72821ff3ae7218",
+            "id": "0dd12e69c442b762",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TIL/029 - Make PowerShell Great Again.md",
+                "file": "Media.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -59,8 +59,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "b904ff6d18e068ad",
@@ -73,7 +72,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TIL/029 - Make PowerShell Great Again.md",
+                "file": "Media.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,7 +89,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TIL/029 - Make PowerShell Great Again.md",
+                "file": "Media.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TIL/029 - Make PowerShell Great Again.md"
+                "file": "Media.md"
               }
             }
           }
@@ -143,15 +142,16 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "9f72821ff3ae7218",
+  "active": "0dd12e69c442b762",
   "lastOpenFiles": [
+    "Questions.md",
     "Notes.md",
     "Media.md",
+    "TIL/029 - Make PowerShell Great Again.md",
     "杂文/React + TypeScript 小抄.md",
     "杂文/CSS Grid 入门.md",
     "杂文/一些水水的记录.md",
     "杂文/中文技术文档排版指南.md",
-    "Questions.md",
     "Ideas.md",
     "Bloggers.md",
     "TIL/028 - Java Syntax.md",
@@ -176,7 +176,6 @@
     "Blog/Angular Getter & Setter.md",
     "杂文",
     "TIL/054 - cva.md",
-    "TIL/051 - RSC ❌.md",
     "assets/tempconv.png",
     "assets/squash.png",
     "assets/merge.png",
