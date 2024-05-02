@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes.md",
+                "file": "TIL/044 - Scoop.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes.md",
+                "file": "TIL/044 - Scoop.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes.md",
+                "file": "TIL/044 - Scoop.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes.md"
+                "file": "TIL/044 - Scoop.md"
               }
             }
           }
@@ -157,38 +157,38 @@
   },
   "active": "0dd12e69c442b762",
   "lastOpenFiles": [
-    "Media.md",
-    "Notes.md",
-    "Questions.md",
-    "TIL/029 - Make PowerShell Great Again.md",
-    "杂文/React + TypeScript 小抄.md",
-    "杂文/CSS Grid 入门.md",
-    "杂文/一些水水的记录.md",
-    "杂文/中文技术文档排版指南.md",
-    "Ideas.md",
+    "TIL/045 - Center a Div.md",
+    "TIL/046 - Update or Die.md",
+    "TIL/056 - JS Generators.md",
+    "TIL/057 - Atuin.md",
+    "TIL/058 - JS Object.md",
+    "TIL/062 - Jotai Core ❌.md",
+    "TIL/068 - Alpine.js.md",
+    "TIL/048 - Jotai ❌.md",
+    "TIL/063 - React Geiger.md",
+    "TIL/064 - co.md",
+    "TIL/065 - Tao of React.md",
+    "TIL/066 - Bulma - Boostrap Alternative.md",
+    "TIL/069 - Optimizing JavaScript.md",
+    "TIL/070 - GitHub Merge Methods.md",
+    "TIL/071 - Remix Dark Mode ❌.md",
+    "TIL/072 - tiny-invariant.md",
+    "TIL/059 - JS Closure.md",
+    "TIL/052 - React Docs Effect ❌.md",
+    "TIL/053 - JS Class and Prototype.md",
+    "TIL/049 - package.json.md",
+    "TIL/041 - JDK Version.md",
+    "TIL/040 - Install Go in WSL2.md",
+    "TIL/038 - From React to Next.js ❌.md",
+    "TIL/001 - Write a Good Technical Note.md",
     "Bloggers.md",
-    "TIL/028 - Java Syntax.md",
-    "杂文/CSS Flexbox 入门.md",
-    "杂文/2024 Flags.md",
-    "Blog/Angular 井号语法.md",
-    "杂文/Blog Ideas❌.md",
-    "杂文/Docker 笔记.md",
-    "TIL/073 -.md",
-    "index.md",
+    "Ideas.md",
     "assets/Pasted image 20240409002725.png",
     "assets/Pasted image 20240409001740.png",
     "assets/Pasted image 20240409001407.png",
     "assets/Pasted image 20240409001347.png",
-    "Blog/Vue2 TodoMVC.md",
-    "Blog/React 文档拾遗.md",
-    "Blog/Remix/Remix.md",
-    "Blog/Remix/Remix 删除 URL 中为空的查询参数.md",
     "Blog/Remix",
-    "Blog/Angular ngDoCheck.md",
-    "杂文/React 命名及项目结构规范.md",
-    "Blog/Angular Getter & Setter.md",
     "杂文",
-    "TIL/054 - cva.md",
     "assets/tempconv.png",
     "assets/squash.png",
     "assets/merge.png",
