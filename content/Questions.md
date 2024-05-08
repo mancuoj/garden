@@ -21,3 +21,7 @@ date: 2024-03-25
 ## CSR SSR SSG RSC
 
 ## Remix vs NextJS
+
+## View Transitions API 原理
+
+
