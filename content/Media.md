@@ -40,6 +40,8 @@ date: 2024-01-01
 - [ ] 我与地坛 by 史铁生
 - [ ] 十八岁出门远行 by 余华
 - [ ] 我的阿勒泰 by 李娟
+- [ ] 羊道春牧场 by 李娟
+- [ ] 
 
 ---
 
@@ -74,7 +76,6 @@ date: 2024-01-01
 - [ ] Angular Up & Running by Shyam Seshadri
 - [ ] Angular Development with TypeScript by Yakov Fain & Anton Moiseev
 - [ ] Testing Angular Applications by Jesse Palmer & Corinna Cohn & Mike Giambalvo & Craig Nishina
-- [ ] 羊道春牧场 by 李娟
 
 ### 🎮 游戏
 
